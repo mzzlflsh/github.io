@@ -77,7 +77,7 @@ A1;word;Числа;teine;второй, другой;second, other;Ma elan teisel
 A1;word;Числа;kolmas;третий;third;Täna on kolmas mai. — Сегодня третье мая.;;
 A1;word;Числа;pool;половина;half;Kell on pool kaks. — Половина второго. • Pool leiba, palun. — Полбуханки хлеба, пожалуйста.;Время: pool kaks — половина второго (1:30);
 A1;word;Числа;number;номер, число;number;Mis on sinu telefoninumber? — Какой у тебя номер телефона?;;
-A1;word;Время;aeg;время;time;Mul pole aega. — У меня нет времени. • Mis ajal sa tuled? — В какое время ты придёшь?;Формы: aja (чей?), aega (что?);
+A1;word;Время;aeg;время;time;Mul pole aega. — У меня нет времени. • Mis ajal sa tuled? — В какое время ты придёшь?;Формы: aja — mis ajal? (в какое время?), aega — mul pole aega (нет времени);
 A1;word;Время;päev;день;day;Head päeva! — Хорошего дня!;;
 A1;word;Время;öö;ночь;night;Head ööd! — Спокойной ночи!;;
 A1;word;Время;hommik;утро;morning;Hommik on külm. — Утро холодное.;;
@@ -1300,7 +1300,7 @@ B2;word;Наука и технологии;teadlane;учёный;scientist;Teadl
 B2;word;Наука и технологии;katse;опыт, эксперимент / попытка;experiment / attempt;Esimene katse ebaõnnestus. — Первая попытка не удалась.;;
 B2;word;Наука и технологии;hüpotees;гипотеза;hypothesis;Hüpotees leidis kinnitust. — Гипотеза подтвердилась.;;
 B2;word;Наука и технологии;avastus;открытие;discovery;See oli suur avastus. — Это было большое открытие.;;
-B2;word;Наука и технологии;leiutis;изобретение;invention;Skype on Eesti leiutis. — Skype — эстонское изобретение.;;
+B2;word;Наука и технологии;leiutis;изобретение;invention;Telefon on väga kasulik leiutis. — Телефон — очень полезное изобретение.;;
 B2;word;Наука и технологии;leiutama;изобретать;to invent;Kes leiutas telefoni? — Кто изобрёл телефон?;ma leiutan — я изобретаю;
 B2;word;Наука и технологии;tehisintellekt;искусственный интеллект;artificial intelligence;Tehisintellekt muudab tööturgu. — Искусственный интеллект меняет рынок труда.;Состоит из: tehis- (искусственный) + intellekt (интеллект);
 B2;word;Наука и технологии;automatiseerimine;автоматизация;automation;Automatiseerimine säästab aega. — Автоматизация экономит время.;;
@@ -1375,9 +1375,9 @@ B2;phrase;Пословицы и идиомы;parem varblane peos kui tuvi katuse
 B2;phrase;Пословицы и идиомы;kes teisele auku kaevab, see ise sisse kukub;не рой другому яму, сам в неё попадёшь;he who digs a pit for others falls into it himself;Kes teisele auku kaevab, see ise sisse kukub. — Не рой другому яму — сам в неё попадёшь.;Пословица;
 B2;phrase;Пословицы и идиомы;rääkimine hõbe, vaikimine kuld;слово — серебро, молчание — золото;speech is silver, silence is golden;Mõnikord on rääkimine hõbe, vaikimine kuld. — Иногда слово — серебро, а молчание — золото.;Пословица;
 B2;phrase;Пословицы и идиомы;tasa sõuad, kaugele jõuad;тише едешь — дальше будешь;slow and steady wins the race;Ära kiirusta, tasa sõuad, kaugele jõuad. — Не спеши: тише едешь — дальше будешь.;Пословица;
-B2;phrase;Пословицы и идиомы;iga algus on raske;лиха беда начало;every beginning is hard;Ära muretse, iga algus on raske. — Не волнуйся, начало всегда трудное.;Пословица;
+B2;phrase;Пословицы и идиомы;iga algus on raske;каждое начало трудно (≈ лиха беда начало);every beginning is hard;Ära muretse, iga algus on raske. — Не волнуйся, начало всегда трудное.;Пословица;
 B2;phrase;Пословицы и идиомы;aeg on raha;время — деньги;time is money;Kiirusta, aeg on raha! — Поторопись, время — деньги!;Пословица;
-B2;phrase;Пословицы и идиомы;kes ees, see mees;кто первый встал, того и тапки;first come, first served;Kohti on vähe, kes ees, see mees. — Мест мало, кто первый — тот и получит.;Пословица;
+B2;phrase;Пословицы и идиомы;kes ees, see mees;кто первый, тот и получает (≈ кто первый встал, того и тапки);first come, first served;Kohti on vähe, kes ees, see mees. — Мест мало, кто первый — тот и получит.;Пословица;
 B2;sentence;Общество и государство;Iga kodaniku kohus on maksta makse.;Обязанность каждого гражданина — платить налоги.;It's every citizen's duty to pay taxes.;;;
 B2;sentence;Общество и государство;Valitsus lubas toetusi suurendada.;Правительство пообещало увеличить пособия.;The government promised to increase benefits.;;;
 B2;sentence;Общество и государство;Rahvastiku vananemine on suur väljakutse.;Старение населения — большой вызов.;Population ageing is a major challenge.;;;
@@ -1426,12 +1426,12 @@ A1;word;Местоимения;talle;ему, ей;to him, to her;Ütle talle ter
 A1;word;Местоимения;meile;нам;to us;Tule meile külla! — Приходи к нам в гости! • Meile meeldib Tallinn. — Нам нравится Таллин.;Форма «кому?» от meie;
 A1;word;Местоимения;teile;вам;to you (plural, polite);Kas teile meeldib? — Вам нравится? • Ma saadan teile kirja. — Я отправлю вам письмо.;Форма «кому?» от teie;
 A1;word;Местоимения;neile;им;to them;Ma kirjutan neile. — Я им напишу. • Neile meeldib jalgpall. — Им нравится футбол.;Форма «кому?» от nemad;
-A1;word;Местоимения;mul;у меня;I have (lit. at me);Mul on kass. — У меня есть кошка. • Mul ei ole aega. — У меня нет времени.;Краткая форма от minul. Mul on — у меня есть;
-A1;word;Местоимения;sul;у тебя;you have (lit. at you);Kas sul on aega? — У тебя есть время? • Kuidas sul läheb? — Как у тебя дела?;Краткая форма от sinul;
-A1;word;Местоимения;tal;у него, у неё;he has, she has;Tal on kaks last. — У неё двое детей. • Tal on täna sünnipäev. — У него сегодня день рождения.;Краткая форма от temal;
-A1;word;Местоимения;meil;у нас;we have (lit. at us);Meil on uus korter. — У нас новая квартира. • Meil on külm. — Нам холодно.;Форма «у кого?» от meie. Также meil — имейл (разг.);meil (у нас)
-A1;word;Местоимения;teil;у вас;you have (plural, polite);Kuidas teil läheb? — Как у вас дела? • Kas teil on vaba laud? — У вас есть свободный столик?;Форма «у кого?» от teie;
-A1;word;Местоимения;neil;у них;they have;Neil on suur maja. — У них большой дом. • Neil ei ole autot. — У них нет машины.;Форма «у кого?» от nemad;
+A1;word;Местоимения;mul;у меня;at me (mul on — I have);Mul on kass. — У меня есть кошка. • Mul ei ole aega. — У меня нет времени.;Краткая форма от minul. Mul on — у меня есть;
+A1;word;Местоимения;sul;у тебя;at you (sul on — you have);Kas sul on aega? — У тебя есть время? • Kuidas sul läheb? — Как у тебя дела?;Краткая форма от sinul;
+A1;word;Местоимения;tal;у него, у неё;at him, at her (tal on — he/she has);Tal on kaks last. — У неё двое детей. • Tal on täna sünnipäev. — У него сегодня день рождения.;Краткая форма от temal;
+A1;word;Местоимения;meil;у нас;at us (meil on — we have);Meil on uus korter. — У нас новая квартира. • Meil on külm. — Нам холодно.;Форма «у кого?» от meie. Также meil — имейл (разг.);meil (у нас)
+A1;word;Местоимения;teil;у вас;at you (teil on — you have, plural/polite);Kuidas teil läheb? — Как у вас дела? • Kas teil on vaba laud? — У вас есть свободный столик?;Форма «у кого?» от teie;
+A1;word;Местоимения;neil;у них;at them (neil on — they have);Neil on suur maja. — У них большой дом. • Neil ei ole autot. — У них нет машины.;Форма «у кого?» от nemad;
 A1;word;Местоимения;minuga;со мной;with me;Tule minuga! — Пойдём со мной! • Räägi minuga eesti keeles. — Говори со мной по-эстонски.;Форма «с кем?» от mina;
 A1;word;Местоимения;sinuga;с тобой;with you;Ma tahan sinuga rääkida. — Я хочу с тобой поговорить. • Kas ma võin sinuga tulla? — Можно мне пойти с тобой?;Форма «с кем?» от sina;
 A1;word;Местоимения;temaga;с ним, с ней;with him, with her;Ma räägin temaga homme. — Я поговорю с ним завтра. • Ma töötan temaga koos. — Я работаю вместе с ней.;Форма «с кем?» от tema;
@@ -1574,7 +1574,7 @@ A1;word;Числа;seitsesada;семьсот;seven hundred;Laagris oli seitsesad
 A1;word;Числа;kaheksasada;восемьсот;eight hundred;Lennuk lendab kaheksasada kilomeetrit tunnis. — Самолёт летит восемьсот километров в час.;;
 A1;word;Числа;üheksasada;девятьсот;nine hundred;Raamatus on üheksasada lehekülge. — В книге девятьсот страниц.;;
 A1;word;Числа;miljon;миллион;million;Eestis elab umbes 1,3 miljonit inimest. — В Эстонии живёт около 1,3 миллиона человек.;;
-A1;word;Числа;miljard;миллиард;billion;Maailmas on üle kaheksa miljardi inimese. — В мире более восьми миллиардов людей.;;
+A2;word;Числа;miljard;миллиард;billion;Maailmas on üle kaheksa miljardi inimese. — В мире более восьми миллиардов людей.;;
 A1;word;Числа;neljas;четвёртый;fourth;Ma elan neljandal korrusel. — Я живу на четвёртом этаже.;;
 A1;word;Числа;viies;пятый;fifth;Täna on viies juuni. — Сегодня пятое июня.;;
 A1;word;Числа;kuues;шестой;sixth;Ta käib kuuendas klassis. — Он учится в шестом классе.;;
@@ -1611,7 +1611,7 @@ A1;word;Дом;õu;двор;yard;Lapsed mängivad õues. — Дети играю
 A1;word;Дом;lina;простыня / лён;sheet / linen;Voodil on puhas lina. — На кровати чистая простыня.;;
 A1;word;Дом;lukk;замок (дверной);lock;Uksel on uus lukk. — На двери новый замок.;;
 A1;word;Дом;ruum;помещение, место;room, space;See ruum on väga suur. — Это помещение очень большое.;;
-A1;word;Дом;tuli;огонь / свет;fire / light;Pane tuli põlema. — Включи свет.;;
+A1;word;Дом;tuli;огонь / свет;fire / light;Pane tuli põlema. — Включи свет. • Ära mängi tulega! — Не играй с огнём!;;
 A1;word;Город;pealinn;столица;capital (city);Tallinn on Eesti pealinn. — Таллинн — столица Эстонии.;Состоит из: pea (голова, главный) + linn (город);
 A1;word;Город;puiestee;бульвар, аллея;avenue, boulevard;Me jalutame Mere puiesteel. — Мы гуляем по бульвару Мере.;;
 A1;word;Город;vald;волость (сельская община);rural municipality;Ma elan Harku vallas. — Я живу в волости Харку.;;
@@ -2972,7 +2972,7 @@ A1;word;Время;veerandtund;четверть часа;quarter of an hour;Buss
 A1;word;Время;hommikuti;по утрам;in the mornings;Hommikuti joon kohvi. — По утрам я пью кофе.;;
 A1;word;Время;õhtuti;по вечерам;in the evenings;Õhtuti loen raamatuid. — По вечерам я читаю книги.;;
 A1;word;Время;päeviti;днём (обычно);during the day (usually);Päeviti olen tööl. — Днём я на работе.;;
-A1;word;Время;öösiti;по ночам;at night (usually);Öösiti ma magan halvasti. — По ночам я плохо сплю.;;
+A2;word;Время и календарь;öösiti;по ночам;at night (usually);Öösiti ma magan halvasti. — По ночам я плохо сплю.;;
 A1;word;Время;tagasi;назад (о времени: ... тому назад);ago;See oli kaks aastat tagasi. — Это было два года назад.;;tagasi (время)
 A1;word;Дом;sahtel;ящик (выдвижной);drawer;Lusikad on sahtlis. — Ложки в ящике.;;
 A1;word;Дом;vaip;ковёр;carpet, rug;Põrandal on vaip. — На полу ковёр.;;
@@ -3228,7 +3228,6 @@ A1;phrase;Общение;eesti keeles;по-эстонски;in Estonian;Kuidas s
 A1;phrase;Общение;vene keeles;по-русски;in Russian;Kas see on ka vene keeles olemas? — Это есть и на русском?;;
 A1;phrase;Общение;inglise keeles;по-английски;in English;Kas teil on menüü inglise keeles? — У вас есть меню на английском?;;
 A1;phrase;Общение;natuke eesti keelt;немного по-эстонски;a little Estonian;Ma räägin natuke eesti keelt. — Я немного говорю по-эстонски.;;
-A1;phrase;Общение;oota natuke;подожди немного;wait a bit;Oota natuke, ma tulen kohe. — Подожди немного, я сейчас приду.;;
 A1;phrase;Вопросы;mis juhtus;что случилось;what happened;Mis juhtus? Miks sa nutad? — Что случилось? Почему ты плачешь?;;
 A1;phrase;Вопросы;kes see on;кто это;who is this;Kes see on? See on minu vend. — Кто это? Это мой брат.;;
 A1;phrase;Вопросы;kui vana;сколько лет;how old;Kui vana su poeg on? — Сколько лет твоему сыну? • Kui vana sa oled? — Сколько тебе лет?;;
@@ -3340,12 +3339,8 @@ A2;phrase;Связки;nii ... kui ka;как ... так и;both ... and;Nii laps
 A2;phrase;Связки;ei ... ega;ни ... ни;neither ... nor;Ma ei joo kohvi ega teed. — Я не пью ни кофе, ни чая.;;
 A2;phrase;Связки;pealegi;к тому же;besides;Pealegi on täna pühapäev. — К тому же сегодня воскресенье.;;
 A2;phrase;Связки;igatahes;во всяком случае;anyway;Igatahes aitäh! — Во всяком случае, спасибо!;;
-A2;phrase;Выражения и поговорки;mul on hea meel;я рад;I'm glad;Mul on hea meel sind näha. — Я рад тебя видеть.;;
 A2;phrase;Выражения и поговорки;mul on kahju;мне жаль;I'm sorry;Mul on väga kahju. — Мне очень жаль.;;
-A2;phrase;Выражения и поговорки;mul on igav;мне скучно;I'm bored;Mul on kodus igav. — Мне скучно дома.;;
-A2;phrase;Выражения и поговорки;mul on janu;я хочу пить;I'm thirsty;Mul on janu, kas sul on vett? — Я хочу пить, у тебя есть вода?;;
 A2;phrase;Выражения и поговорки;mul on uni;я хочу спать;I'm sleepy;Mul on juba uni. — Я уже хочу спать.;;
-A2;phrase;Выражения и поговорки;mul on palav;мне жарко;I'm hot;Mul on selles jopes palav. — Мне жарко в этой куртке.;;
 A2;phrase;Выражения и поговорки;mul on vaja;мне нужно;I need;Mul on vaja abi. — Мне нужна помощь.;;
 A2;phrase;Выражения и поговорки;mul on aega;у меня есть время;I have time;Kas sul on täna aega? — У тебя сегодня есть время?;;
 A2;phrase;Выражения и поговорки;mul vedas;мне повезло;I was lucky;Mul vedas, buss tuli kohe. — Мне повезло, автобус пришёл сразу.;;
