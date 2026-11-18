@@ -824,7 +824,7 @@ B1;word;Общество и государство;kodakondsus;гражданс�
 B1;word;Общество и государство;elanik;житель;resident, inhabitant;Tallinnas on umbes 450 000 elanikku. — В Таллинне около 450 000 жителей.;;;
 B1;word;Общество и государство;elamisluba;вид на жительство;residence permit;Mul on elamisluba. — У меня есть вид на жительство.;Состоит из: elamine (проживание) + luba (разрешение);;
 B1;word;Общество и государство;isikukood;личный код;personal identification code;Kirjutage oma isikukood. — Напишите свой личный код.;Состоит из: isik (личность) + kood (код);;
-B1;word;Общество и государство;ametnik;чиновник, служащий;official, civil servant;Ametnik vaatas dokumendid üle. — Чиновник проверил документы.;;;
+B1;word;Общество и государство;ametnik;чиновник, служащий;official, civil servant;Ametnik vaatas dokumendid üle. — Чиновник проверил документы.;;;b1-noun-suffixes
 B1;word;Общество и государство;avaldus;заявление;application;Kirjutage avaldus. — Напишите заявление.;;;
 B1;word;Общество и государство;maks;налог;tax;Maksud on kõrged. — Налоги высокие.;Также: печень;;
 B1;word;Общество и государство;pension;пенсия;pension;Vanaisa saab pensioni. — Дедушка получает пенсию.;;;
@@ -837,7 +837,7 @@ B1;word;Работа и деньги;töökoht;рабочее место;job, wo
 B1;word;Работа и деньги;tööandja;работодатель;employer;Tööandja maksab palka. — Работодатель платит зарплату.;Состоит из: töö (работа) + andja (тот, кто даёт);;
 B1;word;Работа и деньги;töötaja;работник, сотрудник;employee;Firmas on sada töötajat. — В фирме сто сотрудников.;;;
 B1;word;Работа и деньги;töötu;безработный;unemployed;Ta on praegu töötu. — Он сейчас безработный.;;;a2-word-formation
-B1;word;Работа и деньги;kogemus;опыт;experience;Mul on töökogemus. — У меня есть опыт работы.;;;
+B1;word;Работа и деньги;kogemus;опыт;experience;Mul on töökogemus. — У меня есть опыт работы.;;;b1-noun-suffixes
 B1;word;Работа и деньги;oskus;навык, умение;skill;Keeleoskus on tähtis oskus. — Знание языка — важный навык.;;;
 B1;word;Работа и деньги;haridus;образование;education;Haridus on tasuta. — Образование бесплатное.;;;
 B1;word;Работа и деньги;eelarve;бюджет;budget;Pere eelarve on väike. — Семейный бюджет маленький.;Состоит из: eel- (пред-) + arve (счёт, расчёт);;
@@ -850,9 +850,9 @@ B1;word;Работа и деньги;projekt;проект;project;Projekt on val
 B1;word;Работа и деньги;tähtaeg;срок;deadline;Tähtaeg on reedel. — Срок — в пятницу.;Состоит из: täht (звезда, важный) + aeg (время);;
 B1;word;Работа и деньги;ülesanne;задача, задание;task;See on raske ülesanne. — Это трудное задание.;От üles andma — задать: üles (вверх) + andma (давать);;
 B1;word;Работа и деньги;eesmärk;цель;goal, aim;Minu eesmärk on õppida eesti keelt. — Моя цель — выучить эстонский.;Состоит из: ees (впереди) + märk (знак, мишень);;
-B1;word;Работа и деньги;tulemus;результат;result;Tulemus on hea. — Результат хороший.;;;
+B1;word;Работа и деньги;tulemus;результат;result;Tulemus on hea. — Результат хороший.;;;b1-noun-suffixes
 B1;word;Работа и деньги;otsus;решение;decision;See on õige otsus. — Это правильное решение.;;;
-B1;word;Работа и деньги;lahendus;решение (проблемы);solution;Leidsime lahenduse. — Мы нашли решение.;;;
+B1;word;Работа и деньги;lahendus;решение (проблемы);solution;Leidsime lahenduse. — Мы нашли решение.;;;b1-noun-suffixes
 B1;word;Работа и деньги;probleem;проблема;problem;Pole probleemi! — Без проблем!;;;
 B1;word;Работа и деньги;võimalus;возможность;opportunity, possibility;See on hea võimalus. — Это хорошая возможность.;;;
 B1;word;Работа и деньги;plaan;план;plan;Mis on sinu plaan? — Какой у тебя план?;;;
@@ -881,29 +881,29 @@ B1;word;Действия;arutama;обсуждать;to discuss;Arutame seda homm
 B1;word;Действия;soovitama;советовать, рекомендовать;to recommend;Mida te soovitate? — Что вы посоветуете?;;;
 B1;word;Действия;lubama;разрешать, обещать;to allow, to promise;Ma luban tulla. — Я обещаю прийти.;;;
 B1;word;Действия;keelama;запрещать;to forbid;Ema keelas mul minna. — Мама запретила мне идти.;;;
-B1;word;Действия;nõustuma;соглашаться;to agree;Ma nõustun sinuga. — Я соглашаюсь с тобой.;;;
-B1;word;Действия;keelduma;отказываться;to refuse;Ta keeldus abist. — Он отказался от помощи.;;;
-B1;word;Действия;uskuma;верить;to believe;Ma ei usu seda. — Я в это не верю.;;;
+B1;word;Действия;nõustuma;соглашаться;to agree;Ma nõustun sinuga. — Я соглашаюсь с тобой.;;;b1-government
+B1;word;Действия;keelduma;отказываться;to refuse;Ta keeldus abist. — Он отказался от помощи.;;;b1-government
+B1;word;Действия;uskuma;верить;to believe;Ma ei usu seda. — Я в это не верю.;;;b1-government
 B1;word;Действия;lootma;надеяться;to hope;Ma loodan, et sa tuled. — Я надеюсь, что ты придёшь.;;;
 B1;word;Действия;kartma;бояться;to be afraid;Laps kardab koera. — Ребёнок боится собаки.;;;
-B1;word;Действия;muretsema;беспокоиться;to worry;Ära muretse! — Не волнуйся!;;;
+B1;word;Действия;muretsema;беспокоиться;to worry;Ära muretse! — Не волнуйся!;;;b1-government
 B1;word;Действия;kahetsema;сожалеть;to regret;Ma kahetsen seda. — Я об этом жалею.;;;
 B1;word;Действия;märkama;замечать;to notice;Ma ei märganud sind. — Я тебя не заметил.;;;
 B1;word;Действия;mõistma;понимать, осознавать;to understand;Ma mõistan sind. — Я тебя понимаю.;;;
 B1;word;Действия;kasutama;использовать;to use;Kas ma võin su telefoni kasutada? — Можно воспользоваться твоим телефоном?;;;
 B1;word;Действия;vajama;нуждаться;to need;Ma vajan puhkust. — Мне нужен отдых.;;;
 B1;word;Действия;sobima;подходить;to suit, to fit;Kas see aeg sobib? — Это время подходит?;;;
-B1;word;Действия;kuuluma;принадлежать;to belong;See raamat kuulub mulle. — Эта книга принадлежит мне.;;;
-B1;word;Действия;sõltuma;зависеть;to depend;See sõltub ilmast. — Это зависит от погоды.;;;
-B1;word;Действия;muutma;менять, изменять;to change;Ma muutsin plaani. — Я изменил план.;;;
-B1;word;Действия;muutuma;меняться, становиться;to change, to become;Ilm muutub. — Погода меняется.;;;
-B1;word;Действия;arenema;развиваться;to develop;Laps areneb kiiresti. — Ребёнок быстро развивается.;;;
-B1;word;Действия;kasvama;расти;to grow;Lilled kasvavad. — Цветы растут.;;;
+B1;word;Действия;kuuluma;принадлежать;to belong;See raamat kuulub mulle. — Эта книга принадлежит мне.;;;b1-government
+B1;word;Действия;sõltuma;зависеть;to depend;See sõltub ilmast. — Это зависит от погоды.;;;b1-government
+B1;word;Действия;muutma;менять, изменять;to change;Ma muutsin plaani. — Я изменил план.;;;b1-verb-pairs
+B1;word;Действия;muutuma;меняться, становиться;to change, to become;Ilm muutub. — Погода меняется.;;;b1-verb-pairs
+B1;word;Действия;arenema;развиваться;to develop;Laps areneb kiiresti. — Ребёнок быстро развивается.;;;b1-verb-pairs
+B1;word;Действия;kasvama;расти;to grow;Lilled kasvavad. — Цветы растут.;;;b1-verb-pairs
 B1;word;Действия;juhtima;руководить, управлять;to lead, to manage;Ta juhib firmat. — Он руководит фирмой.;;;
 B1;word;Действия;korraldama;организовывать;to organise;Me korraldame peo. — Мы организуем вечеринку.;;;
-B1;word;Действия;osalema;участвовать;to take part;Ma osalen konkursil. — Я участвую в конкурсе.;;;
+B1;word;Действия;osalema;участвовать;to take part;Ma osalen konkursil. — Я участвую в конкурсе.;;;b1-government
 B1;word;Действия;ehitama;строить;to build;Nad ehitavad maja. — Они строят дом.;;;
-B1;word;Действия;parandama;чинить, исправлять;to repair, to correct;Ta parandab autot. — Он чинит машину.;;;
+B1;word;Действия;parandama;чинить, исправлять;to repair, to correct;Ta parandab autot. — Он чинит машину.;;;b1-verb-pairs
 B1;word;Действия;kolima;переезжать;to move (house);Me kolime uude korterisse. — Мы переезжаем в новую квартиру.;;;
 B1;word;Действия;üürima;снимать, сдавать (жильё);to rent;Ma üürin korterit. — Я снимаю квартиру.;;;
 B1;word;Действия;säästma;экономить, копить;to save;Ma säästan raha. — Я экономлю деньги.;;;
@@ -914,17 +914,17 @@ B1;word;Действия;allkirjastama;подписывать;to sign;Allkirjast
 B1;word;Действия;registreeruma;регистрироваться;to register;Registreeru kursusele. — Зарегистрируйся на курс.;;;
 B1;word;Действия;kontrollima;проверять;to check;Kontrolli oma vastust. — Проверь свой ответ.;;;
 B1;word;Действия;õnnestuma;удаваться;to succeed;Kõik õnnestus! — Всё удалось!;;;
-B1;word;Действия;harjuma;привыкать;to get used to;Ma harjusin külmaga. — Я привык к холоду.;;;
-B1;word;Действия;tutvuma;знакомиться;to get acquainted;Me tutvusime Tallinnas. — Мы познакомились в Таллинне.;;;
-B1;word;Действия;kohanema;приспосабливаться;to adapt;Ta kohanes kiiresti. — Он быстро адаптировался.;;;
+B1;word;Действия;harjuma;привыкать;to get used to;Ma harjusin külmaga. — Я привык к холоду.;;;a2-government
+B1;word;Действия;tutvuma;знакомиться;to get acquainted;Me tutvusime Tallinnas. — Мы познакомились в Таллинне.;;;b1-government
+B1;word;Действия;kohanema;приспосабливаться;to adapt;Ta kohanes kiiresti. — Он быстро адаптировался.;;;b1-government
 B1;word;Действия;unistama;мечтать;to dream;Ma unistan reisist. — Я мечтаю о путешествии.;;;
 B1;word;Действия;saavutama;достигать;to achieve;Ta saavutas oma eesmärgi. — Он достиг своей цели.;;;
 B1;word;Действия;vältima;избегать;to avoid;Väldi suhkrut. — Избегай сахара.;;;
 B1;word;Действия;toetama;поддерживать;to support;Ma toetan sind. — Я тебя поддерживаю.;;;
 B1;word;Действия;mõjutama;влиять;to influence;Ilm mõjutab meeleolu. — Погода влияет на настроение.;;;
 B1;word;Действия;tähendama;значить, означать;to mean;Mida see tähendab? — Что это значит?;;;
-B1;word;Действия;tekkima;возникать;to arise, to appear;Tekkis probleem. — Возникла проблема.;;;
-B1;word;Действия;kaduma;исчезать, пропадать;to disappear, to get lost;Mu kass kadus ära. — Моя кошка пропала.;;;
+B1;word;Действия;tekkima;возникать;to arise, to appear;Tekkis probleem. — Возникла проблема.;;;b1-verb-pairs
+B1;word;Действия;kaduma;исчезать, пропадать;to disappear, to get lost;Mu kass kadus ära. — Моя кошка пропала.;;;b1-verb-pairs
 B1;word;Действия;puuduma;отсутствовать, не хватать;to be missing, to be absent;Täna puudub kaks õpilast. — Сегодня отсутствуют два ученика.;;;
 B1;word;Описание;tähtis;важный;important;See on väga tähtis. — Это очень важно.;;;
 B1;word;Описание;oluline;существенный, важный;essential, important;See on oluline küsimus. — Это существенный вопрос.;;;
@@ -938,11 +938,11 @@ B1;word;Описание;sarnane;похожий;similar;Nad on väga sarnased. �
 B1;word;Описание;erinev;разный, отличающийся;different;Meil on erinevad arvamused. — У нас разные мнения.;;;
 B1;word;Описание;kindel;уверенный, надёжный;sure, certain, reliable;Kas sa oled kindel? — Ты уверен?;;;
 B1;word;Описание;ohtlik;опасный;dangerous;See on ohtlik. — Это опасно.;;;
-B1;word;Описание;ohutu;безопасный;safe;Siin on ohutu ujuda. — Здесь безопасно плавать.;;;
+B1;word;Описание;ohutu;безопасный;safe;Siin on ohutu ujuda. — Здесь безопасно плавать.;;;b1-adjective-suffixes
 B1;word;Описание;mugav;удобный;comfortable, convenient;Diivan on mugav. — Диван удобный.;;;
 B1;word;Описание;rahulik;спокойный;calm;Ta on rahulik inimene. — Он спокойный человек.;;;
 B1;word;Описание;närviline;нервный;nervous;Ma olen enne eksamit närviline. — Я нервничаю перед экзаменом.;;;
-B1;word;Описание;edukas;успешный;successful;Ta on edukas ärimees. — Он успешный бизнесмен.;;;
+B1;word;Описание;edukas;успешный;successful;Ta on edukas ärimees. — Он успешный бизнесмен.;;;b1-adjective-suffixes
 B1;word;Описание;aus;честный;honest;Ole aus! — Будь честен!;;;
 B1;word;Описание;avalik;общественный, публичный;public;See on avalik koht. — Это общественное место.;;;
 B1;word;Описание;isiklik;личный;personal;See on isiklik küsimus. — Это личный вопрос.;;;
@@ -954,14 +954,14 @@ B1;word;Описание;kahjulik;вредный;harmful;Suitsetamine on kahjuli
 B1;word;Описание;piisav;достаточный;sufficient;Kas see on piisav? — Этого достаточно?;;;
 B1;word;Описание;täpne;точный;exact, precise;Kas sul on täpne aeg? — У тебя есть точное время?;;;
 B1;word;Описание;selge;ясный, понятный;clear;Selge! — Понятно!;;;
-B1;word;Описание;ootamatu;неожиданный;unexpected;See oli ootamatu. — Это было неожиданно.;;;
+B1;word;Описание;ootamatu;неожиданный;unexpected;See oli ootamatu. — Это было неожиданно.;;;b1-adjective-suffixes
 B1;word;Описание;kuulus;знаменитый;famous;Ta on kuulus laulja. — Она знаменитая певица.;;;
 B1;word;Описание;kaasaegne;современный;modern, contemporary;See on kaasaegne maja. — Это современный дом.;Состоит из: kaasa (вместе) + aeg (время);;
 B1;word;Описание;endine;бывший;former;Ta on minu endine kolleeg. — Он мой бывший коллега.;;;
 B1;word;Описание;praegune;нынешний, текущий;current;Mis on sinu praegune töö? — Какая у тебя нынешняя работа?;;;
 B1;word;Слова-связки;kuigi;хотя;although;Kuigi oli külm, läksime randa. — Хотя было холодно, мы пошли на пляж.;;;a2-conjunctions
-B1;word;Слова-связки;siiski;всё же, тем не менее;still, nevertheless;Ta tuli siiski. — Он всё же пришёл.;;;
-B1;word;Слова-связки;seega;таким образом, следовательно;thus, therefore;Seega on kõik selge. — Таким образом, всё ясно.;;;
+B1;word;Слова-связки;siiski;всё же, тем не менее;still, nevertheless;Ta tuli siiski. — Он всё же пришёл.;;;b1-cause-purpose
+B1;word;Слова-связки;seega;таким образом, следовательно;thus, therefore;Seega on kõik selge. — Таким образом, всё ясно.;;;b1-connectors
 B1;word;Слова-связки;eriti;особенно;especially;Mulle meeldib eriti suvi. — Мне особенно нравится лето.;;;
 B1;word;Слова-связки;tegelikult;на самом деле;actually, in fact;Tegelikult ma ei tea. — На самом деле я не знаю.;;;
 B1;word;Слова-связки;lõpuks;наконец;finally;Lõpuks oleme kodus! — Наконец-то мы дома!;;;
@@ -974,7 +974,7 @@ B1;word;Слова-связки;pigem;скорее;rather;Ma pigem jään koju. 
 B1;word;Слова-связки;piisavalt;достаточно;enough;Kas sul on piisavalt raha? — У тебя достаточно денег?;;;a2-adverbs
 B1;word;Слова-связки;täiesti;совершенно, полностью;completely;Sul on täiesti õigus. — Ты совершенно прав.;;;a2-adverbs
 B1;word;Слова-связки;peamiselt;главным образом;mainly;Ma töötan peamiselt kodus. — Я работаю в основном дома.;;;
-B1;word;Слова-связки;sellepärast;поэтому;that's why, therefore;Sellepärast ma tulingi. — Поэтому я и пришёл.;Состоит из: selle (этого) + pärast (из-за);;
+B1;word;Слова-связки;sellepärast;поэтому;that's why, therefore;Sellepärast ma tulingi. — Поэтому я и пришёл.;Состоит из: selle (этого) + pärast (из-за);;b1-cause-purpose
 B1;word;Окружающая среда;keskkond;окружающая среда;environment;Hoia keskkonda puhtana. — Береги окружающую среду.;;;
 B1;word;Окружающая среда;kliima;климат;climate;Kliima muutub. — Климат меняется.;;;
 B1;word;Окружающая среда;taaskasutus;переработка (вторсырья);recycling;Pudelid lähevad taaskasutusse. — Бутылки идут на переработку.;Состоит из: taas (снова) + kasutus (использование);;
@@ -1145,11 +1145,11 @@ B1;word;Чувства и характер;kadedus;зависть;envy;Kadedus o
 B1;word;Чувства и характер;uhkus;гордость;pride;Ta rääkis oma lastest uhkusega. — Он с гордостью рассказывал о своих детях.;;;
 B1;word;Чувства и характер;häbi;стыд;shame;Mul on häbi. — Мне стыдно.;;;
 B1;word;Чувства и характер;piinlik;неловкий, неудобный (о ситуации);embarrassing;Mul on väga piinlik. — Мне очень неловко.;;;
-B1;word;Чувства и характер;pettunud;разочарованный;disappointed;Ma olen tulemuses pettunud. — Я разочарован результатом.;;;
-B1;word;Чувства и характер;üllatunud;удивлённый;surprised;Ta oli väga üllatunud. — Он был очень удивлён.;;;
+B1;word;Чувства и характер;pettunud;разочарованный;disappointed;Ma olen tulemuses pettunud. — Я разочарован результатом.;;;b1-participles
+B1;word;Чувства и характер;üllatunud;удивлённый;surprised;Ta oli väga üllatunud. — Он был очень удивлён.;;;b1-participles
 B1;word;Чувства и характер;kannatlik;терпеливый;patient;Õpetaja on väga kannatlik. — Учитель очень терпеливый.;;;
-B1;word;Чувства и характер;kannatamatu;нетерпеливый;impatient;Ära ole nii kannatamatu! — Не будь таким нетерпеливым!;;;
-B1;word;Чувства и характер;isekas;эгоистичный;selfish;See oli isekas otsus. — Это было эгоистичное решение.;;;
+B1;word;Чувства и характер;kannatamatu;нетерпеливый;impatient;Ära ole nii kannatamatu! — Не будь таким нетерпеливым!;;;b1-adjective-suffixes
+B1;word;Чувства и характер;isekas;эгоистичный;selfish;See oli isekas otsus. — Это было эгоистичное решение.;;;b1-adjective-suffixes
 B1;word;Чувства и характер;heatahtlik;доброжелательный;benevolent, kind;Naabrid on heatahtlikud. — Соседи доброжелательные.;Состоит из: hea (добрый) + tahe (воля);;
 B1;word;Чувства и характер;töökas;трудолюбивый;hard-working;Ta on töökas inimene. — Он трудолюбивый человек.;;;
 B1;word;Чувства и характер;hajameelne;рассеянный;absent-minded;Ma olen täna väga hajameelne. — Я сегодня очень рассеянный.;Состоит из: haja- (рассеянный) + meel (ум);;
@@ -1157,8 +1157,8 @@ B1;word;Чувства и характер;kohusetundlik;ответственн�
 B1;word;Чувства и характер;häbelik;стеснительный;shy;Laps on uute inimestega häbelik. — Ребёнок стесняется новых людей.;;;
 B1;word;Чувства и характер;seltskondlik;общительный;sociable;Ta on väga seltskondlik. — Она очень общительная.;;;
 B1;word;Чувства и характер;uudishimulik;любопытный;curious;Lapsed on uudishimulikud. — Дети любопытные.;Состоит из: uudis (новость) + himu (жажда, желание);;
-B1;word;Чувства и характер;muretu;беззаботный;carefree;Lapsepõlv oli muretu. — Детство было беззаботным.;;;
-B1;word;Чувства и характер;tujukas;капризный, с переменчивым настроением;moody;Väsinud laps on tujukas. — Уставший ребёнок капризничает.;;;
+B1;word;Чувства и характер;muretu;беззаботный;carefree;Lapsepõlv oli muretu. — Детство было беззаботным.;;;b1-adjective-suffixes
+B1;word;Чувства и характер;tujukas;капризный, с переменчивым настроением;moody;Väsinud laps on tujukas. — Уставший ребёнок капризничает.;;;b1-adjective-suffixes
 B1;word;Чувства и характер;kangekaelne;упрямый;stubborn;Ta on kangekaelne nagu eesel. — Он упрямый как осёл.;Состоит из: kange (твёрдый) + kael (шея);;
 B1;word;Чувства и характер;viisakus;вежливость;politeness;Viisakus ei maksa midagi. — Вежливость ничего не стоит.;;;
 B1;word;Чувства и характер;vihastama;злиться, рассердиться;to get angry;Ära vihasta! — Не злись!;ma vihastan — я злюсь;;
@@ -1172,7 +1172,7 @@ B1;word;Чувства и характер;taluma;терпеть, перенос
 B1;word;Чувства и характер;veenduma;убедиться;to make sure;Veendu, et uks on lukus. — Убедись, что дверь заперта.;ma veendun — я убеждаюсь;;
 B1;word;Чувства и характер;kahtlustama;подозревать;to suspect;Politsei kahtlustab naabrit. — Полиция подозревает соседа.;ma kahtlustan — я подозреваю;;
 B1;word;Чувства и характер;eitama;отрицать;to deny;Ta eitab kõike. — Он всё отрицает.;ma eitan — я отрицаю;;
-B1;word;Чувства и характер;paranema;улучшаться / выздоравливать;to improve / to recover;Ilm paraneb. — Погода улучшается.;see paraneb — это улучшается;;
+B1;word;Чувства и характер;paranema;улучшаться / выздоравливать;to improve / to recover;Ilm paraneb. — Погода улучшается.;see paraneb — это улучшается;;b1-verb-pairs
 B1;word;Чувства и характер;halvenema;ухудшаться;to get worse;Olukord halveneb. — Ситуация ухудшается.;see halveneb — это ухудшается;;
 B1;word;Безопасность и право;vargus;кража;theft;Teatasin politseile vargusest. — Я сообщил в полицию о краже.;;;
 B1;word;Безопасность и право;varas;вор;thief;Varas põgenes. — Вор сбежал.;;;
@@ -1210,7 +1210,7 @@ B1;word;Медиа и технологии;taskuhääling;подкаст;podcast
 B1;word;Медиа и технологии;voogedastus;стриминг, потоковая трансляция;streaming;Filme vaatame voogedastusest. — Фильмы мы смотрим через стриминг.;;;
 B1;word;Медиа и технологии;saatejuht;ведущий (передачи);TV/radio host;Saatejuht esitas küsimuse. — Ведущий задал вопрос.;Состоит из: saade (передача) + juht (ведущий);;
 B1;word;Природа;metsaraie;вырубка леса;logging;Metsaraie on vaieldav teema. — Вырубка леса — спорная тема.;Состоит из: mets (лес) + raie (рубка);;
-B1;word;Природа;ohustatud;находящийся под угрозой;endangered;See liik on ohustatud. — Этот вид находится под угрозой.;;;
+B1;word;Природа;ohustatud;находящийся под угрозой;endangered;See liik on ohustatud. — Этот вид находится под угрозой.;;;b1-participles
 B1;word;Природа;rahvuspark;национальный парк;national park;Lahemaa on Eesti vanim rahvuspark. — Лахемаа — старейший национальный парк Эстонии.;Состоит из: rahvus (нация) + park;;
 B1;word;Природа;looduskaitseala;заповедник;nature reserve;Looduskaitsealal on keelatud telkida. — В заповеднике запрещено ставить палатки.;Состоит из: looduskaitse (охрана природы) + ala (территория);;
 B1;word;Работа и карьера;palgatõus;повышение зарплаты;pay rise;Ma küsisin palgatõusu. — Я попросил повышения зарплаты.;Состоит из: palk (зарплата) + tõus (подъём);;
@@ -1233,34 +1233,34 @@ B1;phrase;Устойчивые выражения;südamele võtma;приним�
 B1;phrase;Устойчивые выражения;närvi minema;разнервничаться, выйти из себя;to lose one's temper;Ära mine närvi! — Не нервничай!;;;
 B1;phrase;Устойчивые выражения;naerma puhkema;рассмеяться;to burst out laughing;Kõik puhkesid naerma. — Все рассмеялись.;;;
 B1;phrase;Устойчивые выражения;meelt muutma;передумать;to change one's mind;Ta muutis meelt. — Он передумал.;;;
-B1;phrase;Устойчивые выражения;läbi kukkuma;провалиться (на экзамене);to fail;Ma kukkusin eksamil läbi. — Я провалил экзамен.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;alla andma;сдаваться;to give up;Ära anna alla! — Не сдавайся!;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;järele andma;уступать;to give in;Lõpuks andis ta järele. — В конце концов он уступил.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;järele mõtlema;обдумать;to think over;Ma pean selle üle järele mõtlema. — Мне нужно это обдумать.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;üle elama;пережить;to go through;Nad elasid raske aja üle. — Они пережили трудное время.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;ära kasutama;воспользоваться;to take advantage of;Kasuta võimalust ära! — Воспользуйся возможностью!;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;ette kujutama;представлять себе;to imagine;Kujuta ette, mis juhtus! — Представь, что случилось!;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;läbi rääkima;договариваться, вести переговоры;to negotiate;Me rääkisime hinna läbi. — Мы договорились о цене.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;kokku hoidma;экономить;to save (money);Peame raha kokku hoidma. — Нам нужно экономить деньги.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;välja tulema;получаться;to work out;Kook tuli väga hea välja. — Пирог получился очень вкусным.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;ette tulema;случаться, бывать;to happen, to occur;Selliseid asju tuleb ette. — Такое бывает.;;;a2-particle-verbs
-B1;phrase;Устойчивые выражения;aru andma;отчитываться;to report, to account for;Ta peab ülemusele aru andma. — Он должен отчитаться перед начальником.;;;a2-particle-verbs
+B1;phrase;Устойчивые выражения;läbi kukkuma;провалиться (на экзамене);to fail;Ma kukkusin eksamil läbi. — Я провалил экзамен.;;;b1-particles
+B1;phrase;Устойчивые выражения;alla andma;сдаваться;to give up;Ära anna alla! — Не сдавайся!;;;b1-particles
+B1;phrase;Устойчивые выражения;järele andma;уступать;to give in;Lõpuks andis ta järele. — В конце концов он уступил.;;;b1-particles
+B1;phrase;Устойчивые выражения;järele mõtlema;обдумать;to think over;Ma pean selle üle järele mõtlema. — Мне нужно это обдумать.;;;b1-particles
+B1;phrase;Устойчивые выражения;üle elama;пережить;to go through;Nad elasid raske aja üle. — Они пережили трудное время.;;;b1-particles
+B1;phrase;Устойчивые выражения;ära kasutama;воспользоваться;to take advantage of;Kasuta võimalust ära! — Воспользуйся возможностью!;;;b1-particles
+B1;phrase;Устойчивые выражения;ette kujutama;представлять себе;to imagine;Kujuta ette, mis juhtus! — Представь, что случилось!;;;b1-particles
+B1;phrase;Устойчивые выражения;läbi rääkima;договариваться, вести переговоры;to negotiate;Me rääkisime hinna läbi. — Мы договорились о цене.;;;b1-particles
+B1;phrase;Устойчивые выражения;kokku hoidma;экономить;to save (money);Peame raha kokku hoidma. — Нам нужно экономить деньги.;;;b1-particles
+B1;phrase;Устойчивые выражения;välja tulema;получаться;to work out;Kook tuli väga hea välja. — Пирог получился очень вкусным.;;;b1-particles
+B1;phrase;Устойчивые выражения;ette tulema;случаться, бывать;to happen, to occur;Selliseid asju tuleb ette. — Такое бывает.;;;b1-particles
+B1;phrase;Устойчивые выражения;aru andma;отчитываться;to report, to account for;Ta peab ülemusele aru andma. — Он должен отчитаться перед начальником.;;;b1-particles
 B1;phrase;Работа и карьера;täiskohaga töötama;работать на полную ставку;to work full-time;Ma töötan täiskohaga. — Я работаю на полную ставку.;;;
 B1;phrase;Работа и карьера;osalise tööajaga töötama;работать неполный день;to work part-time;Ta töötab osalise tööajaga. — Она работает неполный день.;;;
 B1;phrase;Работа и карьера;vaba töökoht;вакансия;job vacancy;Meil on üks vaba töökoht. — У нас есть одна вакансия.;;;
-B1;sentence;Мнения и споры;Ma näen seda teisiti.;Я вижу это иначе.;I see it differently.;;;;
-B1;sentence;Мнения и споры;Selles on sul täiesti õigus.;В этом ты совершенно прав.;You're absolutely right about that.;;;;
-B1;sentence;Мнения и споры;Ma pole kindel, et see on hea mõte.;Я не уверен, что это хорошая идея.;I'm not sure it's a good idea.;;;;a2-conjunctions
-B1;sentence;Мнения и споры;Kas sa saaksid oma mõtet selgitada?;Ты мог бы пояснить свою мысль?;Could you explain your point?;;;;a2-conditional
-B1;sentence;Мнения и споры;Mulle tundub, et me räägime erinevatest asjadest.;Мне кажется, мы говорим о разных вещах.;It seems to me we're talking about different things.;;;;a2-conjunctions
+B1;sentence;Мнения и споры;Ma näen seda teisiti.;Я вижу это иначе.;I see it differently.;;;;b1-opinion
+B1;sentence;Мнения и споры;Selles on sul täiesti õigus.;В этом ты совершенно прав.;You're absolutely right about that.;;;;b1-opinion
+B1;sentence;Мнения и споры;Ma pole kindel, et see on hea mõte.;Я не уверен, что это хорошая идея.;I'm not sure it's a good idea.;;;;b1-opinion
+B1;sentence;Мнения и споры;Kas sa saaksid oma mõtet selgitada?;Ты мог бы пояснить свою мысль?;Could you explain your point?;;;;b1-polite
+B1;sentence;Мнения и споры;Mulle tundub, et me räägime erinevatest asjadest.;Мне кажется, мы говорим о разных вещах.;It seems to me we're talking about different things.;;;;b1-opinion
 B1;sentence;Мнения и споры;Las ma mõtlen veel.;Дай мне ещё подумать.;Let me think some more.;;;;
-B1;sentence;Мнения и споры;Ma saan su seisukohast aru, aga ma ei nõustu.;Я понимаю твою позицию, но не согласен.;I understand your position, but I don't agree.;;;;a2-particle-verbs
+B1;sentence;Мнения и споры;Ma saan su seisukohast aru, aga ma ei nõustu.;Я понимаю твою позицию, но не согласен.;I understand your position, but I don't agree.;;;;b1-opinion
 B1;sentence;Мнения и споры;Proovime leida kompromissi.;Давай попробуем найти компромисс.;Let's try to find a compromise.;;;;a2-lets
-B1;sentence;Жалобы и проблемы;Ma tahaksin esitada kaebuse.;Я хотел бы подать жалобу.;I'd like to make a complaint.;;;;a2-conditional
+B1;sentence;Жалобы и проблемы;Ma tahaksin esitada kaebuse.;Я хотел бы подать жалобу.;I'd like to make a complaint.;;;;b1-polite
 B1;sentence;Жалобы и проблемы;Toode läks juba nädala pärast katki.;Товар сломался уже через неделю.;The product broke after only a week.;;;;a2-time-expressions
 B1;sentence;Жалобы и проблемы;Mulle saadeti vale toode.;Мне прислали не тот товар.;I was sent the wrong product.;;;;a2-impersonal
-B1;sentence;Жалобы и проблемы;Ma ootan teie vastust kahe päeva jooksul.;Я жду вашего ответа в течение двух дней.;I expect your reply within two days.;;;;a2-numbers-cases
-B1;sentence;Жалобы и проблемы;Minu pangakaart on blokeeritud.;Моя банковская карта заблокирована.;My bank card has been blocked.;;;;
+B1;sentence;Жалобы и проблемы;Ma ootan teie vastust kahe päeva jooksul.;Я жду вашего ответа в течение двух дней.;I expect your reply within two days.;;;;b1-letters
+B1;sentence;Жалобы и проблемы;Minu pangakaart on blokeeritud.;Моя банковская карта заблокирована.;My bank card has been blocked.;;;;b1-impersonal-tenses
 B1;sentence;Жалобы и проблемы;Mulle helistas petis ja küsis minu PIN-koodi.;Мне позвонил мошенник и спросил мой ПИН-код.;A scammer called me and asked for my PIN.;;;;
 B1;sentence;Жалобы и проблемы;Naabri koer haugub terve öö.;Соседская собака лает всю ночь.;The neighbour's dog barks all night.;;;;
 B1;sentence;Опыт и планы;Ma olen Eestis elanud viis aastat.;Я живу в Эстонии пять лет.;I've lived in Estonia for five years.;;;;a2-perfect
@@ -1270,9 +1270,9 @@ B1;sentence;Опыт и планы;Kui ma oleksin rikas, reisiksin palju.;Есл
 B1;sentence;Опыт и планы;Ma pole kunagi Saaremaal käinud.;Я никогда не был на Сааремаа.;I've never been to Saaremaa.;;;;a2-perfect
 B1;sentence;Опыт и планы;Lapsena elasin ma maal.;В детстве я жил в деревне.;As a child I lived in the countryside.;;;;a2-translative-essive
 B1;sentence;Чувства и характер;Mul on hea meel, et sa tulid.;Я рад, что ты пришёл.;I'm glad you came.;;;;a2-conjunctions
-B1;sentence;Чувства и характер;Ma olen sinu üle väga uhke.;Я очень тобой горжусь.;I'm very proud of you.;;;;a2-postpositions
+B1;sentence;Чувства и характер;Ma olen sinu üle väga uhke.;Я очень тобой горжусь.;I'm very proud of you.;;;;b1-government
 B1;sentence;Чувства и характер;Mul on piinlik, et ma unustasin.;Мне неловко, что я забыл.;I'm embarrassed that I forgot.;;;;a2-conjunctions
-B1;sentence;Чувства и характер;Ta solvus minu sõnade peale.;Он обиделся на мои слова.;He was offended by my words.;;;;
+B1;sentence;Чувства и характер;Ta solvus minu sõnade peale.;Он обиделся на мои слова.;He was offended by my words.;;;;b1-government
 B1;sentence;Чувства и характер;Ma ei talu, kui keegi valetab.;Я не выношу, когда кто-то врёт.;I can't stand it when someone lies.;;;;a2-indefinite
 B2;word;Общество и государство;õigusriik;правовое государство;rule of law;Eesti on õigusriik. — Эстония — правовое государство.;Состоит из: õigus (право) + riik (государство);;
 B2;word;Общество и государство;põhiseadus;конституция;constitution;Põhiseadus kaitseb kodanike õigusi. — Конституция защищает права граждан.;Состоит из: põhi (основа) + seadus (закон);;
@@ -1334,7 +1334,7 @@ B2;word;Описание;põhjalik;основательный, подробны�
 B2;word;Описание;pinnapealne;поверхностный;superficial;See on pinnapealne vastus. — Это поверхностный ответ.;Состоит из: pind (поверхность) + peal (на);;
 B2;word;Описание;asjakohane;уместный, по существу;relevant;See on asjakohane küsimus. — Это уместный вопрос.;Состоит из: asi (дело) + kohane (подходящий);;
 B2;word;Описание;ebaoluline;несущественный;insignificant;See on ebaoluline detail. — Это несущественная деталь.;Состоит из: eba- (не-) + oluline (важный);;
-B2;word;Описание;vältimatu;неизбежный;inevitable;Muutused on vältimatud. — Перемены неизбежны.;;;
+B2;word;Описание;vältimatu;неизбежный;inevitable;Muutused on vältimatud. — Перемены неизбежны.;;;b1-adjective-suffixes
 B2;word;Описание;märkimisväärne;значительный;considerable, remarkable;Hinnad tõusid märkimisväärselt. — Цены значительно выросли.;Состоит из: märkimine (отметка) + väärne (достойный);;
 B2;word;Описание;vastuoluline;противоречивый;controversial;See on vastuoluline otsus. — Это противоречивое решение.;Состоит из: vastuolu (противоречие): vastu (против) + olu (состояние);;
 B2;word;Описание;ühekülgne;однобокий;one-sided;Artikkel on ühekülgne. — Статья однобокая.;Состоит из: üks (один) + külg (сторона);;
@@ -1343,27 +1343,27 @@ B2;word;Описание;subjektiivne;субъективный;subjective;See on
 B2;word;Описание;tõhus;эффективный;efficient, effective;See on tõhus meetod. — Это эффективный метод.;;;
 B2;word;Описание;kulukas;затратный;costly;Remont on väga kulukas. — Ремонт очень затратный.;;;
 B2;word;Описание;ajakohane;актуальный, современный;up-to-date;Info peab olema ajakohane. — Информация должна быть актуальной.;Состоит из: aeg (время) + kohane (подходящий);;
-B2;word;Описание;aegunud;устаревший;outdated, expired;Teie pass on aegunud. — Ваш паспорт просрочен.;;;
+B2;word;Описание;aegunud;устаревший;outdated, expired;Teie pass on aegunud. — Ваш паспорт просрочен.;;;b1-participles
 B2;word;Описание;võrdväärne;равноценный;equivalent;Need on võrdväärsed variandid. — Это равноценные варианты.;Состоит из: võrd (равный) + väärne (достойный);;
-B2;word;Слова-связки;seevastu;зато, напротив;on the other hand, whereas;Linnas on kallis, maal seevastu odav. — В городе дорого, в деревне, напротив, дёшево.;Состоит из: see (это) + vastu (против);;
+B2;word;Слова-связки;seevastu;зато, напротив;on the other hand, whereas;Linnas on kallis, maal seevastu odav. — В городе дорого, в деревне, напротив, дёшево.;Состоит из: see (это) + vastu (против);;b1-connectors
 B2;word;Слова-связки;samas;в то же время;at the same time;See on kallis, samas väga kvaliteetne. — Это дорого, но в то же время очень качественно.;;;
 B2;word;Слова-связки;sellegipoolest;тем не менее;nevertheless;Oli külm, sellegipoolest läksime ujuma. — Было холодно, тем не менее мы пошли купаться.;;;
 B2;word;Слова-связки;järelikult;следовательно;consequently;Ta ei vasta, järelikult on ta hõivatud. — Он не отвечает, следовательно, занят.;;;a2-adverbs
-B2;word;Слова-связки;ometi;всё же, ведь;yet, after all;Ma ometi ütlesin sulle! — Я же тебе говорил!;;;
+B2;word;Слова-связки;ometi;всё же, ведь;yet, after all;Ma ometi ütlesin sulle! — Я же тебе говорил!;;;b1-cause-purpose
 B2;word;Слова-связки;nimelt;а именно;namely;Mul on üks probleem, nimelt aeg. — У меня одна проблема, а именно время.;;;
 B2;word;Слова-связки;eelkõige;прежде всего;above all;Eelkõige on vaja raha. — Прежде всего нужны деньги.;Состоит из: eel (перед) + kõige (всего);;
 B2;word;Слова-связки;sealjuures;при этом;at the same time, moreover;Ta töötab, sealjuures ka õpib. — Он работает и при этом учится.;Состоит из: seal (там) + juures (при);;
-B2;word;Слова-связки;seetõttu;поэтому, по этой причине;therefore;Rong hilines, seetõttu jäin hiljaks. — Поезд опоздал, поэтому я опоздал.;Состоит из: see (это) + tõttu (из-за);;
+B2;word;Слова-связки;seetõttu;поэтому, по этой причине;therefore;Rong hilines, seetõttu jäin hiljaks. — Поезд опоздал, поэтому я опоздал.;Состоит из: see (это) + tõttu (из-за);;b1-cause-purpose
 B2;word;Слова-связки;kusjuures;причём;whereby, and moreover;Ta tuli, kusjuures õigel ajal. — Он пришёл, причём вовремя.;Состоит из: kus (где) + juures (при);;
 B2;word;Слова-связки;kuna;так как;since, as;Kuna sajab, jääme koju. — Так как идёт дождь, останемся дома.;;;a2-conjunctions
-B2;word;Слова-связки;vaatamata;несмотря на;despite;Vaatamata vihmale läksime välja. — Несмотря на дождь, мы вышли.;Предлог: vaatamata + -le;;
+B2;word;Слова-связки;vaatamata;несмотря на;despite;Vaatamata vihmale läksime välja. — Несмотря на дождь, мы вышли.;Предлог: vaatamata + -le;;b1-postpositions
 B2;word;Слова-связки;olenemata;независимо от;regardless of;Olenemata vanusest võib igaüks osaleda. — Независимо от возраста участвовать может каждый.;Предлог: olenemata + -st;;
-B2;phrase;Связки;juhul kui;в случае если;in case;Juhul kui sajab, jääb üritus ära. — В случае дождя мероприятие отменяется.;;;
-B2;phrase;Связки;selleks et;для того чтобы;in order to;Õpin eesti keelt, selleks et töö leida. — Я учу эстонский, чтобы найти работу.;;;a2-conjunctions
+B2;phrase;Связки;juhul kui;в случае если;in case;Juhul kui sajab, jääb üritus ära. — В случае дождя мероприятие отменяется.;;;b1-cause-purpose
+B2;phrase;Связки;selleks et;для того чтобы;in order to;Õpin eesti keelt, selleks et töö leida. — Я учу эстонский, чтобы найти работу.;;;b1-cause-purpose
 B2;phrase;Связки;mitte et;не то чтобы;not that;Mitte et ma ei tahaks, aga mul pole aega. — Не то чтобы я не хотел, но у меня нет времени.;;;a2-conjunctions
 B2;phrase;Связки;seda enam;тем более;all the more;Seda enam peaksid tulema. — Тем более тебе стоит прийти.;;;
 B2;phrase;Связки;teisisõnu;другими словами;in other words;Teisisõnu, me ei jõua õigeks ajaks. — Другими словами, мы не успеем вовремя.;;;
-B2;phrase;Связки;kokkuvõttes;в итоге;all in all;Kokkuvõttes oli see hea aasta. — В итоге это был хороший год.;;;
+B2;phrase;Связки;kokkuvõttes;в итоге;all in all;Kokkuvõttes oli see hea aasta. — В итоге это был хороший год.;;;b1-connectors
 B2;phrase;Пословицы и идиомы;kaks kärbest ühe hoobiga;двух зайцев одним ударом;two birds with one stone;Tegin kaks kärbest ühe hoobiga. — Я убил двух зайцев одним ударом.;Идиома;;
 B2;phrase;Пословицы и идиомы;nagu kala vees;как рыба в воде;like a fish in water;Ta tunneb end uues töökohas nagu kala vees. — На новой работе он как рыба в воде.;Идиома;;
 B2;phrase;Пословицы и идиомы;kuldne kesktee;золотая середина;the golden mean;Proovime leida kuldse kesktee. — Попробуем найти золотую середину.;Идиома;;
@@ -2731,18 +2731,18 @@ B1;word;Чувства и отношения;üllatus;сюрприз, удивл
 B1;word;Чувства и отношения;harjumus;привычка;habit;See on halb harjumus. — Это плохая привычка.;;;
 B1;word;Чувства и отношения;unenägu;сон (сновидение);dream (while sleeping);Mul oli imelik unenägu. — Мне приснился странный сон.;Состоит из: uni (сон) + nägu (вид, облик);;
 B1;word;Чувства и отношения;religioon;религия;religion;Religioon on isiklik asi. — Религия — личное дело.;;;
-B1;word;Описание;määrdunud;грязный, испачканный;dirty;Su käed on määrdunud. — У тебя руки грязные.;;;
+B1;word;Описание;määrdunud;грязный, испачканный;dirty;Su käed on määrdunud. — У тебя руки грязные.;;;b1-participles
 B1;word;Описание;sile;гладкий;smooth;Jää on sile. — Лёд гладкий.;;;
 B1;word;Описание;peenike;тонкий;thin, fine;Tal on peenikesed sõrmed. — У неё тонкие пальцы.;;;
 B1;word;Описание;ümmargune;круглый;round;Laud on ümmargune. — Стол круглый.;;;
 B1;word;Описание;surnud;мёртвый;dead;Lill on surnud. — Цветок погиб.;;;
 B1;word;Описание;korras;в порядке;in order, OK;Kõik on korras. — Всё в порядке.;;;
-B1;word;Слова-связки;ehkki;хотя (книжн.);although;Ehkki oli külm, läksime välja. — Хотя было холодно, мы вышли.;;;
-B1;word;Слова-связки;seepärast;по этой причине;therefore;Ma olin haige, seepärast ei tulnud. — Я болел, поэтому не пришёл.;Состоит из: see (это) + pärast (из-за);;
-B1;word;Слова-связки;teineteist;друг друга (книжн.);each other;Nad armastavad teineteist. — Они любят друг друга.;;;
+B1;word;Слова-связки;ehkki;хотя (книжн.);although;Ehkki oli külm, läksime välja. — Хотя было холодно, мы вышли.;;;a2-conjunctions
+B1;word;Слова-связки;seepärast;по этой причине;therefore;Ma olin haige, seepärast ei tulnud. — Я болел, поэтому не пришёл.;Состоит из: see (это) + pärast (из-за);;b1-cause-purpose
+B1;word;Слова-связки;teineteist;друг друга (книжн.);each other;Nad armastavad teineteist. — Они любят друг друга.;;;b1-pronouns
 B1;word;Слова-связки;kõikjal;везде;everywhere;Kõikjal on lumi. — Везде снег.;;;
 B1;word;Слова-связки;vahetevahel;время от времени, иногда;now and then;Vahetevahel käin ujumas. — Иногда я хожу плавать.;;;
-B1;word;Слова-связки;esiteks;во-первых;firstly;Esiteks, see on liiga kallis. — Во-первых, это слишком дорого.;;;
+B1;word;Слова-связки;esiteks;во-первых;firstly;Esiteks, see on liiga kallis. — Во-первых, это слишком дорого.;;;b1-connectors
 B1;word;Слова-связки;ülal;наверху;above, up there;Lind on ülal puu otsas. — Птица наверху, на дереве.;;;
 B1;word;Описание;laius;ширина;width;Toa laius on neli meetrit. — Ширина комнаты четыре метра.;;;
 B1;word;Описание;raskus;трудность / тяжесть;difficulty / weight;Meil on raskusi. — У нас трудности.;;;
@@ -2781,18 +2781,18 @@ B2;word;Мышление и общение;hoiatama;предупреждать;t
 B2;word;Мышление и общение;meelitama;льстить / заманивать;to flatter / to lure;Ära meelita mind! — Не льсти мне!;;;
 B2;word;Мышление и общение;veenma;убеждать;to convince;Ta veenis mind tulema. — Он убедил меня прийти.;;;
 B2;word;Мышление и общение;nõustama;консультировать;to advise, to counsel;Jurist nõustab kliente. — Юрист консультирует клиентов.;;;
-B2;word;Мышление и общение;kahtlema;сомневаться;to doubt;Ma kahtlen selles. — Я в этом сомневаюсь.;;;
+B2;word;Мышление и общение;kahtlema;сомневаться;to doubt;Ma kahtlen selles. — Я в этом сомневаюсь.;;;b1-government
 B2;word;Мышление и общение;tunnistama;признавать / давать показания;to admit / to testify;Ta tunnistas oma viga. — Он признал свою ошибку.;;;
-B2;word;Мышление и общение;vaidlema;спорить;to argue;Ära vaidle minuga! — Не спорь со мной!;;;
-B2;word;Мышление и общение;kurtma;жаловаться;to complain;Ta kurdab alati ilma üle. — Он всегда жалуется на погоду.;;;
+B2;word;Мышление и общение;vaidlema;спорить;to argue;Ära vaidle minuga! — Не спорь со мной!;;;b1-government
+B2;word;Мышление и общение;kurtma;жаловаться;to complain;Ta kurdab alati ilma üle. — Он всегда жалуется на погоду.;;;b1-government
 B2;word;Мышление и общение;solvama;обижать, оскорблять;to offend;Ma ei tahtnud sind solvata. — Я не хотел тебя обидеть.;;;
 B2;word;Мышление и общение;imestama;удивляться;to wonder, to be surprised;Ma imestan, miks ta ei tulnud. — Удивляюсь, почему он не пришёл.;;;
 B2;word;Мышление и общение;eeldama;предполагать (заранее);to presuppose, to expect;Me eeldame, et kõik tulevad. — Мы предполагаем, что все придут.;;;
 B2;word;Мышление и общение;oletama;предполагать (догадываться);to suppose, to guess;Oletame, et sul on õigus. — Предположим, что ты прав.;;;
-B2;word;Мышление и общение;kavatsema;намереваться;to intend;Mida sa kavatsed teha? — Что ты собираешься делать?;;;
+B2;word;Мышление и общение;kavatsema;намереваться;to intend;Mida sa kavatsed teha? — Что ты собираешься делать?;;;b1-future
 B2;word;Мышление и общение;tõestama;доказывать;to prove;Tõesta seda! — Докажи это!;;;
 B2;word;Мышление и общение;kinnitama;подтверждать / закреплять;to confirm / to fasten;Palun kinnitage broneering. — Пожалуйста, подтвердите бронь.;;;
-B2;word;Мышление и общение;arvestama;учитывать;to take into account;Arvesta ilmaga. — Учитывай погоду.;;;
+B2;word;Мышление и общение;arvestama;учитывать;to take into account;Arvesta ilmaga. — Учитывай погоду.;;;b1-government
 B2;word;Мышление и общение;eristama;различать;to distinguish;Ma ei erista neid kaksikuid. — Я не различаю этих близнецов.;;;
 B2;word;Мышление и общение;viitama;ссылаться, указывать;to refer, to point to;Ta viitas uuringule. — Он сослался на исследование.;;;
 B2;word;Мышление и общение;mõttekäik;ход мысли;line of reasoning;Ma ei saa su mõttekäigust aru. — Я не понимаю хода твоих мыслей.;Состоит из: mõte (мысль) + käik (ход);;
@@ -2823,7 +2823,7 @@ B2;word;Чувства и качества;pettumus;разочарование;d
 B2;word;Чувства и качества;kannatus;терпение / страдание;patience / suffering;Mu kannatus on otsas. — Моё терпение лопнуло.;;;
 B2;word;Чувства и качества;julgus;смелость;courage;Tal puudub julgus. — Ему не хватает смелости.;;;
 B2;word;Чувства и качества;arg;трусливый, робкий;cowardly, timid;Ära ole nii arg! — Не будь таким трусливым!;;;
-B2;word;Чувства и качества;ebaaus;нечестный;dishonest;See on ebaaus mäng. — Это нечестная игра.;Состоит из: eba- (не-) + aus (честный);;
+B2;word;Чувства и качества;ebaaus;нечестный;dishonest;See on ebaaus mäng. — Это нечестная игра.;Состоит из: eba- (не-) + aus (честный);;b1-adjective-suffixes
 B2;word;Чувства и качества;karm;суровый;harsh;Talv oli karm. — Зима была суровой.;;;
 B2;word;Чувства и качества;range;строгий;strict;Õpetaja on range. — Учитель строгий.;;;
 B2;word;Чувства и качества;õrn;нежный;gentle, tender;Ta on väga õrn. — Она очень нежная.;;;
@@ -2831,7 +2831,7 @@ B2;word;Чувства и качества;nüri;тупой (не острый);
 B2;word;Чувства и качества;omadus;свойство, черта;quality, trait;Kannatlikkus on hea omadus. — Терпение — хорошая черта.;;;
 B2;word;Чувства и качества;anne;талант;talent;Tal on muusikaline anne. — У неё музыкальный талант.;;;
 B2;word;Чувства и качества;kannatama;страдать / терпеть;to suffer / to endure;Ta kannatab peavalude käes. — Он страдает от головных болей.;;;
-B2;word;Чувства и качества;loobuma;отказываться (от чего-то), сдаваться;to give up;Ära loobu! — Не сдавайся!;;;
+B2;word;Чувства и качества;loobuma;отказываться (от чего-то), сдаваться;to give up;Ära loobu! — Не сдавайся!;;;b1-government
 B2;word;Чувства и качества;püüdlema;стремиться;to strive;Ta püüdleb täiuslikkuse poole. — Он стремится к совершенству.;;;
 B2;word;Чувства и качества;ohverdama;жертвовать;to sacrifice;Ema ohverdas palju. — Мама многим пожертвовала.;;;
 B2;word;Общество и право;vastutus;ответственность;responsibility;See on sinu vastutus. — Это твоя ответственность.;;;
@@ -2883,7 +2883,7 @@ B2;word;Экономика и производство;ebaedu;неудача;fai
 B2;word;Экономика и производство;ebaõnnestuma;не удаваться, проваливаться;to fail;Plaan ebaõnnestus. — План провалился.;Состоит из: eba- (не-) + õnnestuma (удаваться);;
 B2;word;Экономика и производство;katsetama;испытывать, экспериментировать;to test, to experiment;Me katsetame uut retsepti. — Мы пробуем новый рецепт.;;;
 B2;word;Экономика и производство;võistlema;соревноваться;to compete;Nad võistlevad esikoha pärast. — Они соревнуются за первое место.;;;
-B2;word;Экономика и производство;valmistuma;готовиться;to prepare oneself;Ma valmistun eksamiks. — Я готовлюсь к экзамену.;;;
+B2;word;Экономика и производство;valmistuma;готовиться;to prepare oneself;Ma valmistun eksamiks. — Я готовлюсь к экзамену.;;;b1-government
 B2;word;Действия;korrastama;приводить в порядок;to tidy up;Korrasta oma tuba. — Приведи в порядок свою комнату.;;;
 B2;word;Действия;tühjendama;опустошать;to empty;Tühjenda prügikast. — Опустоши мусорное ведро.;;;
 B2;word;Действия;katma;покрывать, накрывать;to cover;Kata laud! — Накрой на стол!;;;
@@ -2893,7 +2893,7 @@ B2;word;Действия;põhjustama;вызывать, причинять;to cau
 B2;word;Действия;takistama;мешать, препятствовать;to hinder;Miski ei takista meid. — Ничто нам не мешает.;;;
 B2;word;Действия;võimaldama;давать возможность;to enable;Internet võimaldab kaugtööd. — Интернет даёт возможность удалённой работы.;;;
 B2;word;Действия;sisaldama;содержать;to contain;See toode sisaldab suhkrut. — Этот продукт содержит сахар.;;;
-B2;word;Действия;koosnema;состоять (из);to consist of;Komplekt koosneb kolmest osast. — Комплект состоит из трёх частей.;;;
+B2;word;Действия;koosnema;состоять (из);to consist of;Komplekt koosneb kolmest osast. — Комплект состоит из трёх частей.;;;b1-elative
 B2;word;Действия;hõlmama;охватывать, включать;to include, to cover;Hind hõlmab hommikusööki. — Цена включает завтрак.;;;
 B2;word;Действия;säilitama;сохранять;to preserve;Säilitage tšekk. — Сохраните чек.;;;
 B2;word;Действия;taastama;восстанавливать;to restore;Nad taastasid vana maja. — Они восстановили старый дом.;;;
@@ -2917,8 +2917,8 @@ B2;word;Описание;lihtsustatud;упрощённый;simplified;Lihtsustat
 B2;word;Описание;ähmane;смутный, расплывчатый;vague, blurry;Pilt on ähmane. — Изображение размытое.;;;
 B2;word;Описание;ebatäpne;неточный;inaccurate;Info on ebatäpne. — Информация неточная.;Состоит из: eba- (не-) + täpne (точный);;
 B2;word;Описание;turvaline;безопасный (защищённый);safe;Eesti on turvaline riik. — Эстония — безопасная страна.;;;
-B2;word;Описание;ebamugav;неудобный;uncomfortable;Tool on ebamugav. — Стул неудобный.;Состоит из: eba- (не-) + mugav (удобный);;
-B2;word;Описание;sobiv;подходящий;suitable;See on sobiv aeg. — Это подходящее время.;;;
+B2;word;Описание;ebamugav;неудобный;uncomfortable;Tool on ebamugav. — Стул неудобный.;Состоит из: eba- (не-) + mugav (удобный);;b1-adjective-suffixes
+B2;word;Описание;sobiv;подходящий;suitable;See on sobiv aeg. — Это подходящее время.;;;b1-participles
 B2;word;Описание;sobimatu;неподходящий;unsuitable;See riietus on sobimatu. — Эта одежда неуместна.;;;
 B2;word;Описание;ebapiisav;недостаточный;insufficient;Info on ebapiisav. — Информации недостаточно.;Состоит из: eba- (не-) + piisav (достаточный);;
 B2;word;Описание;määrav;решающий;decisive;See oli määrav hetk. — Это был решающий момент.;;;
@@ -3905,7 +3905,7 @@ B1;word;Отношения и общение;suhtlemine;общение;communica
 B1;word;Отношения и общение;lahkarvamus;разногласие;disagreement;Meil tekkis lahkarvamus. — У нас возникло разногласие.;Состоит из: lahk- (раз-) + arvamus (мнение);;
 B1;word;Отношения и общение;usaldama;доверять;to trust;Ma usaldan sind. — Я тебе доверяю.;;;
 B1;word;Отношения и общение;andestama;прощать;to forgive;Palun andesta mulle. — Пожалуйста, прости меня.;;;
-B1;word;Отношения и общение;hoolima;заботиться, быть неравнодушным;to care;Ma hoolin sinust. — Ты мне небезразличен.;;;
+B1;word;Отношения и общение;hoolima;заботиться, быть неравнодушным;to care;Ma hoolin sinust. — Ты мне небезразличен.;;;b1-government
 B1;word;Отношения и общение;vaidlus;спор;argument, dispute;Vaidlus kestis tund aega. — Спор длился час.;;;
 B1;word;Отношения и общение;kokkusaamine;встреча (неофициальная);get-together;Meil on reedel kokkusaamine. — У нас в пятницу встреча.;От kokku saama — встретиться: kokku (вместе) + saama (получать);;
 B1;word;Отношения и общение;leppimine;примирение;reconciliation;Pärast tüli tuli leppimine. — После ссоры наступило примирение.;;;
@@ -3930,7 +3930,7 @@ B1;word;Культура и досуг;osavõtt;участие;participation;Osa
 B1;word;Культура и досуг;piletihind;цена билета;ticket price;Piletihind on kümme eurot. — Цена билета — десять евро.;Состоит из: pilet (билет) + hind (цена);;
 B1;word;Общество и услуги;teenindaja;сотрудник сферы обслуживания;service worker;Teenindaja oli väga viisakas. — Сотрудник был очень вежлив.;;;
 B1;word;Общество и услуги;asjaajamine;ведение дел, оформление документов;administrative business;Asjaajamine käib internetis. — Оформление идёт через интернет.;Состоит из: asi (дело) + ajamine (ведение);;
-B1;phrase;Общество и услуги;avalik teenus;государственная или муниципальная услуга;public service;;;;
+B1;phrase;Общество и услуги;avalik teenus;государственная или муниципальная услуга;public service;Paljud avalikud teenused on internetis. — Многие государственные услуги доступны в интернете.;;;
 B1;word;Общество и услуги;ametiasutus;государственное учреждение;public authority;Pöörduge ametiasutusse. — Обратитесь в государственное учреждение.;Состоит из: amet (ведомство) + asutus (учреждение);;
 B1;word;Общество и услуги;taotlemine;подача заявления;application process;Elamisloa taotlemine võtab aega. — Подача заявления на ВНЖ занимает время.;;;
 B1;word;Общество и услуги;juurdepääs;доступ;access;Mul pole sellele failile juurdepääsu. — У меня нет доступа к этому файлу.;Состоит из: juurde (к) + pääs (проход, доступ);;
@@ -4028,50 +4028,50 @@ B2;word;Чувства и благополучие;läbipõlemine;эмоцион
 B2;word;Чувства и благополучие;rahulolematus;недовольство;dissatisfaction;Töötajate rahulolematus kasvab. — Недовольство работников растёт.;;;
 B2;word;Чувства и благополучие;ebakindlus;неуверенность, неопределённость;uncertainty, insecurity;Tuleviku ees on ebakindlus. — Будущее вызывает неуверенность.;Состоит из: eba- (не-) + kindlus (уверенность);;
 B2;word;Чувства и благополучие;kõhklus;сомнение, колебание;hesitation;Ta vastas ilma kõhkluseta. — Он ответил без колебаний.;;;
-B1;phrase;Работа и карьера;töökohale kandideerima;претендовать на вакансию;to apply for a job;;;;
-B1;phrase;Работа и карьера;töötasus kokku leppima;договариваться об оплате;to agree on pay;;;;a2-particle-verbs
-B1;phrase;Работа и карьера;katseaega läbima;проходить испытательный срок;to complete a probation period;;;;
-B1;phrase;Работа и карьера;lepingu tingimusi muutma;менять условия договора;to change contract terms;;;;
-B1;phrase;Работа и карьера;haiguslehel olema;быть на больничном;to be on sick leave;;;;
-B1;phrase;Работа и карьера;tähtaega pikendama;продлевать срок;to extend a deadline;;;;
-B1;phrase;Работа и карьера;koosolekul osalema;участвовать в совещании;to attend a meeting;;;;
-B1;phrase;Работа и карьера;ülesande eest vastutama;отвечать за задачу;to be responsible for a task;;;;
-B1;phrase;Работа и карьера;ettepanekut tegema;вносить предложение;to make a proposal;;;;
-B1;phrase;Жильё и бытовые проблемы;üürilepingut sõlmima;заключать договор аренды;to sign a rental agreement;;;;
-B1;phrase;Жильё и бытовые проблемы;arvet tasuma;оплачивать счёт (офиц.);to pay a bill;;;;
-B1;phrase;Жильё и бытовые проблемы;elektrit säästma;экономить электроэнергию;to save electricity;;;;
-B1;phrase;Жильё и бытовые проблемы;remonditöid tegema;проводить ремонтные работы;to carry out repairs;;;;
-B1;phrase;Здоровье и образ жизни;arsti vastuvõtule minema;идти на приём к врачу;to go to a doctor's appointment;;;;
-B1;phrase;Здоровье и образ жизни;vereanalüüsi andma;сдавать анализ крови;to have a blood test;;;;
-B1;phrase;Здоровье и образ жизни;haigusest taastuma;восстанавливаться после болезни;to recover from illness;;;;
-B1;phrase;Здоровье и образ жизни;tervislikult toituma;питаться здоровой пищей;to eat healthily;;;;
-B1;phrase;Здоровье и образ жизни;kehalist koormust vähendama;снижать физическую нагрузку;to reduce physical activity;;;;
-B1;phrase;Отношения и общение;oma arvamust avaldama;высказывать своё мнение;to express one's opinion;;;;
-B1;phrase;Отношения и общение;põhjust välja selgitama;выяснять причину;to find out the cause;;;;a2-particle-verbs
-B1;phrase;Отношения и общение;omavahel läbi saama;ладить друг с другом;to get along;;;;a2-particle-verbs
-B1;phrase;Отношения и общение;ühist keelt leidma;находить общий язык;to find common ground;;;;
-B1;phrase;Отношения и общение;kellegagi arvestama;считаться с кем-то;to take someone into account;;;;
-B1;phrase;Отношения и общение;arvamust muutma;менять мнение;to change one's mind;;;;
-B1;phrase;Отношения и общение;sellega nõustuma;соглашаться с этим;to agree with this;;;;
-B1;phrase;Окружающая среда;loodust hoidma;беречь природу;to protect nature;;;;
-B1;phrase;Окружающая среда;prügi liigiti koguma;собирать мусор раздельно;to separate waste;;;;
-B1;phrase;Окружающая среда;taaskasutusse andma;отдавать на повторное использование;to pass on for reuse;;;;
-B1;phrase;Путешествия и услуги;bussist maha jääma;опоздать на автобус;to miss the bus;;;;a2-particle-verbs
-B1;phrase;Путешествия и услуги;pileti kehtivust kontrollima;проверять действительность билета;to check ticket validity;;;;
-B1;phrase;Путешествия и услуги;hilinemisest teatama;сообщать об опоздании;to report a delay;;;;
-B1;phrase;Путешествия и услуги;broneeringut tühistama;отменять бронирование;to cancel a booking;;;;
-B1;phrase;Путешествия и услуги;õigel ajal kohale jõudma;прибывать вовремя;to arrive on time;;;;a2-postpositions
-B1;phrase;Общество и услуги;taotlust täitma;заполнять заявление;to fill in an application;;;;
-B1;phrase;Общество и услуги;otsust ootama;ожидать решения;to await a decision;;;;
-B1;phrase;Образование и обучение;kontrolltööks õppima;готовиться к контрольной;to study for a test;;;;
-B1;phrase;Образование и обучение;eksamiks valmistuma;готовиться к экзамену;to prepare for an exam;;;;
-B1;phrase;Образование и обучение;uut sõna meelde jätma;запоминать новое слово;to remember a new word;;;;
-B1;phrase;Культура и досуг;filmi arvustama;писать отзыв о фильме;to review a film;;;;
-B1;phrase;Культура и досуг;näitusel käima;посещать выставку;to visit an exhibition;;;;
-B1;phrase;Общение и мнения;oma seisukohta selgitama;объяснять свою позицию;to explain one's position;;;;
-B1;phrase;Общение и мнения;selgelt väljendama;ясно выражать;to express clearly;;;;a2-adverbs
-B1;phrase;Общение и мнения;kirjalikult vastama;отвечать письменно;to reply in writing;;;;
-B2;phrase;Аргументация и дискуссия;sellest hoolimata;несмотря на это;nevertheless;;;;a2-ma-forms
+B1;phrase;Работа и карьера;töökohale kandideerima;претендовать на вакансию;to apply for a job;Ma kandideerin sellele töökohale. — Я подаю заявку на эту вакансию.;;;
+B1;phrase;Работа и карьера;töötasus kokku leppima;договариваться об оплате;to agree on pay;Me leppisime töötasus kokku. — Мы договорились об оплате.;;;b1-particles
+B1;phrase;Работа и карьера;katseaega läbima;проходить испытательный срок;to complete a probation period;Ta läbis katseaja edukalt. — Он(а) успешно прошёл (прошла) испытательный срок.;;;
+B1;phrase;Работа и карьера;lepingu tingimusi muutma;менять условия договора;to change contract terms;Firma muutis lepingu tingimusi. — Фирма изменила условия договора.;;;
+B1;phrase;Работа и карьера;haiguslehel olema;быть на больничном;to be on sick leave;Ta on sel nädalal haiguslehel. — На этой неделе он(а) на больничном.;;;
+B1;phrase;Работа и карьера;tähtaega pikendama;продлевать срок;to extend a deadline;Kas saame tähtaega nädala võrra pikendada? — Можем ли мы продлить срок на неделю?;;;
+B1;phrase;Работа и карьера;koosolekul osalema;участвовать в совещании;to attend a meeting;Kõik töötajad osalevad koosolekul. — Все сотрудники участвуют в совещании.;;;b1-government
+B1;phrase;Работа и карьера;ülesande eest vastutama;отвечать за задачу;to be responsible for a task;Kes selle ülesande eest vastutab? — Кто отвечает за эту задачу?;;;b1-government
+B1;phrase;Работа и карьера;ettepanekut tegema;вносить предложение;to make a proposal;Ma tahaksin teha ühe ettepaneku. — Я хотел(а) бы внести одно предложение.;;;
+B1;phrase;Жильё и бытовые проблемы;üürilepingut sõlmima;заключать договор аренды;to sign a rental agreement;Me sõlmisime üürilepingu aastaks. — Мы заключили договор аренды на год.;;;
+B1;phrase;Жильё и бытовые проблемы;arvet tasuma;оплачивать счёт (офиц.);to pay a bill;Arve tuleb tasuda kümne päeva jooksul. — Счёт нужно оплатить в течение десяти дней.;;;
+B1;phrase;Жильё и бытовые проблемы;elektrit säästma;экономить электроэнергию;to save electricity;Kustuta tuli, et elektrit säästa. — Выключи свет, чтобы экономить электричество.;;;
+B1;phrase;Жильё и бытовые проблемы;remonditöid tegema;проводить ремонтные работы;to carry out repairs;Majas tehakse remonditöid. — В доме идут ремонтные работы.;;;
+B1;phrase;Здоровье и образ жизни;arsti vastuvõtule minema;идти на приём к врачу;to go to a doctor's appointment;Homme lähen arsti vastuvõtule. — Завтра я иду на приём к врачу.;;;
+B1;phrase;Здоровье и образ жизни;vereanalüüsi andma;сдавать анализ крови;to have a blood test;Hommikul pean vereanalüüsi andma. — Утром мне нужно сдать анализ крови.;;;
+B1;phrase;Здоровье и образ жизни;haigusest taastuma;восстанавливаться после болезни;to recover from illness;Ta taastus haigusest kiiresti. — Он(а) быстро восстановился (восстановилась) после болезни.;;;b1-government
+B1;phrase;Здоровье и образ жизни;tervislikult toituma;питаться здоровой пищей;to eat healthily;Ma püüan tervislikult toituda. — Я стараюсь правильно питаться.;;;
+B1;phrase;Здоровье и образ жизни;kehalist koormust vähendama;снижать физическую нагрузку;to reduce physical activity;Arst soovitas kehalist koormust vähendada. — Врач посоветовал снизить физическую нагрузку.;;;
+B1;phrase;Отношения и общение;oma arvamust avaldama;высказывать своё мнение;to express one's opinion;Igaüks võib oma arvamust avaldada. — Каждый может высказать своё мнение.;;;
+B1;phrase;Отношения и общение;põhjust välja selgitama;выяснять причину;to find out the cause;Me peame põhjuse välja selgitama. — Нам нужно выяснить причину.;;;b1-particles
+B1;phrase;Отношения и общение;omavahel läbi saama;ладить друг с другом;to get along;Lapsed saavad omavahel hästi läbi. — Дети хорошо ладят друг с другом.;;;b1-particles
+B1;phrase;Отношения и общение;ühist keelt leidma;находить общий язык;to find common ground;Me leidsime kiiresti ühise keele. — Мы быстро нашли общий язык.;;;
+B1;phrase;Отношения и общение;kellegagi arvestama;считаться с кем-то;to take someone into account;Sa pead ka teistega arvestama. — Ты должен (должна) считаться и с другими.;;;b1-government
+B1;phrase;Отношения и общение;arvamust muutma;менять мнение;to change one's mind;Ma muutsin oma arvamust. — Я изменил(а) своё мнение.;;;
+B1;phrase;Отношения и общение;sellega nõustuma;соглашаться с этим;to agree with this;Ma ei saa sellega nõustuda. — Я не могу с этим согласиться.;;;b1-government
+B1;phrase;Окружающая среда;loodust hoidma;беречь природу;to protect nature;Me peame loodust hoidma. — Мы должны беречь природу.;;;
+B1;phrase;Окружающая среда;prügi liigiti koguma;собирать мусор раздельно;to separate waste;Meie majas kogutakse prügi liigiti. — В нашем доме мусор собирают раздельно.;;;
+B1;phrase;Окружающая среда;taaskasutusse andma;отдавать на повторное использование;to pass on for reuse;Vanad riided andsin taaskasutusse. — Старую одежду я отдал(а) на повторное использование.;;;
+B1;phrase;Путешествия и услуги;bussist maha jääma;опоздать на автобус;to miss the bus;Kiirusta, muidu jääd bussist maha! — Поторопись, иначе опоздаешь на автобус!;;;b1-particles
+B1;phrase;Путешествия и услуги;pileti kehtivust kontrollima;проверять действительность билета;to check ticket validity;Kontrolör kontrollis piletite kehtivust. — Контролёр проверил билеты.;;;
+B1;phrase;Путешествия и услуги;hilinemisest teatama;сообщать об опоздании;to report a delay;Palun teatage hilinemisest ette. — Пожалуйста, сообщайте об опоздании заранее.;;;b1-elative
+B1;phrase;Путешествия и услуги;broneeringut tühistama;отменять бронирование;to cancel a booking;Broneeringu saab tühistada tasuta. — Бронирование можно отменить бесплатно.;;;
+B1;phrase;Путешествия и услуги;õigel ajal kohale jõudma;прибывать вовремя;to arrive on time;Me jõudsime õigel ajal kohale. — Мы прибыли вовремя.;;;
+B1;phrase;Общество и услуги;taotlust täitma;заполнять заявление;to fill in an application;Taotluse saab täita internetis. — Заявление можно заполнить в интернете.;;;
+B1;phrase;Общество и услуги;otsust ootama;ожидать решения;to await a decision;Ootame veel otsust. — Мы ещё ждём решения.;;;
+B1;phrase;Образование и обучение;kontrolltööks õppima;готовиться к контрольной;to study for a test;Ma pean homseks kontrolltööks õppima. — Мне нужно готовиться к завтрашней контрольной.;;;b1-government
+B1;phrase;Образование и обучение;eksamiks valmistuma;готовиться к экзамену;to prepare for an exam;Ma valmistun eksamiks juba kuu aega. — Я готовлюсь к экзамену уже месяц.;;;b1-government
+B1;phrase;Образование и обучение;uut sõna meelde jätma;запоминать новое слово;to remember a new word;Mul on raske uusi sõnu meelde jätta. — Мне трудно запоминать новые слова.;;;
+B1;phrase;Культура и досуг;filmi arvustama;писать отзыв о фильме;to review a film;Ajakirjanik arvustas uut filmi. — Журналист написал рецензию на новый фильм.;;;
+B1;phrase;Культура и досуг;näitusel käima;посещать выставку;to visit an exhibition;Eile käisime kunstinäitusel. — Вчера мы ходили на художественную выставку.;;;
+B1;phrase;Общение и мнения;oma seisukohta selgitama;объяснять свою позицию;to explain one's position;Palun selgitage oma seisukohta. — Пожалуйста, объясните свою позицию.;;;
+B1;phrase;Общение и мнения;selgelt väljendama;ясно выражать;to express clearly;Ta oskab oma mõtteid selgelt väljendada. — Он(а) умеет ясно выражать свои мысли.;;;a2-adverbs
+B1;phrase;Общение и мнения;kirjalikult vastama;отвечать письменно;to reply in writing;Palun vastake kirjalikult. — Пожалуйста, ответьте письменно.;;;
+B2;phrase;Аргументация и дискуссия;sellest hoolimata;несмотря на это;nevertheless;;;;b1-cause-purpose
 B2;phrase;Аргументация и дискуссия;seda arvesse võttes;учитывая это;taking this into account;;;;
 B2;phrase;Аргументация и дискуссия;võrreldes eelmise aastaga;по сравнению с прошлым годом;compared with last year;;;;
 B2;phrase;Аргументация и дискуссия;pikemas perspektiivis;в долгосрочной перспективе;in the longer term;;;;
@@ -4109,39 +4109,39 @@ B2;phrase;Чувства и благополучие;vaimset tervist hoidma;за
 B2;phrase;Общество и ценности;õiguslik alus;правовая основа;legal basis;;;;
 B1;sentence;Работа и карьера;Ma kandideerisin uuele töökohale.;Я подал заявку на новую работу.;I applied for a new job.;;;;
 B1;sentence;Работа и карьера;Mul on järgmisel nädalal töövestlus.;На следующей неделе у меня собеседование.;I have a job interview next week.;;;;a2-time-expressions
-B1;sentence;Работа и карьера;Kas saaksime tähtaega pikendada?;Можем ли мы продлить срок?;Could we extend the deadline?;;;;a2-conditional
-B1;sentence;Работа и карьера;Ma ei jõua seda täna valmis teha.;Я не успею закончить это сегодня.;I won't manage to finish this today.;;;;
+B1;sentence;Работа и карьера;Kas saaksime tähtaega pikendada?;Можем ли мы продлить срок?;Could we extend the deadline?;;;;b1-polite
+B1;sentence;Работа и карьера;Ma ei jõua seda täna valmis teha.;Я не успею закончить это сегодня.;I won't manage to finish this today.;;;;b1-particles
 B1;sentence;Работа и карьера;Ma võtan selle ülesande enda peale.;Я возьму эту задачу на себя.;I'll take on this task.;;;;a2-reflexive
 B1;sentence;Работа и карьера;Meie töötingimused on viimastel aastatel muutunud.;Наши условия труда изменились за последние годы.;Our working conditions have changed in recent years.;;;;a2-perfect
-B1;sentence;Общение и мнения;Minu arvates sõltub see olukorrast.;По-моему, это зависит от ситуации.;In my opinion, it depends on the situation.;;;;
-B1;sentence;Общение и мнения;Ma olen sellega osaliselt nõus.;Я частично с этим согласен.;I partly agree with that.;;;;
+B1;sentence;Общение и мнения;Minu arvates sõltub see olukorrast.;По-моему, это зависит от ситуации.;In my opinion, it depends on the situation.;;;;b1-opinion
+B1;sentence;Общение и мнения;Ma olen sellega osaliselt nõus.;Я частично с этим согласен.;I partly agree with that.;;;;b1-opinion
 B1;sentence;Общение и мнения;Ma ei oska sellele kohe vastata.;Я не могу сразу на это ответить.;I can't answer that immediately.;;;;a2-government
-B1;sentence;Общение и мнения;Sellel otsusel on nii häid kui ka halbu külgi.;У этого решения есть и плюсы, и минусы.;This decision has both advantages and disadvantages.;;;;
-B1;sentence;Общение и мнения;Ma soovitaksin alustada lihtsamast.;Я бы посоветовал начать с более простого.;I would suggest starting with something easier.;;;;a2-conditional
-B1;sentence;Общение и мнения;Ma tahaksin teada, miks see juhtus.;Я хотел бы узнать, почему это произошло.;I'd like to know why this happened.;;;;a2-conditional
-B1;sentence;Общение и мнения;Kui midagi muutub, annan teada.;Если что-то изменится, я сообщу.;If anything changes, I'll let you know.;;;;a2-indefinite
+B1;sentence;Общение и мнения;Sellel otsusel on nii häid kui ka halbu külgi.;У этого решения есть и плюсы, и минусы.;This decision has both advantages and disadvantages.;;;;b1-connectors
+B1;sentence;Общение и мнения;Ma soovitaksin alustada lihtsamast.;Я бы посоветовал начать с более простого.;I would suggest starting with something easier.;;;;b1-polite
+B1;sentence;Общение и мнения;Ma tahaksin teada, miks see juhtus.;Я хотел бы узнать, почему это произошло.;I'd like to know why this happened.;;;;b1-polite
+B1;sentence;Общение и мнения;Kui midagi muutub, annan teada.;Если что-то изменится, я сообщу.;If anything changes, I'll let you know.;;;;a2-conditional
 B1;sentence;Отношения и общение;Mul on raske uue kohaga harjuda.;Мне трудно привыкнуть к новому месту.;It's hard for me to get used to a new place.;;;;a2-government
 B1;sentence;Отношения и общение;Kui mul oleks aega, tuleksin kaasa.;Если бы у меня было время, я бы пошёл вместе с вами.;If I had time, I'd come along.;;;;a2-conditional
-B1;sentence;Отношения и общение;Me peame üksteisega rohkem arvestama.;Нам нужно больше считаться друг с другом.;We need to be more considerate of one another.;;;;a2-modality
+B1;sentence;Отношения и общение;Me peame üksteisega rohkem arvestama.;Нам нужно больше считаться друг с другом.;We need to be more considerate of one another.;;;;b1-pronouns
 B1;sentence;Жильё и бытовые проблемы;Ma elan üürikorteris ja maksan kommunaalkulusid.;Я живу в съёмной квартире и оплачиваю коммунальные расходы.;I rent a flat and pay utility bills.;;;;
 B1;sentence;Жильё и бытовые проблемы;Vannitoas on toru ummistunud.;В ванной засорилась труба.;A pipe is blocked in the bathroom.;;;;a2-perfect
-B1;sentence;Жильё и бытовые проблемы;Kas saaksite selle vea parandada?;Вы могли бы устранить эту неисправность?;Could you fix this fault?;;;;a2-conditional
-B1;sentence;Здоровье и образ жизни;Arst soovitas mul rohkem liikuda.;Врач посоветовал мне больше двигаться.;The doctor advised me to exercise more.;;;;
+B1;sentence;Жильё и бытовые проблемы;Kas saaksite selle vea parandada?;Вы могли бы устранить эту неисправность?;Could you fix this fault?;;;;b1-polite
+B1;sentence;Здоровье и образ жизни;Arst soovitas mul rohkem liikuda.;Врач посоветовал мне больше двигаться.;The doctor advised me to exercise more.;;;;b1-reported-speech
 B1;sentence;Здоровье и образ жизни;Ma pole end viimasel ajal hästi tundnud.;В последнее время я плохо себя чувствую.;I haven't felt well lately.;;;;a2-perfect
 B1;sentence;Здоровье и образ жизни;Pärast haigust pean veel puhkama.;После болезни мне нужно ещё отдохнуть.;I need to rest more after being ill.;;;;a2-modality
-B1;sentence;Общество и услуги;Ma ei saa teie otsusest aru.;Я не понимаю вашего решения.;I don't understand your decision.;;;;a2-particle-verbs
+B1;sentence;Общество и услуги;Ma ei saa teie otsusest aru.;Я не понимаю вашего решения.;I don't understand your decision.;;;;b1-elative
 B1;sentence;Общество и услуги;Palun selgitage, mida ma edasi tegema pean.;Объясните, пожалуйста, что мне делать дальше.;Please explain what I need to do next.;;;;
 B1;sentence;Общество и услуги;Millal ma saan oma taotlusele vastuse?;Когда я получу ответ на своё заявление?;When will I get a response to my application?;;;;
-B1;sentence;Путешествия и услуги;Ma jäin bussist maha.;Я опоздал на автобус.;I missed the bus.;;;;a2-particle-verbs
-B1;sentence;Путешествия и услуги;Rong jäi halva ilma tõttu hiljaks.;Поезд задержался из-за плохой погоды.;The train was delayed because of bad weather.;;;;a2-translative-essive
+B1;sentence;Путешествия и услуги;Ma jäin bussist maha.;Я опоздал на автобус.;I missed the bus.;;;;b1-particles
+B1;sentence;Путешествия и услуги;Rong jäi halva ilma tõttu hiljaks.;Поезд задержался из-за плохой погоды.;The train was delayed because of bad weather.;;;;b1-postpositions
 B1;sentence;Путешествия и услуги;Soovin oma broneeringu tühistada.;Я хочу отменить бронирование.;I'd like to cancel my booking.;;;;
 B1;sentence;Окружающая среда;Meie peres sorteeritakse prügi.;В нашей семье сортируют мусор.;Our family sorts its waste.;;;;a2-impersonal
 B1;sentence;Окружающая среда;Ma püüan vähem elektrit kulutada.;Я стараюсь тратить меньше электроэнергии.;I try to use less electricity.;;;;
-B1;sentence;Образование и обучение;Ma ei jõudnud kõiki kodutöid ära teha.;Я не успел сделать все домашние задания.;I didn't manage to finish all my homework.;;;;a2-particle-verbs
-B1;sentence;Образование и обучение;Õpetaja palus meil oma arvamust põhjendada.;Учитель попросил нас обосновать своё мнение.;The teacher asked us to justify our opinion.;;;;
+B1;sentence;Образование и обучение;Ma ei jõudnud kõiki kodutöid ära teha.;Я не успел сделать все домашние задания.;I didn't manage to finish all my homework.;;;;b1-particles
+B1;sentence;Образование и обучение;Õpetaja palus meil oma arvamust põhjendada.;Учитель попросил нас обосновать своё мнение.;The teacher asked us to justify our opinion.;;;;b1-reported-speech
 B1;sentence;Культура и досуг;See raamat pani mind mõtlema.;Эта книга заставила меня задуматься.;This book made me think.;;;;a2-past-irregular
 B1;sentence;Культура и досуг;Mulle meeldis etendus rohkem kui film.;Спектакль мне понравился больше, чем фильм.;I liked the play more than the film.;;;;
-B1;sentence;Общение и мнения;Ma arvan, et meil tasub seda arutada.;Думаю, нам стоит это обсудить.;I think it's worth discussing.;;;;a2-conjunctions
+B1;sentence;Общение и мнения;Ma arvan, et meil tasub seda arutada.;Думаю, нам стоит это обсудить.;I think it's worth discussing.;;;;b1-opinion
 B1;sentence;Общение и мнения;Mul on sulle üks ettepanek.;У меня есть к тебе одно предложение.;I have a suggestion for you.;;;;
 B2;sentence;Аргументация и дискуссия;Ühelt poolt säästab see aega, teiselt poolt suurendab kulusid.;С одной стороны, это экономит время, с другой — увеличивает расходы.;On the one hand it saves time, on the other it increases costs.;;;;
 B2;sentence;Аргументация и дискуссия;Ma ei nõustu selle väitega, sest puuduvad piisavad tõendid.;Я не согласен с этим утверждением, потому что нет достаточных доказательств.;I disagree with this claim because there is insufficient evidence.;;;;a2-conjunctions
@@ -4664,3 +4664,433 @@ A1;phrase;Страны и языки;vene keeles kirjutama;писать по-р�
 A1;phrase;Страны и языки;inglise keeles lugema;читать по-английски;to read in English;;;;
 A1;phrase;Страны и языки;Eesti pealinn;столица Эстонии;the capital of Estonia;;Содержит имя собственное;;a1-three-forms
 A1;phrase;Страны и языки;Soome pealinn;столица Финляндии;the capital of Finland;;Содержит имя собственное;;
+B1;word;Слова-связки;lisaks;кроме того, вдобавок;in addition, besides;Lisaks sellele räägib ta soome keelt. — Кроме того, он(а) говорит по-фински.;lisaks millele? — к чему: lisaks palgale — кроме зарплаты;;b1-connectors
+B1;word;Слова-связки;teisalt;с другой стороны;on the other hand;Teisalt on see väga kallis. — С другой стороны, это очень дорого.;Часто в паре: ühelt poolt …, teisalt …;;b1-connectors
+B1;word;Слова-связки;seejärel;затем, после этого;then, after that;Kõigepealt sõime, seejärel läksime jalutama. — Сначала мы поели, затем пошли гулять.;;;b1-connectors
+B1;word;Слова-связки;teiseks;во-вторых;secondly;Esiteks on see kallis, teiseks pole meil aega. — Во-первых, это дорого, во-вторых, у нас нет времени.;;;b1-connectors
+B1;word;Слова-связки;viimaks;наконец, в конце концов;finally, at last;Viimaks jõudsime koju. — Наконец мы добрались домой.;;;
+B1;word;Слова-связки;esmalt;сначала, прежде всего;first, at first;Esmalt täitke ankeet. — Сначала заполните анкету.;;;
+B1;word;Слова-связки;asemel;вместо;instead of;Kohvi asemel joon ma teed. — Вместо кофе я пью чай.;Стоит после слова в форме «чей?»: kohvi asemel;;b1-postpositions
+B1;word;Слова-связки;hoolimata;несмотря на;despite;Hoolimata vihmast läksime välja. — Несмотря на дождь, мы вышли на улицу.;hoolimata millest? — со словом на -st;;b1-postpositions
+B1;word;Слова-связки;muide;кстати;by the way;Muide, kas sa tead, et ta kolis? — Кстати, ты знаешь, что он(а) переехал(а)?;;;
+B1;word;Слова-связки;üha;всё (больше, лучше…);more and more, ever;Hinnad lähevad üha kõrgemaks. — Цены становятся всё выше.;üha + сравнительная степень;;b1-comparison
+B1;word;Слова-связки;järjest;всё (больше), подряд;increasingly, in a row;Elu läheb järjest kallimaks. — Жизнь становится всё дороже.;Также: kolm päeva järjest — три дня подряд;;
+B1;word;Слова-связки;edaspidi;впредь, в дальнейшем;from now on;Edaspidi olen ma ettevaatlikum. — Впредь я буду осторожнее.;;;
+B1;word;Слова-связки;hiljuti;недавно;recently;Ma kolisin hiljuti Tartusse. — Я недавно переехал(а) в Тарту.;;;
+B1;word;Слова-связки;peagi;вскоре, скоро;soon;Peagi algab uus kursus. — Вскоре начнётся новый курс.;;;
+B1;word;Слова-связки;tänapäeval;в наше время, сегодня;nowadays;Tänapäeval on kõigil nutitelefon. — В наше время у всех есть смартфон.;;;
+B1;word;Слова-связки;vahepeal;тем временем, иногда;meanwhile, sometimes;Mine poodi, ma teen vahepeal süüa. — Сходи в магазин, а я тем временем приготовлю еду.;;;
+B1;word;Слова-связки;aegamööda;постепенно, со временем;gradually;Aegamööda harjusin uue tööga. — Постепенно я привык(ла) к новой работе.;;;
+B1;word;Слова-связки;järk-järgult;постепенно, поэтапно;step by step;Hinnad tõusevad järk-järgult. — Цены растут постепенно.;;;
+B1;word;Слова-связки;tasapisi;понемногу, потихоньку;little by little;Eesti keel tuleb tasapisi. — Эстонский потихоньку получается.;;;
+B1;word;Слова-связки;korraga;сразу, одновременно;at once, at the same time;Kõik rääkisid korraga. — Все говорили одновременно.;;;
+B1;word;Действия;keskenduma;сосредоточиться;to concentrate;Müra tõttu ei saa ma keskenduda. — Из-за шума я не могу сосредоточиться.;keskenduma millele? — на чём: tööle;;b1-government
+B1;word;Действия;vastutama;отвечать (за что-то);to be responsible;Kes selle eest vastutab? — Кто за это отвечает?;vastutama mille eest?;;b1-government
+B1;word;Действия;eelistama;предпочитать;to prefer;Ma eelistan teed kohvile. — Я предпочитаю чай кофе.;eelistama mida millele? — что чему;;b1-government
+B1;word;Действия;suhtuma;относиться (к чему-то);to regard, to feel about;Kuidas sa sellesse suhtud? — Как ты к этому относишься?;suhtuma millesse? kellesse? — со словом на -sse;;b1-government
+B1;word;Действия;lahendama;решать (задачу, проблему);to solve;Me lahendasime probleemi kiiresti. — Мы быстро решили проблему.;;;
+B1;word;Действия;arendama;развивать;to develop;Ma tahan oma keeleoskust arendada. — Я хочу развивать знание языка.;Пара: arenema — развиваться;;b1-verb-pairs
+B1;word;Действия;rahunema;успокаиваться;to calm down;Laps rahunes kiiresti. — Ребёнок быстро успокоился.;Пара: rahustama — успокаивать. Rahune maha! — Успокойся!;;b1-verb-pairs
+B1;word;Действия;sulguma;закрываться;to close (by itself);Uks sulgub automaatselt. — Дверь закрывается автоматически.;Пара: sulgema — закрывать (что-то);;b1-verb-pairs
+B1;word;Действия;avanema;открываться;to open (by itself);Aken ei avane. — Окно не открывается.;Пара: avama — открывать (что-то);;b1-verb-pairs
+B1;word;Действия;tekitama;вызывать, создавать;to cause;See tekitas palju probleeme. — Это создало много проблем.;Пара: tekkima — возникать;;b1-verb-pairs
+B1;word;Действия;süüdistama;обвинять;to blame, to accuse;Ära süüdista mind! — Не обвиняй меня!;süüdistama keda milles?;;
+B1;word;Действия;osutuma;оказаться;to turn out;Ülesanne osutus raskeks. — Задание оказалось трудным.;osutuma milleks? — со словом на -ks;;b1-become
+B1;word;Действия;tunduma;казаться;to seem;Film tundus mulle igav. — Фильм показался мне скучным.;Mulle tundub, et… — Мне кажется, что…;;b1-opinion
+B1;word;Действия;kogema;испытывать, переживать (на опыте);to experience;Ma kogesin seda ise. — Я испытал(а) это на себе.;Отсюда kogemus — опыт;;
+B1;word;Действия;korduma;повторяться;to recur, to repeat itself;See ei tohi korduda. — Это не должно повториться.;Пара: kordama — повторять;;b1-verb-pairs
+B1;word;Действия;tühistama;отменять;to cancel;Lend tühistati. — Рейс отменили.;;;
+B1;word;Действия;pikendama;продлевать;to extend;Ma pikendasin üürilepingut aasta võrra. — Я продлил(а) договор аренды на год.;;;
+B1;word;Действия;sooritama;сдавать (экзамен), совершать;to pass (an exam), to perform;Ma sooritasin tasemeeksami. — Я сдал(а) экзамен на уровень.;eksamit sooritama — сдавать экзамен;;
+B1;word;Действия;häirima;мешать, беспокоить;to disturb;Vabandust, et ma häirin. — Извините, что беспокою.;;;
+B1;word;Действия;laenutama;брать или давать напрокат;to rent, to borrow;Laenutasin raamatukogust kaks raamatut. — Я взял(а) в библиотеке две книги.;;;
+B1;word;Действия;märkima;отмечать, указывать;to mark, to note;Märkige õige vastus ristiga. — Отметьте правильный ответ крестиком.;;;
+B1;word;Действия;printima;печатать (на принтере);to print;Kas sa saaksid selle välja printida? — Можешь это распечатать?;;;
+B1;word;Действия;postitama;публиковать (в соцсети);to post;Ta postitas pildi sotsiaalmeediasse. — Он(а) выложил(а) фото в соцсеть.;;;
+B1;word;Действия;kindlustama;страховать;to insure;Ma kindlustasin oma auto. — Я застраховал(а) свою машину.;;;
+B1;word;Действия;renoveerima;ремонтировать (здание), реновировать;to renovate;Meie maja renoveeritakse. — Наш дом реновируют.;;;a2-impersonal
+B1;word;Действия;soojustama;утеплять;to insulate;Me soojustasime maja. — Мы утеплили дом.;;;
+B1;word;Действия;lekkima;протекать;to leak;Katus lekib. — Крыша протекает.;;;
+B1;word;Действия;ummistuma;засоряться;to get clogged;Valamu on ummistunud. — Раковина засорилась.;;;
+B1;word;Действия;katkema;прерываться;to break off, to be cut;Kõne katkes. — Звонок прервался.;;;
+B1;word;Действия;kustuma;гаснуть;to go out (light, fire);Tuled kustusid. — Свет погас.;Пара: kustutama — гасить;;b1-verb-pairs
+B1;word;Действия;külmetuma;простудиться;to catch a cold;Ma külmetusin. — Я простудился (простудилась).;;;
+B1;word;Действия;nakatuma;заразиться;to get infected;Ta nakatus gripiga. — Он(а) заразился (заразилась) гриппом.;nakatuma millega?;;b1-government
+B1;word;Действия;minestama;падать в обморок;to faint;Ta minestas kuumuse tõttu. — Он(а) потерял(а) сознание из-за жары.;;;
+B1;word;Действия;vigastama;травмировать, повредить;to injure;Ma vigastasin jalga. — Я повредил(а) ногу.;;;
+B1;word;Действия;toibuma;приходить в себя, поправляться;to recover;Ta toibub operatsioonist. — Он(а) поправляется после операции.;toibuma millest?;;b1-government
+B1;word;Действия;petma;обманывать;to cheat, to deceive;Ära lase end petta! — Не дай себя обмануть!;;;
+B1;word;Действия;röövima;грабить;to rob;Poodi rööviti öösel. — Магазин ограбили ночью.;;;
+B1;word;Действия;trahvima;штрафовать;to fine;Mind trahviti kiiruse ületamise eest. — Меня оштрафовали за превышение скорости.;trahvima keda mille eest?;;b1-government
+B1;word;Действия;kihluma;обручиться;to get engaged;Nad kihlusid eelmisel suvel. — Они обручились прошлым летом.;;;
+B1;word;Действия;paiknema;располагаться;to be located;Kontor paikneb kesklinnas. — Офис располагается в центре.;;;
+B1;word;Действия;erinema;отличаться;to differ;Eesti keel erineb vene keelest väga palju. — Эстонский очень сильно отличается от русского.;erinema millest? — со словом на -st;;b1-elative
+B1;word;Действия;sarnanema;быть похожим;to resemble;Ta sarnaneb oma isaga. — Он(а) похож(а) на отца.;sarnanema kellega? — со словом на -ga;;b1-government
+B1;word;Действия;pärinema;происходить (откуда-то);to come from, to originate;See komme pärineb keskajast. — Этот обычай берёт начало в Средневековье.;pärinema kust? — со словом на -st;;b1-elative
+B1;word;Действия;tulenema;вытекать, следовать (из чего-то);to result from;Probleem tuleneb vigasest tarkvarast. — Проблема вызвана ошибкой в программе.;tulenema millest?;;b1-elative
+B1;word;Действия;seisnema;заключаться (в чём-то);to consist in;Probleem seisneb selles, et meil pole aega. — Проблема в том, что у нас нет времени.;seisnema milles?;;b1-government
+B1;word;Действия;remontima;ремонтировать, чинить;to repair;Ma lasin auto remontida. — Я отдал(а) машину в ремонт.;;;
+B1;word;Действия;igatsema;скучать (по кому-то);to miss, to long for;Ma igatsen sind. — Я по тебе скучаю.;igatsema keda? mida?;;
+B1;word;Описание;kasutatud;подержанный, использованный;used, second-hand;Ostsin kasutatud auto. — Я купил(а) подержанную машину.;От kasutama: форма на -tud;;b1-participles
+B1;word;Описание;tuntud;известный;well-known;Ta on tuntud kirjanik. — Он(а) известный писатель.;От tundma: форма на -tud;;b1-participles
+B1;word;Описание;haritud;образованный;educated;Ta on väga haritud inimene. — Он(а) очень образованный человек.;От harima: форма на -tud;;b1-participles
+B1;word;Описание;keelatud;запрещённый;forbidden;Siin on suitsetamine keelatud. — Здесь курить запрещено.;От keelama: форма на -tud;;b1-participles
+B1;word;Описание;reserveeritud;забронированный;reserved;See laud on reserveeritud. — Этот столик забронирован.;Надпись на столике или месте;;b1-participles
+B1;word;Описание;lõpetamata;незаконченный;unfinished;Töö on veel lõpetamata. — Работа ещё не закончена.;От lõpetama: форма на -mata;;b1-participles
+B1;word;Описание;maksmata;неоплаченный;unpaid;Mul on üks arve veel maksmata. — У меня ещё не оплачен один счёт.;От maksma: форма на -mata;;b1-participles
+B1;word;Описание;joodav;питьевой, пригодный для питья;drinkable;Kas see vesi on joodav? — Эту воду можно пить?;От jooma: форма на -dav;;b1-participles
+B1;word;Описание;loetav;разборчивый, читаемый;legible;Tema käekiri on vaevu loetav. — Его (её) почерк едва можно прочитать.;От lugema: форма на -tav;;b1-participles
+B1;word;Описание;söödav;съедобный;edible;Kas see seen on söödav? — Этот гриб съедобный?;От sööma: форма на -dav;;b1-participles
+B1;word;Описание;nähtav;видимый, заметный;visible;Viga oli kohe nähtav. — Ошибка была сразу заметна.;От nägema: форма на -tav;;b1-participles
+B1;word;Описание;arusaadav;понятный;understandable;Tema selgitus oli arusaadav. — Его (её) объяснение было понятным.;От aru saama: форма на -dav;;b1-participles
+B1;word;Описание;usutav;правдоподобный;believable;See lugu ei ole eriti usutav. — Эта история не очень правдоподобна.;От uskuma: форма на -tav;;b1-participles
+B1;word;Описание;talutav;терпимый, сносный;bearable;Valu on talutav. — Боль терпимая.;От taluma: форма на -tav;;b1-participles
+B1;word;Описание;kasvav;растущий;growing;Kasvav laps vajab palju und. — Растущему ребёнку нужно много сна.;От kasvama: форма на -v;;b1-participles
+B1;word;Описание;tulev;будущий, следующий;coming, next;Tuleval nädalal on mul puhkus. — На следующей неделе у меня отпуск.;От tulema: форма на -v. Склоняется: tuleval aastal;;b1-participles
+B1;word;Описание;kehtiv;действующий, действительный;valid;Kas teil on kehtiv pass? — У вас действующий паспорт?;От kehtima: форма на -v;;b1-participles
+B1;word;Описание;korduv;повторяющийся;recurring;See on korduv probleem. — Это повторяющаяся проблема.;От korduma: форма на -v;;b1-participles
+B1;word;Описание;eelnev;предыдущий;previous;Vaata eelnevat lehekülge. — Посмотри предыдущую страницу.;;;
+B1;word;Описание;järgnev;следующий, нижеследующий;following;Vastake järgnevatele küsimustele. — Ответьте на следующие вопросы.;Частое слово в заданиях;;
+B1;word;Описание;möödunud;прошлый, прошедший;past, last;Möödunud nädalal oli mul palju tööd. — На прошлой неделе у меня было много работы.;От mööduma: форма на -nud, не склоняется;;b1-participles
+B1;word;Описание;kogenud;опытный;experienced;Ta on kogenud õpetaja. — Он(а) опытный учитель.;От kogema: форма на -nud;;b1-participles
+B1;word;Описание;õnnestunud;удачный;successful;See oli väga õnnestunud üritus. — Это было очень удачное мероприятие.;От õnnestuma: форма на -nud;;b1-participles
+B1;word;Описание;ebaõnnestunud;неудачный;unsuccessful, failed;See oli ebaõnnestunud katse. — Это была неудачная попытка.;;;b1-participles
+B1;word;Описание;kadunud;пропавший;lost, missing;Kadunud koer leiti üles. — Пропавшую собаку нашли.;От kaduma: форма на -nud;;b1-participles
+B1;word;Описание;tulevane;будущий;future;Ta on minu tulevane ülemus. — Он(а) мой будущий начальник.;;;
+B1;word;Описание;ajutine;временный;temporary;See on ajutine lahendus. — Это временное решение.;;;
+B1;word;Описание;püsiv;постоянный, стойкий;permanent, stable;Ma otsin püsivat tööd. — Я ищу постоянную работу.;;;
+B1;word;Описание;alaline;постоянный;permanent;Mis on teie alaline elukoht? — Какое у вас постоянное место жительства?;;;
+B1;word;Описание;regulaarne;регулярный;regular;Regulaarne liikumine on tervisele kasulik. — Регулярные физические нагрузки полезны для здоровья.;;;
+B1;word;Описание;iseseisev;самостоятельный, независимый;independent;Ta on väga iseseisev. — Он(а) очень самостоятельный (самостоятельная).;;;
+B1;word;Описание;sõltumatu;независимый;independent;Ta tahab olla rahaliselt sõltumatu. — Он(а) хочет быть финансово независимым (независимой).;Состоит из: sõltuma (зависеть) + -matu;;b1-adjective-suffixes
+B1;word;Описание;õiglane;справедливый;fair, just;See otsus on õiglane. — Это решение справедливое.;;;
+B1;word;Описание;ebaõiglane;несправедливый;unfair;See on ebaõiglane! — Это несправедливо!;eba- + õiglane;;b1-adjective-suffixes
+B1;word;Описание;ebaviisakas;невежливый;rude;See oli väga ebaviisakas. — Это было очень невежливо.;eba- + viisakas;;b1-adjective-suffixes
+B1;word;Описание;ebatavaline;необычный;unusual;See on ebatavaline olukord. — Это необычная ситуация.;eba- + tavaline;;b1-adjective-suffixes
+B1;word;Описание;ebakindel;неуверенный;uncertain, insecure;Ma olen veel natuke ebakindel. — Я ещё немного не уверен(а) в себе.;eba- + kindel;;b1-adjective-suffixes
+B1;word;Описание;ebaselge;неясный;unclear;Mõni asi jäi mulle ebaselgeks. — Кое-что осталось мне неясным.;eba- + selge;;b1-adjective-suffixes
+B1;word;Описание;ebatervislik;нездоровый, вредный;unhealthy;Kiirtoit on ebatervislik. — Фастфуд вреден для здоровья.;eba- + tervislik;;b1-adjective-suffixes
+B1;word;Описание;unustamatu;незабываемый;unforgettable;See oli unustamatu reis. — Это была незабываемая поездка.;unustama + -matu;;b1-adjective-suffixes
+B1;word;Описание;lilleline;в цветочек;flowered, floral;Ta ostis lillelise kleidi. — Она купила платье в цветочек.;lill + -line;;b1-adjective-suffixes
+B1;word;Описание;rohekas;зеленоватый;greenish;Vesi oli rohekas. — Вода была зеленоватой.;roheline + -kas;;b1-adjective-suffixes
+B1;word;Описание;kättesaadav;доступный;available, accessible;Teenus on kättesaadav ka internetis. — Услуга доступна и в интернете.;;;
+B1;word;Описание;piiratud;ограниченный;limited;Kohtade arv on piiratud. — Количество мест ограничено.;От piirama: форма на -tud;;b1-participles
+B1;word;Описание;vastutustundlik;ответственный;responsible;Ta on vastutustundlik töötaja. — Он(а) ответственный работник.;;;
+B1;word;Описание;paindlik;гибкий;flexible;Mul on paindlik tööaeg. — У меня гибкий рабочий график.;;;
+B1;word;Описание;otsene;прямой;direct;See on otsene küsimus. — Это прямой вопрос.;;;
+B1;word;Описание;tõenäoline;вероятный;likely, probable;On tõenäoline, et homme sajab. — Вероятно, завтра будет дождь.;;;
+B1;word;Описание;ebatõenäoline;маловероятный;unlikely;See on väga ebatõenäoline. — Это очень маловероятно.;eba- + tõenäoline;;b1-adjective-suffixes
+B1;word;Описание;kahtlane;подозрительный, сомнительный;suspicious;Sain kahtlase kirja. — Я получил(а) подозрительное письмо.;;;
+B1;word;Описание;tulus;выгодный, прибыльный;profitable;See on tulus äri. — Это прибыльный бизнес.;;;
+B1;word;Описание;suuline;устный;oral;Homme on suuline eksam. — Завтра устный экзамен.;;;
+B1;word;Описание;kirjalik;письменный;written;Esitage kirjalik avaldus. — Подайте письменное заявление.;;;
+B1;word;Описание;kahetoaline;двухкомнатный;two-room;Me elame kahetoalises korteris. — Мы живём в двухкомнатной квартире.;kaks tuba + -line;;b1-adjective-suffixes
+B1;word;Чувства и характер;rahulolev;довольный;satisfied;Klient oli väga rahulolev. — Клиент был очень доволен.;;;
+B1;word;Чувства и характер;rahulolematu;недовольный;dissatisfied;Ta oli tulemusega rahulolematu. — Он(а) был(а) недоволен (недовольна) результатом.;rahulolematu millega?;;
+B1;word;Чувства и характер;ärev;тревожный, взволнованный;anxious;Enne eksamit olen alati ärev. — Перед экзаменом я всегда волнуюсь.;;;
+B1;word;Чувства и характер;tänulik;благодарный;grateful;Ma olen sulle väga tänulik. — Я тебе очень благодарен (благодарна).;tänulik kellele? mille eest?;;
+B1;word;Чувства и характер;kurbus;грусть, печаль;sadness;Tema silmis oli kurbust. — В его (её) глазах была грусть.;;;
+B1;word;Чувства и характер;rahulolu;удовлетворение;satisfaction;Töö pakub mulle rahulolu. — Работа приносит мне удовлетворение.;;;
+B1;word;Чувства и характер;enesekindel;уверенный в себе;self-confident;Ta on väga enesekindel. — Он(а) очень уверен(а) в себе.;;;
+B1;word;Чувства и характер;üksildane;одинокий;lonely;Ta tunneb end üksildasena. — Он(а) чувствует себя одиноким (одинокой).;tundma end + -na;;a2-translative-essive
+B1;word;Чувства и характер;üksindus;одиночество;loneliness;Vanemad inimesed kannatavad sageli üksinduse all. — Пожилые люди часто страдают от одиночества.;;;
+B1;word;Чувства и характер;uudishimu;любопытство;curiosity;Ma küsisin lihtsalt uudishimust. — Я спросил(а) просто из любопытства.;uudishimust — из любопытства;;b1-elative
+B1;word;Чувства и характер;kannatlikkus;терпение;patience;Keele õppimine nõuab kannatlikkust. — Изучение языка требует терпения.;;;
+B1;word;Чувства и характер;tänulikkus;благодарность;gratitude;Tundsin suurt tänulikkust. — Я чувствовал(а) огромную благодарность.;;;
+B1;word;Чувства и характер;armukadedus;ревность;jealousy;Armukadedus rikub suhteid. — Ревность портит отношения.;;;
+B1;word;Чувства и характер;pinge;напряжение;tension, stress;Tööl on praegu suur pinge. — На работе сейчас большое напряжение.;;;
+B1;word;Общество и государство;valija;избиратель;voter;Valijad otsustavad, kes võidab. — Избиратели решают, кто победит.;От valima: -ja;;
+B1;word;Общество и государство;erakond;партия;political party;Erakond võitis valimised. — Партия победила на выборах.;;;
+B1;word;Общество и государство;omavalitsus;самоуправление;local government;Kohalik omavalitsus maksab toetust. — Местное самоуправление выплачивает пособие.;kohalik omavalitsus — город или волость;;
+B1;word;Общество и государство;riigikeel;государственный язык;official language;Eesti riigikeel on eesti keel. — Государственный язык Эстонии — эстонский.;;;
+B1;word;Общество и государство;rahvusvähemus;национальное меньшинство;national minority;Eestis elab mitu rahvusvähemust. — В Эстонии живёт несколько национальных меньшинств.;;;
+B1;word;Общество и государство;sotsiaaltöötaja;социальный работник;social worker;Sotsiaaltöötaja aitas meid. — Социальный работник нам помог.;;;
+B1;word;Общество и государство;suhtumine;отношение;attitude;Mulle ei meeldi tema suhtumine. — Мне не нравится его (её) отношение.;От suhtuma;;
+B1;word;Общество и государство;langus;снижение, падение;decline, fall;Hindade langus rõõmustab ostjaid. — Снижение цен радует покупателей.;;;
+B1;word;Общество и государство;puudus;недостаток, нехватка;shortage, drawback;Haiglates on arstidest puudus. — В больницах не хватает врачей.;puudus millest? — нехватка чего;;b1-elative
+B1;word;Общество и государство;põlvkond;поколение;generation;Noorem põlvkond kasutab rohkem internetti. — Молодое поколение больше пользуется интернетом.;;;
+B1;word;Общество и государство;noorus;молодость;youth;Nooruses elasin ma Narvas. — В молодости я жил(а) в Нарве.;;;
+B1;word;Общество и государство;vanadus;старость;old age;Ta elab vanaduses üksi. — В старости он(а) живёт один (одна).;;;
+B1;word;Общество и государство;eluviis;образ жизни;lifestyle;Tal on tervislik eluviis. — У него (неё) здоровый образ жизни.;;;
+B1;word;Общество и государство;inflatsioon;инфляция;inflation;Inflatsioon on sel aastal kõrge. — Инфляция в этом году высокая.;;;
+B1;word;Общество и государство;üritus;мероприятие;event;Üritus toimub laupäeval. — Мероприятие пройдёт в субботу.;;;
+B1;word;Общество и государство;teadaanne;объявление;announcement, notice;Seinal on uus teadaanne. — На стене новое объявление.;;;
+B1;word;Общество и государство;pöördumine;обращение;appeal, request;Vastame teie pöördumisele viie tööpäeva jooksul. — Мы ответим на ваше обращение в течение пяти рабочих дней.;;;
+B1;word;Общество и государство;nõudmine;требование;demand;Klient esitas oma nõudmised. — Клиент изложил свои требования.;;;
+B1;word;Общество и государство;hüvitis;компенсация;compensation;Ma sain hilinenud lennu eest hüvitist. — Я получил(а) компенсацию за задержанный рейс.;;;
+B1;word;Общество и государство;küsimustik;анкета, опросник;questionnaire;Palun täitke see küsimustik. — Пожалуйста, заполните этот опросник.;;;
+B1;word;Общество и государство;kontaktandmed;контактные данные;contact details;Jätke oma kontaktandmed. — Оставьте свои контактные данные.;Мн. ч.;;
+B1;word;Общество и государство;postiindeks;почтовый индекс;postal code;Kirjutage aadress ja postiindeks. — Напишите адрес и почтовый индекс.;;;
+B1;word;Общество и государство;naabruskond;окрестности, район;neighbourhood;Meie naabruskond on rahulik. — Наш район спокойный.;;;
+B1;word;Общество и государство;äärelinn;окраина, пригород;suburb;Nad elavad äärelinnas. — Они живут на окраине.;;;
+B1;word;Работа и деньги;koondama;сокращать (работников);to lay off;Firma koondas kümme töötajat. — Фирма сократила десять работников.;;;
+B1;word;Работа и деньги;vallandama;увольнять;to dismiss, to fire;Ta vallandati. — Его (её) уволили.;;;a2-impersonal
+B1;word;Работа и деньги;lahkumisavaldus;заявление об уходе;resignation letter;Ta esitas lahkumisavalduse. — Он(а) подал(а) заявление об уходе.;;;
+B1;word;Работа и деньги;ületunnitöö;сверхурочная работа;overtime work;Ületunnitöö eest makstakse rohkem. — Сверхурочную работу оплачивают выше.;;;
+B1;word;Работа и деньги;puhkusetasu;отпускные;holiday pay;Puhkusetasu makstakse enne puhkust. — Отпускные выплачивают перед отпуском.;;;
+B1;word;Работа и деньги;tulumaks;подоходный налог;income tax;Palgast peetakse kinni tulumaks. — С зарплаты удерживается подоходный налог.;;;
+B1;word;Работа и деньги;käibemaks;налог с оборота (НДС);value added tax;Hind sisaldab käibemaksu. — Цена включает налог с оборота.;;;
+B1;word;Работа и деньги;maksuamet;налоговый департамент;tax office;Maksuamet saatis mulle kirja. — Налоговая прислала мне письмо.;;;
+B1;word;Работа и деньги;väljaminek;расход;expense;Selle kuu väljaminekud on suured. — Расходы в этом месяце большие.;;;
+B1;word;Работа и деньги;tööturg;рынок труда;labour market;Tööturg muutub kiiresti. — Рынок труда быстро меняется.;;;
+B1;word;Работа и деньги;ettevõtja;предприниматель;entrepreneur;Ta on edukas ettevõtja. — Он(а) успешный предприниматель.;;;
+B1;word;Работа и деньги;ettevõtlus;предпринимательство;entrepreneurship;Ta tahab ettevõtlusega tegeleda. — Он(а) хочет заниматься предпринимательством.;;;
+B1;word;Работа и деньги;töökogemus;опыт работы;work experience;Mul on kolm aastat töökogemust. — У меня три года опыта работы.;Состоит из: töö (работа) + kogemus (опыт);;
+B1;word;Работа и деньги;kvalifikatsioon;квалификация;qualification;Selleks tööks on vaja kõrget kvalifikatsiooni. — Для этой работы нужна высокая квалификация.;;;
+B1;word;Работа и деньги;kutseharidus;профессиональное образование;vocational education;Tal on kutseharidus. — У него (неё) профессиональное образование.;;;
+B1;word;Работа и деньги;kviitung;квитанция, чек;receipt;Hoidke kviitung alles. — Сохраните квитанцию.;;;
+B1;word;Работа и деньги;tagatisraha;залог (деньги);deposit;Üürnik maksis tagatisraha. — Арендатор заплатил залог.;;;
+B1;word;Работа и деньги;vanemapuhkus;отпуск по уходу за ребёнком;parental leave;Ta on vanemapuhkusel. — Он(а) в отпуске по уходу за ребёнком.;;;
+B1;word;Работа и деньги;lapsehoid;присмотр за детьми;childcare;Lapsehoid on kallis. — Присмотр за детьми стоит дорого.;;;
+B1;word;Образование и обучение;tasemeeksam;экзамен на уровень владения языком;language proficiency exam;Ma teen sügisel tasemeeksami. — Осенью я буду сдавать экзамен на уровень.;;;
+B1;word;Образование и обучение;keelekursus;языковой курс;language course;Ma käin keelekursusel kaks korda nädalas. — Я хожу на языковой курс два раза в неделю.;;;
+B1;word;Образование и обучение;kursuslane;слушатель курсов;course participant;Kursusel on kaksteist kursuslast. — На курсе двенадцать слушателей.;;;
+B1;word;Образование и обучение;kirjand;сочинение;essay (at school);Me kirjutasime kirjandi. — Мы написали сочинение.;;;
+B1;word;Образование и обучение;sõnavara;словарный запас, лексика;vocabulary;Mu sõnavara kasvab iga päevaga. — Мой словарный запас растёт с каждым днём.;;;
+B1;word;Образование и обучение;hääldus;произношение;pronunciation;Tema hääldus on väga hea. — У него (неё) очень хорошее произношение.;;;
+B1;word;Образование и обучение;lugemine;чтение;reading;Eksamil on lugemise osa. — На экзамене есть часть «чтение».;Части экзамена: kuulamine, lugemine, kirjutamine, rääkimine;;
+B1;word;Образование и обучение;kirjutamine;письмо (навык);writing;Kirjutamine on mulle kõige raskem. — Письмо даётся мне труднее всего.;;;
+B1;word;Образование и обучение;rääkimine;говорение;speaking;Rääkimise osas tuleb vestelda. — В части «говорение» нужно вести беседу.;;;
+B1;word;Образование и обучение;kutsekool;профессиональное училище;vocational school;Ta õpib kutsekoolis kokaks. — Он(а) учится в училище на повара.;õppima kelleks? — на кого;;a2-translative-essive
+B1;word;Образование и обучение;õppeaasta;учебный год;school year;Õppeaasta algab septembris. — Учебный год начинается в сентябре.;;;
+B1;word;Образование и обучение;semester;семестр;semester;Sel semestril on mul viis ainet. — В этом семестре у меня пять предметов.;;;
+B1;word;Образование и обучение;konspekt;конспект;lecture notes;Kas ma saaksin su konspekti laenata? — Можно одолжить твой конспект?;;;
+B1;word;Медиа и технологии;allikas;источник;source;Mis on selle info allikas? — Каков источник этой информации?;;;
+B1;word;Медиа и технологии;uudiskiri;рассылка новостей;newsletter;Ma tellisin uudiskirja. — Я подписался (подписалась) на рассылку.;;;
+B1;word;Медиа и технологии;uuendus;обновление;update;Laadi alla uusim uuendus. — Скачай последнее обновление.;;;
+B1;word;Медиа и технологии;valeuudis;фейковая новость;fake news;Ära usu valeuudiseid. — Не верь фейковым новостям.;;;
+B1;word;Медиа и технологии;uudisteportaal;новостной портал;news portal;Ma loen uudiseid uudisteportaalist. — Я читаю новости на новостном портале.;;;
+B1;word;Медиа и технологии;kanal;канал;channel;Mis kanalil film tuleb? — По какому каналу идёт фильм?;;;
+B1;word;Медиа и технологии;otseülekanne;прямая трансляция;live broadcast;Kontserdist on otseülekanne. — Концерт транслируется в прямом эфире.;;;
+B1;word;Медиа и технологии;privaatsus;конфиденциальность, частная жизнь;privacy;Mõtle oma privaatsusele! — Думай о своей конфиденциальности!;;;
+B1;word;Медиа и технологии;petukiri;мошенническое письмо;phishing email;Ära ava petukirjas olevat linki. — Не открывай ссылку из мошеннического письма.;;;
+B1;word;Здоровье;sümptom;симптом;symptom;Millised sümptomid teil on? — Какие у вас симптомы?;;;
+B1;word;Здоровье;vaktsiin;вакцина;vaccine;Ma sain gripivaktsiini. — Я сделал(а) прививку от гриппа.;;;
+B1;word;Здоровье;unetus;бессонница;insomnia;Mind vaevab unetus. — Меня мучает бессонница.;;;
+B1;word;Здоровье;eriarst;врач-специалист;specialist doctor;Eriarsti juurde on pikk järjekord. — К специалисту длинная очередь.;;;
+B1;word;Здоровье;taastusravi;реабилитация;rehabilitation;Pärast operatsiooni on vaja taastusravi. — После операции нужна реабилитация.;;;
+B1;word;Здоровье;erakorraline;экстренный, срочный;emergency;Ta viidi erakorralise meditsiini osakonda. — Его (её) доставили в отделение экстренной медицины.;;;
+B1;word;Здоровье;luumurd;перелом;fracture;Röntgen näitas luumurdu. — Рентген показал перелом.;;;
+B1;word;Здоровье;viirus;вирус;virus;Mul on mingi viirus. — У меня какой-то вирус.;;;
+B1;word;Здоровье;dieet;диета;diet;Ma olen dieedil. — Я на диете.;;;
+B1;word;Здоровье;ülekaal;лишний вес;excess weight;Ülekaal on terviseprobleem. — Лишний вес — проблема для здоровья.;;;
+B1;word;Жильё и бытовые проблемы;korteriühistu;товарищество квартирособственников;housing association;Korteriühistu otsustas maja renoveerida. — Товарищество решило отремонтировать дом.;;;
+B1;word;Жильё и бытовые проблемы;kommunaalkulud;коммунальные расходы;utility costs;Talvel on kommunaalkulud suured. — Зимой коммунальные расходы большие.;Мн. ч.;;
+B1;word;Жильё и бытовые проблемы;niiskus;влажность, сырость;humidity, damp;Keldris on suur niiskus. — В подвале очень сыро.;;;
+B1;word;Жильё и бытовые проблемы;hallitus;плесень;mould;Vannitoas on hallitus. — В ванной плесень.;;;
+B1;word;Жильё и бытовые проблемы;kolimine;переезд;moving (house);Kolimine on alati väsitav. — Переезд — это всегда утомительно.;От kolima: -mine;;
+B1;word;Жильё и бытовые проблемы;müra;шум;noise;Tänavalt kostab müra. — С улицы доносится шум.;;;
+B1;word;Путешествия и услуги;sihtkoht;пункт назначения;destination;Mis on teie reisi sihtkoht? — Куда вы едете (каков пункт назначения)?;;;
+B1;word;Путешествия и услуги;reisibüroo;турагентство;travel agency;Ostsime reisi reisibüroost. — Мы купили путёвку в турагентстве.;;;
+B1;word;Путешествия и услуги;broneering;бронирование, бронь;booking;Mul on broneering kahele. — У меня бронь на двоих.;;;
+B1;word;Путешествия и услуги;ööbimine;ночёвка, ночлег;overnight stay;Hinnas sisaldub ööbimine ja hommikusöök. — В цену входит ночлег и завтрак.;;;
+B1;word;Путешествия и услуги;väljasõit;выезд, поездка;trip, outing;Laupäeval on klassi väljasõit. — В субботу класс едет на экскурсию.;;;
+B1;word;Путешествия и услуги;sõidukaart;проездная карта;travel card;Laadi sõidukaardile raha. — Пополни проездную карту.;;;
+B1;word;Путешествия и услуги;kiiruspiirang;ограничение скорости;speed limit;Siin on kiiruspiirang 50. — Здесь ограничение скорости 50.;;;
+B1;word;Окружающая среда;pakend;упаковка;packaging;Pakendid pane kollasesse konteinerisse. — Упаковку клади в жёлтый контейнер.;;;
+B1;word;Окружающая среда;pandipakend;тара с залогом;deposit bottle or can;Viin pandipakendid poodi tagasi. — Я сдаю тару с залогом обратно в магазин.;Бутылки и банки, за которые возвращают деньги;;
+B1;word;Окружающая среда;keskkonnasõbralik;экологичный;eco-friendly;Jalgratas on keskkonnasõbralik. — Велосипед — экологичный транспорт.;;;
+B1;word;Окружающая среда;päikesepaneel;солнечная панель;solar panel;Meil on katusel päikesepaneelid. — У нас на крыше солнечные панели.;;;
+B1;word;Окружающая среда;tuulepark;ветропарк;wind farm;Mere äärde ehitatakse tuulepark. — У моря строят ветропарк.;;;a2-impersonal
+B1;word;Окружающая среда;plastik;пластик;plastic;Plastik laguneb looduses väga kaua. — Пластик очень долго разлагается в природе.;;;
+B1;word;Культура и досуг;lavastaja;режиссёр (театра);stage director;Lavastaja on tuntud näitleja. — Режиссёр — известный актёр.;;;
+B1;word;Культура и досуг;huviring;кружок;hobby group, club;Laps käib kahes huviringis. — Ребёнок ходит в два кружка.;;;
+B1;word;Культура и досуг;harrastus;хобби, увлечение;hobby;Minu harrastus on kalastamine. — Моё увлечение — рыбалка.;;;
+B1;word;Общение и мнения;lugupidamisega;с уважением;respectfully, yours sincerely;;Прощание в официальном письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;word;Общение и мнения;tervitades;с приветом;best regards;;Прощание в личном письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;phrase;Глаголы и падежи;suitsetamisest loobuma;бросить курить;to quit smoking;Ta loobus eelmisel aastal suitsetamisest. — В прошлом году он(а) бросил(а) курить.;loobuma millest? — от чего;;b1-government
+B1;phrase;Глаголы и падежи;tööle keskenduma;сосредоточиться на работе;to focus on work;Kodus on raske tööle keskenduda. — Дома трудно сосредоточиться на работе.;keskenduma millele?;;b1-government
+B1;phrase;Глаголы и падежи;projektis osalema;участвовать в проекте;to take part in a project;Meie kool osaleb rahvusvahelises projektis. — Наша школа участвует в международном проекте.;osalema milles?;;b1-government
+B1;phrase;Глаголы и падежи;abi eest tänama;благодарить за помощь;to thank for help;Tänan teid abi eest! — Благодарю вас за помощь!;tänama keda mille eest?;;b1-government
+B1;phrase;Глаголы и падежи;sünnipäeva puhul õnnitlema;поздравлять с днём рождения;to congratulate on a birthday;Õnnitlen sind sünnipäeva puhul! — Поздравляю тебя с днём рождения!;õnnitlema keda mille puhul?;;b1-government
+B1;phrase;Глаголы и падежи;ajaloo vastu huvi tundma;интересоваться историей;to be interested in history;Ta tunneb huvi Eesti ajaloo vastu. — Он(а) интересуется историей Эстонии.;huvi tundma mille vastu?;;b1-government
+B1;phrase;Глаголы и падежи;laste pärast muretsema;беспокоиться за детей;to worry about the children;Ema muretseb alati laste pärast. — Мама всегда беспокоится за детей.;muretsema kelle pärast?;;b1-government
+B1;phrase;Глаголы и падежи;oma töö eest vastutama;отвечать за свою работу;to be responsible for one's work;Igaüks vastutab oma töö eest. — Каждый отвечает за свою работу.;vastutama mille eest?;;b1-government
+B1;phrase;Глаголы и падежи;ilmast sõltuma;зависеть от погоды;to depend on the weather;Meie plaanid sõltuvad ilmast. — Наши планы зависят от погоды.;sõltuma millest?;;b1-government
+B1;phrase;Глаголы и падежи;rongi bussile eelistama;предпочитать поезд автобусу;to prefer the train to the bus;Ma eelistan pikal sõidul rongi bussile. — В дальней поездке я предпочитаю поезд автобусу.;eelistama mida millele?;;b1-government
+B1;phrase;Глаголы и падежи;võtmeid koju unustama;забыть ключи дома;to leave the keys at home;Ma unustasin võtmed jälle koju. — Я опять забыл(а) ключи дома.;Где забыл(а)? — по-эстонски «куда?»: koju, bussi;;b1-government
+B1;phrase;Глаголы и падежи;sõbralt abi paluma;просить помощи у друга;to ask a friend for help;Ma palusin sõbralt abi. — Я попросил(а) друга о помощи.;paluma kellelt mida?;;b1-government
+B1;phrase;Глаголы и падежи;peavalu üle kurtma;жаловаться на головную боль;to complain of a headache;Ta kurdab tihti peavalu üle. — Он(а) часто жалуется на головную боль.;kurtma mille üle?;;b1-government
+B1;phrase;Глаголы и падежи;oma laste üle uhke olema;гордиться своими детьми;to be proud of one's children;Ma olen oma laste üle väga uhke. — Я очень горжусь своими детьми.;uhke olema kelle üle?;;b1-government
+B1;phrase;Глаголы и падежи;uute inimestega tutvuma;знакомиться с новыми людьми;to meet new people;Kursusel saab uute inimestega tutvuda. — На курсе можно познакомиться с новыми людьми.;tutvuma kellega?;;b1-government
+B1;phrase;Глаголы и падежи;uue olukorraga kohanema;привыкать к новой ситуации;to adapt to a new situation;Lapsed kohanevad uue olukorraga kiiresti. — Дети быстро привыкают к новой ситуации.;kohanema millega?;;b1-government
+B1;phrase;Глаголы и падежи;pakkumisest keelduma;отказаться от предложения;to decline an offer;Ma pidin pakkumisest keelduma. — Мне пришлось отказаться от предложения.;keelduma millest?;;b1-government
+B1;phrase;Глаголы и падежи;laste eest hoolitsema;заботиться о детях;to take care of children;Vanaema hoolitseb nädala sees laste eest. — В будние дни бабушка заботится о детях.;hoolitsema kelle eest?;;b1-government
+B1;phrase;Глаголы и падежи;sõbraga vaidlema;спорить с другом;to argue with a friend;Ma vaidlesin sõbraga filmi üle. — Я спорил(а) с другом о фильме.;vaidlema kellega mille üle?;;b1-government
+B1;phrase;Глаголы и падежи;perearsti poole pöörduma;обратиться к семейному врачу;to see the family doctor;Kui palavik ei lange, pöörduge perearsti poole. — Если температура не снижается, обратитесь к семейному врачу.;pöörduma kelle poole?;;b1-government
+B1;phrase;Глаголы и падежи;kellegi peale lootma;рассчитывать на кого-то;to count on someone;Võid minu peale loota. — Можешь на меня рассчитывать.;lootma kelle peale?;;b1-government
+B1;phrase;Глаголы и падежи;tööga rahul olema;быть довольным работой;to be satisfied with one's job;Kas sa oled oma uue tööga rahul? — Ты доволен (довольна) своей новой работой?;rahul olema millega?;;b1-government
+B1;phrase;Составные глаголы;ära tundma;узнать (кого-то, что-то);to recognize;Ma ei tundnud teda kohe ära. — Я не сразу его (её) узнал(а).;tundma — знать, чувствовать. ära tundma — узнать;;b1-particles
+B1;phrase;Составные глаголы;ära jääma;не состояться, отменяться;to be cancelled;Kontsert jäi haiguse tõttu ära. — Концерт отменили из-за болезни.;;;b1-particles
+B1;phrase;Составные глаголы;ära ütlema;отказаться, отменить;to decline, to cancel;Ma pidin kutse ära ütlema. — Мне пришлось отказаться от приглашения.;;;b1-particles
+B1;phrase;Составные глаголы;ära kuulama;выслушать;to hear out;Kuula mind ära! — Выслушай меня!;;;b1-particles
+B1;phrase;Составные глаголы;läbi mõtlema;обдумать;to think through;Mõtle see hoolikalt läbi. — Обдумай это хорошенько.;;;b1-particles
+B1;phrase;Составные глаголы;läbi vaatama;осмотреть, просмотреть;to examine, to look through;Arst vaatas mind läbi. — Врач меня осмотрел.;;;b1-particles
+B1;phrase;Составные глаголы;valmis tegema;доделать;to finish;Ma teen töö homseks valmis. — Я доделаю работу к завтрашнему дню.;;;b1-particles
+B1;phrase;Составные глаголы;valmis saama;быть готовым, закончить;to get finished;Millal remont valmis saab? — Когда закончится ремонт?;;;b1-particles
+B1;phrase;Составные глаголы;üles otsima;разыскать, навестить;to look up;Ma otsisin vana sõbra üles. — Я разыскал(а) старого друга.;;;b1-particles
+B1;phrase;Составные глаголы;alla võtma;похудеть;to lose weight;Ta võttis viis kilo alla. — Он(а) похудел(а) на пять кило.;;;b1-particles
+B1;phrase;Составные глаголы;juurde võtma;поправиться, набрать вес;to gain weight;Ma võtsin puhkusel kaks kilo juurde. — В отпуске я поправился (поправилась) на два кило.;;;b1-particles
+B1;phrase;Составные глаголы;maha jätma;бросить (привычку);to give up, to quit;Ta jättis suitsetamise maha. — Он(а) бросил(а) курить.;;;b1-particles
+B1;phrase;Составные глаголы;maha rahunema;успокоиться;to calm down;Rahune maha, kõik on korras. — Успокойся, всё в порядке.;;;b1-particles
+B1;phrase;Составные глаголы;välja vahetama;заменить;to replace;Me vahetasime vanad aknad välja. — Мы заменили старые окна.;;;b1-particles
+B1;phrase;Составные глаголы;kokku panema;собрать (мебель);to assemble;Ma panin riiuli ise kokku. — Я сам(а) собрал(а) полку.;;;b1-particles
+B1;phrase;Составные глаголы;kokku võtma;подытожить;to sum up;Võtame kokku: kohtume reedel. — Подведём итог: встречаемся в пятницу.;;;b1-particles
+B1;phrase;Составные глаголы;kokku saama;встретиться;to meet up;Kas saame homme kokku? — Встретимся завтра?;;;b1-particles
+B1;phrase;Составные глаголы;järele tulema;зайти за кем-то;to come and pick up;Ma tulen sulle kell kuus järele. — Я зайду за тобой в шесть.;järele tulema kellele?;;b1-particles
+B1;phrase;Составные глаголы;järele vaatama;посмотреть, проверить;to look up, to check;Ma vaatan sõnaraamatust järele. — Я посмотрю в словаре.;;;b1-particles
+B1;phrase;Составные глаголы;järele jõudma;догнать;to catch up;Mine ees, ma jõuan sulle järele. — Иди вперёд, я тебя догоню.;;;b1-particles
+B1;phrase;Составные глаголы;edasi andma;передать;to pass on;Anna talle minu tervitused edasi. — Передай ему (ей) от меня привет.;;;b1-particles
+B1;phrase;Составные глаголы;tagasi lükkama;отклонить;to reject;Minu taotlus lükati tagasi. — Моё заявление отклонили.;;;b1-particles
+B1;phrase;Составные глаголы;tagasi maksma;вернуть (деньги);to pay back;Ma maksan sulle raha homme tagasi. — Я верну тебе деньги завтра.;;;b1-particles
+B1;phrase;Составные глаголы;vastu pidama;выдержать;to endure, to hold out;Ma ei pea enam vastu! — Я больше не выдержу!;;;b1-particles
+B1;phrase;Составные глаголы;vastu vaidlema;возражать;to object, to talk back;Ära vaidle mulle vastu! — Не возражай мне!;vastu vaidlema kellele?;;b1-particles
+B1;phrase;Составные глаголы;ette näitama;предъявить;to show (a document);Palun näidake oma dokument ette. — Пожалуйста, предъявите документ.;;;b1-particles
+B1;phrase;Составные глаголы;kaasa elama;болеть (за кого-то), сопереживать;to cheer for, to sympathize;Me elasime Eesti võistkonnale kaasa. — Мы болели за сборную Эстонии.;kaasa elama kellele?;;b1-particles
+B1;phrase;Составные глаголы;ümber mõtlema;передумать;to change one's mind;Ta mõtles ümber ja jäi koju. — Он(а) передумал(а) и остался (осталась) дома.;;;b1-particles
+B1;phrase;Составные глаголы;üle küsima;переспросить;to ask again;Vabandust, kas ma tohin üle küsida? — Извините, можно переспросить?;;;b1-particles
+B1;phrase;Изменения и состояния;rahule jääma;остаться довольным;to be satisfied;Me jäime hotelliga väga rahule. — Мы остались очень довольны гостиницей.;rahule jääma millega?;;b1-become
+B1;phrase;Изменения и состояния;vait jääma;замолчать;to fall silent;Kõik jäid korraga vait. — Все разом замолчали.;;;b1-become
+B1;phrase;Изменения и состояния;ellu jääma;выжить;to survive;Kõik reisijad jäid ellu. — Все пассажиры выжили.;;;b1-become
+B1;phrase;Изменения и состояния;magama jääma;заснуть;to fall asleep;Laps jäi kohe magama. — Ребёнок сразу уснул.;;;b1-become
+B1;phrase;Изменения и состояния;pimedaks minema;темнеть;to get dark;Talvel läheb vara pimedaks. — Зимой рано темнеет.;;;b1-become
+B1;phrase;Изменения и состояния;külmaks minema;похолодать;to get cold;Õhtul läks järsku külmaks. — Вечером вдруг похолодало.;;;b1-become
+B1;phrase;Изменения и состояния;halvaks minema;испортиться (о еде);to go bad;Piim läks halvaks. — Молоко испортилось.;;;b1-become
+B1;phrase;Изменения и состояния;rikki minema;сломаться, испортиться;to break down;Pesumasin läks rikki. — Стиральная машина сломалась.;Говорят и о еде: toit läks rikki;;b1-become
+B1;phrase;Изменения и состояния;vihaseks saama;рассердиться;to get angry;Isa sai väga vihaseks. — Папа очень рассердился.;;;b1-become
+B1;phrase;Изменения и состояния;selgeks saama;стать понятным, выучить;to become clear, to learn;Mul sai asi lõpuks selgeks. — Мне наконец всё стало ясно.;keelt selgeks saama — выучить язык;;b1-become
+B1;phrase;Изменения и состояния;tühjaks saama;разрядиться, опустеть;to run out, to go flat;Telefoni aku sai tühjaks. — Телефон разрядился.;;;b1-become
+B1;phrase;Изменения и состояния;terveks saama;выздороветь;to get well;Loodan, et saad ruttu terveks. — Надеюсь, ты скоро выздоровеешь.;;;b1-become
+B1;phrase;Изменения и состояния;kolmekümneseks saama;исполниться тридцать (лет);to turn thirty;Ta sai eile kolmekümneseks. — Вчера ему (ей) исполнилось тридцать.;;;b1-become
+B1;phrase;Изменения и состояния;puhtaks tegema;вычистить;to clean;Tegin köögi puhtaks. — Я вычистил(а) кухню.;tegema milliseks? — сделать каким;;b1-become
+B1;phrase;Изменения и состояния;ukse lahti jätma;оставить дверь открытой;to leave the door open;Ära jäta ust lahti! — Не оставляй дверь открытой!;jätma — оставить каким-то;;b1-become
+B1;phrase;Изменения и состояния;arstiks õppima;учиться на врача;to study to be a doctor;Mu tütar õpib arstiks. — Моя дочь учится на врача.;-ks — кем станет;;a2-translative-essive
+B1;phrase;Изменения и состояния;õpetajana töötama;работать учителем;to work as a teacher;Ta töötab koolis õpetajana. — Он(а) работает учителем в школе.;-na — кем работает, -ks — кем станет;;a2-translative-essive
+B1;phrase;Связки;peale selle;кроме того;besides;Peale selle oli ilm halb. — Кроме того, погода была плохой.;;;b1-connectors
+B1;phrase;Связки;lisaks sellele;вдобавок к этому;in addition to that;Lisaks sellele räägin ma ka soome keelt. — Вдобавок я говорю ещё и по-фински.;;;b1-connectors
+B1;phrase;Связки;ühest küljest;с одной стороны;on the one hand;Ühest küljest on see mugav. — С одной стороны, это удобно.;Пара: ühest küljest … teisest küljest;;b1-connectors
+B1;phrase;Связки;teisest küljest;с другой стороны;on the other hand;Teisest küljest on see kallis. — С другой стороны, это дорого.;;;b1-connectors
+B1;phrase;Связки;teiste sõnadega;другими словами;in other words;Teiste sõnadega, me peame ootama. — Другими словами, нам нужно ждать.;;;b1-connectors
+B1;phrase;Связки;mis puudutab;что касается;as for, regarding;Mis puudutab hinda, siis see on liiga kõrge. — Что касается цены, то она слишком высокая.;mis puudutab + кого? что?;;
+B1;phrase;Связки;sel juhul;в таком случае;in that case;Sel juhul jään ma koju. — В таком случае я останусь дома.;;;
+B1;phrase;Связки;igaks juhuks;на всякий случай;just in case;Võta igaks juhuks vihmavari kaasa. — Возьми на всякий случай зонт.;;;
+B1;phrase;Связки;vastasel juhul;иначе, в противном случае;otherwise;Tule õigel ajal, vastasel juhul jääd bussist maha. — Приходи вовремя, иначе опоздаешь на автобус.;;;
+B1;phrase;Связки;mitte mingil juhul;ни в коем случае;under no circumstances;Seda ei tohi mitte mingil juhul teha. — Этого ни в коем случае нельзя делать.;;;
+B1;phrase;Связки;samal ajal;в то же время, одновременно;at the same time;Ta töötab ja samal ajal õpib. — Он(а) работает и одновременно учится.;;;
+B1;phrase;Связки;niipea kui;как только;as soon as;Helistan, niipea kui saan. — Позвоню, как только смогу.;;;b1-time-clauses
+B1;phrase;Связки;pärast seda kui;после того как;after;Pärast seda kui ta lahkus, oli vaikne. — После того как он(а) ушёл (ушла), стало тихо.;;;b1-time-clauses
+B1;phrase;Связки;samal ajal kui;в то время как, пока;while;Ma kuulan raadiot, samal ajal kui süüa teen. — Я слушаю радио, пока готовлю.;;;b1-time-clauses
+B1;phrase;Связки;vaatamata sellele et;несмотря на то что;even though;Vaatamata sellele, et sadas, läksime välja. — Несмотря на то что шёл дождь, мы вышли на улицу.;;;b1-cause-purpose
+B1;phrase;Связки;selle tõttu;из-за этого;because of that;Bussi ei tulnud ja selle tõttu jäin hiljaks. — Автобус не пришёл, и из-за этого я опоздал(а).;;;b1-postpositions
+B1;phrase;Связки;tänu sellele;благодаря этому;thanks to that;Harjutasin palju ja tänu sellele läks eksam hästi. — Я много занимался (занималась), и благодаря этому экзамен прошёл хорошо.;;;b1-postpositions
+B1;phrase;Связки;mida varem, seda parem;чем раньше, тем лучше;the sooner the better;Mida varem alustame, seda parem. — Чем раньше начнём, тем лучше.;;;b1-comparison
+B1;phrase;Связки;üha rohkem;всё больше;more and more;Eesti keelt õpib üha rohkem inimesi. — Эстонский учит всё больше людей.;;;b1-comparison
+B1;phrase;Предлоги и послелоги;halva ilma tõttu;из-за плохой погоды;due to bad weather;Lend tühistati halva ilma tõttu. — Рейс отменили из-за плохой погоды.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;haiguse tõttu;из-за болезни;due to illness;Ta puudus koolist haiguse tõttu. — Он(а) пропустил(а) школу из-за болезни.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;kohvi asemel;вместо кофе;instead of coffee;Joon hommikul kohvi asemel teed. — Утром вместо кофе я пью чай.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;mere ääres;у моря;by the sea;Suvel elame mere ääres. — Летом мы живём у моря.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;mere äärde;к морю, на море;to the seaside;Lähme laupäeval mere äärde! — Поехали в субботу на море!;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;linna keskel;в центре города;in the city centre;Hotell asub linna keskel. — Гостиница находится в центре города.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;sõbra pool;у друга (дома);at a friend's place;Ma ööbisin sõbra pool. — Я ночевал(а) у друга.;Куда? — sõbra poole, откуда? — sõbra poolt;;b1-postpositions
+B1;phrase;Предлоги и послелоги;sõnaraamatu abil;с помощью словаря;with the help of a dictionary;Lugesin artikli sõnaraamatu abil läbi. — Я прочитал(а) статью со словарём.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;alates esmaspäevast;с понедельника;from Monday;Alates esmaspäevast kehtib uus sõiduplaan. — С понедельника действует новое расписание.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;kuni reedeni;до пятницы;until Friday;Pood on suletud kuni reedeni. — Магазин закрыт до пятницы.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;vihmast hoolimata;несмотря на дождь;despite the rain;Vihmast hoolimata tuli palju inimesi. — Несмотря на дождь, пришло много людей.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;kõik peale minu;все, кроме меня;everyone except me;Kõik peale minu said kutse. — Приглашение получили все, кроме меня.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;majade vahel;между домами;between the houses;Majade vahel on väike park. — Между домами есть маленький парк.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;ümber järve;вокруг озера;around the lake;Me jalutasime ümber järve. — Мы погуляли вокруг озера.;;;b1-postpositions
+B1;phrase;Предлоги и послелоги;läbi metsa;через лес;through the forest;Tee läheb läbi metsa. — Дорога идёт через лес.;;;b1-postpositions
+B1;phrase;Письма и объявления;aitäh kirja eest;спасибо за письмо;thanks for the letter;Aitäh kirja eest! Mul on hea meel sinust kuulda. — Спасибо за письмо! Рад(а) о тебе слышать.;;;b1-letters
+B1;phrase;Письма и объявления;parimate soovidega;с наилучшими пожеланиями;best wishes;;Прощание в письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;phrase;Письма и объявления;heade soovidega;с добрыми пожеланиями;kind regards;;Прощание в письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;phrase;Письма и объявления;kiiretel juhtudel;в срочных случаях;in urgent cases;Kiiretel juhtudel helistage mulle. — В срочных случаях звоните мне.;;;
+B1;phrase;Письма и объявления;seoses sellega;в связи с этим;in this connection;Seoses sellega on kontor homme suletud. — В связи с этим офис завтра закрыт.;seoses millega? — со словом на -ga;;
+B1;phrase;Письма и объявления;teada andma;сообщать, давать знать;to let know;Anna teada, kui oled kohal. — Дай знать, когда будешь на месте.;;;
+B1;phrase;Работа и карьера;lepingut lõpetama;расторгать договор;to terminate a contract;Ma soovin lepingu lõpetada. — Я хочу расторгнуть договор.;;;
+B1;phrase;Работа и карьера;palka tõstma;повышать зарплату;to raise the salary;Ülemus lubas palka tõsta. — Начальник обещал повысить зарплату.;Пара: tõstma — поднимать, tõusma — подниматься;;b1-verb-pairs
+B1;phrase;Работа и карьера;tööd kaotama;потерять работу;to lose one's job;Ta kaotas eelmisel aastal töö. — В прошлом году он(а) потерял(а) работу.;;;
+B1;phrase;Работа и карьера;ületunde tegema;работать сверхурочно;to work overtime;Ma pidin eile ületunde tegema. — Вчера мне пришлось работать сверхурочно.;;;
+B1;phrase;Работа и карьера;puhkust võtma;брать отпуск;to take a holiday;Võtan juulis kaks nädalat puhkust. — В июле я беру две недели отпуска.;;;
+B1;phrase;Общество и услуги;elukohta registreerima;регистрировать место жительства;to register one's address;Uues kohas tuleb elukoht registreerida. — На новом месте нужно зарегистрировать место жительства.;;;
+B1;phrase;Здоровье и образ жизни;saatekirja saama;получить направление (к врачу);to get a referral;Ma sain perearstilt saatekirja. — Я получил(а) направление от семейного врача.;;;
+B1;phrase;Здоровье и образ жизни;retsepti välja kirjutama;выписать рецепт;to prescribe;Arst kirjutas mulle retsepti välja. — Врач выписал мне рецепт.;;;b1-particles
+B1;sentence;Письма и объявления;Pood on remondi tõttu suletud.;Магазин закрыт на ремонт.;The shop is closed for renovation.;;;;b1-impersonal-tenses
+B1;sentence;Письма и объявления;Siin on suitsetamine keelatud.;Здесь курить запрещено.;Smoking is prohibited here.;;;;b1-participles
+B1;sentence;Письма и объявления;Kõik piletid on välja müüdud.;Все билеты распроданы.;All tickets are sold out.;;;;b1-impersonal-tenses
+B1;sentence;Письма и объявления;Koosolek lükati edasi.;Собрание перенесли.;The meeting was postponed.;;;;a2-impersonal
+B1;sentence;Письма и объявления;Tänane loeng jääb ära.;Сегодняшняя лекция отменяется.;Today's lecture is cancelled.;;;;b1-particles
+B1;sentence;Письма и объявления;Homme lahkun töölt juba kell kaks.;Завтра я ухожу с работы уже в два.;Tomorrow I'm leaving work at two.;;;;
+B1;sentence;Письма и объявления;Minu asemel vastab kõnedele Kati.;Вместо меня на звонки отвечает Кати.;Kati will answer calls instead of me.;;;;b1-postpositions
+B1;sentence;Письма и объявления;Vabandust, et alles nüüd vastan.;Извини(те), что отвечаю только сейчас.;Sorry for the late reply.;;;;b1-letters
+B1;sentence;Письма и объявления;Loodan, et sul on kõik hästi.;Надеюсь, у тебя всё хорошо.;I hope you are well.;;;;b1-letters
+B1;sentence;Письма и объявления;Kirjutan Teile seoses oma tellimusega.;Пишу вам в связи с моим заказом.;I am writing to you regarding my order.;;;;b1-letters
+B1;sentence;Письма и объявления;Palun andke teada, kas see sobib.;Пожалуйста, сообщите, подходит ли это.;Please let me know if this suits you.;;;;b1-letters
+B1;sentence;Письма и объявления;Ootan Teie vastust.;Жду вашего ответа.;I look forward to your reply.;;;;b1-letters
+B1;sentence;Письма и объявления;Kahjuks ei saa ma reedel tulla.;К сожалению, я не смогу прийти в пятницу.;Unfortunately, I can't come on Friday.;;;;b1-letters
+B1;sentence;Письма и объявления;Kas saaksite mulle arve saata?;Не могли бы вы прислать мне счёт?;Could you send me the invoice?;;;;b1-polite
+B1;sentence;Письма и объявления;Kohtumine toimub kolmapäeval kell kümme.;Встреча состоится в среду в десять.;The meeting will take place on Wednesday at ten.;;;;
+B1;sentence;Мнения и споры;Minu meelest on see hea idee.;По-моему, это хорошая идея.;I think it's a good idea.;;;;b1-opinion
+B1;sentence;Мнения и споры;Mis sa sellest arvad?;Что ты об этом думаешь?;What do you think about it?;;;;b1-elative
+B1;sentence;Мнения и споры;See oleneb olukorrast.;Это зависит от ситуации.;It depends on the situation.;;;;b1-opinion
+B1;sentence;Мнения и споры;Ma arvan teisiti.;Я думаю иначе.;I think differently.;;;;b1-opinion
+B1;sentence;Мнения и споры;Ma pole selles päris kindel.;Я в этом не совсем уверен(а).;I'm not quite sure about that.;;;;b1-opinion
+B1;sentence;Мнения и споры;Ühest küljest on linnas mugav, teisest küljest on seal kallis.;С одной стороны, в городе удобно, с другой — там дорого.;On the one hand the city is convenient, on the other hand it's expensive.;;;;b1-connectors
+B1;sentence;Мнения и споры;Ma ei ole selle ideega nõus.;Я не согласен (не согласна) с этой идеей.;I don't agree with this idea.;;;;b1-opinion
+B1;sentence;Мнения и споры;Mulle tundub, et see ei ole õiglane.;Мне кажется, что это несправедливо.;It seems to me that it isn't fair.;;;;b1-opinion
+B1;sentence;Общение и мнения;Kas oleks võimalik kohtumine reedele lükata?;Можно ли перенести встречу на пятницу?;Would it be possible to move the meeting to Friday?;;;;b1-polite
+B1;sentence;Общение и мнения;Oleksin väga tänulik, kui saaksite mind aidata.;Я был(а) бы очень благодарен (благодарна), если бы вы могли мне помочь.;I would be very grateful if you could help me.;;;;b1-polite
+B1;sentence;Общение и мнения;Kuidas oleks, kui läheksime täna kinno?;Может, сходим сегодня в кино?;How about going to the cinema today?;;;;b1-polite
+B1;sentence;Общение и мнения;Sa võiksid rohkem puhata.;Тебе стоило бы больше отдыхать.;You could rest more.;;;;b1-polite
+B1;sentence;Общение и мнения;Kas ma tohiksin midagi küsida?;Можно мне кое-что спросить?;May I ask something?;;;;b1-polite
+B1;sentence;Общение и мнения;Kas te saaksite natuke aeglasemalt rääkida?;Не могли бы вы говорить немного медленнее?;Could you speak a bit more slowly?;;;;b1-polite
+B1;sentence;Общение и мнения;Ta ütles, et ta ei saa täna tulla.;Он(а) сказал(а), что не сможет сегодня прийти.;He/she said that he/she can't come today.;;;;b1-reported-speech
+B1;sentence;Общение и мнения;Ma küsisin, kas buss on juba läinud.;Я спросил(а), ушёл ли уже автобус.;I asked if the bus had already left.;;;;b1-reported-speech
+B1;sentence;Общение и мнения;Ta küsis, kus ma töötan.;Он(а) спросил(а), где я работаю.;He/she asked where I work.;;;;b1-reported-speech
+B1;sentence;Общение и мнения;Ema palus mul poodi minna.;Мама попросила меня сходить в магазин.;Mum asked me to go to the shop.;;;;b1-reported-speech
+B1;sentence;Общение и мнения;Mulle öeldi, et pean ootama.;Мне сказали, что нужно подождать.;I was told that I have to wait.;;;;b1-impersonal-tenses
+B1;sentence;Общение и мнения;Ta olevat haige.;Говорят, он(а) болен (больна).;He/she is said to be ill.;;;;b1-oblique
+B1;sentence;Общение и мнения;Uus pood olevat väga odav.;Говорят, новый магазин очень дешёвый.;The new shop is said to be very cheap.;;;;b1-oblique
+B1;sentence;Общение и мнения;Ma ei ela Tallinnas, vaid Tartus.;Я живу не в Таллине, а в Тарту.;I don't live in Tallinn but in Tartu.;;;;b1-connectors
+B1;sentence;Общение и мнения;Ta räägib nii eesti kui ka vene keelt.;Он(а) говорит и по-эстонски, и по-русски.;He/she speaks both Estonian and Russian.;;;;b1-connectors
+B1;sentence;Общение и мнения;Mitte keegi ei teadnud vastust.;Никто не знал ответа.;Nobody knew the answer.;;;;b1-pronouns
+B1;sentence;Общение и мнения;See, mida sa ütlesid, on tõsi.;То, что ты сказал(а), — правда.;What you said is true.;;;;b1-relative
+B1;sentence;Общение и мнения;See on kõik, mida ma tean.;Это всё, что я знаю.;That's all I know.;;;;b1-relative
+B1;sentence;Опыт и планы;Kui ma oleksin seda teadnud, oleksin varem tulnud.;Если бы я это знал(а), я бы пришёл (пришла) раньше.;If I had known that, I would have come earlier.;;;;b1-conditional-past
+B1;sentence;Опыт и планы;Ma oleksin hea meelega tulnud, aga ma olin haige.;Я бы с удовольствием пришёл (пришла), но я болел(а).;I would gladly have come, but I was ill.;;;;b1-conditional-past
+B1;sentence;Опыт и планы;Sa oleksid pidanud mulle ütlema.;Тебе надо было мне сказать.;You should have told me.;;;;b1-conditional-past
+B1;sentence;Опыт и планы;Ma oleksin peaaegu bussist maha jäänud.;Я чуть не опоздал(а) на автобус.;I almost missed the bus.;;;;b1-conditional-past
+B1;sentence;Опыт и планы;Järgmisest kuust hakkan ma ujumas käima.;Со следующего месяца я начну ходить плавать.;From next month I'll start going swimming.;;;;b1-future
+B1;sentence;Опыт и планы;Ma tahan eesti keele selgeks saada.;Я хочу выучить эстонский язык.;I want to learn Estonian properly.;;;;b1-become
+B1;sentence;Опыт и планы;Temast saab hea arst.;Из него (неё) выйдет хороший врач.;He/she will make a good doctor.;;;;b1-become
+B1;sentence;Опыт и планы;See on parim film, mida ma olen näinud.;Это лучший фильм, который я видел(а).;It's the best film I have ever seen.;;;;b1-comparison
+B1;sentence;Опыт и планы;Ma olen siin elanud lapsest saati.;Я живу здесь с детства.;I have lived here since childhood.;;;;b1-elative
+B1;sentence;Опыт и планы;Helistan sulle, niipea kui koju jõuan.;Позвоню тебе, как только доберусь домой.;I'll call you as soon as I get home.;;;;b1-time-clauses
+B1;sentence;Опыт и планы;Enne kui välja lähed, pane jope selga.;Прежде чем выйти, надень куртку.;Put on a jacket before you go out.;;;;b1-time-clauses
+B1;sentence;Опыт и планы;Oota, kuni ma tulen.;Подожди, пока я не приду.;Wait until I come.;;;;b1-time-clauses
+B1;sentence;Опыт и планы;Pärast seda kui ma töö lõpetasin, läksin koju.;После того как я закончил(а) работу, я пошёл (пошла) домой.;After I finished work, I went home.;;;;b1-time-clauses
+B1;sentence;Опыт и планы;Ma õpin eesti keelt selleks, et tööd leida.;Я учу эстонский, чтобы найти работу.;I'm learning Estonian to find a job.;;;;b1-cause-purpose
+B1;sentence;Опыт и планы;Olin nii väsinud, et jäin kohe magama.;Я так устал(а), что сразу уснул(а).;I was so tired that I fell asleep at once.;;;;b1-cause-purpose
+B1;sentence;Опыт и планы;Kirjutan selle üles, et mitte unustada.;Запишу это, чтобы не забыть.;I'll write it down so as not to forget.;;;;b1-cause-purpose
+B1;sentence;Опыт и планы;Mul on veel palju tegemata.;Мне ещё многое нужно сделать.;I still have a lot left to do.;;;;b1-participles
+B1;sentence;Чувства и характер;Ära muretse minu pärast!;Не волнуйся за меня!;Don't worry about me!;;;;b1-government
+B1;sentence;Чувства и характер;Kõik sõltub sinust.;Всё зависит от тебя.;Everything depends on you.;;;;b1-government
+B1;sentence;Чувства и характер;Ta jäi hiljaks, mis mind väga üllatas.;Он(а) опоздал(а), что меня очень удивило.;He/she was late, which surprised me a lot.;;;;b1-relative
+B1;sentence;Отношения и общение;Nad aitavad alati üksteist.;Они всегда помогают друг другу.;They always help each other.;;;;b1-pronouns
+B1;sentence;Отношения и общение;Kogu pere tuli kokku.;Собралась вся семья.;The whole family got together.;;;;b1-pronouns
+B1;sentence;Жильё и бытовые проблемы;Küte ei tööta juba kaks päeva.;Отопление не работает уже два дня.;The heating hasn't worked for two days.;;;;
+B1;sentence;Жильё и бытовые проблемы;Korter on hiljuti renoveeritud.;Квартира недавно отремонтирована.;The flat has recently been renovated.;;;;b1-impersonal-tenses
+B1;sentence;Жильё и бытовые проблемы;Uks oli lukustamata.;Дверь была не заперта.;The door was unlocked.;;;;b1-participles
+B1;sentence;Жильё и бытовые проблемы;Jäta aken lahti, palun.;Оставь окно открытым, пожалуйста.;Leave the window open, please.;;;;b1-become
+B1;sentence;Жильё и бытовые проблемы;Kodust lahkudes pane tuled kustu.;Уходя из дома, выключи свет.;Turn off the lights when you leave home.;;;;b1-des-form
+B1;sentence;Здоровье и образ жизни;Arst käskis mul paar päeva voodis olla.;Врач велел мне пару дней полежать в постели.;The doctor told me to stay in bed for a couple of days.;;;;b1-reported-speech
+B1;sentence;Здоровье и образ жизни;Ravim hakkas kiiresti mõjuma.;Лекарство быстро подействовало.;The medicine started working quickly.;;;;
+B1;sentence;Здоровье и образ жизни;Perearst andis mulle saatekirja eriarsti juurde.;Семейный врач дал мне направление к специалисту.;The family doctor gave me a referral to a specialist.;;;;
+B1;sentence;Путешествия и услуги;Kas hotellis on parkimine tasuline?;В гостинице парковка платная?;Is parking at the hotel paid?;;;;
+B1;sentence;Общество и услуги;Avaldus tuleb esitada kahe nädala jooksul.;Заявление нужно подать в течение двух недель.;The application must be submitted within two weeks.;;;;a2-numbers-cases
+B1;sentence;Общество и услуги;Uus kool avati eelmisel aastal.;Новую школу открыли в прошлом году.;The new school was opened last year.;;;;a2-impersonal
+B1;sentence;Окружающая среда;Me peaksime vähem plastikut kasutama.;Нам стоило бы меньше пользоваться пластиком.;We should use less plastic.;;;;a2-conditional
+B1;sentence;Окружающая среда;Ilm läheb üha soojemaks.;Погода становится всё теплее.;The weather is getting warmer and warmer.;;;;b1-comparison
+B1;sentence;Образование и обучение;Ma ei leidnud tekstist ühtegi viga.;Я не нашёл (не нашла) в тексте ни одной ошибки.;I didn't find a single mistake in the text.;;;;b1-pronouns
+B1;sentence;Культура и досуг;Ma kuulan muusikat jalutades.;Я слушаю музыку во время прогулки.;I listen to music while walking.;;;;b1-des-form
+B1;sentence;Работа и карьера;Lisan kirjale oma elulookirjelduse.;Прилагаю к письму своё резюме.;I am attaching my CV to the letter.;;;;
+B1;sentence;Работа и карьера;Ma vastutan selles projektis eelarve eest.;В этом проекте я отвечаю за бюджет.;In this project I'm responsible for the budget.;;;;b1-government
