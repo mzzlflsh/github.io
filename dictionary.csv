@@ -15,7 +15,7 @@ A1;word;Вопросительные слова;kust;откуда;where from;Kus
 A1;word;Вопросительные слова;millal;когда;when;Millal sa tuled? — Когда ты придёшь? • Millal pood kinni läheb? — Когда закрывается магазин?;Про точное время чаще спрашивают: mis kell?;
 A1;word;Вопросительные слова;miks;почему;why;Miks sa naerad? — Почему ты смеёшься? • Miks sa ei tulnud? — Почему ты не пришёл?;Ответ: sest… — потому что…;
 A1;word;Вопросительные слова;kuidas;как;how;Kuidas läheb? — Как дела? • Kuidas see eesti keeles on? — Как это по-эстонски?;;
-A1;word;Вопросительные слова;mitu;сколько (штук);how many;Mitu last sul on? — Сколько у тебя детей? • Mitu piletit sa ostsid? — Сколько билетов ты купил?;Про то, что считают штуками. После mitu — osastav: mitu last, mitu korda. Про деньги и время — kui palju;
+A1;word;Вопросительные слова;mitu;сколько (штук);how many;Mitu last sul on? — Сколько у тебя детей? • Mitu piletit sa ostsid? — Сколько билетов ты купил?;Сколько штук. После mitu — единственное число в osastav: mitu last, mitu korda;
 A1;word;Вопросительные слова;milline;какой;which, what kind;Milline kleit on ilusam? — Какое платье красивее? • Milline on sinu lemmikvärv? — Какой твой любимый цвет?;Синоним: missugune. В разговоре часто говорят просто mis;
 A1;word;Местоимения;see;это, этот;this, it;See on minu maja. — Это мой дом. • See raamat on huvitav. — Эта книга интересная.;Формы: seda (это — что?), selle (этого), sellega (с этим). Мн. ч.: need (эти);
 A1;word;Местоимения;too;тот;that;See või too? — Этот или тот?;;
@@ -1025,7 +1025,7 @@ A1;phrase;Приветствия и вежливость;olge head;будьте 
 A1;phrase;Приветствия и вежливость;jah, muidugi;да, конечно;yes, of course;Jah, muidugi, ma aitan! — Да, конечно, я помогу!;;
 A1;phrase;Приветствия и вежливость;ei, aitäh;нет, спасибо;no, thank you;Ei, aitäh, mul on kõht täis. — Нет, спасибо, я сыт.;;
 A1;phrase;Общение;aru saama;понимать;to understand;Kas sa saad aru? — Ты понимаешь?;ma saan aru — я понимаю;
-A1;phrase;Вопросы;kui palju;сколько;how much, how many;Kui palju see maksab? — Сколько это стоит? • Kui palju sul aega on? — Сколько у тебя времени?;Про деньги, время и то, что не считают штуками. Для штук — mitu;
+A1;phrase;Вопросы;kui palju;сколько;how much, how many;Kui palju see maksab? — Сколько это стоит? • Kui palju sul aega on? — Сколько у тебя времени?;Сколько вообще: kui palju aega? Со счётными словами — мн. ч.: kui palju inimesi?;
 A1;phrase;Вопросы;mis kell;который час, во сколько;what time;Mis kell on? — Который час? • Mis kell film algab? — Во сколько начинается фильм?;Mis kell on? — который час. Mis kell? — во сколько;
 A1;phrase;Общение;eesti keel;эстонский язык;Estonian (language);Eesti keel on ilus. — Эстонский язык красивый.;;
 A1;phrase;Общение;vene keel;русский язык;Russian (language);Minu emakeel on vene keel. — Мой родной язык — русский.;;
