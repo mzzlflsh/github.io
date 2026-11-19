@@ -94,12 +94,19 @@ A1;Падежи;С кем? Без чего? -ga, -ta;tip;Транспорт то
 - Предложение: союзы et, sest, kui, kuigi, kas; порядок слов.
 - Словообразование: суффиксы -ja, -mine, -la, -lane, -ne, -lik, -tu.
 
-**B1 — 1 правило:**
-- Глаголы: форма на -des — «делая» (vaadates, minnes).
+**B1 — 25 правил:**
+- Глаголы, формы: причастия (tehtud, tehtav, teinud, tegev, -mata); безличная форма во всех временах (on tehtud, oli tehtud, tehtaks); форма на -des — «делая»; пересказ «говорят, что…» (olevat, tulevat).
+- Глаголы, время и наклонение: будущее (hakkan tegema, -st saab, tuleb); «если бы тогда» — oleksin teinud.
+- Глаголы, значение и управление: пары muutma — muutuma; стать и сделать каким (-ks с saama, jääma, tegema, värvima); частицы ära, läbi, valmis, üles…; управление (sõltuma millest, loobuma millest, keskenduma millele, unustama kuhu).
+- Падежи и послелоги: согласование во всех падежах; значения -st (о чём, из чего, чем, с каких пор); послелоги tõttu, tänu, asemel, ääres, vahel, pool, alates, hoolimata.
+- Прилагательные и местоимения: сравнение (parim, sama … kui, mida … seda); kõik и kogu, iga, mõlemad, teineteist; mitte keegi, ükski.
+- Сложное предложение: see, mis / kõik, mis; enne kui, kuni, niipea kui, pärast seda kui; причина, цель, следствие, уступка (selleks et, et + условное, nii … et, vaatamata sellele et); косвенная речь; связки текста (lisaks, seega, mitte …, vaid).
+- Речь и письмо: своё мнение; вежливые просьбы и советы; письмо и объявление (обращение, прощание, Teie).
+- Словообразование: прилагательные на -line, -kas, -matu, eba-; существительные на -us, -nik, -kond и сложные слова.
 
 В уроках есть три вида подсказок: «Подсказка», «Запомните» и «Частая ошибка» (типичные ошибки русскоязычных).
 
-Правила составлены по учебнику «E nagu Eesti» и материалам курсов Тартуского университета (keeleweb). Формы и примеры сверены с открытыми справочниками (Sõnaveeb, Wikipedia, Omniglot).
+Правила составлены по учебнику «E nagu Eesti» и материалам курсов Тартуского университета (keeleweb). Уровень B1 — по описанию уровня «Iseseisev keelekasutaja» (типичные ошибки и что должен уметь ученик), материалам Harno об экзамене B1 и курсам B1 Таллинского университета. Формы и примеры сверены с открытыми справочниками (Sõnaveeb, EKI, Wikipedia, Omniglot).
 
 ## id правил (для колонки grammar в словаре)
 
@@ -160,20 +167,44 @@ A1;Падежи;С кем? Без чего? -ga, -ta;tip;Транспорт то
 | `a2-conjunctions` | A2 | Союзы: et, sest, kui, kuigi, kas |
 | `a2-word-order` | A2 | Порядок слов: Täna lähen ma… |
 | `a2-word-formation` | A2 | Суффиксы: -ja, -mine, -la, -lane, -ne, -lik, -tu |
+| `b1-participles` | B1 | Причастия: tehtud, tehtav, teinud, tegev |
+| `b1-impersonal-tenses` | B1 | Безличная форма: on tehtud, oli tehtud |
 | `b1-des-form` | B1 | Форма на -des: делая |
+| `b1-oblique` | B1 | Говорят, что…: olevat, tulevat |
+| `b1-future` | B1 | Будущее: hakkan tegema, tuleb |
+| `b1-conditional-past` | B1 | Если бы тогда: oleksin teinud |
+| `b1-verb-pairs` | B1 | Пары глаголов: muutma — muutuma |
+| `b1-become` | B1 | Стать и сделать каким: -ks с глаголами |
+| `b1-particles` | B1 | Частицы: ära, läbi, valmis, üles… |
+| `b1-government` | B1 | Управление: sõltuma millest, loobuma millest… |
+| `b1-agreement` | B1 | Согласование во всех падежах |
+| `b1-elative` | B1 | Окончание -st: о чём, из чего, чем |
+| `b1-postpositions` | B1 | Послелоги B1: tõttu, asemel, ääres… |
+| `b1-comparison` | B1 | Сравнение: parim, sama … kui, mida … seda |
+| `b1-pronouns` | B1 | Весь, каждый, оба: kõik, kogu, iga, mõlemad |
+| `b1-relative` | B1 | То, что…: see, mis; kõik, mis |
+| `b1-time-clauses` | B1 | Когда, пока, как только: kuni, niipea kui |
+| `b1-cause-purpose` | B1 | Причина, цель, уступка: selleks et, seetõttu |
+| `b1-reported-speech` | B1 | Косвенная речь: Ta ütles, et… |
+| `b1-connectors` | B1 | Связки текста: lisaks, seega, näiteks |
+| `b1-opinion` | B1 | Своё мнение: minu arvates, olen nõus |
+| `b1-polite` | B1 | Вежливые просьбы и советы |
+| `b1-letters` | B1 | Письмо и объявление: Tere! … Lugupidamisega |
+| `b1-adjective-suffixes` | B1 | Прилагательные: -line, -kas, -matu, eba- |
+| `b1-noun-suffixes` | B1 | Существительные: -us, -nik, -kond; сложные слова |
 
 ## Запрос для ИИ, чтобы добавить правило
 
 ```
 Ты пишешь учебник грамматики эстонского языка для русскоязычных новичков.
-Напиши правило уровня B1 «Причастия: tegev, tehtud» для раздела «Глаголы».
+Напиши правило уровня B2 «Причастные обороты в официальном тексте» для раздела «Глаголы: формы».
 
 Формат — строки CSV с разделителем «;», 7 колонок:
 level;section;rule;block;content;translation;id
 - block: summary (1 строка), text, heading, tip (совет), note (запомните, исключение), warn (частая ошибка), head/row (таблица, ячейки через « | »), example.
 - example: content — по-эстонски, translation — перевод на русский.
 - Окончания выделяй **так**. Кавычки — только «ёлочки». Без «;» внутри текста.
-- id — только в первой строке правила, латиницей: b1-participles.
+- id — только в первой строке правила, латиницей: b2-participle-phrases.
 - Объясняй просто, короткими фразами, 2–3 таблицы максимум, 4–6 примеров.
 - Проверь каждую форму и каждый пример: только правильный современный эстонский.
 - Без пояснений до и после — только строки CSV, без строки заголовка.
