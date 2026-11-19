@@ -977,7 +977,7 @@ B1;word;Слова-связки;peamiselt;главным образом;mainly;M
 B1;word;Слова-связки;sellepärast;поэтому;that's why, therefore;Sellepärast ma tulingi. — Поэтому я и пришёл.;Состоит из: selle (этого) + pärast (из-за);;b1-cause-purpose
 B1;word;Окружающая среда;keskkond;окружающая среда;environment;Hoia keskkonda puhtana. — Береги окружающую среду.;;;
 B1;word;Окружающая среда;kliima;климат;climate;Kliima muutub. — Климат меняется.;;;
-B1;word;Окружающая среда;taaskasutus;переработка (вторсырья);recycling;Pudelid lähevad taaskasutusse. — Бутылки идут на переработку.;Состоит из: taas (снова) + kasutus (использование);;
+B1;word;Окружающая среда;taaskasutus;повторное использование, переработка;reuse, recycling;Pudelid lähevad taaskasutusse. — Бутылки идут на переработку.;Состоит из: taas (снова) + kasutus (использование);;
 B1;word;Окружающая среда;energia;энергия;energy;Päikeseenergia on puhas. — Солнечная энергия чистая.;;;
 B1;word;Окружающая среда;elekter;электричество;electricity;Elekter on kallis. — Электричество дорогое.;;;
 B1;word;Окружающая среда;õhk;воздух;air;Maal on värske õhk. — В деревне свежий воздух.;;;
@@ -1063,7 +1063,7 @@ A2;phrase;Время;eelmisel aastal;в прошлом году;last year;Eelmis
 A2;phrase;Время;tunni aja pärast;через час;in an hour;Ma olen tunni aja pärast kodus. — Я буду дома через час.;;;a2-time-expressions
 A2;phrase;Время;kahe päeva pärast;через два дня;in two days;Kahe päeva pärast on jõulud. — Через два дня Рождество.;;;a2-numbers-cases
 A2;phrase;Время;mõne aja pärast;через некоторое время;after a while;Helistan mõne aja pärast tagasi. — Перезвоню через некоторое время.;;;a2-time-expressions
-A2;phrase;Время;õigel ajal;вовремя;on time;Rong saabus õigel ajal. — Поезд прибыл вовремя.;;;a2-postpositions
+A2;phrase;Время;õigel ajal;вовремя;on time;Rong saabus õigel ajal. — Поезд прибыл вовремя.;;;a2-time-expressions
 A2;phrase;Время;liiga hilja;слишком поздно;too late;Nüüd on juba liiga hilja. — Теперь уже слишком поздно.;;;
 A2;phrase;Время;pool kolm;половина третьего (2:30);half past two;Kohtume pool kolm. — Встретимся в половине третьего.;Эстонцы считают к следующему часу: pool kolm — 2:30;;a1-time
 A2;phrase;Время;veerand neli;четверть четвёртого (3:15);quarter past three;Kell on veerand neli. — Четверть четвёртого.;;;a1-time
@@ -1364,7 +1364,7 @@ B2;phrase;Связки;mitte et;не то чтобы;not that;Mitte et ma ei tah
 B2;phrase;Связки;seda enam;тем более;all the more;Seda enam peaksid tulema. — Тем более тебе стоит прийти.;;;
 B2;phrase;Связки;teisisõnu;другими словами;in other words;Teisisõnu, me ei jõua õigeks ajaks. — Другими словами, мы не успеем вовремя.;;;
 B2;phrase;Связки;kokkuvõttes;в итоге;all in all;Kokkuvõttes oli see hea aasta. — В итоге это был хороший год.;;;b1-connectors
-B2;phrase;Пословицы и идиомы;kaks kärbest ühe hoobiga;двух зайцев одним ударом;two birds with one stone;Tegin kaks kärbest ühe hoobiga. — Я убил двух зайцев одним ударом.;Идиома;;
+B2;phrase;Пословицы и идиомы;kaks kärbest ühe hoobiga;двух зайцев одним ударом;two birds with one stone;Lõin kaks kärbest ühe hoobiga. — Я убил(а) двух зайцев одним ударом.;Идиома. Обычно с глаголами lööma, tabama, tapma: lõin kaks kärbest ühe hoobiga;;
 B2;phrase;Пословицы и идиомы;nagu kala vees;как рыба в воде;like a fish in water;Ta tunneb end uues töökohas nagu kala vees. — На новой работе он как рыба в воде.;Идиома;;
 B2;phrase;Пословицы и идиомы;kuldne kesktee;золотая середина;the golden mean;Proovime leida kuldse kesktee. — Попробуем найти золотую середину.;Идиома;;
 B2;phrase;Пословицы и идиомы;viimane piisk karikas;последняя капля;the last straw;See oli viimane piisk karikas. — Это стало последней каплей.;Идиома;;
@@ -1655,7 +1655,7 @@ A1;word;Действия;tõstma;поднимать;to lift, to raise;Tõsta kä
 A1;word;Действия;valutama;болеть (о части тела);to ache;Mu pea valutab. — У меня болит голова.;see valutab — это болит;;
 A1;word;Действия;viskama;бросать;to throw;Viska pall mulle. — Брось мне мяч.;ma viskan — я бросаю;;
 A1;word;Действия;õnnitlema;поздравлять;to congratulate;Ma õnnitlen sind sünnipäeva puhul! — Поздравляю тебя с днём рождения!;ma õnnitlen — я поздравляю;;
-A1;word;Действия;sadama;идти (о дожде, снеге);to fall (rain, snow);Väljas sajab. — На улице идёт дождь.;see sajab — идёт (дождь);;
+A1;word;Действия;sadama;идти (о дожде, снеге);to fall (rain, snow);Väljas sajab. — На улице идёт дождь.;sajab vihma — идёт дождь, sajab lund — идёт снег;;
 A1;word;Одежда;king;туфля;shoe;Üks king on kadunud. — Одна туфля пропала.;Мн. ч.: kingad;;
 A1;word;Одежда;sokk;носок;sock;Kus on mu teine sokk? — Где мой второй носок?;Мн. ч.: sokid;;
 A1;word;Одежда;sukk;чулок;stocking;Mul on sukk katki. — У меня порвался чулок.;;;
@@ -2021,7 +2021,7 @@ A2;word;Покупки и одежда;põll;фартук;apron;Kokk paneb põll
 A2;word;Покупки и одежда;rihm;ремень, ремешок;strap, belt;Kella rihm on katki. — Ремешок часов порвался.;;;
 A2;word;Покупки и одежда;lips;галстук;tie;Ta kannab lipsu. — Он носит галстук.;;;
 A2;word;Покупки и одежда;kübar;шляпа;hat (with brim);Vanaisal on must kübar. — У дедушки чёрная шляпа.;;;
-A2;word;Покупки и одежда;jalanõu;обувь (одна пара/вид);footwear;Võtke jalanõud ära. — Снимите обувь.;Мн. ч.: jalanõud. Состоит из: jalg (нога) + nõu (сосуд, вещь);;
+A2;word;Покупки и одежда;jalanõu;"обувь; предмет обуви (ботинок, туфля…)";footwear;Võtke jalanõud ära. — Снимите обувь.;Обычно во мн. ч.: jalanõud — обувь. Состоит из: jalg (нога) + nõu (сосуд, вещь);;
 A2;word;Покупки и одежда;saabas;сапог;boot;Üks saabas on märg. — Один сапог мокрый.;Мн. ч.: saapad;;
 A2;word;Покупки и одежда;kummik;резиновый сапог;rubber boot;Vihmaga kannan kummikuid. — В дождь я ношу резиновые сапоги.;Мн. ч.: kummikud;;
 A2;word;Покупки и одежда;sandaal;сандалия;sandal;Suvel kannan sandaale. — Летом я ношу сандалии.;Мн. ч.: sandaalid;;
@@ -2388,7 +2388,7 @@ A2;word;Время и календарь;jätkuma;продолжаться;to co
 A2;word;Числа;üheteistkümnes;одиннадцатый;eleventh;November on aasta üheteistkümnes kuu. — Ноябрь — одиннадцатый месяц года.;;;
 A2;word;Числа;kaheteistkümnes;двенадцатый;twelfth;Detsember on kaheteistkümnes kuu. — Декабрь — двенадцатый месяц.;;;
 A2;word;Числа;kolmeteistkümnes;тринадцатый;thirteenth;Täna on reede, kolmeteistkümnes. — Сегодня пятница, тринадцатое.;;;
-A2;word;Числа;neljateistkümnes;четырнадцатый;fourteenth;Sõbrapäev on neljateistkümnes veebruar. — День друзей — четырнадцатое февраля.;;;
+A2;word;Числа;neljateistkümnes;четырнадцатый;fourteenth;Täna on neljateistkümnes veebruar, sõbrapäev. — Сегодня четырнадцатое февраля, День друзей.;;;a2-dates
 A2;word;Числа;viieteistkümnes;пятнадцатый;fifteenth;Palk tuleb viieteistkümnendal. — Зарплата приходит пятнадцатого.;;;
 A2;word;Числа;kuueteistkümnes;шестнадцатый;sixteenth;Ma sündisin kuueteistkümnendal mail. — Я родился шестнадцатого мая.;;;
 A2;word;Числа;seitsmeteistkümnes;семнадцатый;seventeenth;Kohtume seitsmeteistkümnendal. — Встретимся семнадцатого.;;;
@@ -2996,7 +2996,7 @@ A1;word;Город;kiosk;киоск;kiosk;Ajalehte saab osta kioskist. — Га�
 A1;word;Город;söökla;столовая;canteen;Lõunat sööme sööklas. — Обедаем мы в столовой.;;;a2-word-formation
 A1;word;Город;raekoda;ратуша;town hall;Raekoda on vanalinnas. — Ратуша в старом городе.;;;
 A1;word;Город;politseijaoskond;полицейский участок;police station;Kus asub politseijaoskond? — Где находится полицейский участок?;Состоит из: politsei (полиция) + jaoskond (участок);;
-A1;word;Транспорт и дорога;ühistransport;общественный транспорт;public transport;Tallinnas on ühistransport tasuta. — В Таллинне общественный транспорт бесплатный.;Бесплатно для жителей Таллинна. Состоит из: ühis- (общий) + transport;;
+A1;word;Транспорт и дорога;ühistransport;общественный транспорт;public transport;Tallinlastele on ühistransport tasuta. — Для жителей Таллинна общественный транспорт бесплатный.;Бесплатно для зарегистрированных жителей Таллинна, остальные платят. Состоит из: ühis- (общий) + transport;;
 A1;word;Транспорт и дорога;ühiskaart;транспортная карта;transport card;Valideeri ühiskaart bussis. — Отметь транспортную карту в автобусе.;Состоит из: ühis- (общий) + kaart (карта);;
 A1;word;Транспорт и дорога;pagas;багаж;luggage;Kus on minu pagas? — Где мой багаж?;;;
 A1;word;Погода и природа;kask;берёза;birch;Kask on Eestis tavaline puu. — Берёза в Эстонии — обычное дерево.;;;
@@ -3323,7 +3323,7 @@ A2;phrase;Составные глаголы;kinni maksma;оплатить (за 
 A2;phrase;Время;järgmisel aastal;в следующем году;next year;Järgmisel aastal tahan õppida ülikoolis. — В следующем году я хочу учиться в университете.;;;a2-time-expressions
 A2;phrase;Время;kahe nädala pärast;через две недели;in two weeks;Kahe nädala pärast on puhkus. — Через две недели отпуск.;;;a2-numbers-cases
 A2;phrase;Время;kaks päeva tagasi;два дня назад;two days ago;Ta saabus kaks päeva tagasi. — Он приехал два дня назад.;;;a2-time-expressions
-A2;phrase;Время;nädalas kaks korda;два раза в неделю;twice a week;Käin trennis nädalas kaks korda. — Я хожу на тренировку два раза в неделю.;;;a1-numbers-partitive
+A2;phrase;Время;nädalas kaks korda;два раза в неделю;twice a week;Käin trennis nädalas kaks korda. — Я хожу на тренировку два раза в неделю.;;;a2-time-expressions
 A2;phrase;Время;kogu aeg;всё время;all the time;Ta räägib kogu aeg telefoniga. — Он всё время говорит по телефону.;;;
 A2;phrase;Время;nädala lõpus;в конце недели;at the end of the week;Nädala lõpus sõidame maale. — В конце недели поедем в деревню.;;;
 A2;phrase;Время;kuu alguses;в начале месяца;at the beginning of the month;Palk tuleb kuu alguses. — Зарплата приходит в начале месяца.;;;
@@ -3331,7 +3331,7 @@ A2;phrase;Время;eelmisel kuul;в прошлом месяце;last month;Eel
 A2;phrase;Время;paar päeva;пару дней;a couple of days;Jään paariks päevaks Tartusse. — Я останусь на пару дней в Тарту.;;;
 A2;phrase;Связки;ühelt poolt;с одной стороны;on the one hand;Ühelt poolt on see kallis. — С одной стороны, это дорого.;;;
 A2;phrase;Связки;teiselt poolt;с другой стороны;on the other hand;Teiselt poolt on see väga mugav. — С другой стороны, это очень удобно.;;;
-A2;phrase;Связки;minu arvates;по-моему;in my opinion;Minu arvates on see hea mõte. — По-моему, это хорошая мысль.;;;a1-pronouns
+A2;phrase;Связки;minu arvates;по-моему;in my opinion;Minu arvates on see hea mõte. — По-моему, это хорошая мысль.;;;b1-opinion
 A2;phrase;Связки;see tähendab;то есть, это значит;that is, it means;Kell kaks, see tähendab pärast lõunat. — В два, то есть после обеда.;;;
 A2;phrase;Связки;kui ... siis;если ... то;if ... then;Kui sajab, siis jääme koju. — Если пойдёт дождь, то останемся дома.;;;a2-conjunctions
 A2;phrase;Связки;mitte ainult;не только;not only;Ta räägib mitte ainult eesti, vaid ka soome keelt. — Он говорит не только по-эстонски, но и по-фински.;;;
@@ -3563,7 +3563,7 @@ A2;sentence;Банк и почта;Kui kaua kiri Soome läheb?;Сколько и
 A2;sentence;Услуги;Ma tahaksin juukseid lõigata lasta.;Я бы хотел подстричься.;I'd like a haircut.;;;;a2-conditional
 A2;sentence;Услуги;Lõigake natuke lühemaks, palun.;Подстригите покороче, пожалуйста.;A bit shorter, please.;;;;a1-imperative
 A2;sentence;Услуги;Millal mu auto valmis on?;Когда будет готова моя машина?;When will my car be ready?;;;;a1-question-words
-A2;sentence;Услуги;Mu telefon on katki, kas te saate seda parandada?;Мой телефон сломан, вы можете его починить?;My phone is broken, can you repair it?;;;;a2-conjunctions
+A2;sentence;Услуги;Mu telefon on katki, kas te saate seda parandada?;Мой телефон сломан, вы можете его починить?;My phone is broken, can you repair it?;;;;a1-kas
 A2;sentence;Услуги;Kui palju parandus maksab?;Сколько стоит ремонт?;How much does the repair cost?;;;;a1-question-words
 A2;sentence;Услуги;Kas ma saan selle tagastada?;Можно это вернуть?;Can I return this?;;;;a2-modality
 A2;sentence;Услуги;Ma tahaksin kaevata.;Я хочу пожаловаться.;I'd like to make a complaint.;;;;a2-conditional
@@ -3587,10 +3587,10 @@ A2;sentence;Планы и встречи;Vabandust, ma jään natuke hiljaks.;И
 A2;sentence;Планы и встречи;Mul tuli midagi vahele.;У меня кое-что случилось (появились дела).;Something came up.;;;;a2-indefinite
 A2;sentence;Планы и встречи;Kas me saaksime kohtumise edasi lükata?;Можем ли мы перенести встречу?;Could we postpone the meeting?;;;;a2-conditional
 A2;sentence;Планы и встречи;Ma kutsun sind oma sünnipäevale.;Я приглашаю тебя на свой день рождения.;I'm inviting you to my birthday party.;;;;a1-pronouns
-A2;sentence;Планы и встречи;Aitäh kutse eest, ma tulen hea meelega.;Спасибо за приглашение, я с радостью приду.;Thanks for the invitation, I'll gladly come.;;;;a1-comitative
+A2;sentence;Планы и встречи;Aitäh kutse eest, ma tulen hea meelega.;Спасибо за приглашение, я с радостью приду.;Thanks for the invitation, I'll gladly come.;;;;a2-postpositions
 A2;sentence;Планы и встречи;Kahjuks ma ei saa tulla.;К сожалению, я не смогу прийти.;Unfortunately, I can't come.;;;;a1-negation
 A2;sentence;Планы и встречи;Suvel tahame sõita Itaaliasse.;Летом мы хотим поехать в Италию.;In summer we want to go to Italy.;;;;a1-days-months
-A2;sentence;Мнения и чувства;Minu arvates on see hea idee.;По-моему, это хорошая идея.;In my opinion it's a good idea.;;;;a1-pronouns
+A2;sentence;Мнения и чувства;Minu arvates on see hea idee.;По-моему, это хорошая идея.;In my opinion it's a good idea.;;;;b1-opinion
 A2;sentence;Мнения и чувства;Ma olen sinuga nõus.;Я с тобой согласен.;I agree with you.;;;;a1-comitative
 A2;sentence;Мнения и чувства;Ma ei ole sellega nõus.;Я с этим не согласен.;I don't agree with that.;;;;a1-comitative
 A2;sentence;Мнения и чувства;Mulle see väga meeldib.;Мне это очень нравится.;I like it very much.;;;;a1-adessive-allative
@@ -3762,7 +3762,7 @@ A2;phrase;Интернет и телефон;pilti üles laadima;загружа�
 A2;phrase;Интернет и телефон;faili alla laadima;скачивать файл;to download a file;;;;a2-particle-verbs
 A2;phrase;Интернет и телефон;arvutit taaskäivitama;перезагружать компьютер;to restart a computer;;;;
 A2;phrase;Интернет и телефон;salasõna vahetama;менять пароль;to change a password;;;;
-A2;phrase;Интернет и телефон;kontole sisse logima;входить в учётную запись;to log into an account;;;;a1-here-there
+A2;phrase;Интернет и телефон;kontole sisse logima;входить в учётную запись;to log into an account;;;;a2-particle-verbs
 A2;phrase;Интернет и телефон;kontolt välja logima;выходить из учётной записи;to log out of an account;;;;
 A2;phrase;Интернет и телефон;manust avama;открывать вложение;to open an attachment;;;;
 A2;phrase;Интернет и телефон;ekraanipilti tegema;делать снимок экрана;to take a screenshot;;;;
@@ -3770,7 +3770,7 @@ A2;phrase;Дорога и транспорт;turvavööd kinnitama;пристё�
 A2;phrase;Дорога и транспорт;pidurit vajutama;нажимать на тормоз;to press the brake;;;;
 A2;phrase;Дорога и транспорт;ratast parandama;чинить велосипед;to repair a bicycle;;;;
 A2;phrase;Дорога и транспорт;ketti määrima;смазывать цепь;to lubricate a chain;;;;
-A2;phrase;Дорога и транспорт;üle tee minema;переходить дорогу;to cross the road;;;;a2-particle-verbs
+A2;phrase;Дорога и транспорт;üle tee minema;переходить дорогу;to cross the road;;;;a2-postpositions
 A2;phrase;Составные глаголы;kohale jõudma;прибывать, добираться до места;to arrive, to get there;;;;a2-particle-verbs
 A2;phrase;Дела и услуги;arsti juurde aega kinni panema;записываться к врачу;to book a doctor's appointment;;;;a2-particle-verbs
 A2;phrase;Дела и услуги;rohtu võtma;принимать лекарство;to take medicine;;;;
@@ -3810,7 +3810,7 @@ A1;sentence;Самочувствие;Mul on vaja puhata.;Мне нужно от�
 A1;sentence;Просьбы и вопросы;Kas ma võin akna avada?;Можно открыть окно?;May I open the window?;;;;a2-modality
 A1;sentence;Просьбы и вопросы;Kas te võite mulle helistada?;Можете мне позвонить?;Can you call me?;;;;a2-modality
 A2;sentence;Интернет и телефон;Ma unustasin oma salasõna ära.;Я забыл свой пароль.;I forgot my password.;;;;a2-total-object
-A2;sentence;Интернет и телефон;Ma ei saa oma kontole sisse logida.;Я не могу войти в свою учётную запись.;I can't log into my account.;;;;a1-here-there
+A2;sentence;Интернет и телефон;Ma ei saa oma kontole sisse logida.;Я не могу войти в свою учётную запись.;I can't log into my account.;;;;a2-particle-verbs
 A2;sentence;Интернет и телефон;Palun saatke mulle kinnitus e-postiga.;Отправьте мне подтверждение по электронной почте, пожалуйста.;Please send me confirmation by email.;;;;a1-imperative
 A2;sentence;Интернет и телефон;Ma ei saanud teie kirja kätte.;Я не получил ваше письмо.;I didn't receive your email.;;;;a1-past
 A2;sentence;Интернет и телефон;Mul ei ole levi.;У меня нет сигнала мобильной сети.;I have no mobile signal.;;;;a1-mul-on
@@ -3825,7 +3825,7 @@ A2;sentence;Документы и услуги;Palun täitke see vorm.;Запо�
 A2;sentence;Документы и услуги;Kas ma saan digiallkirja anda?;Могу я поставить цифровую подпись?;Can I sign this digitally?;;;;a2-modality
 A2;sentence;Документы и услуги;Milliseid dokumente on vaja?;Какие документы нужны?;Which documents are needed?;;;;a2-plural-partitive
 A2;sentence;Покупки и возврат;Kas ma saan selle kauba ümber vahetada?;Могу я обменять этот товар?;Can I exchange this item?;;;;a2-modality
-A2;sentence;Покупки и возврат;Kas ma saan raha tagasi?;Могу я вернуть деньги?;Can I get a refund?;;;;a1-kas
+A2;sentence;Покупки и возврат;Kas ma saan raha tagasi?;Мне вернут деньги?;Can I get a refund?;;;;a1-kas
 A2;sentence;Покупки и возврат;Kui kaua garantii kehtib?;Как долго действует гарантия?;How long does the warranty last?;;;;a1-question-words
 A2;sentence;Покупки и возврат;See ei sobi mulle.;Мне это не подходит.;This doesn't suit me.;;;;a1-adessive-allative
 A2;sentence;Покупки и возврат;Kas teil on seda teises värvis?;У вас есть это в другом цвете?;Do you have this in another colour?;;;;a1-mul-on
@@ -3840,7 +3840,7 @@ A2;sentence;У врача;Mul on kurk valus ja raske neelata.;У меня бол
 A2;sentence;Транспорт и поездки;Kas siin tohib parkida?;Здесь разрешено парковаться?;Is parking allowed here?;;;;a2-modality
 A2;sentence;Транспорт и поездки;Mul on jalgrattal kumm tühi.;У меня спустило колесо на велосипеде.;My bicycle tyre is flat.;;;;a1-mul-on
 A2;sentence;Транспорт и поездки;Ma sõidan rattaga tööle.;Я езжу на работу на велосипеде.;I cycle to work.;;;;a1-comitative
-A2;sentence;Транспорт и поездки;Palun andke teada, kui oleme kohal.;Скажите, пожалуйста, когда мы приедем.;Please let me know when we arrive.;;;;a1-imperative
+A2;sentence;Транспорт и поездки;Palun andke teada, kui oleme kohal.;Сообщите, пожалуйста, когда мы будем на месте.;Please let me know when we arrive.;;;;a1-imperative
 A2;sentence;Транспорт и поездки;Kas ma pean siin pileti ostma?;Мне нужно покупать здесь билет?;Do I need to buy a ticket here?;;;;a2-modality
 A2;sentence;Банк и почта;Millal pakk kohale jõuab?;Когда придёт посылка?;When will the parcel arrive?;;;;a1-question-words
 A2;sentence;Банк и почта;Sain teate, et pakk on kohal.;Я получил уведомление, что посылка прибыла.;I got a notification that the parcel has arrived.;;;;a2-conjunctions
@@ -4057,7 +4057,7 @@ B1;phrase;Окружающая среда;loodust hoidma;беречь приро
 B1;phrase;Окружающая среда;prügi liigiti koguma;собирать мусор раздельно;to separate waste;Meie majas kogutakse prügi liigiti. — В нашем доме мусор собирают раздельно.;;;
 B1;phrase;Окружающая среда;taaskasutusse andma;отдавать на повторное использование;to pass on for reuse;Vanad riided andsin taaskasutusse. — Старую одежду я отдал(а) на повторное использование.;;;
 B1;phrase;Путешествия и услуги;bussist maha jääma;опоздать на автобус;to miss the bus;Kiirusta, muidu jääd bussist maha! — Поторопись, иначе опоздаешь на автобус!;;;b1-particles
-B1;phrase;Путешествия и услуги;pileti kehtivust kontrollima;проверять действительность билета;to check ticket validity;Kontrolör kontrollis piletite kehtivust. — Контролёр проверил билеты.;;;
+B1;phrase;Путешествия и услуги;pileti kehtivust kontrollima;проверять действительность билета;to check ticket validity;Kontrolör kontrollis piletite kehtivust. — Контролёр проверил действительность билетов.;;;
 B1;phrase;Путешествия и услуги;hilinemisest teatama;сообщать об опоздании;to report a delay;Palun teatage hilinemisest ette. — Пожалуйста, сообщайте об опоздании заранее.;;;b1-elative
 B1;phrase;Путешествия и услуги;broneeringut tühistama;отменять бронирование;to cancel a booking;Broneeringu saab tühistada tasuta. — Бронирование можно отменить бесплатно.;;;
 B1;phrase;Путешествия и услуги;õigel ajal kohale jõudma;прибывать вовремя;to arrive on time;Me jõudsime õigel ajal kohale. — Мы прибыли вовремя.;;;
@@ -4163,7 +4163,7 @@ B2;sentence;Экономика и деньги;Tarbijad on hakanud vähem kuluta
 B2;sentence;Экономика и деньги;Majanduskasv ei pruugi kõigi heaolu suurendada.;Экономический рост не обязательно повышает благополучие всех.;Economic growth may not improve everyone's well-being.;;;;
 B2;sentence;Медиа и информация;See uudis võib jätta eksitava mulje.;Эта новость может создать ложное впечатление.;This news story may create a misleading impression.;;;;a2-modality
 B2;sentence;Медиа и информация;Enne jagamist tuleks info allikat kontrollida.;Прежде чем делиться информацией, следует проверить её источник.;The source should be checked before sharing information.;;;;a2-conditional
-B2;sentence;Медиа и информация;Usaldusväärne allikas peab olema selgelt märgitud.;Надёжный источник должен быть чётко указан.;A reliable source should be clearly identified.;;;;a2-adverbs
+B2;sentence;Медиа и информация;Usaldusväärne allikas peab olema selgelt märgitud.;Надёжный источник должен быть чётко указан.;A reliable source should be clearly identified.;;;;
 B2;sentence;Медиа и информация;Arutelu käigus selgus, et arvamused erinevad.;В ходе обсуждения выяснилось, что мнения расходятся.;The discussion revealed differing opinions.;;;;a2-conjunctions
 B2;sentence;Чувства и благополучие;Vaimne tervis on sama tähtis kui füüsiline tervis.;Психическое здоровье столь же важно, как физическое.;Mental health is as important as physical health.;;;;
 B2;sentence;Чувства и благополучие;Liigne töökoormus võib viia läbipõlemiseni.;Чрезмерная рабочая нагрузка может привести к выгоранию.;Excessive workload can lead to burnout.;;;;a2-terminative
@@ -4230,7 +4230,7 @@ A1;phrase;Порядковые числительные;teine peatus;втора�
 A1;phrase;Порядковые числительные;kolmas peatus;третья остановка;the third stop;;;;a1-numbers
 A1;phrase;Порядковые числительные;esimene klass;первый класс;first grade;;;;a1-numbers
 A1;phrase;Порядковые числительные;teine klass;второй класс;second grade;;;;a1-numbers
-A1;phrase;Порядковые числительные;teisel päeval;на второй день;on the second day;Teisel päeval läksime mere äärde. — На второй день мы пошли к морю.;Форма -l отвечает на вопрос «когда?»;;a1-days-months
+A1;phrase;Порядковые числительные;teisel päeval;на второй день;on the second day;Teisel päeval läksime mere äärde. — На второй день мы пошли к морю.;Форма -l отвечает на вопрос «когда?»;;a2-dates
 A1;phrase;Время и календарь;üks päev;один день;one day;;;;
 A1;phrase;Время и календарь;kaks päeva;два дня;two days;;;;a1-numbers-partitive
 A1;phrase;Время и календарь;kolm päeva;три дня;three days;;;;a1-numbers-partitive
@@ -4367,8 +4367,8 @@ A1;phrase;Дом и бытовые вещи;võti laual;ключ на столе
 A1;phrase;Дом и бытовые вещи;raamat kapis;книга в шкафу;book in the cupboard;Sinu raamat on kapis. — Твоя книга в шкафу.;Местный падеж -s обозначает «в»;;
 A1;phrase;Дом и бытовые вещи;kott toolil;сумка на стуле;bag on the chair;;Местный падеж -l обозначает «на»;;
 A1;phrase;Дом и бытовые вещи;kass voodil;кот на кровати;cat on the bed;;Местный падеж -l обозначает «на»;;
-A1;phrase;Дом и бытовые вещи;uks lahti;дверь открыта;door open;Uks on lahti, tule sisse! — Дверь открыта, заходи!;Краткая разговорная конструкция;;a2-particle-verbs
-A1;phrase;Дом и бытовые вещи;aken kinni;окно закрыто;window closed;Pane aken kinni, palun. — Закрой окно, пожалуйста.;Краткая разговорная конструкция;;a2-particle-verbs
+A1;phrase;Дом и бытовые вещи;uks lahti;дверь открыта;door open;Uks on lahti, tule sisse! — Дверь открыта, заходи!;Краткая разговорная конструкция;;
+A1;phrase;Дом и бытовые вещи;aken kinni;окно закрыто;window closed;Pane aken kinni, palun. — Закрой окно, пожалуйста.;Краткая разговорная конструкция;;
 A1;phrase;Город и места;suur linn;большой город;big city;;;;
 A1;phrase;Город и места;väike linn;маленький город;small town;;;;
 A1;phrase;Город и места;ilus park;красивый парк;beautiful park;;;;
@@ -4896,8 +4896,8 @@ B1;word;Окружающая среда;plastik;пластик;plastic;Plastik l
 B1;word;Культура и досуг;lavastaja;режиссёр (театра);stage director;Lavastaja on tuntud näitleja. — Режиссёр — известный актёр.;;;
 B1;word;Культура и досуг;huviring;кружок;hobby group, club;Laps käib kahes huviringis. — Ребёнок ходит в два кружка.;;;
 B1;word;Культура и досуг;harrastus;хобби, увлечение;hobby;Minu harrastus on kalastamine. — Моё увлечение — рыбалка.;;;
-B1;word;Общение и мнения;lugupidamisega;с уважением;respectfully, yours sincerely;;Прощание в официальном письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
-B1;word;Общение и мнения;tervitades;с приветом;best regards;;Прощание в личном письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;word;Общение и мнения;lugupidamisega;с уважением;respectfully, yours sincerely;Kiri lõppes sõnaga „Lugupidamisega“. — Письмо заканчивалось словами «С уважением».;Прощание в официальном письме. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
+B1;word;Общение и мнения;tervitades;"всего доброго; с приветом (в конце письма)";best regards;Sõbrale kirjutan kirja lõppu „Tervitades“. — Другу я пишу в конце письма «Всего доброго».;Прощание в конце письма. Запятую после него не ставят, имя пишут с новой строки;;b1-letters
 B1;phrase;Глаголы и падежи;suitsetamisest loobuma;бросить курить;to quit smoking;Ta loobus eelmisel aastal suitsetamisest. — В прошлом году он(а) бросил(а) курить.;loobuma millest? — от чего;;b1-government
 B1;phrase;Глаголы и падежи;tööle keskenduma;сосредоточиться на работе;to focus on work;Kodus on raske tööle keskenduda. — Дома трудно сосредоточиться на работе.;keskenduma millele?;;b1-government
 B1;phrase;Глаголы и падежи;projektis osalema;участвовать в проекте;to take part in a project;Meie kool osaleb rahvusvahelises projektis. — Наша школа участвует в международном проекте.;osalema milles?;;b1-government
@@ -5101,7 +5101,7 @@ A1;word;Кухня и посуда;pesukäsn;губка для мытья;sponge
 A1;word;Дом;pult;пульт;remote control;Kus on teleri pult? — Где пульт от телевизора?;;;
 A1;word;Описание;janune;испытывающий жажду;thirsty;Ma olen janune. — Я хочу пить.;Пара: näljane — голодный;;
 A1;word;Описание;unine;сонный;sleepy;Laps on unine. — Ребёнок сонный.;;;
-A1;word;Описание;katkine;сломанный, порванный;broken;Mu telefon on katkine. — Мой телефон сломан.;То же, что katki: Telefon on katki.;;
+A1;word;Описание;katkine;сломанный, порванный;broken;Mu telefon on katkine. — Мой телефон сломан.;Перед существительным — katkine: katkine telefon. Также говорят: Telefon on katki.;;
 A1;word;Описание;üsna;довольно, вполне;quite, fairly;Täna on üsna külm. — Сегодня довольно холодно.;;;
 A1;word;Семья и люди;täiskasvanu;взрослый (человек);adult;Pilet maksab täiskasvanule viis eurot. — Билет для взрослого стоит пять евро.;;;
 A1;word;Семья и люди;noormees;молодой человек, парень;young man;Üks noormees aitas mind. — Мне помог один молодой человек.;Состоит из: noor (молодой) + mees (мужчина);;
@@ -5128,7 +5128,7 @@ A2;word;Уборка и стирка;triikimislaud;гладильная доск
 A2;word;Уборка и стирка;plekieemaldi;пятновыводитель;stain remover;Plekieemaldi võttis pleki ära. — Пятновыводитель удалил пятно.;;;
 A2;word;Уборка и стирка;nõel;иголка;needle;Kas sul on nõela ja niiti? — У тебя есть иголка и нитка?;;;
 A2;word;Уборка и стирка;niit;нитка;thread;Mul on vaja musta niiti. — Мне нужна чёрная нитка.;Другое значение: луг;;
-A2;word;Уборка и стирка;luud;метла;broom;Pühi põrand luuaga. — Подмети пол метлой.;;;
+A2;word;Уборка и стирка;luud;метла;broom;Pühi põrand luuaga. — Подмети пол метлой.;"Формы: luua, luuda; мн. ч. luuad. Не путать с luud — кости (мн. ч. от luu)";;
 A2;word;Уборка и стирка;mopp;швабра;mop;Pese põrandat mopiga. — Помой пол шваброй.;;;
 A2;word;Мусор и сортировка;taara;тара (пустые бутылки и банки);empty bottles and cans;Viin taara poodi. — Я отнесу тару в магазин.;Разговорное. За тару с залогом возвращают деньги;;
 A2;word;Мусор и сортировка;pandiraha;залог за тару;bottle deposit;Taara eest saab pandiraha tagasi. — За тару возвращают залог.;;;
@@ -5155,13 +5155,13 @@ A2;word;Ремонт и поломки;purunema;разбиться, сломат
 A2;word;Инструменты и канцелярия;mutter;гайка;nut;Keera mutter kinni. — Закрути гайку.;;;
 A2;word;Инструменты и канцелярия;polt;болт;bolt;Mul on vaja pikemat polti. — Мне нужен болт подлиннее.;;;
 A2;word;Инструменты и канцелярия;trell;дрель;drill;Kas sa saaksid mulle trelli laenata? — Ты не одолжишь мне дрель?;;;
-A2;word;Дом и быт;riidekapp;шкаф для одежды;wardrobe;Riided on riidekapis. — Одежда в шкафу.;Состоит из: riided (одежда) + kapp (шкаф);;
+A2;word;Дом и быт;riidekapp;шкаф для одежды;wardrobe;Riided on riidekapis. — Одежда в шкафу.;"Состоит из: riie → riide- + kapp (шкаф); riided — одежда";;
 A2;word;Дом и быт;seinakell;настенные часы;wall clock;Seinakell jääb maha. — Настенные часы отстают.;;;
 A2;word;Дом и быт;laudlina;скатерть;tablecloth;Pane laudlina lauale. — Постели скатерть на стол.;;;
 A2;word;Дом и быт;lillepott;цветочный горшок;flowerpot;Lillepott kukkus maha. — Цветочный горшок упал.;;;
 A2;word;Дом и быт;võtmekimp;связка ключей;bunch of keys;Ma ei leia oma võtmekimpu. — Не могу найти свою связку ключей.;;;
 A2;word;Дом и быт;võtmehoidja;брелок для ключей;key ring;Ostsin võtmehoidja mälestuseks. — Я купил(а) брелок на память.;;;
-A2;word;Еда и напитки;kukkel;сдобная булочка;bun;Ostsin kaneelikukli. — Я купил(а) булочку с корицей.;;;
+A2;word;Еда и напитки;kukkel;булочка;bun;Ostsin kaneelikukli. — Я купил(а) булочку с корицей.;;;
 A2;word;Еда и напитки;vürtsikas;острый, пряный;spicy;See supp on liiga vürtsikas. — Этот суп слишком острый.;;;
 A2;word;Еда и напитки;mahe;мягкий (на вкус), органический;mild, organic;See kaste on mahe. — Этот соус неострый. • Mahetoit on kallim. — Органическая еда дороже.;mahe- в начале слова — органический, эко-: mahepiim;;
 A2;word;Еда и напитки;rasvane;жирный;fatty;Toit on liiga rasvane. — Еда слишком жирная.;;;
@@ -5236,6 +5236,6 @@ A2;word;Насекомые и растения;okas;хвоинка, колючк
 A2;word;Насекомые и растения;puuk;клещ;tick;Pärast metsa vaata, kas sul pole puuke. — После леса проверь, нет ли на тебе клещей.;;;
 A2;word;Свободное время;lauamäng;настольная игра;board game;Õhtul mängime lauamänge. — Вечером мы играем в настольные игры.;;;
 A2;word;Свободное время;pusle;пазл;jigsaw puzzle;Laps paneb puslet kokku. — Ребёнок собирает пазл.;;;
-A2;word;Свободное время;telkimine;отдых с палаткой;camping;Telkimine meeldib lastele. — Детям нравится жить в палатке.;;;
+A2;word;Свободное время;telkimine;отдых с палаткой;camping;Telkimine meeldib lastele. — Детям нравится отдых с палаткой.;;;
 A2;word;Семья и отношения;lutipudel;детская бутылочка;baby bottle;Beebi joob lutipudelist. — Малыш пьёт из бутылочки.;;;
 A2;word;Учёба;koolikott;школьный рюкзак, портфель;school bag;Koolikott on raske. — Портфель тяжёлый.;;;
