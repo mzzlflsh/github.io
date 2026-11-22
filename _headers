@@ -1,6 +1,7 @@
 
-https://github-io-dwx.pages.dev/*
+https://:project.pages.dev/*
   X-Robots-Tag: noindex
 
-https://:version.github-io-dwx.pages.dev/*
+https://:version.:project.pages.dev/*
   X-Robots-Tag: noindex
+
