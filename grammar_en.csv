@@ -285,7 +285,7 @@ A1;Nouns and adjectives;The three main forms of a noun;text;The **genitive** (**
 A1;Nouns and adjectives;The three main forms of a noun;head;Noun | Genitive stem | Other forms;;
 A1;Nouns and adjectives;The three main forms of a noun;row;laps | lapse | lapse**ga** — with a child, lapse**le** — to a child;;
 A1;Nouns and adjectives;The three main forms of a noun;row;tuba | toa | toa**s** — in a room, toa**st** — out of a room;;
-A1;Nouns and adjectives;The three main forms of a noun;row;sõber | sõbra | sõbra**ga** — with a friend, sõbra**l** — at a friend's place / a friend has;;
+A1;Nouns and adjectives;The three main forms of a noun;row;sõber | sõbra | sõbra**ga** — with a friend, sõbra**l** on — a friend has;;
 A1;Nouns and adjectives;The three main forms of a noun;row;pood | poe | poe**s** — in a shop, poe**st** — from a shop;;
 A1;Nouns and adjectives;The three main forms of a noun;tip;The genitive also shows possession when placed before a noun, rather like English **'s** or **of**: **Eesti** pealinn — the capital of Estonia, **minu** ema — my mother, **sõbra** auto — a friend's car.;;
 A1;Nouns and adjectives;The nominative plural: -d;summary;Form the nominative plural from the genitive stem + **-d**: **laps → lapse → lapsed**.;;a1-plural
@@ -344,7 +344,7 @@ A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Maja on s
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Meil on uus korter.;We have a new flat. / We have a new apartment.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;text;In many other cases, both the adjective and the noun take the case ending: suure**s** maja**s** — in a big house. But with **-ga** (with/by), the ending is attached only to the last word: **uue autoga** — in a new car.;;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ma elan suures majas.;I live in a big house.;
-A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ta sõidab uue autoga.;He/she is travelling in a new car.;
+A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ta sõidab uue autoga.;He/she drives a new car.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;warn;Incorrect: “Majad on suur.” The adjective must be plural: Majad on suur**ed**.;;
 A1;Cases;An overview of Estonian cases;summary;Estonian has 14 cases, but most follow familiar patterns: add an ending to the genitive stem, as in **raamatu-s** and **raamatu-ga**.;;a1-cases-overview
 A1;Cases;An overview of Estonian cases;text;Estonian has **14 grammatical cases**. The first three — **nominative, genitive and partitive** — are the key forms to learn with each noun. Most other singular case forms are built from the genitive stem plus an ending. At A1, focus on the most common everyday uses. The book-based forms in the table illustrate the endings, even when the resulting expressions are uncommon in everyday speech.;;
@@ -475,6 +475,7 @@ A1;Numbers and time;Numbers and ordinal numbers;example;See maksab kakskümmend 
 A1;Numbers and time;Numbers and ordinal numbers;example;Ma elan teisel korrusel.;I live on the second floor.;
 A1;Numbers and time;Numbers and ordinal numbers;example;Täna on esimene mai.;Today is the first of May.;
 A1;Numbers and time;Numbers and ordinal numbers;tip;Write an ordinal number with a dot after the numeral: **1. mai = esimene mai**, **3. korrus = kolmas korrus**. To say **'on the first of May'**, use the **-l** form: **esimesel mail**.;;
+A1;Numbers and time;Numbers and ordinal numbers;note;**Floors** are counted from the ground: **esimene korrus** is the ground floor. So **teisel korrusel** means 'on the second floor' in Estonian and American usage, but 'on the first floor' in British English.;;
 A1;Numbers and time;Telling the time;summary;**Kell on kaks** — it's two o'clock. **Pool kolm = 2:30**, **veerand kolm = 2:15**, **kolmveerand kolm = 2:45**.;;a1-time
 A1;Numbers and time;Telling the time;text;To ask the time, say **Mis kell on?** (What time is it?). To answer, use **Kell on** + the time.;;
 A1;Numbers and time;Telling the time;text;For quarters and halves, Estonian counts **towards the next hour**: **pool kolm** means **half past two**, not half past three.;;
@@ -502,17 +503,37 @@ A1;Numbers and time;Days, months and times of day;row;neljapäev — Thursday | 
 A1;Numbers and time;Days, months and times of day;row;reede — Friday | reede**l**;;
 A1;Numbers and time;Days, months and times of day;row;laupäev — Saturday | laupäeva**l**;;
 A1;Numbers and time;Days, months and times of day;row;pühapäev — Sunday | pühapäeva**l**;;
-A1;Numbers and time;Days, months and times of day;text;The months are **jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september, oktoober, november, detsember**. To say **'in January/May/September'**, use the **-s** form: **jaanuaris, mais, septembris**.;;
+A1;Numbers and time;Days, months and times of day;heading;The twelve months;;
+A1;Numbers and time;Days, months and times of day;text;To say **'in January'**, **'in May'** and so on, add **-s** to the genitive stem: **jaanuar → jaanuari → jaanuaris**.;;
+A1;Numbers and time;Days, months and times of day;head;Month | When?;;
+A1;Numbers and time;Days, months and times of day;row;jaanuar — January | jaanuari**s** — in January;;
+A1;Numbers and time;Days, months and times of day;row;veebruar — February | veebruari**s** — in February;;
+A1;Numbers and time;Days, months and times of day;row;märts — March | märtsi**s** — in March;;
+A1;Numbers and time;Days, months and times of day;row;aprill — April | aprilli**s** — in April;;
+A1;Numbers and time;Days, months and times of day;row;mai — May | mai**s** — in May;;
+A1;Numbers and time;Days, months and times of day;row;juuni — June | juuni**s** — in June;;
+A1;Numbers and time;Days, months and times of day;row;juuli — July | juuli**s** — in July;;
+A1;Numbers and time;Days, months and times of day;row;august — August | augusti**s** — in August;;
+A1;Numbers and time;Days, months and times of day;row;september — September | septembri**s** — in September;;
+A1;Numbers and time;Days, months and times of day;row;oktoober — October | oktoobri**s** — in October;;
+A1;Numbers and time;Days, months and times of day;row;november — November | novembri**s** — in November;;
+A1;Numbers and time;Days, months and times of day;row;detsember — December | detsembri**s** — in December;;
 A1;Numbers and time;Days, months and times of day;head;Part of the day | When?;;
 A1;Numbers and time;Days, months and times of day;row;hommik — morning | hommiku**l** — in the morning;;
 A1;Numbers and time;Days, months and times of day;row;päev — day | päeva**l** — during the day;;
 A1;Numbers and time;Days, months and times of day;row;õhtu — evening | õhtu**l** — in the evening;;
 A1;Numbers and time;Days, months and times of day;row;öö — night | öö**sel** — at night;;
 A1;Numbers and time;Days, months and times of day;row;nädalavahetus — weekend | nädalavahetuse**l** — at the weekend / on the weekend;;
-A1;Numbers and time;Days, months and times of day;text;Seasons also use the **-l** form for 'in': kevade**l** — in spring, suve**l** — in summer, sügise**l** — in autumn, talve**l** — in winter.;;
+A1;Numbers and time;Days, months and times of day;heading;The four seasons;;
+A1;Numbers and time;Days, months and times of day;text;Seasons use the **-l** form for 'in'. Note the stem change in **suvi → suvel**.;;
+A1;Numbers and time;Days, months and times of day;head;Season | When?;;
+A1;Numbers and time;Days, months and times of day;row;kevad — spring | kevade**l** — in spring;;
+A1;Numbers and time;Days, months and times of day;row;suvi — summer | suve**l** — in summer;;
+A1;Numbers and time;Days, months and times of day;row;sügis — autumn | sügise**l** — in autumn;;
+A1;Numbers and time;Days, months and times of day;row;talv — winter | talve**l** — in winter;;
 A1;Numbers and time;Days, months and times of day;text;These time words need no ending: **eile** — yesterday, **täna** — today, **homme** — tomorrow, **üleeile** — the day before yesterday, **ülehomme** — the day after tomorrow.;;
 A1;Numbers and time;Days, months and times of day;example;Mis päev täna on? — Täna on reede.;What day is it today? — It's Friday.;
 A1;Numbers and time;Days, months and times of day;example;Esmaspäeval ma töötan.;I work on Monday.;
 A1;Numbers and time;Days, months and times of day;example;Mais on ilm soe.;The weather is warm in May.;
 A1;Numbers and time;Days, months and times of day;example;Õhtul me vaatame filmi.;We watch a film in the evening.;
-A1;Numbers and time;Days, months and times of day;example;Pood on avatud kella üheksast kella kaheksani.;The shop is open from nine in the morning until eight in the evening.;
+A1;Numbers and time;Days, months and times of day;example;Pood on avatud kella üheksast kella kaheksani.;The shop is open from nine to eight.;
