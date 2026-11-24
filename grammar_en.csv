@@ -342,7 +342,7 @@ A1;Nouns and adjectives;Adjectives: suur maja — suured majad;row;väike laps |
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;text;With **olema** (to be), adjectives also agree with a plural subject.;;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Maja on suur. • Majad on suured.;The house is big. • The houses are big.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Meil on uus korter.;We have a new flat. / We have a new apartment.;
-A1;Nouns and adjectives;Adjectives: suur maja — suured majad;text;In many other cases, both the adjective and the noun take the case ending: suure**s** maja**s** — in a big house. But with **-ga** (with/by), the ending is attached only to the last word: **uue autoga** — in a new car.;;
+A1;Nouns and adjectives;Adjectives: suur maja — suured majad;text;In most other cases, both the adjective and the noun take the case ending: suure**s** maja**s** — in a big house. But in four cases — **-ni**, **-na**, **-ta** and **-ga** — only the noun takes the ending, and the adjective stays in the genitive form: **uue autoga** — in a new car, **hea sõbrata** — without a good friend, **hea sõbrana** — as a good friend, **suure majani** — as far as the big house.;;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ma elan suures majas.;I live in a big house.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ta sõidab uue autoga.;He/she drives a new car.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;warn;Incorrect: “Majad on suur.” The adjective must be plural: Majad on suur**ed**.;;
@@ -535,5 +535,10 @@ A1;Numbers and time;Days, months and times of day;text;These time words need no 
 A1;Numbers and time;Days, months and times of day;example;Mis päev täna on? — Täna on reede.;What day is it today? — It's Friday.;
 A1;Numbers and time;Days, months and times of day;example;Esmaspäeval ma töötan.;I work on Monday.;
 A1;Numbers and time;Days, months and times of day;example;Mais on ilm soe.;The weather is warm in May.;
+A1;Numbers and time;Days, months and times of day;example;Kevadel õitsevad lilled.;Flowers bloom in spring.;
+A1;Numbers and time;Days, months and times of day;example;Suvel on tavaliselt soe.;It's usually warm in summer.;
+A1;Numbers and time;Days, months and times of day;example;Sügisel langevad lehed.;Leaves fall in autumn.;
+A1;Numbers and time;Days, months and times of day;example;Talvel sajab sageli lund.;It often snows in winter.;
+A1;Numbers and time;Days, months and times of day;example;Minu lemmikaastaaeg on suvi.;My favourite season is summer.;
 A1;Numbers and time;Days, months and times of day;example;Õhtul me vaatame filmi.;We watch a film in the evening.;
 A1;Numbers and time;Days, months and times of day;example;Pood on avatud kella üheksast kella kaheksani.;The shop is open from nine to eight.;

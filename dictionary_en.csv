@@ -1230,7 +1230,7 @@ B1;phrase;Set expressions;Устойчивые выражения;pead murdma;to
 B1;phrase;Set expressions;Устойчивые выражения;silma peal hoidma;to keep an eye on;Hoia lapsel silm peal. — Keep an eye on the child.;;;
 B1;phrase;Set expressions;Устойчивые выражения;käed külge lööma;to get down to work;Lööme käed külge! — Let's get down to work!;;;
 B1;phrase;Set expressions;Устойчивые выражения;südamele võtma;to take to heart;Ära võta seda nii südamele. — Don't take it so much to heart.;;;
-B1;phrase;Set expressions;Устойчивые выражения;närvi minema;"to get annoyed; to lose one's temper";Ära mine närvi! — Don't lose your temper!;;;
+B1;phrase;Set expressions;Устойчивые выражения;närvi minema;"to get worked up; to lose one's temper";Ära mine närvi! — Don't get worked up!;;;
 B1;phrase;Set expressions;Устойчивые выражения;naerma puhkema;to burst out laughing;Kõik puhkesid naerma. — Everyone burst out laughing.;;;
 B1;phrase;Set expressions;Устойчивые выражения;meelt muutma;to change one's mind;Ta muutis meelt. — He changed his mind.;;;
 B1;phrase;Set expressions;Устойчивые выражения;läbi kukkuma;to fail;Ma kukkusin eksamil läbi. — I failed the exam.;;;b1-particles
@@ -1426,12 +1426,12 @@ A1;word;Pronouns;Местоимения;talle;to him, to her;Ütle talle tere! �
 A1;word;Pronouns;Местоимения;meile;to us;Tule meile külla! — Come and visit us! • Meile meeldib Tallinn. — We like Tallinn.;To whom? form of meie (we).;;a1-pronouns
 A1;word;Pronouns;Местоимения;teile;to you (plural, polite);Kas teile meeldib? — Do you like it? • Ma saadan teile kirja. — I'll send you a letter.;To whom? form of teie (you, plural or polite).;;a1-pronouns
 A1;word;Pronouns;Местоимения;neile;to them;Ma kirjutan neile. — I'll write to them. • Neile meeldib jalgpall. — They like football.;To whom? form of nemad (they).;;a1-pronouns
-A1;word;Pronouns;Местоимения;mul;"I have (mul on); on me";Mul on kass. — I have a cat. • Mul ei ole aega. — I don't have time.;Short form of minul. Mul on means I have.;;a1-pronouns
-A1;word;Pronouns;Местоимения;sul;"you have (sul on); on you";Kas sul on aega? — Do you have time? • Kuidas sul läheb? — How are you?;Short form of sinul. Sul on means you have.;;a1-pronouns
-A1;word;Pronouns;Местоимения;tal;he/she has (tal on);Tal on kaks last. — She has two children. • Tal on täna sünnipäev. — It's his birthday today.;Short form of temal. Tal on means he/she has.;;a1-pronouns
-A1;word;Pronouns;Местоимения;meil;"we have (meil on); at our place";Meil on uus korter. — We have a new flat. • Meil on külm. — We're cold.;A form of meie expressing possession: meil on — we have. Also a colloquial word for email.;meil (у нас);a1-pronouns
-A1;word;Pronouns;Местоимения;teil;"you have (teil on; plural or polite)";Kuidas teil läheb? — How are you? • Kas teil on vaba laud? — Do you have a table available?;A form of teie expressing possession: teil on — you have.;;a1-pronouns
-A1;word;Pronouns;Местоимения;neil;they have (neil on);Neil on suur maja. — They have a big house. • Neil ei ole autot. — They don't have a car.;A form of nemad expressing possession: neil on — they have.;;a1-pronouns
+A1;word;Pronouns;Местоимения;mul;"I have (with on); on me";Mul on kass. — I have a cat. • Mul ei ole aega. — I don't have time.;Short form of minul. Mul on means I have.;;a1-pronouns
+A1;word;Pronouns;Местоимения;sul;"you have (with on); on you";Kas sul on aega? — Do you have time? • Kuidas sul läheb? — How are you?;Short form of sinul. Sul on means you have.;;a1-pronouns
+A1;word;Pronouns;Местоимения;tal;he/she has (with on);Tal on kaks last. — She has two children. • Tal on täna sünnipäev. — It's his birthday today.;Short form of temal. Tal on means he/she has.;;a1-pronouns
+A1;word;Pronouns;Местоимения;meil;"we have (with on); at our place";Meil on uus korter. — We have a new flat. • Meil on külm. — We're cold.;A form of meie expressing possession: meil on — we have. Also a colloquial word for email.;meil (у нас);a1-pronouns
+A1;word;Pronouns;Местоимения;teil;"you have (with on; plural or polite)";Kuidas teil läheb? — How are you? • Kas teil on vaba laud? — Do you have a table available?;A form of teie expressing possession: teil on — you have.;;a1-pronouns
+A1;word;Pronouns;Местоимения;neil;they have (with on);Neil on suur maja. — They have a big house. • Neil ei ole autot. — They don't have a car.;A form of nemad expressing possession: neil on — they have.;;a1-pronouns
 A1;word;Pronouns;Местоимения;minuga;with me;Tule minuga! — Come with me! • Räägi minuga eesti keeles. — Speak Estonian with me.;With whom? form of mina (I).;;a1-pronouns
 A1;word;Pronouns;Местоимения;sinuga;with you;Ma tahan sinuga rääkida. — I want to talk to you. • Kas ma võin sinuga tulla? — Can I come with you?;With whom? form of sina (you).;;a1-pronouns
 A1;word;Pronouns;Местоимения;temaga;with him, with her;Ma räägin temaga homme. — I'll speak to him tomorrow. • Ma töötan temaga koos. — I work with her.;With whom? form of tema (he/she).;;a1-pronouns
@@ -2511,7 +2511,7 @@ A2;word;Linking words;Слова-связки;ligi;nearly, close to;Ootasin ligi
 A2;word;Linking words;Слова-связки;natukene;a tiny bit;Oota natukene. — Wait a little.;;;
 A2;word;Linking words;Слова-связки;pisut;slightly;Ma olen pisut väsinud. — I'm slightly tired.;;;
 A2;word;Linking words;Слова-связки;veidi;a little;Räägi veidi aeglasemalt. — Speak a little more slowly.;;;
-A2;word;Linking words;Слова-связки;niipalju;so much, this much (niipalju kui — as much as);Ma ei jaksa niipalju süüa. — I can't eat that much. • Aitan sind niipalju kui võimalik. — I'll help you as much as I can.;;;
+A2;word;Linking words;Слова-связки;niipalju;so much, this much;Ma ei jaksa niipalju süüa. — I can't eat that much. • Aitan sind niipalju kui võimalik. — I'll help you as much as I can.;Niipalju kui means as much as.;;
 A2;word;Linking words;Слова-связки;niisiis;so, thus;Niisiis, alustame. — So, let's begin.;;;
 A2;word;Linking words;Слова-связки;oluliselt;significantly;Hinnad on oluliselt tõusnud. — Prices have risen significantly.;;;a2-adverbs
 A2;word;Linking words;Слова-связки;päris;quite / real;Film oli päris hea. — The film was quite good.;;;
@@ -4599,7 +4599,7 @@ A1;phrase;Leisure and free time;Досуг и свободное время;male
 A1;phrase;Leisure and free time;Досуг и свободное время;kitarri mängima;to play the guitar;;;;
 A1;phrase;Leisure and free time;Досуг и свободное время;teatrisse minema;to go to the theatre;;;;a1-where
 A1;phrase;Leisure and free time;Досуг и свободное время;parki minema;to go to the park;;;;
-A1;phrase;Leisure and free time;Досуг и свободное время;pargis käima;to go to the park (and come back);;;;
+A1;phrase;Leisure and free time;Досуг и свободное время;pargis käima;to visit the park;;Käima means to go somewhere and come back. Compare parki minema — to go to the park.;;
 A1;phrase;Leisure and free time;Досуг и свободное время;hästi ujuma;to swim well;;;;
 A1;phrase;Leisure and free time;Досуг и свободное время;hästi laulma;to sing well;;;;
 A1;phrase;Leisure and free time;Досуг и свободное время;õues mängima;to play outside;;;;a1-here-there
