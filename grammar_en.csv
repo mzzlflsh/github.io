@@ -1,5 +1,5 @@
 level;section;rule;block;content;translation;id
-A1;Basics;How Estonian works;summary;Estonian has no grammatical gender or articles, and no separate future tense. Case endings often do the work of prepositions.;;a1-basics
+A1;Basics;How Estonian works;summary;No grammatical gender, articles or separate future tense. Case endings often express meanings conveyed by prepositions in English.;;a1-basics
 A1;Basics;How Estonian works;text;**No grammatical gender.** The pronoun **ta** can mean **he** or **she**. Estonian adjectives and verbs do not change according to gender.;;
 A1;Basics;How Estonian works;example;Ta on õpetaja.;He is a teacher. / She is a teacher.;
 A1;Basics;How Estonian works;text;**No articles.** Estonian has no direct equivalents of English **a**, **an** or **the**. Depending on context, **raamat** can mean **a book** or **the book**.;;
@@ -13,7 +13,7 @@ A1;Basics;How Estonian works;row;with a friend | sõbra**ga**;;
 A1;Basics;How Estonian works;row;without a ticket | (ilma) pileti**ta**;;
 A1;Basics;How Estonian works;text;**Verbs change according to the person.** For example, ma ela**n** means 'I live', while sa ela**d** means 'you live'.;;
 A1;Basics;How Estonian works;tip;Estonian spelling is relatively consistent. Pronounce all the vowels clearly: **ema** (mother) has two distinct vowels rather than an unstressed English-style 'uh' sound.;;
-A1;Basics;Letters and pronunciation;summary;Learn the special vowels õ, ä, ö and ü, long sounds, and the usual stress on the first syllable.;;a1-pronunciation
+A1;Basics;Letters and pronunciation;summary;"The special vowels õ, ä, ö and ü; long sounds are usually written with double letters, and stress normally falls on the first syllable.";;a1-pronunciation
 A1;Basics;Letters and pronunciation;head;Letter | Pronunciation | Example;;
 A1;Basics;Letters and pronunciation;row;"õ | A back, unrounded vowel [ɤ]; no close English equivalent | õde — sister";;
 A1;Basics;Letters and pronunciation;row;ä | Like the vowel in English 'cat' [æ] | tänav — street;;
@@ -30,7 +30,7 @@ A1;Basics;Letters and pronunciation;row;tema — he, she | t**ee**ma — topic;;
 A1;Basics;Letters and pronunciation;row;lina — linen | li**nn**a — into town;;
 A1;Basics;Letters and pronunciation;row;koli — clutter | k**oo**li — to school;;
 A1;Basics;Letters and pronunciation;row;kala — fish | ka**ll**a! — pour!;;
-A1;Basics;Letters and pronunciation;note;**Estonian actually distinguishes three sound lengths:** short, long and overlong. The long and overlong forms often look identical in writing: **kooli** can be the genitive ('of the school', long) or a short illative ('to school', overlong). At first, focus on hearing the difference between short and long sounds, often written with one or two letters. Use audio to practise the finer distinction between long and overlong sounds.;;
+A1;Basics;Letters and pronunciation;note;Estonian distinguishes three quantity degrees: short, long and overlong. Degrees II and III often look identical in writing: kooli (of the school, II) and kooli (to school, III). Spelling alone does not always distinguish them.;;
 A1;Basics;Letters and pronunciation;heading;Word stress;;
 A1;Basics;Letters and pronunciation;text;The stress is **usually on the first syllable**: **tä**nav, **õ**petaja, **ü**likool. There are exceptions, such as ai**täh** (thank you), and some loanwords.;;
 A1;Basics;Letters and pronunciation;tip;Estonian **b, d, g** are usually pronounced with little or no voicing, closer to short, light **p, t, k** sounds than to their English equivalents. In **tuba**, the **b** is not a strongly voiced English 'b'. The letters **c, q, w, x, y** occur mainly in foreign words and names.;;
@@ -77,7 +77,7 @@ A1;Pronouns;Saying “I have”: mul on;example;Mul on külm. • Mul on palav.;
 A1;Pronouns;Saying “I have”: mul on;example;Mul on hea meel.;I'm happy. / I'm glad.;
 A1;Pronouns;Saying “I have”: mul on;example;Mul on vaja minna.;I need to go.;
 A1;Pronouns;Saying “I have”: mul on;example;Mul on kõht tühi.;I'm hungry.;
-A1;Pronouns;Saying “I have”: mul on;note;Learn common **mul on** expressions as complete phrases. Their natural English translations often use **I am** or **I need**, not **I have**.;;
+A1;Pronouns;Saying “I have”: mul on;note;"In **mul on külm** (I am cold) and **mul on nälg** (I am hungry), the construction mul on describes a state; English naturally uses I am rather than I have.";;
 A1;Pronouns;Saying “I have”: mul on;warn;Incorrect: “Mul ei ole auto.” In negative possession, the noun must be partitive: Mul ei ole auto**t**.;;
 A1;Pronouns;Saying “I have”: mul on;tip;In everyday Estonian, **pole** often replaces **ei ole**: **Mul pole aega.** — I don't have time.;;
 A1;Questions;Question words;summary;kes, mis, kus, kuhu, kust, millal, miks, kuidas, mitu, kui palju…;;a1-question-words
@@ -144,7 +144,7 @@ A1;Verbs;The present tense;row;ta | -b | ela**b** | õpi**b**;;
 A1;Verbs;The present tense;row;me | -me | ela**me** | õpi**me**;;
 A1;Verbs;The present tense;row;te | -te | ela**te** | õpi**te**;;
 A1;Verbs;The present tense;row;nad | -vad | ela**vad** | õpi**vad**;;
-A1;Verbs;The present tense;text;The stem often changes: **õppima → ma õpin, lugema → ma loen, rääkima → ma räägin**. It helps to learn the 'I' form with every verb: **lugema — loen**.;;
+A1;Verbs;The present tense;text;The stem often changes: õppima → ma **õpin**, lugema → ma **loen**, rääkima → ma **räägin**. The first-person form shows the present-tense stem and the ending -n.;;
 A1;Verbs;The present tense;head;Verb | I | he/she | they;;
 A1;Verbs;The present tense;row;tegema — to do, make | teen | teeb | teevad;;
 A1;Verbs;The present tense;row;minema — to go | lähen | läheb | lähevad;;
@@ -166,7 +166,7 @@ A1;Verbs;Negation with ei;row;sa räägi**d** | sa **ei** räägi;;
 A1;Verbs;Negation with ei;row;ta tööta**b** | ta **ei** tööta;;
 A1;Verbs;Negation with ei;row;me lähe**me** | me **ei** lähe;;
 A1;Verbs;Negation with ei;row;nad on | nad **ei** ole;;
-A1;Verbs;Negation with ei;text;The form after **ei** is the present-tense negative stem. Learn it alongside the dictionary form: **tegema — ei tee**, **minema — ei lähe**.;;
+A1;Verbs;Negation with ei;text;After **ei**, the negative verb form has no personal ending: tegema — ei tee, minema — ei lähe. It is the same for every person: ma ei lähe, nad ei lähe.;;
 A1;Verbs;Negation with ei;example;Ma ei tea.;I don't know.;
 A1;Verbs;Negation with ei;example;Ta ei tööta täna.;He/she isn't working today.;
 A1;Verbs;Negation with ei;example;Me ei lähe kinno.;We're not going to the cinema.;
@@ -189,7 +189,7 @@ A1;Verbs;The two infinitives: -ma and -da;row;sööma | süüa | söön | to eat
 A1;Verbs;The two infinitives: -ma and -da;row;jooma | juua | joon | to drink;;
 A1;Verbs;The two infinitives: -ma and -da;row;nägema | näha | näen | to see;;
 A1;Verbs;The two infinitives: -ma and -da;row;ostma | osta | ostan | to buy;;
-A1;Verbs;The two infinitives: -ma and -da;note;You cannot always predict the **-da infinitive**. Learn three key forms together, such as **lugema — lugeda — loen**.;;
+A1;Verbs;The two infinitives: -ma and -da;note;The -da infinitive is not always predictable from -ma. Three useful key forms are **lugema — lugeda — loen** (-ma infinitive, -da infinitive and present tense).;;
 A1;Verbs;The two infinitives: -ma and -da;heading;Use the -ma infinitive after these verbs;;
 A1;Verbs;The two infinitives: -ma and -da;text;**minema** (to go and do something), **tulema** (to come and do something), **hakkama** (to start), **pidama** (to have to), **õppima** (to learn to do something).;;
 A1;Verbs;The two infinitives: -ma and -da;example;Ma lähen poodi leiba ostma.;I'm going to the shop to buy some bread.;
@@ -205,7 +205,7 @@ A1;Verbs;The two infinitives: -ma and -da;example;Ma oskan ujuda.;I can swim. / 
 A1;Verbs;The two infinitives: -ma and -da;example;Mulle meeldib lugeda.;I like reading.;
 A1;Verbs;The two infinitives: -ma and -da;example;Mul on vaja minna.;I need to go.;
 A1;Verbs;The simple past tense;summary;Many verbs form the simple past with **-si-**: ma elasin, sa elasid, ta elas. Negative: ma ei elanud.;;a1-past
-A1;Verbs;The simple past tense;text;"Many Estonian verbs form the simple past with **-si-** (or just **-s** in the he/she form). Some common verbs have different stems or endings; learn them from the table below.";;
+A1;Verbs;The simple past tense;text;Many verbs form the simple past with **-si-** (**-s** in the third-person singular). Some frequent verbs have different stems and endings, as shown below.;;
 A1;Verbs;The simple past tense;head;Person | Ending | elama — to live | rääkima — to speak;;
 A1;Verbs;The simple past tense;row;ma | -sin | ela**sin** | rääki**sin**;;
 A1;Verbs;The simple past tense;row;sa | -sid | ela**sid** | rääki**sid**;;
@@ -214,7 +214,7 @@ A1;Verbs;The simple past tense;row;me | -sime | ela**sime** | rääki**sime**;;
 A1;Verbs;The simple past tense;row;te | -site | ela**site** | rääki**site**;;
 A1;Verbs;The simple past tense;row;nad | -sid | ela**sid** | rääki**sid**;;
 A1;Verbs;The simple past tense;heading;Common irregular verbs;;
-A1;Verbs;The simple past tense;text;Some high-frequency verbs have less predictable past-tense forms. They are worth learning by heart.;;
+A1;Verbs;The simple past tense;text;Some frequent verbs change their stem in the simple past: olema → oli, minema → läks, tegema → tegi.;;
 A1;Verbs;The simple past tense;head;Verb | I (past) | he/she (past) | Negative past;;
 A1;Verbs;The simple past tense;row;olema — to be | olin | oli | ei olnud;;
 A1;Verbs;The simple past tense;row;minema — to go | läksin | läks | ei läinud;;
@@ -235,7 +235,7 @@ A1;Verbs;The simple past tense;example;Ma ei läinud eile tööle.;I didn't go t
 A1;Verbs;The simple past tense;note;"Some verbs use **-is** in the he/she past-tense form: **ta ostis** — he/she bought; **ta tahtis** — he/she wanted.";;
 A1;Verbs;The imperative: commands and requests;summary;**Tule! — Tulge!** (Come! — Come! [plural/formal]) **Ära tule! — Ärge tulge!** (Don't come!);;a1-imperative
 A1;Verbs;The imperative: commands and requests;text;**Informal singular 'you':** use the present-tense stem without its ending. Start with the 'I' form and remove **-n**: **tulen → tule!**, **räägin → räägi!**;;
-A1;Verbs;The imperative: commands and requests;text;**Plural or polite 'you':** use **-ge** or **-ke**. The **-da infinitive** provides a useful clue: if its ending is **-ta**, the imperative often ends in **-ke** (**oodata → oodake, võtta → võtke**). Otherwise, **-ge** is common (**rääkida → rääkige, tulla → tulge, süüa → sööge**). Learn frequent irregular forms such as **anda → andke, teha → tehke, näha → nähke**.;;
+A1;Verbs;The imperative: commands and requests;text;**Plural or polite 'you':** -ge or -ke. If the -da infinitive ends in -ta, -ke is common (oodata → oodake, võtta → võtke). Otherwise -ge is common (rääkida → rääkige, tulla → tulge, süüa → sööge). Special forms: anda → **andke**, teha → **tehke**, näha → **nähke**.;;
 A1;Verbs;The imperative: commands and requests;note;An important exception in the singular: **minema → ma lähen**, but the imperative is **mine!**, not **lähe!**;;
 A1;Verbs;The imperative: commands and requests;head;Verb | you (singular) | you (plural/formal);;
 A1;Verbs;The imperative: commands and requests;row;tulema (tulla) | tule! | tul**ge**!;;
@@ -263,8 +263,8 @@ A1;Verbs;The imperative: commands and requests;example;Räägi aeglasemalt, palu
 A1;Verbs;The imperative: commands and requests;example;Ära muretse!;Don't worry!;
 A1;Verbs;The imperative: commands and requests;example;Vabandage!;Excuse me! / Sorry! (polite);
 A1;Verbs;The imperative: commands and requests;tip;The plural **-ge/-ke** form also makes a polite request to one person: **Vabandage! Istuge!**;;
-A1;Nouns and adjectives;The three main forms of a noun;summary;Learn a noun in three main forms: **raamat — raamatu — raamatut** (nominative, genitive, partitive). Most other cases build on these forms.;;a1-three-forms
-A1;Nouns and adjectives;The three main forms of a noun;text;It helps to learn each noun in its **nominative, genitive and partitive singular** forms. Their stems can change unpredictably, and many other case forms are built from them. Some short movement forms, such as **majja** ('into the house') and **kooli** ('to school'), also need to be memorised separately.;;
+A1;Nouns and adjectives;The three main forms of a noun;summary;Three key noun forms: nominative, genitive and partitive — raamat, raamatu, raamatut. Many other case forms build on them.;;a1-three-forms
+A1;Nouns and adjectives;The three main forms of a noun;text;The nominative, genitive and partitive stems may differ. Most other singular cases build on the genitive. Some nouns have a special short destination form: majja, kooli.;;
 A1;Nouns and adjectives;The three main forms of a noun;head;Nominative (who?/what?) | Genitive (whose?/of what?) | Partitive (whom?/what?) | Meaning;;
 A1;Nouns and adjectives;The three main forms of a noun;row;maja | maja | maja | house;;
 A1;Nouns and adjectives;The three main forms of a noun;row;kool | kooli | kooli | school;;
@@ -331,7 +331,7 @@ A1;Nouns and adjectives;Direct objects and the partitive;example;Ma söön leiba
 A1;Nouns and adjectives;Direct objects and the partitive;text;Use the **partitive** for objects in **negative sentences**: **Ma ei näe autot.** Some verbs also regularly require a partitive object, including **armastama** (to love), **ootama** (to wait for), and **aitama** (to help).;;
 A1;Nouns and adjectives;Direct objects and the partitive;example;Ma ei näe autot.;I can't see the car.;
 A1;Nouns and adjectives;Direct objects and the partitive;example;Ma ootan bussi.;I'm waiting for the bus.;
-A1;Nouns and adjectives;Direct objects and the partitive;tip;For a complete, finished action, an object can take a different case: **Ma ostsin raamatu.** — I bought the book. You'll learn this distinction at A2.;;
+A1;Nouns and adjectives;Direct objects and the partitive;tip;A completed action involving a whole object may take the genitive: Ma ostsin raamatu — I bought the book. Compare Ma lugesin raamatut — I was reading a book (completion is not specified).;;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;summary;Adjectives come before the noun and agree with it: **suur maja** (big house), **suured majad** (big houses).;;a1-adjectives
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;text;An adjective agrees with the noun it describes. In the **nominative plural**, the adjective also gets **-d**.;;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;head;Singular | Plural;;
@@ -347,7 +347,7 @@ A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ma elan s
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;example;Ta sõidab uue autoga.;He/she is travelling in a new car.;
 A1;Nouns and adjectives;Adjectives: suur maja — suured majad;warn;Incorrect: “Majad on suur.” The adjective must be plural: Majad on suur**ed**.;;
 A1;Cases;An overview of Estonian cases;summary;Estonian has 14 cases, but most follow familiar patterns: add an ending to the genitive stem, as in **raamatu-s** and **raamatu-ga**.;;a1-cases-overview
-A1;Cases;An overview of Estonian cases;text;Estonian has **14 grammatical cases**. The first three — **nominative, genitive and partitive** — are the key forms to learn with each noun. Most other singular case forms are built from the genitive stem plus an ending. At A1, focus on the most common everyday uses. The book-based forms in the table illustrate the endings, even when the resulting expressions are uncommon in everyday speech.;;
+A1;Cases;An overview of Estonian cases;text;Estonian has **14 cases**. The three principal noun forms are nominative (nimetav), genitive (omastav) and partitive (osastav). Most other singular cases add an ending to the genitive stem. The table illustrates the forms of raamat.;;
 A1;Cases;An overview of Estonian cases;head;Case (Estonian) | Question | Example | English meaning;;
 A1;Cases;An overview of Estonian cases;row;nimetav (nominative) | kes? mis? | raamat | a book / the book;;
 A1;Cases;An overview of Estonian cases;row;omastav (genitive) | kelle? mille? | raamatu | of the book / the book's;;
@@ -369,7 +369,7 @@ A1;Cases;An overview of Estonian cases;example;Ta tahab saada arstiks.;He/she wa
 A1;Cases;An overview of Estonian cases;example;Ta töötab õpetajana.;He/she works as a teacher.;
 A1;Cases;An overview of Estonian cases;example;Pood on avatud kella kuueni.;The shop is open until six o'clock.;
 A1;Cases;An overview of Estonian cases;example;Ilma rahata on raske.;It's hard without money.;
-A1;Cases;An overview of Estonian cases;tip;You do not need to memorise all 14 case names right away. Learn the question words instead: **kus?** (where?), **kuhu?** (where to?), **kust?** (where from?), **kellega?** (with whom?). They help you identify the case, although the exact word form still needs practice.;;
+A1;Cases;An overview of Estonian cases;tip;Case questions help distinguish meanings: **kus?** — where, **kuhu?** — where to, **kust?** — where from, **kellega?** — with whom. One question may match several cases: kus? — majas or laual.;;
 A1;Cases;Where? Where to? Where from?;summary;**Where? Where to? Where from?** Compare **poes — poodi — poest** and **tööl — tööle — töölt**.;;a1-where
 A1;Cases;Where? Where to? Where from?;text;Estonian uses two common sets of location endings. **Internal location** ('in/into/out of'): **-s** (where?), **-sse** (where to?), **-st** (where from?). **External location** ('on/onto/off', also at a place): **-l**, **-le**, **-lt**.;;
 A1;Cases;Where? Where to? Where from?;head;Place | Where? | Where to? | Where from?;;
@@ -384,17 +384,17 @@ A1;Cases;Where? Where to? Where from?;row;turg — market | turu**l** | turu**le
 A1;Cases;Where? Where to? Where from?;row;pidu — party | peo**l** | peo**le** | peo**lt**;;
 A1;Cases;Where? Where to? Where from?;row;Saaremaa | Saaremaa**l** | Saaremaa**le** | Saaremaa**lt**;;
 A1;Cases;Where? Where to? Where from?;heading;Short 'where to?' forms;;
-A1;Cases;Where? Where to? Where from?;text;Many common words have a short directional form without **-sse**: **kooli** (to school), **poodi** (to the shop), **linna** (into town), **majja** (into the house), **tuppa** (into the room), **kinno** (to the cinema), **koju** (home). Learn these forms as complete words.;;
+A1;Cases;Where? Where to? Where from?;text;Many frequent nouns have a short destination form without -sse: kooli, poodi, linna, majja (into the house), tuppa (into the room), kinno (to the cinema). The adverb koju means home (destination).;;
 A1;Cases;Where? Where to? Where from?;example;Ma elan Tallinnas.;I live in Tallinn.;
 A1;Cases;Where? Where to? Where from?;example;Ma lähen poodi.;I'm going to the shop.;
 A1;Cases;Where? Where to? Where from?;example;Ta tuleb koolist.;He/she is coming from school.;
 A1;Cases;Where? Where to? Where from?;example;Ma olen tööl.;I'm at work.;
 A1;Cases;Where? Where to? Where from?;example;Lähme kinno!;Let's go to the cinema!;
 A1;Cases;Where? Where to? Where from?;example;Ma sõidan Saaremaale.;I'm travelling to Saaremaa.;
-A1;Cases;Where? Where to? Where from?;note;Memorise short destination forms such as **kooli, poodi, linna, koju**. Do not automatically add **-sse** to every place name.;;
+A1;Cases;Where? Where to? Where from?;note;"Destination forms may differ from the regular -sse form: kooli, poodi, linna; the destination counterpart of the adverb kodus (at home) is koju.";;
 A1;Cases;Where? Where to? Where from?;tip;Use **-l/-le/-lt** with many words for work, events, streets and islands: **tööl, peol, kontserdil, tänaval, Hiiumaal**. Some country names ending in **-maa** also take these endings: **Saksamaal** — in Germany.;;
 A1;Cases;Here, to here, from here: siin, siia, siit;summary;"**kus?** — siin, seal; **kuhu?** — siia, sinna; **kust?** — siit, sealt.";;a1-here-there
-A1;Cases;Here, to here, from here: siin, siia, siit;text;Place adverbs also distinguish **where**, **where to** and **where from**. It helps to learn them in groups of three.;;
+A1;Cases;Here, to here, from here: siin, siia, siit;text;Place adverbs distinguish location (siin), destination (siia) and origin (siit). Seal, sinna and sealt form a similar set.;;
 A1;Cases;Here, to here, from here: siin, siia, siit;head;Meaning | Where? | Where to? | Where from?;;
 A1;Cases;Here, to here, from here: siin, siia, siit;row;here | siin | siia | siit;;
 A1;Cases;Here, to here, from here: siin, siia, siit;row;there | seal | sinna | sealt;;
@@ -548,7 +548,7 @@ A2;Plural nouns;Plural cases: majades, sõpradega;text;Adjectives agree with nou
 A2;Plural nouns;Plural cases: majades, sõpradega;note;Some nouns are usually plural: püksid (trousers), prillid (glasses), käärid (scissors), riided (clothes), juuksed (hair), vanemad (parents). Some have a singular form with a different or individual meaning: juus (a single hair), riie (fabric), vanem (a parent). As subjects, these plural nouns normally take plural verb forms: Püksid **on** uued (The trousers are new).;;
 A2;Plural nouns;Plural partitive (mitmuse osastav);summary;palju sõpru, Ma armastan lilli, Kas sul on lapsi? — the plural partitive (mitmuse osastav).;;a2-plural-partitive
 A2;Plural nouns;Plural partitive (mitmuse osastav);text;Use the plural partitive for indefinite quantities of countable things, after **palju** (many) and **vähe** (few), for plural objects in negative sentences, and with verbs such as armastama and ootama when the object is plural and partitive. It is also common when talking about things in general.;;
-A2;Plural nouns;Plural partitive (mitmuse osastav);text;The endings vary, so learn the plural partitive with each noun. Sõnaveeb lists it among the main forms.;;
+A2;Plural nouns;Plural partitive (mitmuse osastav);text;"The plural partitive depends on the declension type; forms include -sid endings and short forms. Sõnaveeb lists the plural partitive among the key forms.";;
 A2;Plural nouns;Plural partitive (mitmuse osastav);head;Pattern | Noun (singular) | Plural partitive;;
 A2;Plural nouns;Plural partitive (mitmuse osastav);row;**-sid** (often after a vowel) | auto, kino, ema | auto**sid**, kino**sid**, ema**sid**;;
 A2;Plural nouns;Plural partitive (mitmuse osastav);row;**-id** after the genitive stem | raamat (raamatu), aasta, aken (akna) | raamatu**id**, aasta**id**, akna**id**;;
@@ -572,7 +572,7 @@ A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;r
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;row;uus — new | uue | uue**m** | kõige uuem;;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;row;kiire — fast | kiire | kiire**m** | kõige kiirem;;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;text;In some words, final **-a** changes to **-e**: vana → vane**m**, pikk (pika) → pike**m**, tark (targa) → targe**m**, soe (sooja) → sooje**m**. Others keep -a: vaba → vaba**m**, ilus → ilusa**m**. Check the dictionary if unsure.;;
-A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;note;Learn these special forms: hea → **parem** (better), halb → **halvem** (worse), väike → **väiksem** (smaller), lühike → **lühem** (shorter), palju → **rohkem** (more).;;
+A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;note;Special forms: hea → **parem** (better), halb → **halvem** (worse), väike → **väiksem** (smaller), lühike → **lühem** (shorter), palju → **rohkem** (more).;;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;heading;Making comparisons;;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;example;Tallinn on suurem kui Tartu.;Tallinn is bigger than Tartu.;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;example;Tallinn on Tartust suurem.;Tallinn is bigger than Tartu.;
@@ -581,7 +581,7 @@ A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;e
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;tip;There are also short superlative forms, often used in written language: suurim (largest), vanim (oldest), parim (best). Their formation varies.;;
 A2;Adjectives and adverbs;Comparatives and superlatives: suurem, kõige suurem;warn;Not Ta on rohkem ilus. Say Ta on **ilusam** (They're more beautiful).;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;summary;How? — kiiresti (quickly), aeglaselt (slowly), hästi (well). Comparatives: kiiremini (more quickly), paremini (better).;;a2-adverbs
-A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;text;Adverbs of manner often add **-sti** or **-lt** to the genitive stem of an adjective. Learn which ending each word takes.;;
+A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;text;Manner adverbs often add **-sti** or **-lt** to the genitive stem of an adjective: kiire → kiiresti, rahulik → rahulikult. The choice of suffix depends on the word.;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;head;Adjective | Adverb (how?) | Comparative adverb;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;kiire — fast | kiire**sti** | kiire**mini**;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;aeglane — slow | aeglase**lt** | aeglase**malt**;;
@@ -590,7 +590,7 @@ A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;tavaline — u
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;halb — bad | halva**sti** | halve**mini**;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;hea — good | **hästi** | **paremini**;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;row;palju — much, a lot | palju | **rohkem**;;
-A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;note;Memorise the special forms hea → hästi → paremini (good → well → better) and palju → rohkem (a lot → more).;;
+A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;note;Special forms: hea → hästi → paremini (good → well → better), palju → rohkem (a lot → more).;;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;example;Räägi aeglasemalt, palun.;Please speak more slowly.;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;example;Ta räägib eesti keelt paremini kui mina.;They speak Estonian better than I do.;
 A2;Adjectives and adverbs;Adverbs: kiiresti, hästi, paremini;example;Tavaliselt ma ärkan kell seitse.;I usually wake up at seven.;
@@ -621,7 +621,7 @@ A2;Cases and postpositions;The terminative: -ni (until, as far as);example;Head 
 A2;Cases and postpositions;The terminative: -ni (until, as far as);note;As with -ga, only the noun takes -ni in an adjective–noun phrase: suure maja**ni** (as far as the big house). In kella viie**ni** (until five o'clock), the number takes the ending.;;
 A2;Cases and postpositions;The terminative: -ni (until, as far as);tip;Common farewells with -ni: nägemiseni (goodbye), homseni (see you tomorrow), kohtumiseni (see you next time).;;
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;summary;raamatu kohta, sinu jaoks, söögi ajal, abi eest: genitive + postposition.;;a2-postpositions
-A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;text;Most of these words follow a noun or pronoun in the **genitive** and are called postpositions. Some come before it and are called prepositions, as in English. Learn the case each one requires.;;
+A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;text;"Postpositions follow their complement, usually in the genitive: maja taga. Prepositions precede it; the required case depends on the preposition: ilma rahata (without money, abessive).";;
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;head;Postposition | Meaning | Example;;
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;row;kohta | about, concerning | raamatu kohta — about a book;;
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;row;jaoks | for | sinu jaoks — for you;;
@@ -645,7 +645,7 @@ A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, e
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;note;pärast can be a preposition or a postposition: **pärast tööd** (after work) and **selle pärast** (because of that). Note also sellepärast (therefore, that's why).;;
 A2;Cases and postpositions;Postpositions and prepositions: kohta, jaoks, ajal, eest;tip;When talking about a subject, the elative (-st) often works too: Räägi mulle oma tööst (Tell me about your work). The two constructions are not always interchangeable. kohta is particularly useful for describing information about a subject: infot raamatu kohta (information about the book).;;
 A2;Cases and postpositions;Verb case government: which case does a verb take?;summary;tegelema millega?, huvituma millest?, aitama keda? — some verbs require a particular case.;;a2-government
-A2;Cases and postpositions;Verb case government: which case does a verb take?;text;Learn each verb with the case it requires (its case government). English prepositions do not always correspond to Estonian case endings. The Estonian question words can help you identify the required form in a dictionary.;;
+A2;Cases and postpositions;Verb case government: which case does a verb take?;text;Verb government is the case required by a verb. The question helps identify it: rääkima millest? (talk about what?), helistama kellele? (call whom?). Estonian cases do not always match English prepositions.;;
 A2;Cases and postpositions;Verb case government: which case does a verb take?;head;Verb | Required question / case | Example;;
 A2;Cases and postpositions;Verb case government: which case does a verb take?;row;meeldima — to like (literally, to be pleasing to) | kellele? (allative) | Mulle meeldib muusika. — I like music.;;
 A2;Cases and postpositions;Verb case government: which case does a verb take?;row;aitama — to help | keda? (partitive) | Ma aitan sind. — I'm helping you.;;
@@ -708,7 +708,7 @@ A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;example;Ma
 A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;example;Kas sa tahad midagi juua?;Would you like something to drink?;
 A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;example;Ma pole kunagi Pariisis käinud.;I've never been to Paris.;
 A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;example;Me ei lähe täna kuhugi.;We're not going anywhere today.;
-A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;note;Learn the common forms: **keegi** (someone), **kedagi** (someone/anyone, partitive), **kellelegi** (to someone/anyone), **miski** (something), **midagi** (something/anything, partitive).;;
+A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;note;Common forms: **keegi** (someone, nominative), **kedagi** (someone/anyone, partitive), **kellelegi** (to someone/anyone, allative), **miski** (something, nominative), **midagi** (something/anything, partitive).;;
 A2;Pronouns;Indefinite and negative expressions: keegi, miski, kunagi;tip;For emphasis use **mitte keegi** (absolutely nobody) or **mitte midagi** (nothing at all): Mitte keegi ei tulnud (Nobody at all came).;;
 A2;Pronouns;Relative clauses: kes, mis, kus;summary;mees, kes elab siin (a man who lives here), raamat, mida ma loen (a book I'm reading), maja, kus ma elan (the house where I live).;;a2-relative
 A2;Pronouns;Relative clauses: kes, mis, kus;text;A relative clause starts with **kes** for people or **mis** for things, in the case required by its role within the clause. Estonian separates relative clauses with commas, even when English would not.;;
@@ -723,7 +723,7 @@ A2;Pronouns;Relative clauses: kes, mis, kus;text;Choose the form according to th
 A2;Pronouns;Relative clauses: kes, mis, kus;note;The same relative forms are often used with plural nouns: Inimesed, kes siin elavad… (People who live here…), Raamatud, mida ma ostsin… (Books I bought…). Other plural forms of relative pronouns are also possible.;;
 A2;Pronouns;Relative clauses: kes, mis, kus;tip;For places, kus (where), kuhu (where to) and kust (where from) are useful: maja, kus ma elan (= maja, milles ma elan), the house where I live.;;
 A2;Verbs: tenses;Simple past: common verbs;summary;käisin, tõin, võtsin, andis, ostis — the simple past of common verbs.;;a2-past-irregular
-A2;Verbs: tenses;Simple past: common verbs;text;Many common verbs change their stem in the simple past. The third-person singular form sometimes ends in **-is**. Learn these forms individually.;;
+A2;Verbs: tenses;Simple past: common verbs;text;Many common verbs change their stem in the simple past. The third-person singular form sometimes ends in **-is**.;;
 A2;Verbs: tenses;Simple past: common verbs;head;Verb | I | He / she | Negative;;
 A2;Verbs: tenses;Simple past: common verbs;row;käima — to go, to visit | käisin | käis | ei käinud;;
 A2;Verbs: tenses;Simple past: common verbs;row;tooma — to bring | tõin | tõi | ei toonud;;
@@ -738,7 +738,7 @@ A2;Verbs: tenses;Simple past: common verbs;row;ostma — to buy | ostsin | ost**
 A2;Verbs: tenses;Simple past: common verbs;row;tundma — to feel, to know | tundsin | tund**is** | ei tundnud;;
 A2;Verbs: tenses;Simple past: common verbs;row;teadma — to know (a fact) | teadsin | tead**is** | ei teadnud;;
 A2;Verbs: tenses;Simple past: common verbs;row;jooksma — to run | jooksin | jooks**is** | ei jooksnud;;
-A2;Verbs: tenses;Simple past: common verbs;tip;You cannot always predict which verbs take -is in the third-person singular. Learn these forms with the verb: ostis, võttis, andis, tundis, teadis, jooksis, tahtis.;;
+A2;Verbs: tenses;Simple past: common verbs;tip;The third-person singular in -is is not always predictable from the infinitive: ostis, võttis, andis, tundis, teadis, jooksis, tahtis.;;
 A2;Verbs: tenses;Simple past: common verbs;example;Eile käisin ma kinos.;I went to the cinema yesterday.;
 A2;Verbs: tenses;Simple past: common verbs;example;Ta tõi mulle lilli.;They brought me flowers.;
 A2;Verbs: tenses;Simple past: common verbs;example;Kes võttis minu pliiatsi?;Who took my pencil?;
@@ -764,7 +764,7 @@ A2;Verbs: tenses;Present perfect: olen käinud;example;Ta ei ole veel tulnud.;Th
 A2;Verbs: tenses;Present perfect: olen käinud;warn;To emphasise that you have lived here for two years and still do, use **juba** (already) with the present, or the present perfect: **Ma elan siin juba kaks aastat.** / **Ma olen siin kaks aastat elanud.** Without juba, Ma elan siin kaks aastat may have a different interpretation depending on context.;;
 A2;Verbs: tenses;Present perfect: olen käinud;heading;Forming the -nud participle;;
 A2;Verbs: tenses;Present perfect: olen käinud;text;For many verbs, replace **-ma** with **-nud**: ela**ma** → ela**nud**, õppima → õppinud, lugema → lugenud, ostma → ostnud, andma → andnud, saama → saanud, sööma → söönud.;;
-A2;Verbs: tenses;Present perfect: olen käinud;text;Learn the stem changes in these common verbs:;;
+A2;Verbs: tenses;Present perfect: olen käinud;text;Common participles with stem changes:;;
 A2;Verbs: tenses;Present perfect: olen käinud;head;Verb | -nud participle;;
 A2;Verbs: tenses;Present perfect: olen käinud;row;olema | olnud;;
 A2;Verbs: tenses;Present perfect: olen käinud;row;tulema | tulnud;;
@@ -783,7 +783,7 @@ A2;Verbs: tenses;Past perfect: olin käinud;row;nad | olid käinud;;
 A2;Verbs: tenses;Past perfect: olin käinud;example;Kui ma jaama jõudsin, oli rong juba läinud.;When I arrived at the station, the train had already left.;
 A2;Verbs: tenses;Past perfect: olin käinud;example;Ma olin seda filmi varem näinud.;I had seen this film before.;
 A2;Verbs: tenses;Past perfect: olin käinud;example;Ta ütles, et oli haige olnud.;They said they had been ill.;
-A2;Verbs: tenses;Past perfect: olin käinud;note;At A2, focus on recognising this form. In conversation, the simple past is often enough when the order of events is already clear.;;
+A2;Verbs: tenses;Past perfect: olin käinud;note;The simple past is often sufficient when the sequence is clear. The pluperfect highlights an earlier past event: Kui jõudsin, oli rong juba lahkunud (When I arrived, the train had already left).;;
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;summary;tahaksin, oleks, läheksin — the conditional mood, used for polite requests and hypothetical situations.;;a2-conditional
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;text;The present conditional usually adds **-ksin, -ksid, -ks, -ksime, -ksite, -ksid** to the present-tense stem (the form after ei). For example, ma lähen → ma läheksin (I would go).;;
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;head;Person | Ending | olema | tahtma;;
@@ -805,7 +805,7 @@ A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;example;Kui ilm olek
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;example;Sa peaksid arsti juurde minema.;You should see a doctor.;
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;note;The shorter forms without personal endings are also standard: ma tahaks, me läheks, nad oleks. The longer forms (tahaksin, läheksime) show the grammatical person more explicitly.;;
 A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;text;For an open, possible condition, use ordinary indicative forms: Kui mul **on** aega, **tulen** ma kinno (If I have time, I'll come to the cinema). For a hypothetical condition, the conditional commonly appears in both clauses: Kui mul **oleks** aega, **tuleksin** ma kinno (If I had time, I'd come to the cinema).;;
-A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;tip;Learn these two patterns first: Kui mul on aega, tulen ma kinno (If I have time, I'll come to the cinema). Kui mul oleks aega, tuleksin ma kinno (If I had time, I'd come to the cinema). Mixed patterns are possible too: Kui sul on aega, võiksid mind aidata (If you have time, perhaps you could help me).;;
+A2;Verbs: moods and forms;Conditional mood: tahaksin, oleks;tip;Real condition: Kui mul on aega, tulen ma kinno (If I have time, I'll come to the cinema). Hypothetical condition: Kui mul oleks aega, tuleksin ma kinno (If I had time, I'd come to the cinema). Mixed pattern with a polite request: Kui sul on aega, võiksid mind aidata (If you have time, perhaps you could help me).;;
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;summary;Eestis räägitakse eesti keelt. Maja ehitati 1920. aastal. — the impersonal voice, when the person doing the action is not specified.;;a2-impersonal
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;text;The **impersonal voice** describes an action by unspecified people. English often uses a passive construction, a general 'people' or 'they', or an impersonal instruction. Estonian impersonal forms do not name the agent or agree with the object.;;
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;head;Verb | Present | Simple past;;
@@ -828,9 +828,9 @@ A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;example;Pood ava
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;example;Siin ei suitsetata.;Smoking is not allowed here.;
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;example;Maja ehitati 1920. aastal.;The house was built in 1920.;
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;example;Mind kutsuti peole.;I was invited to a party.;
-A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;note;Learn these irregular present forms: tehakse, nähakse, süüakse, juuakse, ollakse, minnakse, tullakse.;;
+A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;note;Special present impersonal forms: tehakse, nähakse, süüakse, juuakse, ollakse, minnakse, tullakse.;;
 A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;note;The -tud/-dud participle can also describe a state, like an adjective: Pood on suletud (The shop is closed). Uks on avatud (The door is open).;;
-A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;tip;At A2, focus first on recognising these forms in texts, signs and announcements, then practise using common ones.;;
+A2;Verbs: moods and forms;Impersonal voice: räägitakse, tehti;tip;"The impersonal is common on signs and in announcements: siin müüakse pileteid (tickets are sold here); eile suleti pood (the shop was closed yesterday). The agent is not named.";;
 A2;Verbs: moods and forms;The -ma, -mas, -mast and -mata forms;summary;lähen ujuma (going swimming) — käin ujumas (go swimming) — tulen ujumast (coming back from swimming) — lahkus ütlemata (left without saying).;;a2-ma-forms
 A2;Verbs: moods and forms;The -ma, -mas, -mast and -mata forms;text;The **-ma infinitive** (also called the supine) has related forms expressing movement towards an activity, being engaged in it, coming back from it, or the absence of another action.;;
 A2;Verbs: moods and forms;The -ma, -mas, -mast and -mata forms;head;Form | Function | Example;;
@@ -855,7 +855,7 @@ A2;Verbs: moods and forms;More uses of the -da infinitive;example;Mul on aeg min
 A2;Verbs: moods and forms;More uses of the -da infinitive;example;Seda on raske öelda.;That's hard to say.;
 A2;Verbs: moods and forms;More uses of the -da infinitive;tip;For which infinitive to use after tahtma, pidama, hakkama and other verbs, see the A1 lesson on the two infinitives (-ma and -da).;;
 A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;summary;aru saama, üles tõusma, ära minema — multiword verbs whose meaning depends on both parts.;;a2-particle-verbs
-A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;text;Many Estonian verbs combine with a particle or another word that changes or completes their meaning: minema (to go), ära minema (to leave), välja minema (to go out). Learn the combination as a unit.;;
+A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;text;A verb may combine with a particle or another word that changes or specifies its meaning: minema (to go), ära minema (to leave), välja minema (to go out).;;
 A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;head;Verb | Meaning;;
 A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;row;aru saama | to understand;;
 A2;Verbs: moods and forms;Multiword verbs: aru saama, üles tõusma;row;üles tõusma | to get up, to stand up;;
@@ -891,7 +891,7 @@ A2;Verbs: moods and forms;Movement and visits: minema, käima, sõitma;example;M
 A2;Verbs: moods and forms;Movement and visits: minema, käima, sõitma;example;Ma lähen koju jala.;I'm walking home.;
 A2;Verbs: moods and forms;Movement and visits: minema, käima, sõitma;note;Expressions with **käima** often answer **kus?** (where?): käin tööl, koolis, trennis. With **minema**, use a destination answering **kuhu?** (where to?): lähen tööle, kooli, trenni.;;
 A2;Everyday communication;Travelling: tickets, stops and timetables;summary;Üks pilet Tartusse, palun. Mis kell rong väljub? — useful questions when travelling.;;a2-travel
-A2;Everyday communication;Travelling: tickets, stops and timetables;text;When using public transport, check the **route**, **departure time** and **stop**. Use the destination forms you know: Tartusse (to Tartu), Tallinna (to Tallinn), koju (home).;;
+A2;Everyday communication;Travelling: tickets, stops and timetables;text;"Destination forms include **Tartusse** (to Tartu), **Tallinna** (to Tallinn), **koju** (home). **Kuhu see buss sõidab?** asks the destination; **Millal buss väljub?** asks the departure time.";;
 A2;Everyday communication;Travelling: tickets, stops and timetables;head;Situation | Estonian | English;;
 A2;Everyday communication;Travelling: tickets, stops and timetables;row;Ticket | Üks pilet Tartusse, palun. | One ticket to Tartu, please.;;
 A2;Everyday communication;Travelling: tickets, stops and timetables;row;Departure | Mis kell rong väljub? | What time does the train leave?;;
@@ -911,7 +911,7 @@ A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;example;Vaata
 A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;example;Räägime eesti keeles!;Let's speak Estonian!;
 A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;text;Negative suggestions use **ärme** + the form used after ei: Ärme räägi sellest! (Let's not talk about it!).;;
 A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;note;**Olgu!** means 'All right!' or 'OK!' **Olgu pealegi.** means 'All right, then' (often conceding something).;;
-A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;tip;You may also encounter imperative forms such as mingem, tehkem and ärgem (with -gem or -kem). At this level, focus on recognising them.;;
+A2;Verbs: moods and forms;Making suggestions: lähme, teeme, ärme;tip;The forms **mingem, tehkem, ärgem** are more formal or literary. In conversation, lähme, teeme and ärme are common.;;
 A2;Verbs: moods and forms;Permission, ability and obligation;summary;võib, tohib, saab, oskab, peab, tuleb, on vaja — permission, ability, necessity and obligation.;;a2-modality
 A2;Verbs: moods and forms;Permission, ability and obligation;head;Verb or construction | Meaning | Example;;
 A2;Verbs: moods and forms;Permission, ability and obligation;row;võima + -da | may, can | Kas ma võin sisse tulla? — May I come in?;;
@@ -937,7 +937,7 @@ A2;Everyday communication;Polite requests and appointments;example;Tere! Sooviks
 A2;Everyday communication;Polite requests and appointments;example;Kas saaksite seda veel kord öelda?;Could you say that again, please?;
 A2;Everyday communication;Polite requests and appointments;tip;**laud kahele** means a table for two people. **kella kaheks** means by two o'clock, and in a booking context it can mean for two o'clock. Do not confuse the number of people with the time.;;
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;summary;Mul on palavik. Mul valutab pea. Sooviksin arsti juurde aega. — basic expressions for talking about health.;;a2-health-communication
-A2;Everyday communication;At the doctor and pharmacy: describing symptoms;text;To describe symptoms, often use **mul on** (I have). To describe pain, use **valutama** (to hurt, to ache). State the symptom clearly and ask for help.;;
+A2;Everyday communication;At the doctor and pharmacy: describing symptoms;text;Symptoms often use **mul on** (I have): Mul on palavik — I have a fever. With **valutama**, the body part is the subject: Kurk valutab — my throat hurts.;;
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;head;Estonian | English;;
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;row;Mul on palavik. | I have a fever.;;
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;row;Mul on köha. | I have a cough.;;
@@ -951,7 +951,7 @@ A2;Everyday communication;At the doctor and pharmacy: describing symptoms;exampl
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;example;Mul on juba kolm päeva palavik.;I've had a fever for three days now.;
 A2;Everyday communication;At the doctor and pharmacy: describing symptoms;tip;**Mul on** + the symptom: mul on nohu (I have a runny nose). In **Mul valutab pea** (I have a headache), pea is the grammatical subject: literally, my head hurts. These phrases help you describe symptoms, not diagnose a medical condition.;;
 A2;Everyday communication;At work and in education: everyday requests;summary;Mul on koosolek. Ma hilinen. Kas saaksite selgitada? — short, useful expressions for work and study.;;a2-work-study
-A2;Everyday communication;At work and in education: everyday requests;text;Keep messages clear: say what you are doing, what you need, what you are having trouble with and when you will be ready.;;
+A2;Everyday communication;At work and in education: everyday requests;text;**Mul on vaja** expresses a need (I need), **ma ei saa aru** a difficulty (I don't understand), and **reedeks** a deadline (by Friday). The ending -ks can mark the time by which something is due.;;
 A2;Everyday communication;At work and in education: everyday requests;head;Estonian | English;;
 A2;Everyday communication;At work and in education: everyday requests;row;Ma töötan esmaspäevast reedeni. | I work from Monday to Friday.;;
 A2;Everyday communication;At work and in education: everyday requests;row;Mul on homme koosolek. | I have a meeting tomorrow.;;
@@ -1016,7 +1016,7 @@ A2;Numbers and time;Large numbers and fractions;row;0.07 | null koma null seitse
 A2;Numbers and time;Large numbers and fractions;row;3.14 | kolm koma üks neli;;
 A2;Numbers and time;Large numbers and fractions;example;Kaks ja pool tundi on 150 minutit.;Two and a half hours is 150 minutes.;
 A2;Numbers and time;Large numbers and fractions;example;Üks sajandik eurost on üks sent.;One hundredth of a euro is one cent.;
-A2;Numbers and time;Large numbers and fractions;tip;In Estonian writing: 67 420 (a space between digit groups), 0,9 (decimal comma). When reviewing, say the number aloud before turning over the card.;;
+A2;Numbers and time;Large numbers and fractions;tip;In large numbers, groups of three digits are separated by spaces: **67 420**. The decimal separator is a comma: **0,9**. When reading the decimal digits individually, keep the zeros: 0,07 — null koma null seitse.;;
 A2;Numbers and time;Dates and years: viiendal mail;summary;Mitmendal? — viiendal mail. Mis aastal? — 2026. aastal. Dates use ordinal numbers.;;a2-dates
 A2;Numbers and time;Dates and years: viiendal mail;text;To say on which date something happens, use an ordinal number and the month in the adessive (normally **-l**): viiendal mail (on 5 May). Ask **Mitmendal?** or **Mis kuupäeval?** (On what date?).;;
 A2;Numbers and time;Dates and years: viiendal mail;head;Date | On what date?;;
@@ -1033,7 +1033,7 @@ A2;Numbers and time;Dates and years: viiendal mail;example;Mitmendal sa tuled? �
 A2;Numbers and time;Dates and years: viiendal mail;example;Ma töötan kella üheksast kella viieni.;I work from nine to five.;
 A2;Numbers and time;Dates and years: viiendal mail;note;In writing, put a full stop after a numeral used as an ordinal: **5. mai**, **2026. aastal** (or 2026. a). This is different from English date notation.;;
 A2;Numbers and time;Holidays and congratulations;summary;Palju õnne sünnipäevaks! Häid jõule! Head uut aastat! — greetings for celebrations and holiday dates.;;a2-holidays
-A2;Numbers and time;Holidays and congratulations;text;Learn the names of major holidays and how to wish someone well. For the date of an event, say the ordinal number and the month in the adessive, for example **24. veebruaril** (on 24 February).;;
+A2;Numbers and time;Holidays and congratulations;text;Greetings such as **Head uut aastat!** (Happy New Year!) use the partitive. In answer to Millal? (When?), the ordinal and month take the adessive (-l): **24. veebruaril**.;;
 A2;Numbers and time;Holidays and congratulations;head;Estonian | English;;
 A2;Numbers and time;Holidays and congratulations;row;Palju õnne sünnipäevaks! | Happy birthday!;;
 A2;Numbers and time;Holidays and congratulations;row;Häid jõule! | Merry Christmas!;;
@@ -1044,7 +1044,7 @@ A2;Numbers and time;Holidays and congratulations;row;vabariigi aastapäev | Esto
 A2;Numbers and time;Holidays and congratulations;example;Jaanipäev on 24. juunil.;Midsummer Day is on 24 June.;
 A2;Numbers and time;Holidays and congratulations;example;Eestis tähistatakse vabariigi aastapäeva 24. veebruaril.;Independence Day is celebrated in Estonia on 24 February.;
 A2;Numbers and time;Holidays and congratulations;example;Millal sul on sünnipäev? — Viiendal mail.;When is your birthday? — On 5 May.;
-A2;Numbers and time;Holidays and congratulations;note;**24. juunil** is read **kahekümne neljandal juunil**. Learn the name of the holiday first, then its date and the correct month form.;;
+A2;Numbers and time;Holidays and congratulations;note;"**24. juunil** is read **kahekümne neljandal juunil**. In answer to Millal? (When?): 5. mail — viiendal mail; 1. septembril — esimesel septembril. The full stop after the numeral marks an ordinal.";;
 A2;Numbers and time;Time, duration and frequency;summary;eelmisel nädalal, nädala pärast, kaks päeva tagasi, hommikuti, kaks korda nädalas — time, duration and frequency.;;a2-time-expressions
 A2;Numbers and time;Time, duration and frequency;head;Expression | Example;;
 A2;Numbers and time;Time, duration and frequency;row;eelmisel … (last …) | eelmisel nädalal — last week;;
@@ -1104,7 +1104,7 @@ A2;Everyday communication;Plans, intentions and the future;example;Järgmisel n�
 A2;Everyday communication;Plans, intentions and the future;example;Ma ei saa homme tulla, sest ma töötan.;I can't come tomorrow because I'm working.;
 A2;Everyday communication;Plans, intentions and the future;note;**kavatsema** normally takes the **-da infinitive**: kavatsen **minna** (I intend to go). **hakkama** takes the **-ma infinitive**: hakkan **minema** (I'll set off). Keep these constructions distinct.;;
 A2;Everyday communication;Housing, services and household problems;summary;Otsin korterit. Küte ei tööta. Kas saaksite aidata? — explaining housing and everyday service problems.;;a2-home-services
-A2;Everyday communication;Housing, services and household problems;text;For renting a home or arranging repairs, name what you need or what is wrong, then make a clear, polite request.;;
+A2;Everyday communication;Housing, services and household problems;text;**Otsin** (I'm looking for) and **vajan** (I need) take a partitive object: otsin korterit, vajan abi. **Ei tööta** describes a fault: küte ei tööta — the heating is not working.;;
 A2;Everyday communication;Housing, services and household problems;head;Situation | Estonian | English;;
 A2;Everyday communication;Housing, services and household problems;row;Looking for housing | Otsin korterit. | I'm looking for a flat.;;
 A2;Everyday communication;Housing, services and household problems;row;Renting | Soovin korterit üürida. | I'd like to rent a flat.;;
@@ -1117,7 +1117,7 @@ A2;Everyday communication;Housing, services and household problems;example;Milla
 A2;Everyday communication;Housing, services and household problems;example;Aitäh abi eest!;Thanks for your help!;
 A2;Everyday communication;Housing, services and household problems;tip;Use the pattern **X ei tööta** (X isn't working) for a broken appliance or service. Look up useful rental and utility vocabulary: üür (rent), üürima (to rent), küte (heating), elekter (electricity).;;
 A2;Sentence structure;Giving reasons and expressing opinions;summary;Minu arvates…, Ma arvan, et…, sest…, sellepärast… — linking opinions and reasons.;;a2-reasons-opinions
-A2;Sentence structure;Giving reasons and expressing opinions;text;At A2, practise linking short statements and explaining your choices. Keep it simple: first give your opinion or a fact, then explain why.;;
+A2;Sentence structure;Giving reasons and expressing opinions;text;"Opinions can be introduced with minu arvates (in my opinion) or ma arvan, et (I think that). Sest (because) introduces a reason; seetõttu (therefore) introduces a consequence.";;
 A2;Sentence structure;Giving reasons and expressing opinions;head;Expression | Meaning;;
 A2;Sentence structure;Giving reasons and expressing opinions;row;Ma arvan, et… | I think that…;;
 A2;Sentence structure;Giving reasons and expressing opinions;row;Minu arvates… | In my opinion…;;
@@ -1131,7 +1131,7 @@ A2;Sentence structure;Giving reasons and expressing opinions;example;Ma jään k
 A2;Sentence structure;Giving reasons and expressing opinions;example;Ma olen väsinud. Sellepärast lähen vara magama.;I'm tired. That's why I'm going to bed early.;
 A2;Sentence structure;Giving reasons and expressing opinions;tip;Use a comma before a subordinate clause introduced by **et** or **sest**: Ma arvan**,** et… / Ma jään koju**,** sest…;;
 A2;Sentence structure;Writing messages, invitations and letters;summary;Tere! Soovin… Kas sulle sobib…? Lugupidamisega… — simple written messages, invitations and letters.;;a2-messages
-A2;Sentence structure;Writing messages, invitations and letters;text;At A2, practise writing a short message, invitation or letter. State the purpose, give any relevant time or date and end politely.;;
+A2;Sentence structure;Writing messages, invitations and letters;text;Kirjutan, et… (I am writing to…) and Soovin… (I would like…) introduce the purpose of a message. Invitations often use Kas sa saad tulla? (Can you come?) and Ootan sind… (I am expecting you…).;;
 A2;Sentence structure;Writing messages, invitations and letters;heading;Inviting a friend;;
 A2;Sentence structure;Writing messages, invitations and letters;example;Tere, Mari! Kas sa tahad laupäeval kinno tulla? Film algab kell kuus. Anna teada!;Hi Mari! Would you like to go to the cinema on Saturday? The film starts at six. Let me know!;
 A2;Sentence structure;Writing messages, invitations and letters;heading;Asking to reschedule;;
@@ -1143,7 +1143,7 @@ A2;Sentence structure;Writing messages, invitations and letters;row;Purpose | So
 A2;Sentence structure;Writing messages, invitations and letters;row;Request | Palun vastake mulle e-posti teel. — Please reply to me by email.;;
 A2;Sentence structure;Writing messages, invitations and letters;row;Closing | Lugupidamisega — Yours sincerely / Kind regards;;
 A2;Sentence structure;Writing messages, invitations and letters;example;Lugupeetud proua Tamm! Sooviksin aega kokku leppida. Tänan vastuse eest.;Dear Ms Tamm, I'd like to arrange an appointment. Thank you for your reply.;
-A2;Sentence structure;Writing messages, invitations and letters;tip;In short messages, keep one main idea per sentence. Check that you have explained **when, where and what is needed**. Dates can be written with numerals: 24. veebruar, 25.11. In Estonian, do **not** put a comma after **Lugupidamisega** before your name, unlike many English letter closings.;;
+A2;Sentence structure;Writing messages, invitations and letters;tip;Dates can be written with numerals: **24. veebruar**, **25.11.** Unlike many English letter closings, **Lugupidamisega** is not followed by a comma before the name.;;
 A2;Word formation;Word formation: -ja, -mine, -la, -lane, -ne, -lik, -tu;summary;õpetaja, ujumine, söökla, eestlane, suvine, sõbralik, töötu — suffixes often give clues to a word's meaning.;;a2-word-formation
 A2;Word formation;Word formation: -ja, -mine, -la, -lane, -ne, -lik, -tu;head;Suffix | Function | Example;;
 A2;Word formation;Word formation: -ja, -mine, -la, -lane, -ne, -lik, -tu;row;-ja | person who performs an action | õpetama → õpeta**ja** — to teach → teacher;;
@@ -1228,7 +1228,7 @@ B1;Verbs: forms;The -des form: while doing something;example;Ma kuulan muusikat 
 B1;Verbs: forms;The -des form: while doing something;example;Ta tuli koju lauldes.;They came home singing.;
 B1;Verbs: forms;The -des form: while doing something;warn;Kodust lahkudes helistas mulle ema suggests that Mum was leaving home. If you were the one leaving, say: Kui ma kodust lahkusin, helistas mulle ema. — Mum called me when I left home.;;
 B1;Verbs: forms;Reported information: olevat, tulevat;summary;Ta olevat haige. — Apparently, they're ill. The -vat form reports information from another source.;;b1-oblique
-B1;Verbs: forms;Reported information: olevat, tulevat;note;Extra topic. At B1, focus on recognising -vat in news and written texts rather than using it actively.;;
+B1;Verbs: forms;Reported information: olevat, tulevat;note;The **-vat** form presents reported information without the speaker directly vouching for it: Ta olevat haige (He is said to be ill). Compare Ta on haige (He is ill).;;
 B1;Verbs: forms;Reported information: olevat, tulevat;text;The **-vat** form (quotative mood) signals reported information without presenting it as the speaker's own firsthand knowledge. English often uses “apparently”, “reportedly” or “they say”. The form is the same for all persons: replace -ma with **-vat**.;;
 B1;Verbs: forms;Reported information: olevat, tulevat;head;Verb | Present | Past;;
 B1;Verbs: forms;Reported information: olevat, tulevat;row;olema | ole**vat** | olevat olnud;;
@@ -1315,7 +1315,7 @@ B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;example;Temast saab meie uus ülemus.;They'll be our new boss.;
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;example;Mis sinust suurena saab?;What will you be when you grow up?;
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;heading;Remaining and leaving something in a state;;
-B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;text;"**jääma** means remain or end up in a state; **jätma** means leave something in a state. These verbs often occur in fixed expressions without -ks. Learn the expressions as a whole.";;
+B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;text;"**jääma** means remain or end up in a state; **jätma** means leave something in a state. Some fixed patterns use forms other than -ks: jääma koju (stay at home), jätma ukse lahti (leave the door open).";;
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;example;Uks jäi lahti.;The door stayed open.;
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;example;Jäta uks lahti, palun.;Please leave the door open.;
 B1;Verbs: meaning and case patterns;Becoming and changing things: -ks with verbs;example;Me jäime hotelliga rahule.;We were satisfied with the hotel.;
@@ -1337,7 +1337,7 @@ B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles�
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;row;üle | again, review | üle vaatama — look over;;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;row;"järele | reflect; after | järele mõtlema — think it over";;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;row;edasi / tagasi | forward / back | edasi lükkama — postpone;;
-B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;text;**ära** is a very common particle. It often marks completion (ära sööma — eat up), in which case a total object is common if the quantity is also bounded. Sometimes it changes the whole meaning (ära minema — leave, ära unustama — forget). Learn these combinations as units.;;
+B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;text;"**ära** often marks completion (ära sööma — eat up); with a bounded quantity, a total object is possible. Sometimes it changes the verb's meaning: ära minema — leave, ära unustama — forget.";;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;example;Kes jõi minu kohvi ära?;Who drank my coffee?;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;example;Ma unustasin selle ära.;I forgot about it.;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;example;Ootame vihma ära.;Let's wait for the rain to pass.;
@@ -1355,7 +1355,7 @@ B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles�
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;row;negation — partitive (osastav) | Ma ei lugenud raamatut läbi. — I didn't finish the book.;;
 B1;Verbs: meaning and case patterns;Verb particles: ära, läbi, valmis, üles…;warn;If you mean you finished reading the whole book, don't say Ma lugesin raamatut läbi. Use a total object: Ma lugesin **raamatu** läbi.;;
 B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;summary;sõltuma millest, loobuma millest, keskenduma millele, osalema milles — verbs that require a particular case.;;b1-government
-B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;text;Building on the A2 topic on verbs and cases, learn more fixed verb patterns. English prepositions don't always match Estonian endings. Learn each verb together with the question and case it requires (also called verb government).;;
+B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;text;"Government (rektsioon) is the form required by a governing word. For example, **sõltuma millest?** takes the elative (-st); **osalema milles?** takes the inessive (-s) in osalema projektis. English prepositions do not always match Estonian cases.";;
 B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;head;Verb | Case question | Example;;
 B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;row;sõltuma — depend on | millest? (elative) | See sõltub ilmast. — It depends on the weather.;;
 B1;Verbs: meaning and case patterns;Verb case patterns: sõltuma millest, loobuma millest…;row;loobuma — give up | millest? (elative) | Ta loobus suitsetamisest. — They gave up smoking.;;
@@ -1416,7 +1416,7 @@ B1;Cases and postpositions;The -st ending: about, made of, than;example;Üks min
 B1;Cases and postpositions;The -st ending: about, made of, than;example;Ma olen lapsest saati Tallinnas elanud.;I've lived in Tallinn since childhood.;
 B1;Cases and postpositions;The -st ending: about, made of, than;warn;If you're looking outside through a window, don't say Ma vaatan aknasse (looking into the window). Say Ma vaatan **aknast välja**.;;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;summary;haiguse tõttu, kohvi asemel, mere ääres, sõbra pool — more postpositions and prepositions.;;b1-postpositions
-B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;text;Building on earlier topics on location and postpositions: most postpositions follow a noun in the genitive (kelle? mille?), e.g. mere ääres, haiguse tõttu. Some adpositions require other cases. Learn them with their case question: tänu kellele?, alates millest?;;
+B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;text;Most postpositions take the genitive: mere ääres, haiguse tõttu. Some adpositions take other cases: tänu kellele? (allative), alates millest? (elative).;;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;heading;Place: where to, where, where from?;;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;head;Adposition | Example;;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;row;äärde / ääres / äärest — to / at / from the edge or side | mere ääres — by the sea;;
@@ -1447,9 +1447,9 @@ B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;example;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;note;tõttu and pärast can both mean “because of”. tõttu is more formal: halva ilma tõttu = halva ilma pärast — because of bad weather.;;
 B1;Cases and postpositions;B1 postpositions: tõttu, asemel, ääres…;tip;**tänu** normally introduces a favourable cause. For an unfavourable cause, **tõttu** is more neutral: Haiguse **tõttu** ei tulnud ma tööle. — I didn't come to work because of illness.;;
 B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;summary;"parim, suurim; sama pikk kui; mida varem, seda parem — comparison at B1.";;b1-comparison
-B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;text;The comparative and superlatives with kõige are covered at A2. Here you'll learn the short superlative and other useful comparative structures.;;
+B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;text;The superlative may be analytic (kõige parem) or short (parim). Other comparison patterns include sama … kui and mida … seda.;;
 B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;heading;The short superlative in -im;;
-B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;text;Alongside **kõige suurem**, there is a short form ending in **-im** (sometimes -m). It is common in writing, news and advertising. Learn the forms as whole words.;;
+B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;text;"Alongside **kõige suurem** there is the short form **suurim**. Short superlatives are common in texts, news and advertising; their stem may differ: hea → parim.";;
 B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;head;Adjective | kõige … | Short superlative;;
 B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;row;hea | kõige parem | **parim**;;
 B1;Adjectives and pronouns;Comparison: parim, sama … kui, mida … seda;row;suur | kõige suurem | **suurim**;;
@@ -1535,7 +1535,7 @@ B1;Complex sentences;When, until, as soon as: kuni, niipea kui;example;Niipea ku
 B1;Complex sentences;When, until, as soon as: kuni, niipea kui;example;Pärast seda kui lapsed magama jäid, vaatasime filmi.;After the children fell asleep, we watched a film.;
 B1;Complex sentences;When, until, as soon as: kuni, niipea kui;note;Time expressions: **kahe tunni pärast** — in two hours, **kahe tunni jooksul** — within / over the course of two hours, **iga kahe tunni järel** — every two hours.;;
 B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;summary;sellepärast et, seetõttu, selleks et, et + conditional, vaatamata sellele et, juhul kui — linking reasons, purposes, contrasts and conditions.;;b1-cause-purpose
-B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;text;Building on the A2 topic on conjunctions, these expressions help you make a story or letter coherent, an important skill at B1.;;
+B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;text;**sest** and **kuna** introduce a reason, **seetõttu** a consequence, **selleks et** a purpose, and **kuigi** a concession (although). They express different relationships between clauses.;;
 B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;heading;Cause and effect;;
 B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;head;Connector | Example;;
 B1;Complex sentences;Cause, purpose and concession: selleks et, seetõttu;row;sellepärast, et — because | Jäin koju sellepärast, et olin haige. — I stayed at home because I was ill.;;
@@ -1576,7 +1576,7 @@ B1;Complex sentences;Reported speech: Ta ütles, et…;example;Ema palus mul poo
 B1;Complex sentences;Reported speech: Ta ütles, et…;example;Arst soovitas mul rohkem puhata.;The doctor advised me to rest more.;
 B1;Complex sentences;Reported speech: Ta ütles, et…;warn;For an indirect yes/no question, translate English “if” or “whether” as **kas**, not kui: Ta küsis, **kas** mul on aega. — They asked if I had time.;;
 B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;summary;esiteks, lisaks, aga, vaid, näiteks, seega, kokkuvõttes — words that connect ideas.;;b1-connectors
-B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;text;In B1 writing and speaking tasks, link your ideas clearly. These words help you put ideas in order, add information, contrast points, give examples and draw conclusions.;;
+B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;text;Connectors signal sequence, addition, contrast and conclusion: **esiteks** (firstly), **lisaks** (in addition), **siiski** (nevertheless), **seega** (therefore).;;
 B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;head;Purpose | Connectors;;
 B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;row;"sequence | esiteks, teiseks; kõigepealt, siis, seejärel, lõpuks — firstly, secondly; first of all, then, after that, finally";;
 B1;Complex sentences;Linking ideas: lisaks, seega, näiteks;row;addition | lisaks (sellele), peale selle, samuti, ka, ning — in addition (to that), besides, likewise, also, and;;
@@ -1613,10 +1613,10 @@ B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;example;K�
 B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;example;Mulle tundub, et ta on väsinud.;It seems to me that they're tired.;
 B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;heading;arvama or mõtlema?;;
 B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;text;**Ma arvan, et…** is the most neutral way to express an opinion (I think that…). **Ma mõtlen, et…** is also possible, but mõtlema often means thinking about or considering something: Ma mõtlen sinule. — I'm thinking about you. Ma mõtlen selle üle. — I'll think it over.;;
-B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;tip;"In a B1 exam task, don't just give your opinion; explain why: Minu arvates…, sest… Näiteks… — In my opinion…, because… For example…";;
+B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;tip;**Minu arvates…** introduces an opinion, **sest…** a reason, and **näiteks…** an example: Minu arvates on see kasulik, sest see säästab aega (In my opinion, it is useful because it saves time).;;
 B1;Speaking and writing;Expressing opinions: minu arvates, olen nõus;note;In neutral word order, the finite verb often follows Minu arvates or Minu meelest: Minu arvates **on** see hea idee. — In my opinion, it's a good idea.;;
 B1;Speaking and writing;Polite requests and advice;summary;Kas te saaksite…? Kas oleks võimalik…? Ma soovitaksin… — polite language using the conditional.;;b1-polite
-B1;Speaking and writing;Polite requests and advice;text;The conditional mood (covered at A2) can soften a request. At B1, practise making requests, suggestions, giving advice and declining politely.;;
+B1;Speaking and writing;Polite requests and advice;text;The conditional softens requests, suggestions and advice: **Kas sa saad aidata?** (Can you help?) versus **Kas sa saaksid aidata?** (Could you help?).;;
 B1;Speaking and writing;Polite requests and advice;head;Purpose | Useful phrases;;
 B1;Speaking and writing;Polite requests and advice;row;request | Kas te saaksite…? • Kas te võiksite…? • Palun… — Could you…? / Would you…? / Please…;;
 B1;Speaking and writing;Polite requests and advice;row;extra polite | Kas oleks võimalik…? • Oleksin väga tänulik, kui… — Would it be possible…? / I'd be very grateful if…;;
@@ -1633,8 +1633,8 @@ B1;Speaking and writing;Polite requests and advice;example;Ma soovitaksin seda r
 B1;Speaking and writing;Polite requests and advice;example;Vabandust, et alles nüüd vastan.;Sorry for only replying now.;
 B1;Speaking and writing;Polite requests and advice;tip;A direct command like Andke mulle kohvi! (Give me coffee!) can sound abrupt. More polite: Kas ma saaksin kohvi? — Could I have some coffee? Or simply Üks kohv, palun. — One coffee, please.;;
 B1;Speaking and writing;Polite requests and advice;note;When addressing one person formally in a letter, you may capitalise **Teie**, **Teile** and **Teid** as a mark of respect. See the topic on letters and notices.;;
-B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;summary;How to open and close a letter, when to write Teie, and how to write a notice — useful skills for B1 writing tasks.;;b1-letters
-B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;Practise two common B1 writing task formats: a short text of around 50 words (message, notice or questionnaire answers) and a longer text of around 100 words (letter or narrative). A letter should include a greeting, the reason for writing, relevant details and a closing. Follow the word limit and instructions in your actual task.;;
+B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;summary;Greetings, polite forms of address, letter closings and the language of notices.;;b1-letters
+B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;"A letter often opens with **Tere!**; **Kirjutan seoses…** (I am writing in connection with…) introduces its purpose; **Palun…** introduces a request; **Lugupidamisega** closes it. Notices often use impersonal forms: otsitakse, müüakse, pakutakse.";;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;head; | Personal letter | Formal letter;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;row;greeting | Tere, Mari! • Kallis Jüri! | Lugupeetud härra Tamm! • Tere!;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;row;opening sentence | Aitäh kirja eest! • Kuidas sul läheb? | Kirjutan Teile, et… • Pöördun Teie poole seoses…;;
@@ -1674,7 +1674,7 @@ B1;Word formation;Adjective formation: -line, -kas, -matu, eba-;example;Mul on e
 B1;Word formation;Adjective formation: -line, -kas, -matu, eba-;example;Ta on väga rahulik inimene.;They're a very calm person.;
 B1;Word formation;Adjective formation: -line, -kas, -matu, eba-;note;The suffix -tu often attaches to a noun (töö → töötu — unemployed), while -matu forms adjectives from verbs (uskuma → uskumatu — unbelievable, väsima → väsimatu — tireless).;;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";summary;kogemus, tulemus, kunstnik, perekond, sõnastik, sõbranna — noun suffixes and compound words.;;b1-noun-suffixes
-B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";text;At this level, recognising these suffixes matters more than inventing new words yourself. They can help you work out the meaning of an unfamiliar word.;;
+B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";text;Suffixes provide clues to meaning: **-us** often marks a quality or result, **-nik** a person, and **-kond** a group or domain. Examples: sõprus, ametnik, meeskond.;;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";head;Suffix | Meaning | Example;;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";row;-us | abstract concept, action or result | lahendama → lahend**us** — solution, harjutama → harjut**us** — exercise;;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";row;-mus | outcome or experience | kogema → koge**mus** — experience, tulema → tule**mus** — result, elama → ela**mus** — memorable experience;;
@@ -1689,7 +1689,7 @@ B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";example;Me 
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";example;Meie meeskond võitis.;Our team won.;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";example;Mis on teie elukoht?;Where do you live?;
 B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";example;Reis Lapimaale oli suurepärane elamus.;The trip to Lapland was an amazing experience.;
-B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";tip;To understand a long compound, start from the end: sünni|päeva|pidu — a party (pidu) for a birthday (sünnipäev).;;
+B1;Word formation;"Noun formation: -us, -nik, -kond; compound words";tip;The last component of a compound noun normally determines its core meaning: sünni|päeva|pidu — a party (pidu) for a birthday (sünnipäev).;;
 B2;Advanced grammar;Partial and total objects;summary;Object case conveys quantity, result and negation.;;b2-object
 B2;Advanced grammar;Partial and total objects;text;A **partial object** (osasihitis) takes the partitive. It commonly describes an ongoing action, an indefinite quantity or an object in a negative clause. Some verbs require it regardless of the result.;;
 B2;Advanced grammar;Partial and total objects;text;A **total object** (täissihitis) is possible in an affirmative clause with a bounded object, a result-oriented action and a verb that allows it. In ordinary personal clauses, it is usually genitive in the singular and nominative in the plural. Imperatives and impersonals often take a nominative total object. In some da-infinitive constructions, the total object is nominative too (e.g. Ülesanne on kiri valmis kirjutada). Personal pronouns may take the partitive even in a total-object construction: Vii mind koju!;;
@@ -1703,9 +1703,9 @@ B2;Advanced grammar;Partial and total objects;example;Ma ei kirjutanud kirja val
 B2;Advanced grammar;Partial and total objects;example;Otsin uusi kingi.;I'm looking for new shoes.;
 B2;Advanced grammar;Partial and total objects;example;Raamat loeti läbi.;The book was read in full.;
 B2;Advanced grammar;Partial and total objects;example;Ootan vastust.;I'm waiting for a reply.;
-B2;Advanced grammar;Partial and total objects;warn;Do not equate perfective meaning with the genitive. Learn the case patterns of individual verbs: aitasin sõpra, nägin teda and armastan oma peret.;;
+B2;Advanced grammar;Partial and total objects;warn;Completion alone does not guarantee a total object. Some verbs and constructions allow or require the partitive: aitasin sõpra, nägin teda, armastan oma peret.;;
 B2;Advanced grammar;Partial and total objects;tip;Compare quantity: Ostsin leiba (I bought some bread) and Ostsin leiva (I bought a loaf).;;
-B2;Advanced grammar;Verb government: rektsioon;summary;Learn each verb with the case or form it selects.;;b2-government
+B2;Advanced grammar;Verb government: rektsioon;summary;Verb government: the choice of case or infinitive required by a verb.;;b2-government
 B2;Advanced grammar;Verb government: rektsioon;text;Government means that a governing word selects the form of its complement. English prepositions do not reliably predict Estonian cases.;;
 B2;Advanced grammar;Verb government: rektsioon;head;Verb | Pattern | Meaning;;
 B2;Advanced grammar;Verb government: rektsioon;row;sõltuma, loobuma, huvituma | millest? (elative) | depend on, give up, be interested in;;
@@ -1720,7 +1720,7 @@ B2;Advanced grammar;Verb government: rektsioon;example;Ta loobus pakkumisest.;Th
 B2;Advanced grammar;Verb government: rektsioon;example;Osalen koosolekul.;I'm taking part in the meeting.;
 B2;Advanced grammar;Verb government: rektsioon;example;Ilm mõjutab minu tuju.;The weather affects my mood.;
 B2;Advanced grammar;Verb government: rektsioon;example;Päike mõjub mulle hästi.;Sunshine does me good.;
-B2;Advanced grammar;Verb government: rektsioon;note;A verb may allow different patterns: osalema projektis (participate in a project), osalema koosolekul (attend a meeting). Learn whole combinations rather than just case questions.;;
+B2;Advanced grammar;Verb government: rektsioon;note;A verb can take different case patterns: osalema projektis (participate in a project, inessive), osalema koosolekul (attend a meeting, adessive).;;
 B2;Advanced grammar;Agreement in complex noun phrases;summary;Agreement with adjectives, pronouns, numerals and participles.;;b2-agreement
 B2;Advanced grammar;Agreement in complex noun phrases;text;An agreeing modifier normally matches the noun in number and case: selles uues korteris. In four cases, however, a preceding adjective takes the genitive of the corresponding number.;;
 B2;Advanced grammar;Agreement in complex noun phrases;head;Case | Example | Meaning;;
@@ -1733,8 +1733,8 @@ B2;Advanced grammar;Agreement in complex noun phrases;example;Elasin kolmes erin
 B2;Advanced grammar;Agreement in complex noun phrases;example;See on kahe suure ettevõtte vahel sõlmitud leping.;This is a contract concluded between two large companies.;
 B2;Advanced grammar;Agreement in complex noun phrases;text;Past participles in -nud and -tud used before nouns do not take the usual agreement endings: saabunud külalistele, esitatud dokumentides.;;
 B2;Advanced grammar;Agreement in complex noun phrases;warn;Not suurega majaga but **suure majaga**. In the plural: suurte majadega.;;
-B2;Advanced grammar;Advanced plural forms;summary;Recognise stem changes and short plural forms.;;b2-plural
-B2;Advanced grammar;Advanced plural forms;text;Learn the singular nominative, genitive and partitive and the plural partitive of nouns. The plural genitive is the basis of most long plural case forms.;;
+B2;Advanced grammar;Advanced plural forms;summary;Stem changes, short forms and plural case endings.;;b2-plural
+B2;Advanced grammar;Advanced plural forms;text;Key noun forms: singular nominative, genitive and partitive, and plural partitive. The plural genitive is the basis of most long plural case forms.;;
 B2;Advanced grammar;Advanced plural forms;head;Word | Plural genitive | Plural partitive;;
 B2;Advanced grammar;Advanced plural forms;row;inimene | inimeste | inimesi;;
 B2;Advanced grammar;Advanced plural forms;row;küsimus | küsimuste | küsimusi;;
@@ -1759,8 +1759,8 @@ B2;Advanced grammar;Subjects, existence and quantity;example;Tekkis mitu problee
 B2;Advanced grammar;Subjects, existence and quantity;example;Piisab ühest dokumendist.;One document is enough.;
 B2;Advanced grammar;Subjects, existence and quantity;example;Mul puudub vajalik kogemus.;I lack the necessary experience.;
 B2;Advanced grammar;Subjects, existence and quantity;example;Aega napib.;Time is short.;
-B2;Advanced grammar;Subjects, existence and quantity;tip;Learn the patterns with jätkuma, piisama, puuduma, tekkima, leiduma and esinema. They are common in notices and workplace conversations.;;
-B2;Advanced grammar;Choosing the -ma and -da infinitives;summary;Learn typical verb–infinitive combinations.;;b2-infinitives
+B2;Advanced grammar;Subjects, existence and quantity;tip;**jätkuma** and **piisama** express sufficiency, **puuduma** absence, **tekkima** emergence, and **leiduma** and **esinema** presence or occurrence.;;
+B2;Advanced grammar;Choosing the -ma and -da infinitives;summary;Choosing -ma, -da and other infinitive forms after verbs.;;b2-infinitives
 B2;Advanced grammar;Choosing the -ma and -da infinitives;text;The choice of infinitive depends on the governing verb and construction. It does not correspond directly to English to or -ing.;;
 B2;Advanced grammar;Choosing the -ma and -da infinitives;head;Pattern | Example | Meaning;;
 B2;Advanced grammar;Choosing the -ma and -da infinitives;row;hakkama + ma | hakkasin õppima | started studying;;
@@ -1776,7 +1776,7 @@ B2;Advanced grammar;Choosing the -ma and -da infinitives;example;Ma oskan ujuda.
 B2;Advanced grammar;Choosing the -ma and -da infinitives;example;Ma õpin ujuma.;I'm learning to swim.;
 B2;Advanced grammar;Choosing the -ma and -da infinitives;example;Ma käin ujumas.;I go swimming.;
 B2;Advanced grammar;Choosing the -ma and -da infinitives;example;Mul õnnestus probleem lahendada.;I managed to solve the problem.;
-B2;Advanced grammar;Choosing the -ma and -da infinitives;note;Learn keelduma + -mast separately: Ta keeldus vastamast. — They refused to answer.;;
+B2;Advanced grammar;Choosing the -ma and -da infinitives;note;**keelduma** takes the -mast form: Ta keeldus vastamast — they refused to answer.;;
 B2;Advanced grammar;Forms in -mas, -mast, -mata and -maks;summary;Activity, source, omission and purpose.;;b2-ma-forms
 B2;Advanced grammar;Forms in -mas, -mast, -mata and -maks;head;Form | Example | Meaning;;
 B2;Advanced grammar;Forms in -mas, -mast, -mata and -maks;row;-mas | käin ujumas | go swimming;;
@@ -1880,7 +1880,7 @@ B2;Verbs and nuances of action;Change of state and causation;example;Hinnad tõu
 B2;Verbs and nuances of action;Change of state and causation;example;Ettevõte tõstab hindu.;The company is raising prices.;
 B2;Verbs and nuances of action;Change of state and causation;example;Olukord paraneb.;The situation is improving.;
 B2;Verbs and nuances of action;Change of state and causation;example;Peame olukorda parandama.;We need to improve the situation.;
-B2;Verbs and nuances of action;Change of state and causation;warn;English often uses the same verb transitively and intransitively. Estonian frequently uses distinct verbs. Check both the pair and its case pattern.;;
+B2;Verbs and nuances of action;Change of state and causation;warn;Estonian often uses different verbs for a change of state and its cause: uks avaneb (the door opens), ta avab ukse (he/she opens the door).;;
 B2;Complex sentences;Word order and information structure;summary;Word order depends on context and what the speaker wants to highlight.;;b2-word-order
 B2;Complex sentences;Word order and information structure;text;In a neutral declarative main clause the finite verb often occupies the second constituent position, not necessarily the second word. A whole phrase may precede it.;;
 B2;Complex sentences;Word order and information structure;example;Ma käisin eile poes.;I went to the shop yesterday.;
@@ -1889,7 +1889,7 @@ B2;Complex sentences;Word order and information structure;example;Poes käisin m
 B2;Complex sentences;Word order and information structure;example;Ma tean, et ta homme tuleb.;I know they're coming tomorrow.;
 B2;Complex sentences;Word order and information structure;example;Ma tean, et ta tuleb homme.;I know they're coming tomorrow.;
 B2;Complex sentences;Word order and information structure;note;Both final variants are acceptable. Word order changes the focus but not always the core meaning. Negative and subordinate clauses have additional patterns.;;
-B2;Complex sentences;Word order and information structure;tip;Listen for stress and notice which information is already known and which is new.;;
+B2;Complex sentences;Word order and information structure;tip;"Word order and prominence highlight new or contrastive information: **Mina** ostsin raamatu (I was the one who bought the book); Ma ostsin **raamatu** (it was a book that I bought).";;
 B2;Complex sentences;Condition, concession and contrast;summary;Connect alternatives and unexpected outcomes.;;b2-concession
 B2;Complex sentences;Condition, concession and contrast;head;Connector | Meaning;;
 B2;Complex sentences;Condition, concession and contrast;row;juhul kui | if / in the event that;;
@@ -1904,7 +1904,7 @@ B2;Complex sentences;Condition, concession and contrast;example;Isegi kui see on
 B2;Complex sentences;Condition, concession and contrast;example;Kuigi ilm oli halb, läksime välja.;Although the weather was bad, we went out.;
 B2;Complex sentences;Condition, concession and contrast;example;Ta oli väsinud. Sellest hoolimata jätkas ta tööd.;He was tired. Nevertheless, he carried on working.;
 B2;Complex sentences;Condition, concession and contrast;note;Kuigi introduces a subordinate clause, whereas sellest hoolimata can begin a separate sentence. Punctuation follows the syntactic structure.;;
-B2;Complex sentences;Cause, result and purpose;summary;Choose a connector for its logical function.;;b2-cause-purpose
+B2;Complex sentences;Cause, result and purpose;summary;Connectors expressing reason, result and purpose: sest, seetõttu, selleks et.;;b2-cause-purpose
 B2;Complex sentences;Cause, result and purpose;head;Function | Connectors | Meaning;;
 B2;Complex sentences;Cause, result and purpose;row;Cause | kuna, sest | since, because;;
 B2;Complex sentences;Cause, result and purpose;row;Result | seetõttu, seega, järelikult | therefore, consequently;;
@@ -1937,7 +1937,7 @@ B2;Complex sentences;Cohesion and argumentation;row;Conclusion | seega, järelik
 B2;Complex sentences;Cohesion and argumentation;example;Ühelt poolt võimaldab kaugtöö aega kokku hoida. Teiselt poolt võib inimestel suhtlemisest puudus tulla.;On the one hand, remote working saves time. On the other, people may miss social interaction.;
 B2;Complex sentences;Cohesion and argumentation;example;Minu hinnangul sõltub sobiv lahendus töö iseloomust ja inimese vajadustest.;In my view, the right solution depends on the nature of the work and the person's needs.;
 B2;Complex sentences;Cohesion and argumentation;example;Seega ei saa väita, et üks töökorraldus sobib kõigile.;Therefore, no single working arrangement can be said to suit everyone.;
-B2;Complex sentences;Cohesion and argumentation;tip;When summarising, identify the claim, arguments and conclusion. Use connectors only where they express a real relationship between ideas.;;
+B2;Complex sentences;Cohesion and argumentation;tip;**Seega** introduces a conclusion, **näiteks** an example, **seevastu** a contrast. These connectors are not interchangeable: they express different logical relationships.;;
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;summary;Particles reveal expectations, confidence and the speaker's attitude.;;b2-particles
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;text;These particles have no fixed English equivalent. Their meaning depends on context, wording and intonation. **ju** often appeals to shared or obvious information.;;
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;example;Sa tead ju seda.;You know that already, don't you?;
@@ -1953,8 +1953,8 @@ B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;text;**ega
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;example;Ega sul kiire ei ole?;You're not in a hurry, are you?;
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;example;Ega see nii lihtne ei ole.;It's not quite that simple.;
 B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;example;Ma ei joo kohvi ega teed.;I drink neither coffee nor tea.;
-B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;tip;Do not translate each particle in isolation. First work out what it adds to the message.;;
-B2;Everyday spoken Estonian;Vist, pigem, hoopis and shades of meaning;summary;Recognise uncertainty, preference and emphasis.;;b2-nuance
+B2;Everyday spoken Estonian;Discourse particles: ju, ikka, küll, ega;tip;Particles do not always need a separate translation. **ju** signals shared knowledge, **küll** can express assurance or emphasis, and **ega** occurs in negative questions: Ega sa ei tea? — Do you happen to know?;;
+B2;Everyday spoken Estonian;Vist, pigem, hoopis and shades of meaning;summary;Particles and adverbs of probability, preference and emphasis: vist, pigem, hoopis.;;b2-nuance
 B2;Everyday spoken Estonian;Vist, pigem, hoopis and shades of meaning;head;Word | Typical meaning;;
 B2;Everyday spoken Estonian;Vist, pigem, hoopis and shades of meaning;row;vist, ilmselt | probably, apparently;;
 B2;Everyday spoken Estonian;Vist, pigem, hoopis and shades of meaning;row;küllap | presumably / most likely;;
@@ -2014,7 +2014,7 @@ B2;Everyday spoken Estonian;Colloquial forms and register;row;jama | trouble, me
 B2;Everyday spoken Estonian;Colloquial forms and register;row;tšillima | chill out, hang out;;
 B2;Everyday spoken Estonian;Colloquial forms and register;example;Ma ei viitsi täna välja minna.;I don't feel like going out today.;
 B2;Everyday spoken Estonian;Colloquial forms and register;note;Recognising kle and präägu is useful, but do not use them as models for formal writing. Informal forms vary by age, region and situation.;;
-B2;Everyday spoken Estonian;Polysemous verbs and nouns;summary;Learn common words through combinations rather than a single gloss.;;b2-polysemy
+B2;Everyday spoken Estonian;Polysemous verbs and nouns;summary;The meaning of a polysemous word depends on its collocation and context.;;b2-polysemy
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;head;Verb | Combination | Meaning;;
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;saama | aru saama / teada saama | understand / find out;;
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;saama | hakkama saama / kätte saama | manage / get hold of;;
@@ -2034,7 +2034,7 @@ B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;lugu | huvitav lugu �
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;kord | üks kord — once, kord majas — order;;
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;seis | töö seis — status of the work, mis seis on? — what's the situation?;;
 B2;Everyday spoken Estonian;Polysemous verbs and nouns;row;asi | minu asi — my business, asja tuum — the heart of the matter;;
-B2;Everyday spoken Estonian;Polysemous verbs and nouns;tip;Find a context for each new sense. Different combinations are not interchangeable.;;
+B2;Everyday spoken Estonian;Polysemous verbs and nouns;tip;Different combinations of the same verb can have different meanings: aega võtma (take time), ühendust võtma (get in touch).;;
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;summary;A particle can radically change a verb's meaning.;;b2-particle-verbs
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;head;Combination | Meaning;;
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;row;ära jääma / ära jätma | be cancelled / cancel;;
@@ -2050,7 +2050,7 @@ B2;Everyday spoken Estonian;Particle verbs and fixed combinations;example;Leppis
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;example;Püüame välja selgitada, mis juhtus.;We're trying to find out what happened.;
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;example;Raha sai otsa.;We ran out of money.;
 B2;Everyday spoken Estonian;Particle verbs and fixed combinations;note;Particle verbs are usually written as separate words in their dictionary form. The parts can be separated in a sentence: kokku leppima → leppisime kokku.;;
-B2;Everyday spoken Estonian;Idioms and figurative meaning;summary;Recognise the meaning of the whole expression, not just its literal image.;;b2-idioms
+B2;Everyday spoken Estonian;Idioms and figurative meaning;summary;Fixed figurative expressions and their use in context.;;b2-idioms
 B2;Everyday spoken Estonian;Idioms and figurative meaning;head;Expression | Meaning;;
 B2;Everyday spoken Estonian;Idioms and figurative meaning;row;käed rüpes istuma | sit around doing nothing;;
 B2;Everyday spoken Estonian;Idioms and figurative meaning;row;pead murdma | rack one's brains;;
@@ -2065,7 +2065,7 @@ B2;Everyday spoken Estonian;Idioms and figurative meaning;example;Mul süda läi
 B2;Everyday spoken Estonian;Idioms and figurative meaning;example;Mul läks süda pahaks.;I started to feel nauseous.;
 B2;Everyday spoken Estonian;Idioms and figurative meaning;example;See läks mulle hinge.;That really touched me.;
 B2;Everyday spoken Estonian;Idioms and figurative meaning;example;Pean temast lugu.;I respect them.;
-B2;Everyday spoken Estonian;Idioms and figurative meaning;note;Idioms may have a literal reading in another context. The learner's story about a shining heart plays on precisely this distinction between literal and figurative meaning.;;
+B2;Everyday spoken Estonian;Idioms and figurative meaning;note;An idiom derives its meaning from the whole expression: **süda läigib** means 'to feel nauseous', not 'the heart shines'. Compare klaas läigib (the glass shines).;;
 B2;Everyday spoken Estonian;Implied meaning, irony and hedging;summary;Distinguish literal meaning from the speaker's intention.;;b2-pragmatics
 B2;Everyday spoken Estonian;Implied meaning, irony and hedging;head;Phrase | Possible implication;;
 B2;Everyday spoken Estonian;Implied meaning, irony and hedging;row;Eks ma vaatan. | I'll see. / I'll think about it.;;
@@ -2092,7 +2092,7 @@ B2;Practical communication;Work, meetings and colleagues;example;Võtan selle en
 B2;Practical communication;Work, meetings and colleagues;example;Ma ei jõua seda tähtajaks valmis.;I won't be able to finish it by the deadline.;
 B2;Practical communication;Work, meetings and colleagues;example;Kas saaksime tähtaja üle vaadata?;Could we review the deadline?;
 B2;Practical communication;Work, meetings and colleagues;example;Milles me kokku leppisime?;What did we agree on?;
-B2;Practical communication;Work, meetings and colleagues;tip;When discussing a delay, state the task, reason, revised deadline and support needed. Compare direct requests with the conditional mood.;;
+B2;Practical communication;Work, meetings and colleagues;tip;**viibima** describes a delay, **kuna** introduces a reason, and **-ks** can mark a deadline: Kas töö saaks reedeks valmis? — Could the work be finished by Friday?;;
 B2;Practical communication;Money, bills and contracts;summary;Understand payment terms and common banking messages.;;b2-finance
 B2;Practical communication;Money, bills and contracts;head;Word | Meaning;;
 B2;Practical communication;Money, bills and contracts;row;maksetähtaeg | payment deadline;;
@@ -2108,7 +2108,7 @@ B2;Practical communication;Money, bills and contracts;example;Mille eest see tas
 B2;Practical communication;Money, bills and contracts;example;Kas hinnale lisandub käibemaks?;Is VAT added to the price?;
 B2;Practical communication;Money, bills and contracts;example;Millised on lepingu lõpetamise tingimused?;What are the terms for ending the contract?;
 B2;Practical communication;Money, bills and contracts;example;Kas seda saab maksta osade kaupa?;Can I pay in instalments?;
-B2;Practical communication;Money, bills and contracts;note;These are language patterns, not legal or financial advice. The meanings of tagasimakse and hüvitis depend on context.;;
+B2;Practical communication;Money, bills and contracts;note;"**tagasimakse** means repayment or refund (laenu tagasimakse — loan repayment); **hüvitis** means compensation (kahjuhüvitis — compensation for damage). **hüvitama** means to compensate.";;
 B2;Practical communication;Housing, utilities and repairs;summary;Describe faults and clarify repair arrangements.;;b2-housing
 B2;Practical communication;Housing, utilities and repairs;head;Word | Meaning;;
 B2;Practical communication;Housing, utilities and repairs;row;korteriühistu | apartment association;;
@@ -2123,7 +2123,7 @@ B2;Practical communication;Housing, utilities and repairs;example;Korteris on te
 B2;Practical communication;Housing, utilities and repairs;example;Millal saab tehnik tulla?;When can a technician come?;
 B2;Practical communication;Housing, utilities and repairs;example;Kes vastutab remondikulude eest?;Who is responsible for the repair costs?;
 B2;Practical communication;Housing, utilities and repairs;example;Palun teatage tööde eeldatav kestus.;Please let me know how long the work is expected to take.;
-B2;Practical communication;Housing, utilities and repairs;tip;When reporting a fault, specify the location, when it started, its effects and what you need done.;;
+B2;Practical communication;Housing, utilities and repairs;tip;"Location: **vannitoas** (in the bathroom); starting point: **alates eilsest** (since yesterday); request: **Palun saatke tehnik** (Please send a technician). Alates takes the elative (-st).";;
 B2;Practical communication;Health and medical communication;summary;Describe symptoms, changes and questions for a doctor.;;b2-health
 B2;Practical communication;Health and medical communication;head;Word | Meaning;;
 B2;Practical communication;Health and medical communication;row;saatekiri | referral;;
@@ -2139,7 +2139,7 @@ B2;Practical communication;Health and medical communication;example;Mul käib pe
 B2;Practical communication;Health and medical communication;example;Sümptomid süvenevad õhtuti.;The symptoms get worse in the evenings.;
 B2;Practical communication;Health and medical communication;example;Kas ravimil võib olla kõrvaltoimeid?;Can this medicine have side effects?;
 B2;Practical communication;Health and medical communication;example;Kas mul on vaja saatekirja?;Do I need a referral?;
-B2;Practical communication;Health and medical communication;note;This lesson teaches communication, not diagnosis or treatment. Describe your actual symptoms and ask a medical professional to clarify any instructions you do not understand.;;
+B2;Practical communication;Health and medical communication;note;Symptoms can be described with **mul on** (mul on iiveldus — I feel nauseous) or **valutama** (selg valutab — my back hurts). Duration: juba kolm päeva — for three days already.;;
 B2;Practical communication;Public services and digital administration;summary;Understand applications, statuses, decisions and requests for documents.;;b2-administration
 B2;Practical communication;Public services and digital administration;head;Word | Meaning;;
 B2;Practical communication;Public services and digital administration;row;taotlus | application, request;;
@@ -2155,7 +2155,7 @@ B2;Practical communication;Public services and digital administration;example;Pa
 B2;Practical communication;Public services and digital administration;example;Dokumendi kehtivusaeg on lõppenud.;The document has expired.;
 B2;Practical communication;Public services and digital administration;example;Kas dokumenti saab digiallkirjastada?;Can the document be signed digitally?;
 B2;Practical communication;Public services and digital administration;example;Otsuse saab vaidlustada.;The decision can be challenged.;
-B2;Practical communication;Public services and digital administration;note;In official texts, look for conditions, exceptions, the responsible party and deadlines. This lesson does not establish legal rights or procedures.;;
+B2;Practical communication;Public services and digital administration;note;In official texts, **tingimusel, et** introduces a condition, **välja arvatud** an exception, and **hiljemalt** a deadline: hiljemalt reedeks — by Friday at the latest.;;
 B2;Practical communication;Complaints, returns and resolving disputes;summary;Explain a discrepancy and request a solution calmly and precisely.;;b2-complaints
 B2;Practical communication;Complaints, returns and resolving disputes;head;Word | Meaning;;
 B2;Practical communication;Complaints, returns and resolving disputes;row;kaebus | complaint;;
@@ -2169,7 +2169,7 @@ B2;Practical communication;Complaints, returns and resolving disputes;example;So
 B2;Practical communication;Complaints, returns and resolving disputes;example;Millist lahendust te pakute?;What solution are you proposing?;
 B2;Practical communication;Complaints, returns and resolving disputes;example;Palun tagastage tasutud summa.;Please refund the amount paid.;
 B2;Practical communication;Complaints, returns and resolving disputes;example;Loodan, et leiame mõlemale poolele sobiva lahenduse.;I hope we can find a solution that works for both parties.;
-B2;Practical communication;Complaints, returns and resolving disputes;tip;Structure a complaint: facts → discrepancy → impact → requested remedy. Do not assert a right to a refund without checking the terms.;;
+B2;Practical communication;Complaints, returns and resolving disputes;tip;In a complaint, **ei vasta** expresses a discrepancy (ei vasta kirjeldusele — does not match the description), **seetõttu** introduces a consequence, and **palun** a request (palun tagastage raha — please refund the money).;;
 B2;Practical communication;Phone calls and messages;summary;Clarify what you heard and agree on next steps.;;b2-phone
 B2;Practical communication;Phone calls and messages;example;Helistan seoses teie saadetud kirjaga.;I'm calling about the letter you sent.;
 B2;Practical communication;Phone calls and messages;example;Kas saaksite mind ühendada?;Could you put me through?;
@@ -2180,7 +2180,7 @@ B2;Practical communication;Phone calls and messages;example;Kas saaksite selle k
 B2;Practical communication;Phone calls and messages;example;Kas ma sain õigesti aru, et kohtumine toimub homme?;Have I understood correctly that the meeting is tomorrow?;
 B2;Practical communication;Phone calls and messages;example;Helistan teile tagasi.;I'll call you back.;
 B2;Practical communication;Phone calls and messages;example;Jään teie vastust ootama.;I look forward to hearing from you.;
-B2;Practical communication;Phone calls and messages;tip;At the end of a call, repeat the agreed date, time and next action to avoid misunderstandings.;;
+B2;Practical communication;Phone calls and messages;tip;**Kas sain õigesti aru?** (Have I understood correctly?) and **Niisiis kohtume reedel kell kolm?** (So we are meeting on Friday at three?) confirm arrangements. Reede → reedel answers Millal? (When?).;;
 B2;Relationships and culture;Opinions, disagreement and tact;summary;Express a position and clarify arguments without unnecessary bluntness.;;b2-discussion
 B2;Relationships and culture;Opinions, disagreement and tact;head;Function | Expressions;;
 B2;Relationships and culture;Opinions, disagreement and tact;row;Opinion | minu meelest, minu hinnangul;;
@@ -2222,7 +2222,7 @@ B2;Relationships and culture;Culture, traditions and proverbs;example;Hommik on 
 B2;Relationships and culture;Culture, traditions and proverbs;example;Tasa sõuad, kaugele jõuad.;Slow and steady wins the race.;
 B2;Relationships and culture;Culture, traditions and proverbs;example;Kus suitsu, seal tuld.;Where there's smoke, there's fire.;
 B2;Relationships and culture;Culture, traditions and proverbs;example;Kaks kärbest ühe hoobiga.;Two birds with one stone.;
-B2;Relationships and culture;Culture, traditions and proverbs;note;Translate proverbs by meaning, but remember that even close equivalents are not always used in the same situations. Regional and individual language habits vary.;;
+B2;Relationships and culture;Culture, traditions and proverbs;note;Proverbs have conventional figurative meanings that may differ from their literal translations. **Tasa sõuad, kaugele jõuad** literally means 'row gently and you will get far', similar to 'slow and steady wins the race'.;;
 B2;Understanding complex information;News, economics, society and technology;summary;Identify facts, sources, changes and causal links.;;b2-news
 B2;Understanding complex information;News, economics, society and technology;heading;Society and government;;
 B2;Understanding complex information;News, economics, society and technology;head;Word | Meaning;;
@@ -2249,24 +2249,24 @@ B2;Understanding complex information;News, economics, society and technology;row
 B2;Understanding complex information;News, economics, society and technology;row;taastuvenergia | renewable energy;;
 B2;Understanding complex information;News, economics, society and technology;row;jäätmekäitlus, elurikkus | waste management, biodiversity;;
 B2;Understanding complex information;News, economics, society and technology;example;Kasutaja andmeid töödeldakse automaatselt.;User data is processed automatically.;
-B2;Understanding complex information;News, economics, society and technology;tip;When reading news, separate the source's claim from the writer's conclusion. Check dates, units and the basis of comparison.;;
-B2;Independent language use;B2 reading, listening, writing and speaking;summary;Practise comprehension, mediation, argumentation and independent interaction.;;b2-skills
+B2;Understanding complex information;News, economics, society and technology;tip;"**andmetel** (according to data) and **sõnul** (in someone's words) identify sources; **hinnangul** (in someone's assessment) introduces an evaluation. For example, statistikaameti andmetel — according to Statistics Estonia.";;
+B2;Independent language use;B2 reading, listening, writing and speaking;summary;Language patterns for summarising, clarifying, argumentation and formal correspondence.;;b2-skills
 B2;Independent language use;B2 reading, listening, writing and speaking;heading;Listening and reading;;
-B2;Independent language use;B2 reading, listening, writing and speaking;text;Choose a short interview or everyday conversation. First identify the topic and main point without a transcript. On a second listen, note details, particles, reactions and the speaker's stance. Then check the transcript if available and retell the content in your own words.;;
-B2;Independent language use;B2 reading, listening, writing and speaking;text;In a written text, identify its purpose, arguments, facts, opinions, restrictions and conclusion. Read letters, notices and service terms as well as news. Do not try to translate every word.;;
+B2;Independent language use;B2 reading, listening, writing and speaking;text;In a summary, **tema sõnul** (according to him/her), **artikli järgi** (according to the article) and **autori arvates** (in the author's opinion) identify the source of information and distinguish it from your own view.;;
+B2;Independent language use;B2 reading, listening, writing and speaking;text;"**Teksti põhjal** — based on the text; **peamine mõte on see, et…** — the main point is that…; **sellest järeldub, et…** — it follows that… These expressions connect evidence and conclusions.";;
 B2;Independent language use;B2 reading, listening, writing and speaking;heading;Keeping a conversation going when a word is missing;;
 B2;Independent language use;B2 reading, listening, writing and speaking;example;Ma ei tea täpset sõna, aga oskan seda kirjeldada.;I don't know the exact word, but I can describe it.;
 B2;Independent language use;B2 reading, listening, writing and speaking;example;Las ma sõnastan selle teisiti.;Let me put it another way.;
 B2;Independent language use;B2 reading, listening, writing and speaking;example;Kas ma väljendasin ennast arusaadavalt?;Did I make myself clear?;
 B2;Independent language use;B2 reading, listening, writing and speaking;example;Kas ma sain sinust õigesti aru?;Have I understood you correctly?;
 B2;Independent language use;B2 reading, listening, writing and speaking;heading;Writing;;
-B2;Independent language use;B2 reading, listening, writing and speaking;text;Practise enquiries, complaints, replies, proposals, explanations, short reports and reasoned opinions. For a developed text: topic → position → arguments and example → alternative view → conclusion.;;
+B2;Independent language use;B2 reading, listening, writing and speaking;text;In argumentation, **minu hinnangul** (in my assessment) introduces a position, **ühelt poolt… teiselt poolt…** (on the one hand… on the other…) contrasts views, **seetõttu** (therefore) introduces a consequence, and **kokkuvõttes** (in summary) introduces a conclusion.;;
 B2;Independent language use;B2 reading, listening, writing and speaking;example;Pöördun teie poole seoses eelmisel nädalal esitatud taotlusega. Palun andke teada, kas taotluse menetlemiseks on vaja täiendavaid andmeid.;I'm writing about the application I submitted last week. Please let me know whether any further information is needed to process it.;
 B2;Independent language use;B2 reading, listening, writing and speaking;tip;A formal Estonian email: Tere! — body — Tänan abi eest! — Lugupidamisega — name. The closing corresponds to Yours sincerely or Kind regards depending on context.;;
-B2;Independent language use;B2 reading, listening, writing and speaking;heading;The examination and real-world language tasks;;
-B2;Independent language use;B2 reading, listening, writing and speaking;text;B2 covers lugemine (reading), kuulamine (listening), kirjutamine (writing), rääkimine (speaking) and interaction. For current sample tasks and criteria see https://harno.ee/eesti-keele-tasemeeksamid. ERR, Vikerraadio and Jupiter are useful for independent practice.;;
-B2;Independent language use;B2 reading, listening, writing and speaking;note;Exam practice does not replace real interaction. At B2, understanding a speaker's stance, explaining problems, asking questions and rephrasing are essential.;;
-B2;B2 reference guides;Near-synonyms and distinctions;summary;Compare words that often have similar English translations.;;b2-near-synonyms
+B2;Independent language use;B2 reading, listening, writing and speaking;heading;Clarifying and rephrasing;;
+B2;Independent language use;B2 reading, listening, writing and speaking;text;"**Teisisõnu** — in other words; **see tähendab, et…** — this means that…; **kas peate silmas…?** — do you mean…? The first two expressions rephrase a statement, the last checks its meaning. Exam sample tasks: https://harno.ee/eesti-keele-tasemeeksamid.";;
+B2;Independent language use;B2 reading, listening, writing and speaking;note;**Kas ma sain õigesti aru, et…?** checks understanding (Have I understood correctly that…?). **Ma mõtlen selle all…** clarifies a statement (What I mean by that is…).;;
+B2;B2 reference guides;Near-synonyms and distinctions;summary;Words with similar translations: differences in meaning and collocation.;;b2-near-synonyms
 B2;B2 reference guides;Near-synonyms and distinctions;head;Words | Distinction;;
 B2;B2 reference guides;Near-synonyms and distinctions;row;teadma / tundma / oskama | know a fact / be familiar with, feel / know how to;;
 B2;B2 reference guides;Near-synonyms and distinctions;row;vaatama / nägema / jälgima | look or watch / see / follow or monitor;;
@@ -2281,8 +2281,8 @@ B2;B2 reference guides;Near-synonyms and distinctions;row;õigus / õiglus | rig
 B2;B2 reference guides;Near-synonyms and distinctions;example;Tean vastust, aga ei oska seda selgitada.;I know the answer, but I don't know how to explain it.;
 B2;B2 reference guides;Near-synonyms and distinctions;example;Arvan, et peaksime kuludega arvestama.;I think we should take the costs into account.;
 B2;B2 reference guides;Near-synonyms and distinctions;example;Otsus on tehtud, aga lahendust pole veel leitud.;A decision has been made, but no solution has been found yet.;
-B2;B2 reference guides;Near-synonyms and distinctions;note;The table highlights typical distinctions, not exhaustive definitions. Learn collocations and context.;;
-B2;B2 reference guides;Word formation and compounds;summary;Recognise familiar stems and suffixes in new words.;;b2-word-formation
+B2;B2 reference guides;Near-synonyms and distinctions;note;The table shows typical distinctions, not every possible meaning. Collocations help distinguish related words: suur maja (a big house), pikk tee (a long road).;;
+B2;B2 reference guides;Word formation and compounds;summary;Stems, suffixes and compounds: how word components shape meaning.;;b2-word-formation
 B2;B2 reference guides;Word formation and compounds;head;Element | Examples | Function;;
 B2;B2 reference guides;Word formation and compounds;row;-mine | õppimine, otsustamine | activity or process;;
 B2;B2 reference guides;Word formation and compounds;row;-ja | õppija, kasutaja | agent;;
@@ -2312,13 +2312,13 @@ B2;B2 reference guides;Spelling and punctuation;row;Decimal | 1,5;;
 B2;B2 reference guides;Spelling and punctuation;row;Amount | 12,50 eurot;;
 B2;B2 reference guides;Spelling and punctuation;row;Percentage | 10%;;
 B2;B2 reference guides;Spelling and punctuation;tip;Reference for difficult cases: https://teatmik.eki.ee. See the separate lesson on -gi/-ki.;;
-B2;B2 reference guides;Pronunciation and natural speech;summary;Recognise quantity, rhythm, stress and reductions in connected speech.;;b2-pronunciation
+B2;B2 reference guides;Pronunciation and natural speech;summary;Quantity, rhythm, stress and reduced forms in connected speech.;;b2-pronunciation
 B2;B2 reference guides;Pronunciation and natural speech;text;Estonian distinguishes three quantity degrees (välde). They involve duration and rhythm across the stressed syllable and following syllable, not merely the number of letters. The second and third degrees are often spelt identically.;;
 B2;B2 reference guides;Pronunciation and natural speech;head;Example | Meaning | Quantity degree;;
 B2;B2 reference guides;Pronunciation and natural speech;row;sada | one hundred | I;;
 B2;B2 reference guides;Pronunciation and natural speech;row;saada | send! (from saatma) | II;;
 B2;B2 reference guides;Pronunciation and natural speech;row;saada | to get (from saama) | III;;
-B2;B2 reference guides;Pronunciation and natural speech;note;These examples require verified audio. Do not attempt to distinguish degrees II and III by spelling alone. Sõnaveeb helps with forms and pronunciation.;;
-B2;B2 reference guides;Pronunciation and natural speech;text;Practise õ, ö, ü, ä, diphthongs and palatalisation, which is not always marked in writing. Primary stress is normally on the first syllable, but there are exceptions, especially in loanwords.;;
-B2;B2 reference guides;Pronunciation and natural speech;tip;Listen to a short passage at natural speed, then repeat it with the same pauses and prominence. Aim for comprehension and intelligibility rather than copying every informal reduction.;;
-B2;B2 reference guides;Pronunciation and natural speech;text;Further references: EKI Sõnaveeb (https://sonaveeb.ee), EKI Teatmik (https://teatmik.eki.ee), Estonian Language edited by Mati Erelt (2007), Leelo Keevallik's chapter on colloquial Estonian, and Lõpuks leidsin sind (Integration Foundation, 2023). The lessons are independently developed learning materials, not reproductions of these textbooks.;;
+B2;B2 reference guides;Pronunciation and natural speech;note;Quantity degrees II and III often look identical in writing: **kooli** (of the school) and **kooli** (to school). Pronunciation is available in Sõnaveeb: https://sonaveeb.ee.;;
+B2;B2 reference guides;Pronunciation and natural speech;text;Estonian has the vowels õ, ö, ü, ä, diphthongs and palatalisation, which is not always marked in writing. Primary stress normally falls on the first syllable, with exceptions, especially in loanwords.;;
+B2;B2 reference guides;Pronunciation and natural speech;tip;In conversation, the short pronouns **ma, sa, ta** are usually unstressed. The full forms **mina, sina, tema** are often used for contrast: Mina lähen, aga tema jääb (I'm going, but he/she is staying).;;
+B2;B2 reference guides;Pronunciation and natural speech;text;References: EKI Sõnaveeb (https://sonaveeb.ee), EKI Teatmik (https://teatmik.eki.ee), Estonian Language edited by Mati Erelt (2007), Leelo Keevallik's chapter on colloquial Estonian, and Lõpuks leidsin sind (Integration Foundation, 2023).;;
