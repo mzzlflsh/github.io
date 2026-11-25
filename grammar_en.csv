@@ -994,6 +994,29 @@ A2;Numbers and time;Numbers in different cases: kahe, kolme…;example;Rong tule
 A2;Numbers and time;Numbers in different cases: kahe, kolme…;example;Ma olen elanud kahes riigis.;I've lived in two countries.;
 A2;Numbers and time;Numbers in different cases: kahe, kolme…;example;Ma sõidan nelja sõbraga.;I'm travelling with four friends.;
 A2;Numbers and time;Numbers in different cases: kahe, kolme…;warn;Not Kahes linnades. In this counting phrase, the noun stays singular: kahes **linnas** (in two cities).;;
+A2;Numbers and time;Large numbers and fractions;summary;Thousands, large numbers, fractions and decimals: 67,420, 3/4, 0.9.;;a2-large-numbers-fractions
+A2;Numbers and time;Large numbers and fractions;text;Write the units together with -teist, -kümmend and -sada. Write the remaining number parts separately: kakskümmend üks, sada viis, kaks tuhat.;;
+A2;Numbers and time;Large numbers and fractions;head;Number | In Estonian;;
+A2;Numbers and time;Large numbers and fractions;row;1,250 | tuhat kakssada viiskümmend;;
+A2;Numbers and time;Large numbers and fractions;row;10,000 | kümme tuhat;;
+A2;Numbers and time;Large numbers and fractions;row;67,420 | kuuskümmend seitse tuhat nelisada kakskümmend;;
+A2;Numbers and time;Large numbers and fractions;row;250,000 | kakssada viiskümmend tuhat;;
+A2;Numbers and time;Large numbers and fractions;row;2,000,000 | kaks miljonit;;
+A2;Numbers and time;Large numbers and fractions;text;**Fractions:** pool means half, veerand means a quarter, poolteist means one and a half. With a numerator of two or more, the denominator normally takes the singular partitive: kaks kolmandikku.;;
+A2;Numbers and time;Large numbers and fractions;head;Fraction | In Estonian;;
+A2;Numbers and time;Large numbers and fractions;row;1/3 | üks kolmandik;;
+A2;Numbers and time;Large numbers and fractions;row;3/4 | kolm neljandikku / kolmveerand;;
+A2;Numbers and time;Large numbers and fractions;row;2½ | kaks ja pool;;
+A2;Numbers and time;Large numbers and fractions;row;1/100 | üks sajandik;;
+A2;Numbers and time;Large numbers and fractions;text;"**Percentages:** viis protsenti means five percent; after a cardinal number of two or more, use protsenti.";;
+A2;Numbers and time;Large numbers and fractions;text;**Decimals:** Estonian uses a comma (koma). You can read the digits after it individually: null koma null seitse. Do not drop zeros.;;
+A2;Numbers and time;Large numbers and fractions;head;Number | How to read it in Estonian;;
+A2;Numbers and time;Large numbers and fractions;row;0.9 | null koma üheksa / üheksa kümnendikku;;
+A2;Numbers and time;Large numbers and fractions;row;0.07 | null koma null seitse / seitse sajandikku;;
+A2;Numbers and time;Large numbers and fractions;row;3.14 | kolm koma üks neli;;
+A2;Numbers and time;Large numbers and fractions;example;Kaks ja pool tundi on 150 minutit.;Two and a half hours is 150 minutes.;
+A2;Numbers and time;Large numbers and fractions;example;Üks sajandik eurost on üks sent.;One hundredth of a euro is one cent.;
+A2;Numbers and time;Large numbers and fractions;tip;In Estonian writing: 67 420 (a space between digit groups), 0,9 (decimal comma). When reviewing, say the number aloud before turning over the card.;;
 A2;Numbers and time;Dates and years: viiendal mail;summary;Mitmendal? — viiendal mail. Mis aastal? — 2026. aastal. Dates use ordinal numbers.;;a2-dates
 A2;Numbers and time;Dates and years: viiendal mail;text;To say on which date something happens, use an ordinal number and the month in the adessive (normally **-l**): viiendal mail (on 5 May). Ask **Mitmendal?** or **Mis kuupäeval?** (On what date?).;;
 A2;Numbers and time;Dates and years: viiendal mail;head;Date | On what date?;;
