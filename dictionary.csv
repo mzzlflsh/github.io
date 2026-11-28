@@ -47,14 +47,14 @@ A1;word;Основы;asi;вещь, дело;thing, matter;See on tähtis asi. �
 A1;word;Основы;koht;место;place;Kas see koht on vaba? — Это место свободно?;;;
 A1;word;Основы;elu;жизнь;life;Elu on ilus. — Жизнь прекрасна.;;;
 A1;word;Вежливость;tere;привет, здравствуйте;hello;Tere, kuidas läheb? — Привет, как дела? • Tere hommikust! — Доброе утро!;;;
-A1;word;Вежливость;tervist;здравствуйте;hello (formal);Tervist, härra Kask! — Здравствуйте, господин Каск!;Также «будьте здоровы» при чихании;;
+A1;word;Вежливость;tervist;здравствуйте;hello (formal);Tervist, härra Kask! — Здравствуйте, господин Каск!;Приветствие в любое время дня, буквально «здоровья (желаю)». При чихании говорят Terviseks!;;
 A1;word;Вежливость;aitäh;спасибо;thank you;Aitäh abi eest! — Спасибо за помощь! • Aitäh, väga maitsev! — Спасибо, очень вкусно!;;;
 A1;word;Вежливость;tänan;благодарю;thank you (formal);Tänan väga! — Большое спасибо!;Более официально, чем aitäh;;
 A1;word;Вежливость;palun;пожалуйста;please, you're welcome;Üks kohv, palun. — Один кофе, пожалуйста. • Palun, võtke istet. — Пожалуйста, садитесь.;Также ответ на aitäh: palun — пожалуйста (не за что);;
 A1;word;Вежливость;vabandust;извините;sorry, excuse me;Vabandust, kus on jaam? — Извините, где вокзал? • Vabandust, ma hilinesin. — Извините, я опоздал.;;;
 A1;word;Вежливость;nägemist;до свидания;goodbye;Nägemist, homseni! — До свидания, до завтра!;;;
 A1;word;Вежливость;kohtumiseni;до встречи;see you;Kohtumiseni reedel! — До встречи в пятницу!;;;
-A1;word;Вежливость;terviseks;на здоровье (тост), будь здоров;cheers, bless you;Terviseks! — На здоровье! (Будь здоров!);;;
+A1;word;Вежливость;terviseks;за здоровье (тост), будь здоров (при чихании);cheers, bless you;Terviseks! — За здоровье! (Будь здоров!);;;
 A1;word;Вежливость;appi;помогите!;help!;Appi! Aidake! — На помощь! Помогите!;;;
 A1;word;Числа;null;ноль;zero;Telefoninumber algab nulliga. — Номер телефона начинается с нуля.;;;
 A1;word;Числа;üks;один;one;Mul on üks õde. — У меня одна сестра.;;;
@@ -82,7 +82,7 @@ A1;word;Время;päev;день;day;Head päeva! — Хорошего дня!;
 A1;word;Время;öö;ночь;night;Head ööd! — Спокойной ночи!;;;a1-days-months
 A1;word;Время;hommik;утро;morning;Hommik on külm. — Утро холодное.;;;a1-days-months
 A1;word;Время;lõuna;обед, полдень, юг;lunchtime, noon, south;Lõunal sööme koos. — В обед поедим вместе. • Lähme lõunale! — Пойдём на обед! • Tartu on Tallinnast lõunas. — Тарту к югу от Таллина.;;;
-A1;word;Время;õhtu;вечер;evening;Head õhtut! — Добрый вечер!;;;a1-days-months
+A1;word;Время;õhtu;вечер;evening;Tere õhtust! — Добрый вечер! • Head õhtut! — Хорошего вечера!;;;a1-days-months
 A1;word;Время;nädal;неделя;week;Ma olen nädal aega puhkusel. — Я неделю в отпуске.;;;
 A1;word;Время;kuu;месяц, луна;month, moon;Ma maksan üüri kord kuus. — Я плачу аренду раз в месяц. • Täna on täiskuu. — Сегодня полнолуние.;;;
 A1;word;Время;aasta;год;year;Head uut aastat! — С Новым годом!;;;
@@ -266,7 +266,7 @@ A1;word;Действия;tulema;приходить, идти (сюда);to come;
 A1;word;Действия;tegema;делать;to do, to make;Mida sa teed? — Что ты делаешь? • Ma teen süüa. — Я готовлю еду.;ma teen — я делаю, ma tegin — я сделал, tee! — делай!;;
 A1;word;Действия;saama;получать, мочь, становиться;to get, can, to become;Kas ma saan aidata? — Могу я помочь? • Ma sain kingituse. — Я получил подарок. • Temast saab arst. — Он станет врачом.;ma saan — я получаю, я могу. saan aru — понимаю. temast saab — он станет;;a1-infinitives
 A1;word;Действия;tahtma;хотеть;to want;Ma tahan süüa. — Я хочу есть. • Ma tahan koju. — Я хочу домой.;ma tahan — я хочу. С формой на -da: tahan süüa;;a1-infinitives
-A1;word;Действия;võima;мочь (иметь возможность);may, can;Kas ma võin sisse tulla? — Можно мне войти? • Kas ma võin akna avada? — Можно мне открыть окно?;ma võin — я могу, võib — можно. Сравните: oskama — уметь, saama — смочь;;a1-infinitives
+A1;word;Действия;võima;мочь (иметь право), можно;may, can;Kas ma võin sisse tulla? — Можно мне войти? • Kas ma võin akna avada? — Можно мне открыть окно?;ma võin — я могу, võib — можно. Сравните: oskama — уметь, saama — смочь;;a1-infinitives
 A1;word;Действия;pidama;быть должным;must, to have to;Ma pean minema. — Мне надо идти. • Sa pead puhkama. — Тебе нужно отдохнуть.;ma pean — я должен. С формой на -ma: pean minema;;a1-infinitives
 A1;word;Действия;oskama;уметь;to know how to, can;Kas sa oskad ujuda? — Ты умеешь плавать? • Ma oskan natuke eesti keelt. — Я немного знаю эстонский.;ma oskan — я умею. oskan eesti keelt — знаю эстонский;;a1-infinitives
 A1;word;Действия;teadma;знать;to know;Ma ei tea. — Я не знаю. • Kas sa tead, kus ta elab? — Ты знаешь, где он живёт?;ma tean — я знаю. teadma — знать (факт), tundma — знать (человека);;
@@ -352,7 +352,7 @@ A1;word;Погода и природа;puu;дерево;tree;Aias on vana puu. �
 A1;word;Погода и природа;lill;цветок;flower;See lill on ilus. — Этот цветок красивый.;;;
 A1;word;Погода и природа;taevas;небо;sky;Taevas on selge. — Небо ясное.;;;
 A1;word;Погода и природа;maa;земля, страна, деревня (сельская местность);land, earth, country, countryside;Ma elan maal. — Я живу в деревне. • Eesti on väike maa. — Эстония — маленькая страна.;;;
-A1;word;Животные;loom;животное;animal;Mis on sinu lemmikloom? — Какое твоё любимое животное?;;;
+A1;word;Животные;loom;животное;animal;Mis loom see on? — Что это за животное?;;;
 A1;word;Животные;koer;собака;dog;Koer haugub. — Собака лает.;;;
 A1;word;Животные;kass;кошка;cat;Kass magab. — Кошка спит.;;;
 A1;word;Животные;hobune;лошадь;horse;Hobune jookseb. — Лошадь бежит.;;;
@@ -1493,9 +1493,9 @@ A1;word;Частицы и связки;täpselt;точно, ровно;exactly;K
 A1;word;Частицы и связки;lihtsalt;просто;simply, just;Ma lihtsalt puhkan. — Я просто отдыхаю.;;;a2-adverbs
 A1;word;Частицы и связки;kõige;самый (+ прилагательное);most (superlative);See on kõige parem kohvik. — Это самое лучшее кафе.;;;a2-comparison
 A1;word;Частицы и связки;vaja;нужно, надо;necessary, needed;Mul on vaja abi. — Мне нужна помощь. • Mul on vaja minna. — Мне нужно идти.;mul on vaja + osastav (что?) или + форма на -da (что делать?);;
-A1;word;Понятия;osa;часть;part;Suur osa päevast on töö. — Большая часть дня — работа.;;;
+A1;word;Понятия;osa;часть;part;See on ainult osa tööst. — Это только часть работы.;;;
 A1;word;Понятия;paar;пара, несколько;pair, couple, a few;Ma tulen paari minuti pärast. — Я приду через пару минут.;;;
-A1;word;Понятия;tükk;кусок, штука;piece;Üks tükk kooki, palun. — Один кусок торта, пожалуйста.;;;
+A1;word;Понятия;tükk;кусок, штука;piece;Üks tükk kooki, palun. — Один кусок пирога, пожалуйста.;;;
 A1;word;Понятия;punkt;точка, пункт;point, full stop;Lause lõpus on punkt. — В конце предложения стоит точка.;;;
 A1;word;Понятия;idee;идея;idea;See on hea idee! — Это хорошая идея!;;;
 A1;word;Понятия;info;информация (разг.);info;Kus on info? — Где справочная?;;;
@@ -1549,7 +1549,7 @@ A1;word;Предлоги и наречия;siit;отсюда;from here;Kas siit 
 A1;word;Предлоги и наречия;väljas;снаружи, на улице;outside;Lapsed mängivad väljas. — Дети играют на улице.;;;a1-here-there
 A1;word;Предлоги и наречия;kaua;долго;long (time);Kui kaua sa ootasid? — Как долго ты ждал?;;;
 A1;word;Предлоги и наречия;harva;редко;rarely;Ma käin kinos harva. — Я редко хожу в кино.;;;
-A1;word;Предлоги и наречия;vaevalt;едва ли, только что;hardly, barely;Vaevalt ta tuleb. — Вряд ли он придёт.;;;
+A1;word;Предлоги и наречия;vaevalt;едва ли, еле;hardly, barely;Vaevalt ta tuleb. — Вряд ли он придёт.;;;
 A1;word;Числа;kolmteist;тринадцать;thirteen;Ta on kolmteist aastat vana. — Ему тринадцать лет.;;;a1-numbers
 A1;word;Числа;neliteist;четырнадцать;fourteen;Bussi number on neliteist. — Номер автобуса — четырнадцать.;;;a1-numbers
 A1;word;Числа;viisteist;пятнадцать;fifteen;Ootan sind viisteist minutit. — Жду тебя пятнадцать минут.;;;a1-numbers
@@ -1557,9 +1557,9 @@ A1;word;Числа;kuusteist;шестнадцать;sixteen;Klassis on kuusteist
 A1;word;Числа;seitseteist;семнадцать;seventeen;Ta on seitseteist ja käib gümnaasiumis. — Ей семнадцать, она учится в гимназии.;;;a1-numbers
 A1;word;Числа;kaheksateist;восемнадцать;eighteen;Ta saab homme kaheksateist. — Завтра ему исполнится восемнадцать.;;;a1-numbers
 A1;word;Числа;üheksateist;девятнадцать;nineteen;See maksab üheksateist eurot. — Это стоит девятнадцать евро.;;;a1-numbers
-A1;word;Числа;kolmkümmend;тридцать;thirty;Kuus on kolmkümmend päeva. — В месяце тридцать дней.;;;a1-numbers
+A1;word;Числа;kolmkümmend;тридцать;thirty;Aprillis on kolmkümmend päeva. — В апреле тридцать дней.;;;a1-numbers
 A1;word;Числа;nelikümmend;сорок;forty;Isa on nelikümmend aastat vana. — Папе сорок лет.;;;a1-numbers
-A1;word;Числа;viiskümmend;пятьдесят;fifty;Linnas on kiirus viiskümmend. — В городе скорость пятьдесят.;;;a1-numbers
+A1;word;Числа;viiskümmend;пятьдесят;fifty;Kiirus on viiskümmend kilomeetrit tunnis. — Скорость — пятьдесят километров в час.;;;a1-numbers
 A1;word;Числа;kuuskümmend;шестьдесят;sixty;Tunnis on kuuskümmend minutit. — В часе шестьдесят минут.;;;a1-numbers
 A1;word;Числа;seitsekümmend;семьдесят;seventy;Vanaema on seitsekümmend. — Бабушке семьдесят.;;;a1-numbers
 A1;word;Числа;kaheksakümmend;восемьдесят;eighty;Vanaisa sai kaheksakümmend. — Дедушке исполнилось восемьдесят.;;;a1-numbers
@@ -1678,7 +1678,7 @@ A1;word;Работа и учёба;pastapliiats;шариковая ручка;ba
 A1;word;Работа и учёба;masin;машина, механизм;machine;See masin ei tööta. — Этот механизм не работает.;;;
 A1;word;Досуг;kitarr;гитара;guitar;Ta mängib kitarri. — Он играет на гитаре.;;;
 A1;word;Покупки;dollar;доллар;dollar;Kui palju on üks dollar eurodes? — Сколько стоит один доллар в евро?;;;
-A1;word;Покупки;mobiilinumber;номер мобильного;mobile number;Mis on sinu mobiilinumber? — Какой у тебя номер мобильного?;Состоит из: mobiil (мобильный) + number;;
+A1;word;Работа и учёба;mobiilinumber;номер мобильного;mobile number;Mis on sinu mobiilinumber? — Какой у тебя номер мобильного?;Состоит из: mobiil (мобильный) + number;;
 A1;word;Страны;balti;балтийский;Baltic;Balti riigid on Eesti, Läti ja Leedu. — Страны Балтии — Эстония, Латвия и Литва.;Не склоняется;;
 A1;word;Страны;hiina;китайский;Chinese;Ma õpin hiina keelt. — Я учу китайский язык.;Не склоняется;;
 A1;word;Страны;inglise;английский;English;Inglise keel on lihtne. — Английский язык простой.;Не склоняется;;
@@ -2978,7 +2978,7 @@ A1;word;Дом;sahtel;ящик (выдвижной);drawer;Lusikad on sahtlis. �
 A1;word;Дом;vaip;ковёр;carpet, rug;Põrandal on vaip. — На полу ковёр.;;;
 A1;word;Дом;kardin;штора, занавеска;curtain;Pane kardinad ette. — Задёрни шторы.;;;
 A1;word;Дом;äratuskell;будильник;alarm clock;Äratuskell helises kell kuus. — Будильник прозвонил в шесть.;Состоит из: äratus (побудка) + kell (часы);;
-A1;word;Дом;telefoninumber;номер телефона;phone number;Mis on teie telefoninumber? — Какой у вас номер телефона?;Состоит из: telefon + number;;
+A1;word;Работа и учёба;telefoninumber;номер телефона;phone number;Mis on teie telefoninumber? — Какой у вас номер телефона?;Состоит из: telefon + number;;
 A1;word;Еда и напитки;mineraalvesi;минеральная вода;mineral water;Pudel mineraalvett, palun. — Бутылку минеральной воды, пожалуйста.;Состоит из: mineraal (минерал) + vesi (вода);;
 A1;word;Еда и напитки;kohuke;глазированный сырок;curd snack (kohuke);Lapsed armastavad kohukesi. — Дети обожают сырки.;;;
 A1;word;Еда и напитки;kartulipuder;картофельное пюре;mashed potatoes;Kotlet kartulipudruga. — Котлета с картофельным пюре.;Состоит из: kartul (картофель) + puder (каша);;
@@ -2996,7 +2996,7 @@ A1;word;Город;kiosk;киоск;kiosk;Ajalehte saab osta kioskist. — Га�
 A1;word;Город;söökla;столовая;canteen;Lõunat sööme sööklas. — Обедаем мы в столовой.;;;a2-word-formation
 A1;word;Город;raekoda;ратуша;town hall;Raekoda on vanalinnas. — Ратуша в старом городе.;;;
 A1;word;Город;politseijaoskond;полицейский участок;police station;Kus asub politseijaoskond? — Где находится полицейский участок?;Состоит из: politsei (полиция) + jaoskond (участок);;
-A1;word;Транспорт и дорога;ühistransport;общественный транспорт;public transport;Tallinlastele on ühistransport tasuta. — Для жителей Таллинна общественный транспорт бесплатный.;Бесплатно для зарегистрированных жителей Таллинна, остальные платят. Состоит из: ühis- (общий) + transport;;
+A1;word;Транспорт и дорога;ühistransport;общественный транспорт;public transport;Ma sõidan tööle ühistranspordiga. — Я езжу на работу на общественном транспорте.;Состоит из: ühis- (общий) + transport;;
 A1;word;Транспорт и дорога;ühiskaart;транспортная карта;transport card;Valideeri ühiskaart bussis. — Отметь транспортную карту в автобусе.;Состоит из: ühis- (общий) + kaart (карта);;
 A1;word;Транспорт и дорога;pagas;багаж;luggage;Kus on minu pagas? — Где мой багаж?;;;
 A1;word;Погода и природа;kask;берёза;birch;Kask on Eestis tavaline puu. — Берёза в Эстонии — обычное дерево.;;;
@@ -3017,7 +3017,7 @@ A1;word;Досуг;ujumine;плавание;swimming;Ujumine on tervislik. — �
 A1;word;Действия;hilinema;опаздывать;to be late;Vabandust, et ma hilinesin. — Извините, что я опоздал.;ma hilinen — я опаздываю;;
 A1;word;Действия;kiirustama;спешить;to hurry;Ära kiirusta! — Не спеши!;ma kiirustan — я спешу;;
 A1;word;Действия;triikima;гладить (утюгом);to iron;Ma triigin särki. — Я глажу рубашку.;ma triigin — я глажу;;
-A1;word;Действия;broneerima;бронировать;to book, to reserve;Ma broneerin laua kaheks. — Я бронирую столик на двоих.;ma broneerin — я бронирую;;
+A1;word;Действия;broneerima;бронировать;to book, to reserve;Ma broneerin laua kahele. — Я бронирую столик на двоих.;ma broneerin — я бронирую;;
 A1;word;Действия;eksima;заблудиться / ошибаться;to get lost / to be mistaken;Me eksisime metsas ära. — Мы заблудились в лесу.;ma eksin — я ошибаюсь;;
 A2;word;Семья и отношения;äi;тесть, свёкор;father-in-law;Mu äi on väga tore mees. — Мой тесть — очень хороший человек.;;;
 A2;word;Семья и отношения;ämm;тёща, свекровь;mother-in-law;Ämm tuleb pühapäeval külla. — Тёща приедет в воскресенье в гости.;;;
@@ -3247,7 +3247,7 @@ A1;phrase;Время и погода;sel nädalal;на этой неделе;thi
 A1;phrase;Время и погода;eelmisel nädalal;на прошлой неделе;last week;Eelmisel nädalal olin haige. — На прошлой неделе я болел.;;;a2-time-expressions
 A1;phrase;Время и погода;nädala pärast;через неделю;in a week;Puhkus algab nädala pärast. — Отпуск начинается через неделю.;;;a2-time-expressions
 A1;phrase;Время и погода;aasta tagasi;год назад;a year ago;Ma kolisin Eestisse aasta tagasi. — Я переехал в Эстонию год назад.;;;a2-time-expressions
-A1;phrase;Время и погода;päike paistab;светит солнце;the sun is shining;Täna päike paistab. — Сегодня светит солнце.;;;
+A1;phrase;Время и погода;päike paistab;светит солнце;the sun is shining;Täna paistab päike. — Сегодня светит солнце.;;;
 A1;phrase;Время и погода;tuul puhub;дует ветер;the wind is blowing;Väljas puhub tugev tuul. — На улице дует сильный ветер.;;;
 A1;phrase;Время и погода;on külm;холодно;it's cold;Väljas on külm. — На улице холодно.;;;
 A1;phrase;Время и погода;on soe;тепло;it's warm;Täna on soe. — Сегодня тепло.;;;
@@ -3275,7 +3275,7 @@ A1;phrase;В магазине и кафе;üks pilet;один билет;one tic
 A1;phrase;В магазине и кафе;klaas vett;стакан воды;a glass of water;Klaas vett, palun. — Стакан воды, пожалуйста.;;;a1-numbers-partitive
 A1;phrase;В магазине и кафе;tass kohvi;чашка кофе;a cup of coffee;Kas sa tahad tassi kohvi? — Хочешь чашку кофе?;;;a1-numbers-partitive
 A1;phrase;В магазине и кафе;veel üks;ещё один;one more;Veel üks õlu, palun. — Ещё одно пиво, пожалуйста.;;;
-A1;phrase;В магазине и кафе;siin või kaasa;здесь или с собой;for here or to go;Kas siin või kaasa? — Здесь или с собой?;;;a2-particle-verbs
+A1;phrase;В магазине и кафе;siin või kaasa;здесь или с собой;for here or to go;Kas siin või kaasa? — Здесь или с собой?;;;
 A1;phrase;В магазине и кафе;kaasa võtta;взять с собой;to take away;Üks kohv kaasa võtta, palun. — Один кофе с собой, пожалуйста.;;;a2-particle-verbs
 A1;phrase;В магазине и кафе;kaardiga maksma;платить картой;to pay by card;Ma maksan kaardiga. — Я заплачу картой.;;;a1-comitative
 A1;phrase;В магазине и кафе;sularahas maksma;платить наличными;to pay in cash;Kas ma saan sularahas maksta? — Можно заплатить наличными?;;;
@@ -3392,7 +3392,7 @@ A1;sentence;В магазине;Ma soovin kilo õunu.;Я хочу килогра
 A1;sentence;В магазине;Kus on piim?;Где молоко?;Where is the milk?;;;;a1-question-words
 A1;sentence;В магазине;See on liiga kallis.;Это слишком дорого.;It's too expensive.;;;;a1-olema
 A1;sentence;В магазине;Kas on midagi odavamat?;Есть что-нибудь подешевле?;Is there anything cheaper?;;;;a2-comparison
-A1;sentence;В магазине;Ma võtan selle.;Я возьму это.;I'll take this.;;;;a1-present
+A1;sentence;В магазине;Ma võtan selle.;Я возьму это.;I'll take this.;;;;a1-object
 A1;sentence;В магазине;Kas ma saan seda proovida?;Можно это примерить?;Can I try it on?;;;;a2-modality
 A1;sentence;В магазине;Mul on vaja suuremat suurust.;Мне нужен размер побольше.;I need a bigger size.;;;;a2-comparison
 A1;sentence;В магазине;Kas soovite kotti?;Вам нужен пакет?;Would you like a bag?;;;;a1-kas
@@ -3422,7 +3422,7 @@ A1;sentence;Время и даты;Täna on esmaspäev.;Сегодня поне�
 A1;sentence;Время и даты;Mis kuupäev täna on?;Какое сегодня число?;What's the date today?;;;;a1-question-words
 A1;sentence;Время и даты;Täna on kümnes mai.;Сегодня десятое мая.;Today is the tenth of May.;;;;a1-numbers
 A1;sentence;Время и даты;Millal sul sünnipäev on?;Когда у тебя день рождения?;When is your birthday?;;;;a1-question-words
-A1;sentence;Время и даты;Minu sünnipäev on juunis.;Мой день рождения в июне.;My birthday is in June.;;;;a1-pronouns
+A1;sentence;Время и даты;Minu sünnipäev on juunis.;Мой день рождения в июне.;My birthday is in June.;;;;a1-days-months
 A1;sentence;Время и даты;Mis kell sa tööle lähed?;Во сколько ты идёшь на работу?;What time do you go to work?;;;;a1-time
 A1;sentence;Время и даты;Ma lähen tööle kell kaheksa.;Я иду на работу в восемь.;I go to work at eight.;;;;a1-time
 A1;sentence;Время и даты;Mul pole aega.;У меня нет времени.;I don't have time.;;;;a1-mul-on
@@ -3794,7 +3794,7 @@ A1;sentence;Язык;Kas te saate seda näidata?;Вы можете это пок
 A1;sentence;Язык;Kas te saate selle kirjutada?;Вы можете это написать?;Can you write this down?;;;;a2-modality
 A1;sentence;Язык;Ma saan natuke aru.;Я немного понимаю.;I understand a little.;;;;a2-particle-verbs
 A1;sentence;В магазине;Kas teil on vett?;У вас есть вода?;Do you have water?;;;;a1-mul-on
-A1;sentence;В магазине;Ma soovin väikest kotti.;Мне нужен маленький пакет.;I'd like a small bag.;;;;a1-present
+A1;sentence;В магазине;Ma soovin väikest kotti.;Мне нужен маленький пакет.;I'd like a small bag.;;;;a1-object
 A1;sentence;В магазине;Kas ma saan sularahas maksta?;Можно заплатить наличными?;Can I pay in cash?;;;;a2-modality
 A1;sentence;В городе и в кафе;Kas siin lähedal on pood?;Здесь поблизости есть магазин?;Is there a shop nearby?;;;;a1-kas
 A1;sentence;В городе и в кафе;Kas see on paremal või vasakul?;Это справа или слева?;Is it on the right or left?;;;;a1-kas
@@ -4599,7 +4599,7 @@ A1;phrase;Досуг и свободное время;malet mängima;играт�
 A1;phrase;Досуг и свободное время;kitarri mängima;играть на гитаре;to play the guitar;;;;
 A1;phrase;Досуг и свободное время;teatrisse minema;идти в театр;to go to the theatre;;;;a1-where
 A1;phrase;Досуг и свободное время;parki minema;идти в парк;to go to the park;;;;
-A1;phrase;Досуг и свободное время;pargis käima;бывать в парке;to visit the park;;;;
+A1;phrase;Досуг и свободное время;pargis käima;бывать в парке;to visit the park;;käima — сходить куда-то и вернуться. Сравните: parki minema — идти в парк;;
 A1;phrase;Досуг и свободное время;hästi ujuma;хорошо плавать;to swim well;;;;
 A1;phrase;Досуг и свободное время;hästi laulma;хорошо петь;to sing well;;;;
 A1;phrase;Досуг и свободное время;õues mängima;играть на улице;to play outside;;;;a1-here-there
@@ -4647,14 +4647,14 @@ A1;phrase;Описание и связи между словами;minu jaoks;д
 A1;phrase;Описание и связи между словами;sinu jaoks;для тебя;for you;;;;a1-pronouns
 A1;phrase;Описание и связи между словами;oma kodu;свой дом;one's own home;;;;
 A1;phrase;Описание и связи между словами;oma pere;своя семья;one's own family;;;;
-A1;phrase;Страны и языки;Eestis elama;жить в Эстонии;to live in Estonia;;Имя собственное: Eesti. Eestis — местонахождение, inessiiv (-s).;;
-A1;phrase;Страны и языки;Soomes elama;жить в Финляндии;to live in Finland;;Имя собственное: Soome. Soomes — местонахождение, inessiiv (-s).;;
-A1;phrase;Страны и языки;Lätis elama;жить в Латвии;to live in Latvia;;Имя собственное: Läti. Lätis — местонахождение, inessiiv (-s).;;
-A1;phrase;Страны и языки;Eestis töötama;работать в Эстонии;to work in Estonia;;Имя собственное: Eesti. Eestis — место работы, inessiiv (-s).;;
-A1;phrase;Страны и языки;Soomes töötama;работать в Финляндии;to work in Finland;;Имя собственное: Soome. Soomes — место работы, inessiiv (-s).;;
-A1;phrase;Страны и языки;Eestist pärit;родом из Эстонии;from Estonia originally;;Имя собственное: Eesti. Eestist — происхождение, elatiiv (-st).;;a1-where
-A1;phrase;Страны и языки;Soomest pärit;родом из Финляндии;from Finland originally;;Имя собственное: Soome. Soomest — происхождение, elatiiv (-st).;;a1-where
-A1;phrase;Страны и языки;Venemaalt pärit;родом из России;from Russia originally;;Имя собственное: Venemaa. Venemaalt — происхождение, ablatiiv (-lt).;;a1-where
+A1;phrase;Страны и языки;Eestis elama;жить в Эстонии;to live in Estonia;;Имя собственное: Eesti. Eestis — где? (окончание -s);;
+A1;phrase;Страны и языки;Soomes elama;жить в Финляндии;to live in Finland;;Имя собственное: Soome. Soomes — где? (окончание -s);;
+A1;phrase;Страны и языки;Lätis elama;жить в Латвии;to live in Latvia;;Имя собственное: Läti. Lätis — где? (окончание -s);;
+A1;phrase;Страны и языки;Eestis töötama;работать в Эстонии;to work in Estonia;;Имя собственное: Eesti. Eestis — где? (окончание -s);;
+A1;phrase;Страны и языки;Soomes töötama;работать в Финляндии;to work in Finland;;Имя собственное: Soome. Soomes — где? (окончание -s);;
+A1;phrase;Страны и языки;Eestist pärit;родом из Эстонии;from Estonia originally;;Имя собственное: Eesti. Eestist — откуда? (окончание -st);;a1-where
+A1;phrase;Страны и языки;Soomest pärit;родом из Финляндии;from Finland originally;;Имя собственное: Soome. Soomest — откуда? (окончание -st);;a1-where
+A1;phrase;Страны и языки;Venemaalt pärit;родом из России;from Russia originally;;Имя собственное: Venemaa. Venemaalt — откуда? (окончание -lt);;a1-where
 A1;phrase;Страны и языки;eesti keeles lugema;читать по-эстонски;to read in Estonian;;;;
 A1;phrase;Страны и языки;eesti keeles kirjutama;писать по-эстонски;to write in Estonian;;;;
 A1;phrase;Страны и языки;eesti keeles rääkima;разговаривать на эстонском;to speak in Estonian;;;;
@@ -4662,8 +4662,8 @@ A1;phrase;Страны и языки;vene keelt õppima;учить русски�
 A1;phrase;Страны и языки;inglise keelt õppima;учить английский язык;to learn English;;;;
 A1;phrase;Страны и языки;vene keeles kirjutama;писать по-русски;to write in Russian;;;;
 A1;phrase;Страны и языки;inglise keeles lugema;читать по-английски;to read in English;;;;
-A1;phrase;Страны и языки;Eesti pealinn;столица Эстонии;the capital of Estonia;;Имя собственное: Eesti. Eesti — принадлежность, omastav.;;a1-three-forms
-A1;phrase;Страны и языки;Soome pealinn;столица Финляндии;the capital of Finland;;Имя собственное: Soome. Soome — принадлежность, omastav.;;
+A1;phrase;Страны и языки;Eesti pealinn;столица Эстонии;the capital of Estonia;;Имя собственное: Eesti. Eesti — форма «чей?» (omastav);;a1-three-forms
+A1;phrase;Страны и языки;Soome pealinn;столица Финляндии;the capital of Finland;;Имя собственное: Soome. Soome — форма «чей?» (omastav);;
 B1;word;Слова-связки;lisaks;кроме того, вдобавок;in addition, besides;Lisaks sellele räägib ta soome keelt. — Кроме того, он(а) говорит по-фински.;lisaks millele? — к чему: lisaks palgale — кроме зарплаты;;b1-connectors
 B1;word;Слова-связки;teisalt;с другой стороны;on the other hand;Teisalt on see väga kallis. — С другой стороны, это очень дорого.;Часто в паре: ühelt poolt …, teisalt …;;b1-connectors
 B1;word;Слова-связки;seejärel;затем, после этого;then, after that;Kõigepealt sõime, seejärel läksime jalutama. — Сначала мы поели, затем пошли гулять.;;;b1-connectors
@@ -5786,7 +5786,7 @@ A1;word;Страны;Egiptus;Египет;Egypt;Me käisime Egiptuses. — Мы 
 A1;word;Страны;Tai;Таиланд;Thailand;Ta puhkab Tais. — Она отдыхает в Таиланде.;Имя собственное. Где? Tais. Куда? Taisse. Откуда? Taist.;;a1-where
 A1;phrase;Страны и языки;Ameerika Ühendriigid;Соединённые Штаты Америки;the United States of America;Ta elab Ameerika Ühendriikides. — Он живёт в США.;Имя собственное. Где? Ameerika Ühendriikides. Куда? Ameerika Ühendriikidesse. Откуда? Ameerika Ühendriikidest.;;a1-where
 A1;word;Страны;Ühendkuningriik;Соединённое Королевство;the United Kingdom;Ta kolis Ühendkuningriiki. — Она переехала в Соединённое Королевство.;"Имя собственное. Где? Ühendkuningriigis. Куда? Ühendkuningriiki. Откуда? Ühendkuningriigist. Государство; включает Северную Ирландию.";;a1-where
-A1;word;Страны;Suurbritannia;Великобритания;Great Britain;London asub Suurbritannias. — Лондон находится на острове Великобритания.;"Имя собственное. Где? Suurbritannias. Куда? Suurbritanniasse. Откуда? Suurbritanniast. Название острова Великобритания; также употребляется как краткое название государства. Полное название: Suurbritannia ja Põhja-Iiri Ühendkuningriik.";;a1-where
+A1;word;Страны;Suurbritannia;Великобритания;Great Britain;London asub Suurbritannias. — Лондон находится в Великобритании.;"Имя собственное. Где? Suurbritannias. Куда? Suurbritanniasse. Откуда? Suurbritanniast. Название острова Великобритания; также употребляется как краткое название государства. Полное название: Suurbritannia ja Põhja-Iiri Ühendkuningriik.";;a1-where
 A1;word;Страны;Uus-Meremaa;Новая Зеландия;New Zealand;Ta on pärit Uus-Meremaalt. — Он родом из Новой Зеландии.;Имя собственное. Где? Uus-Meremaal. Куда? Uus-Meremaale. Откуда? Uus-Meremaalt.;;a1-where
 A2;word;Страны и языки;Montenegro;Черногория;Montenegro;Me puhkame Montenegros. — Мы отдыхаем в Черногории.;Имя собственное. Где? Montenegros. Куда? Montenegrosse. Откуда? Montenegrost.;;a1-where
 A2;word;Страны и языки;Armeenia;Армения;Armenia;Ta tuli Armeeniast. — Она приехала из Армении.;Имя собственное. Где? Armeenias. Куда? Armeeniasse. Откуда? Armeeniast.;;a1-where

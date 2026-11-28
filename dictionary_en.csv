@@ -33,7 +33,7 @@ A1;word;Pronouns;Местоимения;kõik;all, everyone, everything;Kõik on
 A1;word;Pronouns;Местоимения;midagi;something, anything;Kas sa tahad midagi juua? — Would you like something to drink? • Ma ei taha midagi. — I don't want anything.;In a negative sentence, it means anything/nothing: ma ei näe midagi — I can't see anything.;;a2-indefinite
 A1;word;Pronouns;Местоимения;keegi;someone, anyone;Keegi koputab. — Someone is knocking. • Kas keegi on kodus? — Is anyone home?;In a negative sentence, keegi ei tea means nobody knows.;;a2-indefinite
 A1;word;Pronouns;Местоимения;iga;every, each;Ma jooksen iga päev. — I go running every day.;;;
-A1;word;Basics;Основы;palju;much, many, a lot;Mul on palju tööd. — I have a lot of work to do. • Palju õnne! — Happy birthday!;Followed by the partitive: palju tööd (a lot of work), palju inimesi (many people).;;
+A1;word;Basics;Основы;palju;much, many, a lot;Mul on palju tööd. — I have a lot of work to do. • Palju õnne! — Congratulations! (Happy birthday!);Followed by the partitive: palju tööd (a lot of work), palju inimesi (many people).;;
 A1;word;Basics;Основы;vähe;little, few;Mul on vähe aega. — I don't have much time.;;;
 A1;word;Basics;Основы;natuke;a little;Ma räägin natuke eesti keelt. — I speak a little Estonian.;;;
 A1;word;Basics;Основы;väga;very;Väga hea! — Very good!;;;
@@ -1678,7 +1678,7 @@ A1;word;Work and study;Работа и учёба;pastapliiats;ballpoint pen;Kas
 A1;word;Work and study;Работа и учёба;masin;machine;See masin ei tööta. — This machine doesn't work.;;;
 A1;word;Leisure and hobbies;Досуг;kitarr;guitar;Ta mängib kitarri. — He plays the guitar.;;;
 A1;word;Shopping;Покупки;dollar;dollar;Kui palju on üks dollar eurodes? — How much is one dollar in euros?;;;
-A1;word;Shopping;Покупки;mobiilinumber;mobile number;Mis on sinu mobiilinumber? — What's your mobile number?;Compound: mobiil (mobile) + number (number).;;
+A1;word;Work and study;Работа и учёба;mobiilinumber;mobile number;Mis on sinu mobiilinumber? — What's your mobile number?;Compound: mobiil (mobile) + number (number).;;
 A1;word;Countries and languages;Страны;balti;Baltic;Balti riigid on Eesti, Läti ja Leedu. — The Baltic states are Estonia, Latvia and Lithuania.;An indeclinable adjective (does not change for case or number).;;
 A1;word;Countries and languages;Страны;hiina;Chinese;Ma õpin hiina keelt. — I'm learning Chinese.;An indeclinable adjective (does not change for case or number).;;
 A1;word;Countries and languages;Страны;inglise;English;Inglise keel on lihtne. — English is easy.;An indeclinable adjective (does not change for case or number).;;
@@ -2978,7 +2978,7 @@ A1;word;Home;Дом;sahtel;drawer;Lusikad on sahtlis. — The spoons are in the 
 A1;word;Home;Дом;vaip;carpet, rug;Põrandal on vaip. — There's a rug on the floor.;;;
 A1;word;Home;Дом;kardin;curtain;Pane kardinad ette. — Close the curtains.;;;
 A1;word;Home;Дом;äratuskell;alarm clock;Äratuskell helises kell kuus. — The alarm clock rang at six.;Compound: äratus (waking up, alarm) + kell (clock).;;
-A1;word;Home;Дом;telefoninumber;phone number;Mis on teie telefoninumber? — What's your phone number?;Compound: telefon (phone) + number (number).;;
+A1;word;Work and study;Работа и учёба;telefoninumber;phone number;Mis on teie telefoninumber? — What's your phone number?;Compound: telefon (phone) + number (number).;;
 A1;word;Food and drinks;Еда и напитки;mineraalvesi;mineral water;Pudel mineraalvett, palun. — A bottle of mineral water, please.;Compound: mineraal (mineral) + vesi (water).;;
 A1;word;Food and drinks;Еда и напитки;kohuke;chocolate-coated curd snack (kohuke);Lapsed armastavad kohukesi. — The children love chocolate-coated curd snacks.;;;
 A1;word;Food and drinks;Еда и напитки;kartulipuder;mashed potatoes;Kotlet kartulipudruga. — A cutlet with mashed potatoes.;Compound: kartul (potato) + puder (mash, porridge).;;
@@ -3275,7 +3275,7 @@ A1;phrase;At the shop and café;В магазине и кафе;üks pilet;one t
 A1;phrase;At the shop and café;В магазине и кафе;klaas vett;a glass of water;Klaas vett, palun. — A glass of water, please.;;;a1-numbers-partitive
 A1;phrase;At the shop and café;В магазине и кафе;tass kohvi;a cup of coffee;Kas sa tahad tassi kohvi? — Would you like a cup of coffee?;;;a1-numbers-partitive
 A1;phrase;At the shop and café;В магазине и кафе;veel üks;one more;Veel üks õlu, palun. — One more beer, please.;;;
-A1;phrase;At the shop and café;В магазине и кафе;siin või kaasa;eat in or take away;Kas siin või kaasa? — Eat in or take away?;;;a2-particle-verbs
+A1;phrase;At the shop and café;В магазине и кафе;siin või kaasa;eat in or take away;Kas siin või kaasa? — Eat in or take away?;;;
 A1;phrase;At the shop and café;В магазине и кафе;kaasa võtta;to take away;Üks kohv kaasa võtta, palun. — One coffee to take away, please.;;;a2-particle-verbs
 A1;phrase;At the shop and café;В магазине и кафе;kaardiga maksma;to pay by card;Ma maksan kaardiga. — I'll pay by card.;;;a1-comitative
 A1;phrase;At the shop and café;В магазине и кафе;sularahas maksma;to pay in cash;Kas ma saan sularahas maksta? — Can I pay in cash?;;;
@@ -3392,7 +3392,7 @@ A1;sentence;At the shop;В магазине;Ma soovin kilo õunu.;I'd like a kil
 A1;sentence;At the shop;В магазине;Kus on piim?;Where is the milk?;;;;a1-question-words
 A1;sentence;At the shop;В магазине;See on liiga kallis.;It's too expensive.;;;;a1-olema
 A1;sentence;At the shop;В магазине;Kas on midagi odavamat?;Is there anything cheaper?;;;;a2-comparison
-A1;sentence;At the shop;В магазине;Ma võtan selle.;I'll take this.;;;;a1-present
+A1;sentence;At the shop;В магазине;Ma võtan selle.;I'll take this.;;;;a1-object
 A1;sentence;At the shop;В магазине;Kas ma saan seda proovida?;Can I try this (on)?;;;;a2-modality
 A1;sentence;At the shop;В магазине;Mul on vaja suuremat suurust.;I need a bigger size.;;;;a2-comparison
 A1;sentence;At the shop;В магазине;Kas soovite kotti?;Would you like a bag?;;;;a1-kas
@@ -3422,7 +3422,7 @@ A1;sentence;Time and dates;Время и даты;Täna on esmaspäev.;Today is 
 A1;sentence;Time and dates;Время и даты;Mis kuupäev täna on?;What's the date today?;;;;a1-question-words
 A1;sentence;Time and dates;Время и даты;Täna on kümnes mai.;Today is the tenth of May.;;;;a1-numbers
 A1;sentence;Time and dates;Время и даты;Millal sul sünnipäev on?;When is your birthday?;;;;a1-question-words
-A1;sentence;Time and dates;Время и даты;Minu sünnipäev on juunis.;My birthday is in June.;;;;a1-pronouns
+A1;sentence;Time and dates;Время и даты;Minu sünnipäev on juunis.;My birthday is in June.;;;;a1-days-months
 A1;sentence;Time and dates;Время и даты;Mis kell sa tööle lähed?;What time do you go to work?;;;;a1-time
 A1;sentence;Time and dates;Время и даты;Ma lähen tööle kell kaheksa.;I go to work at eight.;;;;a1-time
 A1;sentence;Time and dates;Время и даты;Mul pole aega.;I don't have time.;;;;a1-mul-on
@@ -3794,7 +3794,7 @@ A1;sentence;Language;Язык;Kas te saate seda näidata?;Can you show me that?;
 A1;sentence;Language;Язык;Kas te saate selle kirjutada?;Can you write this down?;;;;a2-modality
 A1;sentence;Language;Язык;Ma saan natuke aru.;I understand a little.;;;;a2-particle-verbs
 A1;sentence;At the shop;В магазине;Kas teil on vett?;Do you have any water?;;;;a1-mul-on
-A1;sentence;At the shop;В магазине;Ma soovin väikest kotti.;I'd like a small bag.;;;;a1-present
+A1;sentence;At the shop;В магазине;Ma soovin väikest kotti.;I'd like a small bag.;;;;a1-object
 A1;sentence;At the shop;В магазине;Kas ma saan sularahas maksta?;Can I pay in cash?;;;;a2-modality
 A1;sentence;In town and at a café;В городе и в кафе;Kas siin lähedal on pood?;Is there a shop nearby?;;;;a1-kas
 A1;sentence;In town and at a café;В городе и в кафе;Kas see on paremal või vasakul?;Is it on the right or left?;;;;a1-kas
