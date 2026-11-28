@@ -1640,7 +1640,7 @@ B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;row;greeti
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;row;opening sentence | Aitäh kirja eest! • Kuidas sul läheb? | Kirjutan Teile, et… • Pöördun Teie poole seoses…;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;row;closing | Tervitades • Kallistan • Kõike head! | Lugupidamisega • Parimate soovidega;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;heading;Punctuation;;
-B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;After a greeting, use an exclamation mark or no final punctuation: **Tere, Mari!** Put a comma between Tere and the name. Unlike English, Estonian does **not** put a comma after closing phrases such as **Tervitades** (Best wishes) or **Lugupidamisega** (Kind regards). Write your name on the next line.;;
+B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;After a greeting, use an exclamation mark or no final punctuation: **Tere, Mari!** Put a comma between Tere and the name. Unlike English, Estonian does **not** put a comma after closing phrases such as **Tervitades** (Best regards) or **Lugupidamisega** (Yours sincerely). Write your name on the next line.;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;When writing formally to one person, **Teie**, Teile and Teid may traditionally be capitalised as a sign of respect. When addressing several people, use lowercase **teie**.;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;heading;Writing a notice;;
 B1;Speaking and writing;Letters and notices: Tere! … Lugupidamisega;text;Keep a notice brief: what happened or will happen, where and when, what the reader should do, and how to contact you. For example, a message telling colleagues you will leave work early:;;
@@ -2089,7 +2089,7 @@ B2;Practical communication;Work, meetings and colleagues;row;tööülesanne | ta
 B2;Practical communication;Work, meetings and colleagues;example;Mis seisus see ülesanne on?;How is that task coming along?;
 B2;Practical communication;Work, meetings and colleagues;example;Millal see valmis saab?;When will it be ready?;
 B2;Practical communication;Work, meetings and colleagues;example;Võtan selle enda peale.;I'll take care of it.;
-B2;Practical communication;Work, meetings and colleagues;example;Ma ei jõua seda tähtajaks valmis.;I won't be able to finish it by the deadline.;
+B2;Practical communication;Work, meetings and colleagues;example;Ma ei jõua seda tähtajaks valmis teha.;I won't be able to finish it by the deadline.;
 B2;Practical communication;Work, meetings and colleagues;example;Kas saaksime tähtaja üle vaadata?;Could we review the deadline?;
 B2;Practical communication;Work, meetings and colleagues;example;Milles me kokku leppisime?;What did we agree on?;
 B2;Practical communication;Work, meetings and colleagues;tip;**viibima** describes a delay, **kuna** introduces a reason, and **-ks** can mark a deadline: Kas töö saaks reedeks valmis? — Could the work be finished by Friday?;;

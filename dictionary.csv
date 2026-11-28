@@ -415,7 +415,7 @@ A2;word;Время и календарь;nädalavahetusel;на выходных;
 A2;word;Время и календарь;eelmine;прошлый, предыдущий;previous, last;Eelmine nädal oli raske. — Прошлая неделя была трудной.;;;a2-time-expressions
 A2;word;Время и календарь;järgmine;следующий;next;Järgmine buss tuleb kell viis. — Следующий автобус придёт в пять.;;;a2-time-expressions
 A2;word;Время и календарь;viimane;последний;last, latest;See on viimane võimalus. — Это последний шанс.;;;a1-numbers
-A2;word;Время и календарь;kuni;до (какого-то момента);until;Pood on lahti kella kümneni. — Магазин открыт до десяти.;;;a2-terminative
+A2;word;Время и календарь;kuni;до (какого-то момента);until;Pood on lahti kuni kella kümneni. — Магазин открыт до десяти.;;;a2-terminative
 A2;word;Время и календарь;varem;раньше;earlier;Tule homme varem. — Приходи завтра раньше.;;;a2-time-expressions
 A2;word;Время и календарь;vara;рано;early;Ma ärkan vara. — Я встаю рано.;;;a2-time-expressions
 A2;word;Время и календарь;hilja;поздно;late;On juba hilja. — Уже поздно.;;;a2-time-expressions
@@ -504,7 +504,7 @@ A1;word;Еда и напитки;kohupiim;творог;curd cheese, quark;Kohupi
 A1;word;Еда и напитки;hapukoor;сметана;sour cream;Supp hapukoorega. — Суп со сметаной.;Состоит из: hapu (кислый) + koor (сливки);;
 A1;word;Еда и напитки;jogurt;йогурт;yogurt;Ma söön jogurtit. — Я ем йогурт.;;;
 A2;word;Еда и напитки;sealiha;свинина;pork;Ma ei söö sealiha. — Я не ем свинину.;Состоит из: siga (свинья) + liha (мясо);;
-A2;word;Еда и напитки;veiseliha;говядина;beef;Veiseliha on kallis. — Говядина дорогая.;Состоит из: veis (говядо, корова) + liha (мясо);;
+A2;word;Еда и напитки;veiseliha;говядина;beef;Veiseliha on kallis. — Говядина дорогая.;Состоит из: veis (крупный рогатый скот) + liha (мясо);;
 A2;word;Еда и напитки;kaste;соус;sauce;Kartulid kastmega. — Картошка с соусом.;;;
 A2;word;Еда и напитки;komm;конфета;sweet, candy;Laps tahab kommi. — Ребёнок хочет конфету.;;;
 A1;word;Еда и напитки;küpsis;печенье;biscuit, cookie;Kohvi kõrvale küpsised. — К кофе печенье.;;;
@@ -748,7 +748,7 @@ A2;word;Внешность;tume;тёмный;dark;Tal on tumedad silmad. — У 
 A2;word;Внешность;blond;светловолосый;blond;Tüdruk on blond. — Девочка светловолосая.;;;
 A2;word;Спорт;pall;мяч;ball;Viska pall! — Брось мяч!;;;
 A2;word;Спорт;jõusaal;тренажёрный зал;gym (weights);Ma käin jõusaalis. — Я хожу в тренажёрный зал.;Состоит из: jõud (сила) + saal (зал);;
-A2;word;Спорт;treening;тренировка;training, workout;Treening kestab tund. — Тренировка длится час.;;;
+A2;word;Спорт;treening;тренировка;training, workout;Treening kestab tund aega. — Тренировка длится час.;;;
 A2;word;Спорт;võistlus;соревнование;competition;Ta võitis võistluse. — Он выиграл соревнование.;;;
 A2;word;Спорт;meeskond;команда;team;Meie meeskond on tugev. — Наша команда сильная.;;;
 A2;word;Спорт;suusad;лыжи;skis;Kus on mu suusad? — Где мои лыжи?;Мн. ч. от suusk;;a1-plural
@@ -818,9 +818,9 @@ B1;word;Общество и государство;valimised;выборы;electi
 B1;word;Общество и государство;poliitika;политика;politics, policy;Mind ei huvita poliitika. — Меня не интересует политика.;;;
 B1;word;Общество и государство;ühiskond;общество;society;Ühiskond muutub kiiresti. — Общество быстро меняется.;;;
 B1;word;Общество и государство;rahvas;народ;people, nation;Eesti rahvas armastab laulda. — Эстонский народ любит петь.;;;
-B1;word;Общество и государство;rahvus;национальность;nationality;Mis rahvusest sa oled? — Какой ты национальности?;;;
+B1;word;Общество и государство;rahvus;национальность;nationality;Mis rahvusest sa oled? — Какой ты национальности?;В эстонском rahvus — обычно этническая национальность. Гражданство — kodakondsus.;;
 B1;word;Общество и государство;kodanik;гражданин;citizen;Ta on Eesti kodanik. — Он гражданин Эстонии.;;;
-B1;word;Общество и государство;kodakondsus;гражданство;citizenship;Ta taotleb Eesti kodakondsust. — Он ходатайствует о гражданстве Эстонии.;;;
+B1;word;Общество и государство;kodakondsus;гражданство;citizenship;Ta taotleb Eesti kodakondsust. — Он подаёт заявление на гражданство Эстонии.;;;
 B1;word;Общество и государство;elanik;житель;resident, inhabitant;Tallinnas on umbes 450 000 elanikku. — В Таллинне около 450 000 жителей.;;;
 B1;word;Общество и государство;elamisluba;вид на жительство;residence permit;Mul on elamisluba. — У меня есть вид на жительство.;Состоит из: elamine (проживание) + luba (разрешение);;
 B1;word;Общество и государство;isikukood;личный код;personal identification code;Kirjutage oma isikukood. — Напишите свой личный код.;Состоит из: isik (личность) + kood (код);;
@@ -847,7 +847,7 @@ B1;word;Работа и деньги;kasum;прибыль;profit;Firma teenis ka
 B1;word;Работа и деньги;laen;кредит, заём;loan;Võtsime pangast laenu. — Мы взяли кредит в банке.;;;
 B1;word;Работа и деньги;kindlustus;страховка;insurance;Autol on kindlustus. — У машины есть страховка.;;;
 B1;word;Работа и деньги;projekt;проект;project;Projekt on valmis. — Проект готов.;;;
-B1;word;Работа и деньги;tähtaeg;срок;deadline;Tähtaeg on reedel. — Срок — в пятницу.;Состоит из: täht (звезда, важный) + aeg (время);;
+B1;word;Работа и деньги;tähtaeg;срок;deadline;Tähtaeg on reedel. — Срок — в пятницу.;"Состоит из: täht (знак, отметка; ср. tähtis — важный) + aeg (время)";;
 B1;word;Работа и деньги;ülesanne;задача, задание;task;See on raske ülesanne. — Это трудное задание.;От üles andma — задать: üles (вверх) + andma (давать);;
 B1;word;Работа и деньги;eesmärk;цель;goal, aim;Minu eesmärk on õppida eesti keelt. — Моя цель — выучить эстонский.;Состоит из: ees (впереди) + märk (знак, мишень);;
 B1;word;Работа и деньги;tulemus;результат;result;Tulemus on hea. — Результат хороший.;;;b1-noun-suffixes
@@ -865,7 +865,7 @@ B1;word;Общение и мнения;näide;пример;example;Too üks näi
 B1;word;Общение и мнения;selgitus;объяснение;explanation;Aitäh selgituse eest. — Спасибо за объяснение.;;;
 B1;word;Общение и мнения;vestlus;разговор, беседа;conversation;Meil oli hea vestlus. — У нас был хороший разговор.;;;
 B1;word;Общение и мнения;arutelu;обсуждение;discussion;Koosolekul oli pikk arutelu. — На собрании было долгое обсуждение.;;;
-B1;word;Общение и мнения;nõuanne;совет;advice;Anna mulle nõuanne. — Дай мне совет.;Состоит из: nõu (совет) + anne (от andma — давать);;
+B1;word;Общение и мнения;nõuanne;совет;advice;Aitäh nõuande eest! — Спасибо за совет!;Состоит из: nõu (совет) + anne (от andma — давать);;
 B1;word;Общение и мнения;kaebus;жалоба;complaint;Kliendil on kaebus. — У клиента жалоба.;;;
 B1;word;Общение и мнения;vabandus;извинение, оправдание;apology, excuse;See ei ole vabandus. — Это не оправдание.;;;
 B1;word;Общение и мнения;palve;просьба;request;Mul on sulle palve. — У меня к тебе просьба.;;;
@@ -881,7 +881,7 @@ B1;word;Действия;arutama;обсуждать;to discuss;Arutame seda homm
 B1;word;Действия;soovitama;советовать, рекомендовать;to recommend;Mida te soovitate? — Что вы посоветуете?;;;
 B1;word;Действия;lubama;разрешать, обещать;to allow, to promise;Ma luban tulla. — Я обещаю прийти.;;;
 B1;word;Действия;keelama;запрещать;to forbid;Ema keelas mul minna. — Мама запретила мне идти.;;;
-B1;word;Действия;nõustuma;соглашаться;to agree;Ma nõustun sinuga. — Я соглашаюсь с тобой.;;;b1-government
+B1;word;Действия;nõustuma;соглашаться;to agree;Ma nõustun sinuga. — Я с тобой согласен.;;;b1-government
 B1;word;Действия;keelduma;отказываться;to refuse;Ta keeldus abist. — Он отказался от помощи.;;;b1-government
 B1;word;Действия;uskuma;верить;to believe;Ma ei usu seda. — Я в это не верю.;;;b1-government
 B1;word;Действия;lootma;надеяться;to hope;Ma loodan, et sa tuled. — Я надеюсь, что ты придёшь.;;;
@@ -981,7 +981,7 @@ B1;word;Окружающая среда;taaskasutus;повторное испо�
 B1;word;Окружающая среда;energia;энергия;energy;Päikeseenergia on puhas. — Солнечная энергия чистая.;;;
 B1;word;Окружающая среда;elekter;электричество;electricity;Elekter on kallis. — Электричество дорогое.;;;
 B1;word;Окружающая среда;õhk;воздух;air;Maal on värske õhk. — В деревне свежий воздух.;;;
-B1;word;Окружающая среда;reostus;загрязнение;pollution;Õhu reostus on probleem. — Загрязнение воздуха — проблема.;;;
+B1;word;Окружающая среда;reostus;загрязнение;pollution;Õhureostus on probleem. — Загрязнение воздуха — проблема.;;;
 B1;word;Окружающая среда;taim;растение;plant;Taim vajab vett. — Растению нужна вода.;;;
 B1;word;Окружающая среда;põld;поле;field;Põllul kasvab nisu. — На поле растёт пшеница.;;;
 B1;word;Окружающая среда;liiv;песок;sand;Rannas on valge liiv. — На пляже белый песок.;;;
@@ -1003,7 +1003,7 @@ B1;word;Медиа и технологии;rakendus;приложение;app, ap
 B1;word;Медиа и технологии;veebileht;веб-сайт;website;Info on meie veebilehel. — Информация на нашем сайте.;Состоит из: veeb (интернет) + leht (страница);;
 B1;word;Медиа и технологии;ekraan;экран;screen;Telefoni ekraan on katki. — Экран телефона разбит.;;;
 A1;word;Дом;laadija;зарядное устройство;charger;Kas sul on telefonilaadija? — У тебя есть зарядка для телефона?;;;
-B1;word;Медиа и технологии;ühendus;связь, соединение;connection;Interneti ühendus on halb. — Плохое соединение с интернетом.;;;
+B1;word;Медиа и технологии;ühendus;связь, соединение;connection;Internetiühendus on halb. — Плохое соединение с интернетом.;;;
 B1;word;Медиа и технологии;andmed;данные;data;Kontrolli oma andmeid. — Проверь свои данные.;Мн. ч.;;
 A1;phrase;Приветствия и вежливость;tere hommikust;доброе утро;good morning;Tere hommikust! Kuidas magasid? — Доброе утро! Как спалось?;;;
 A1;phrase;Приветствия и вежливость;tere päevast;добрый день;good afternoon;Tere päevast, kuidas saan aidata? — Добрый день, чем могу помочь?;;;
@@ -1065,9 +1065,9 @@ A2;phrase;Время;kahe päeva pärast;через два дня;in two days;Ka
 A2;phrase;Время;mõne aja pärast;через некоторое время;after a while;Helistan mõne aja pärast tagasi. — Перезвоню через некоторое время.;;;a2-time-expressions
 A2;phrase;Время;õigel ajal;вовремя;on time;Rong saabus õigel ajal. — Поезд прибыл вовремя.;;;a2-time-expressions
 A2;phrase;Время;liiga hilja;слишком поздно;too late;Nüüd on juba liiga hilja. — Теперь уже слишком поздно.;;;a2-time-expressions
-A2;phrase;Время;pool kolm;половина третьего (2:30);half past two;Kohtume pool kolm. — Встретимся в половине третьего.;Эстонцы считают к следующему часу: pool kolm — 2:30;;a1-time
+A2;phrase;Время;pool kolm;половина третьего (2:30);half past two;Kohtume kell pool kolm. — Встретимся в половине третьего.;Эстонцы считают к следующему часу: pool kolm — 2:30;;a1-time
 A2;phrase;Время;veerand neli;четверть четвёртого (3:15);quarter past three;Kell on veerand neli. — Четверть четвёртого.;;;a1-time
-A2;phrase;Время;kolmveerand viis;без четверти пять (4:45);quarter to five;Buss tuleb kolmveerand viis. — Автобус придёт без четверти пять.;;;a1-time
+A2;phrase;Время;kolmveerand viis;без четверти пять (4:45);quarter to five;Buss tuleb kell kolmveerand viis. — Автобус придёт без четверти пять.;;;a1-time
 A2;phrase;Связки;nii et;так что;so (that);Sadas vihma, nii et jäime koju. — Шёл дождь, так что мы остались дома.;;;a2-conjunctions
 A2;phrase;Связки;sellepärast et;потому что (оттого что);because;Ma ei tulnud, sellepärast et olin haige. — Я не пришёл, потому что болел.;;;a2-conjunctions
 A2;phrase;Связки;igal juhul;в любом случае;in any case;Igal juhul helistan sulle. — В любом случае я тебе позвоню.;;;
@@ -1153,7 +1153,7 @@ B1;word;Чувства и характер;isekas;эгоистичный;selfish
 B1;word;Чувства и характер;heatahtlik;доброжелательный;benevolent, kind;Naabrid on heatahtlikud. — Соседи доброжелательные.;Состоит из: hea (добрый) + tahe (воля);;
 B1;word;Чувства и характер;töökas;трудолюбивый;hard-working;Ta on töökas inimene. — Он трудолюбивый человек.;;;
 B1;word;Чувства и характер;hajameelne;рассеянный;absent-minded;Ma olen täna väga hajameelne. — Я сегодня очень рассеянный.;Состоит из: haja- (рассеянный) + meel (ум);;
-B1;word;Чувства и характер;kohusetundlik;ответственный, добросовестный;conscientious;Ta on kohusetundlik töötaja. — Он добросовестный работник.;Состоит из: kohus (долг) + tunne (чувство);;
+B1;word;Чувства и характер;kohusetundlik;ответственный, добросовестный;conscientious;Ta on kohusetundlik töötaja. — Он добросовестный работник.;Состоит из: kohus (долг, обязанность) + tundlik (чуткий);;
 B1;word;Чувства и характер;häbelik;стеснительный;shy;Laps on uute inimestega häbelik. — Ребёнок стесняется новых людей.;;;
 B1;word;Чувства и характер;seltskondlik;общительный;sociable;Ta on väga seltskondlik. — Она очень общительная.;;;
 B1;word;Чувства и характер;uudishimulik;любопытный;curious;Lapsed on uudishimulikud. — Дети любопытные.;Состоит из: uudis (новость) + himu (жажда, желание);;
@@ -1177,7 +1177,7 @@ B1;word;Чувства и характер;halvenema;ухудшаться;to get
 B1;word;Безопасность и право;vargus;кража;theft;Teatasin politseile vargusest. — Я сообщил в полицию о краже.;;;
 B1;word;Безопасность и право;varas;вор;thief;Varas põgenes. — Вор сбежал.;;;
 B1;word;Безопасность и право;pettus;обман, мошенничество;fraud, deception;See on pettus! — Это обман!;;;
-B1;word;Безопасность и право;petis;мошенник;fraudster, cheat;Petis helistas mulle pangatöötajana. — Мошенник позвонил мне под видом сотрудника банка.;;;
+B1;word;Безопасность и право;petis;мошенник;fraudster, cheat;Petis helistas mulle ja esines pangatöötajana. — Мошенник позвонил мне, представившись сотрудником банка.;;;
 B1;word;Безопасность и право;kohtunik;судья;judge;Kohtunik tegi otsuse. — Судья вынес решение.;;;
 B1;word;Безопасность и право;turvalisus;безопасность;security, safety;Turvalisus on esikohal. — Безопасность на первом месте.;;;
 B1;word;Безопасность и право;valvekaamera;камера наблюдения;security camera;Poes on valvekaamerad. — В магазине камеры наблюдения.;Состоит из: valve (охрана) + kaamera;;
@@ -1187,7 +1187,7 @@ B1;word;Безопасность и право;õnnetusjuhtum;несчастны
 B1;word;Безопасность и право;päästja;спасатель;rescuer;Päästjad tulid kiiresti. — Спасатели приехали быстро.;;;
 B1;word;Безопасность и право;tulekustuti;огнетушитель;fire extinguisher;Autos peab olema tulekustuti. — В машине должен быть огнетушитель.;Состоит из: tuli (огонь) + kustuti (гаситель);;
 B1;word;Деньги и покупки;säästud;сбережения;savings;Kulutasin kõik oma säästud. — Я потратил все свои сбережения.;Мн. ч.;;
-B1;word;Деньги и покупки;hoiuarve;сберегательный счёт;savings account;Panin raha hoiuarvele. — Я положил деньги на сберегательный счёт.;Состоит из: hoius (вклад) + arve (счёт);;
+B1;word;Деньги и покупки;hoiuarve;сберегательный счёт;savings account;Panin raha hoiuarvele. — Я положил деньги на сберегательный счёт.;"Состоит из: hoid (хранение; hoiu-) + arve (счёт)";;
 B1;word;Деньги и покупки;intress;процент (банковский);interest (rate);Laenu intress on kõrge. — Процент по кредиту высокий.;;;
 B1;word;Деньги и покупки;võlg;долг;debt;Mul on sulle võlg. — Я тебе должен.;;;
 B1;word;Деньги и покупки;soodustus;скидка, льгота;discount, benefit;Pensionäridele on soodustus. — Для пенсионеров скидка.;;;
@@ -1207,7 +1207,7 @@ B1;word;Медиа и технологии;sotsiaalmeedia;социальные �
 B1;word;Медиа и технологии;postitus;пост, публикация;post;Ta tegi Facebooki uue postituse. — Он сделал новый пост в Facebook.;;;
 B1;word;Медиа и технологии;jälgija;подписчик;follower;Tal on tuhat jälgijat. — У неё тысяча подписчиков.;;;
 B1;word;Медиа и технологии;taskuhääling;подкаст;podcast;Ma kuulan autos taskuhäälingut. — Я слушаю в машине подкаст.;Состоит из: tasku (карман) + hääling (вещание);;
-B1;word;Медиа и технологии;voogedastus;стриминг, потоковая трансляция;streaming;Filme vaatame voogedastusest. — Фильмы мы смотрим через стриминг.;;;
+B1;word;Медиа и технологии;voogedastus;стриминг, потоковая трансляция;streaming;Filme vaatame voogedastuse kaudu. — Фильмы мы смотрим через стриминг.;;;
 B1;word;Медиа и технологии;saatejuht;ведущий (передачи);TV/radio host;Saatejuht esitas küsimuse. — Ведущий задал вопрос.;Состоит из: saade (передача) + juht (ведущий);;
 B1;word;Природа;metsaraie;вырубка леса;logging;Metsaraie on vaieldav teema. — Вырубка леса — спорная тема.;Состоит из: mets (лес) + raie (рубка);;
 B1;word;Природа;ohustatud;находящийся под угрозой;endangered;See liik on ohustatud. — Этот вид находится под угрозой.;;;b1-participles
@@ -1306,7 +1306,7 @@ B2;word;Наука и технологии;tehisintellekt;искусственн
 B2;word;Наука и технологии;automatiseerimine;автоматизация;automation;Automatiseerimine säästab aega. — Автоматизация экономит время.;;;b2-news
 B2;word;Наука и технологии;digitaliseerimine;цифровизация;digitalisation;Riigi digitaliseerimine on Eestis kaugele jõudnud. — Цифровизация государства в Эстонии продвинулась далеко.;;;b2-news
 B2;word;Наука и технологии;innovatsioon;инновация;innovation;Ettevõte panustab innovatsiooni. — Компания вкладывается в инновации.;;;b2-news
-B2;word;Наука и технологии;arendus;разработка, развитие;development;Tarkvara arendus võtab aega. — Разработка программы занимает время.;;;b2-news
+B2;word;Наука и технологии;arendus;разработка, развитие;development;Tarkvaraarendus võtab aega. — Разработка программного обеспечения занимает время.;;;b2-news
 B2;word;Психология и благополучие;ärevus;тревога, тревожность;anxiety;Enne esinemist tunnen ärevust. — Перед выступлением я испытываю тревогу.;;;b2-emotions
 B2;word;Психология и благополучие;stress;стресс;stress;Tööl on palju stressi. — На работе много стресса.;;;b2-emotions
 B2;word;Психология и благополучие;enesehinnang;самооценка;self-esteem;Kiitus tõstab enesehinnangut. — Похвала повышает самооценку.;Состоит из: enese (себя) + hinnang (оценка);;b2-emotions
@@ -1320,7 +1320,7 @@ B2;word;Действия;sõnastama;формулировать;to formulate;Sõn
 B2;word;Действия;välistama;исключать;to rule out;Seda ei saa välistada. — Этого нельзя исключать.;ma välistan — я исключаю;;b2-change
 B2;word;Действия;tagama;обеспечивать, гарантировать;to ensure;Riik peab tagama turvalisuse. — Государство должно обеспечивать безопасность.;ma tagan — я обеспечиваю;;b2-change
 B2;word;Действия;edendama;развивать, продвигать;to promote;Linn edendab jalgrattasõitu. — Город продвигает езду на велосипеде.;ma edendan — я продвигаю;;b2-change
-B2;word;Действия;soodustama;способствовать;to encourage, to favour;Liikumine soodustab und. — Движение способствует сну.;see soodustab — это способствует;;b2-change
+B2;word;Действия;soodustama;способствовать;to encourage, to favour;Liikumine soodustab und. — Физическая активность способствует хорошему сну.;see soodustab — это способствует;;b2-change
 B2;word;Действия;piirama;ограничивать;to limit;Kiirust tuleb piirata. — Скорость нужно ограничить.;ma piiran — я ограничиваю;;b2-change
 B2;word;Действия;reguleerima;регулировать;to regulate;Seadus reguleerib üüri. — Закон регулирует аренду.;ma reguleerin — я регулирую;;b2-change
 B2;word;Действия;rakendama;применять, внедрять;to apply, to implement;Rakenda õpitut praktikas. — Применяй изученное на практике.;ma rakendan — я применяю;;b2-change
@@ -1359,7 +1359,7 @@ B2;word;Слова-связки;kuna;так как;since, as;Kuna sajab, jääme
 B2;word;Слова-связки;vaatamata;несмотря на;despite;Vaatamata vihmale läksime välja. — Несмотря на дождь, мы вышли.;Предлог: vaatamata + -le;;b1-postpositions
 B2;word;Слова-связки;olenemata;независимо от;regardless of;Olenemata vanusest võib igaüks osaleda. — Независимо от возраста участвовать может каждый.;Предлог: olenemata + -st;;b2-concession
 B2;phrase;Связки;juhul kui;в случае если;in case;Juhul kui sajab, jääb üritus ära. — В случае дождя мероприятие отменяется.;;;b1-cause-purpose
-B2;phrase;Связки;selleks et;для того чтобы;in order to;Õpin eesti keelt, selleks et töö leida. — Я учу эстонский, чтобы найти работу.;;;b1-cause-purpose
+B2;phrase;Связки;selleks et;для того чтобы;in order to;Õpin eesti keelt, selleks et tööd leida. — Я учу эстонский, чтобы найти работу.;;;b1-cause-purpose
 B2;phrase;Связки;mitte et;не то чтобы;not that;Mitte et ma ei tahaks, aga mul pole aega. — Не то чтобы я не хотел, но у меня нет времени.;;;a2-conjunctions
 B2;phrase;Связки;seda enam;тем более;all the more;Seda enam peaksid tulema. — Тем более тебе стоит прийти.;;;b2-cohesion
 B2;phrase;Связки;teisisõnu;другими словами;in other words;Teisisõnu, me ei jõua õigeks ajaks. — Другими словами, мы не успеем вовремя.;;;b2-cohesion
@@ -1388,7 +1388,7 @@ B2;sentence;Наука и технологии;Tehisintellekt muudab paljusid am
 B2;sentence;Наука и технологии;Uuringu tulemused avaldatakse sügisel.;Результаты исследования опубликуют осенью.;The study's results will be published in autumn.;;;;a2-impersonal
 B2;sentence;Наука и технологии;Teadlased on selles küsimuses eri meelt.;Учёные расходятся во мнениях по этому вопросу.;Scientists disagree on this issue.;;;;b2-news
 B2;sentence;Наука и технологии;Digitaalsed teenused säästavad inimeste aega.;Цифровые услуги экономят людям время.;Digital services save people's time.;;;;b2-news
-B2;sentence;Психология и благополучие;Stressiga toimetulek on tänapäeval oluline oskus.;Умение справляться со стрессом сегодня важный навык.;Coping with stress is an important skill nowadays.;;;;b2-emotions
+B2;sentence;Психология и благополучие;Stressiga toimetulek on tänapäeval oluline oskus.;Умение справляться со стрессом сегодня — важный навык.;Coping with stress is an important skill nowadays.;;;;b2-emotions
 B2;sentence;Психология и благополучие;Liigne ekraaniaeg mõjutab und.;Чрезмерное экранное время влияет на сон.;Too much screen time affects sleep.;;;;b2-emotions
 B2;sentence;Психология и благополучие;Ta püüab leida tasakaalu töö ja pereelu vahel.;Он старается найти баланс между работой и семьёй.;He tries to find a balance between work and family life.;;;;b2-emotions
 B2;sentence;Психология и благополучие;Kiitus aitab lapsel enesekindlust kasvatada.;Похвала помогает ребёнку стать увереннее в себе.;Praise helps a child build self-confidence.;;;;b2-emotions
@@ -1538,7 +1538,7 @@ A1;word;Предлоги и наречия;edasi;дальше, вперёд;forw
 A1;word;Предлоги и наречия;tagasi;назад, обратно;back (return);Ma tulen kohe tagasi. — Я сейчас вернусь.;;;
 A1;word;Предлоги и наречия;kaasa;с собой;along, with (oneself);Võta vihmavari kaasa. — Возьми с собой зонт.;;;
 A1;word;Предлоги и наречия;ära;прочь (приставка «у-»);away, off;Ta läks ära. — Он ушёл.;;;
-A1;word;Предлоги и наречия;kinni;закрыто, (за)крепко;closed, shut;Pood on kinni. — Магазин закрыт.;;;
+A1;word;Предлоги и наречия;kinni;закрыт, закрыто;closed, shut;Pood on kinni. — Магазин закрыт.;Также «крепко»: Hoia kinni! — Держись!;;
 A1;word;Предлоги и наречия;lahti;открыто;open;Kas apteek on lahti? — Аптека открыта?;;;
 A1;word;Предлоги и наречия;kokku;вместе, всего;together, in total;Kokku maksab see kümme eurot. — Всего это стоит десять евро.;;;
 A1;word;Предлоги и наречия;kõrvale;в сторону, рядом (куда);aside, next to (to);Istu minu kõrvale. — Садись рядом со мной.;;;a1-postpositions
@@ -1688,7 +1688,7 @@ A1;word;Страны;vene;русский;Russian;Minu emakeel on vene keel. — 
 A1;phrase;Общение;pärit olema;быть родом (откуда-то);to come from;Ma olen pärit Tartust. — Я родом из Тарту.;;;a1-where
 A2;word;Семья и отношения;abielu;брак;marriage;Nende abielu on õnnelik. — Их брак счастливый.;Состоит из: abi (помощь) + elu (жизнь);;
 A2;word;Семья и отношения;abielluma;жениться, выходить замуж;to get married;Nad abiellusid suvel. — Они поженились летом.;ma abiellun — я женюсь (выхожу замуж);;
-A2;word;Семья и отношения;abielus;в браке, женат, замужем;married;Kas sa oled abielus? — Ты женат (замужем)?;Состоит из: abielu (брак): abi (помощь) + elu (жизнь);;
+A2;word;Семья и отношения;abielus;в браке, женат, замужем;married;Kas sa oled abielus? — Ты женат (замужем)?;Форма от abielu (брак): abielus — «в браке»;;
 A2;word;Семья и отношения;vallaline;холост, не замужем;single;Ta on veel vallaline. — Он ещё не женат.;;;
 A2;word;Семья и отношения;lahutatud;разведён;divorced;Mu vanemad on lahutatud. — Мои родители в разводе.;;;
 A2;word;Семья и отношения;lahutama;разводить / вычитать;to divorce / to subtract;Nad lahutasid eelmisel aastal. — Они развелись в прошлом году.;ma lahutan — я развожусь;;
@@ -1714,7 +1714,7 @@ A2;word;Семья и отношения;sünniaasta;год рождения;yea
 A2;word;Семья и отношения;eluaasta;год жизни;year of life;Esimesel eluaastal kasvab laps kiiresti. — На первом году жизни ребёнок быстро растёт.;Состоит из: elu (жизнь) + aasta (год);;
 A2;word;Семья и отношения;aastane;годовалый, -летний;... years old;Laps on aastane. — Ребёнку год.;Обычно слитно: viieaastane;;
 A2;word;Семья и отношения;nelja-aastane;четырёхлетний;four-year-old;Mul on nelja-aastane poeg. — У меня четырёхлетний сын.;Состоит из: neli (четыре) + aasta (год);;
-A2;word;Семья и отношения;juubel;юбилей;jubilee, milestone birthday;Isa tähistab 50. juubelit. — Папа отмечает 50-летний юбилей.;;;
+A2;word;Семья и отношения;juubel;юбилей;jubilee, milestone birthday;Isal on 50 aasta juubel. — У папы 50-летний юбилей.;;;
 A2;word;Семья и отношения;aastapäev;годовщина;anniversary;Täna on meie pulma-aastapäev. — Сегодня годовщина нашей свадьбы.;Состоит из: aasta (год) + päev (день);;
 A2;word;Семья и отношения;lemmik;любимец, любимый;favourite;Mis on sinu lemmikfilm? — Какой твой любимый фильм?;;;
 A2;word;Страны и языки;ameeriklane;американец;American;Ta on ameeriklane. — Он американец.;;;
@@ -1814,7 +1814,7 @@ A2;word;Здоровье;alkohol;алкоголь;alcohol;Ma ei joo alkoholi. �
 A2;word;Дом и быт;katus;крыша;roof;Maja katus on punane. — Крыша дома красная.;;;
 A2;word;Дом и быт;kelder;подвал;cellar, basement;Kartulid on keldris. — Картошка в подвале.;;;
 A2;word;Дом и быт;riiul;полка;shelf;Raamatud on riiulis. — Книги на полке.;;;
-A2;word;Дом и быт;kirjutuslaud;письменный стол;desk;Arvuti on kirjutuslaual. — Компьютер на письменном столе.;Состоит из: kirjutus (письмо) + laud (стол);;
+A2;word;Дом и быт;kirjutuslaud;письменный стол;desk;Arvuti on kirjutuslaual. — Компьютер на письменном столе.;Состоит из: kirjutus (написание) + laud (стол);;
 A2;word;Дом и быт;tugitool;кресло;armchair;Vanaisa istub tugitoolis. — Дедушка сидит в кресле.;Состоит из: tugi (опора) + tool (стул);;
 A2;word;Дом и быт;toalill;комнатный цветок;houseplant;Aknal on toalilled. — На окне комнатные цветы.;Состоит из: tuba (комната) + lill (цветок);;
 A2;word;Дом и быт;külmik;холодильник (разг.);fridge;Piim on külmikus. — Молоко в холодильнике.;Синоним: külmkapp;;
@@ -2073,7 +2073,7 @@ A2;word;Животные и птицы;part;утка;duck;Pargis ujuvad pardid. 
 A2;word;Животные и птицы;kalkun;индейка;turkey;Jõuludeks praeme kalkunit. — На Рождество мы жарим индейку.;;;
 A2;word;Животные и птицы;luik;лебедь;swan;Valge luik ujub järvel. — Белый лебедь плывёт по озеру.;;;
 A2;word;Животные и птицы;kajakas;чайка;seagull;Kajakad lendavad mere kohal. — Чайки летают над морем.;;;
-A2;word;Животные и птицы;kurg;аист;stork;Kurg tegi katusele pesa. — Аист свил гнездо на крыше.;;;
+A2;word;Животные и птицы;kurg;журавль;crane (bird);Sügisel lendavad kured lõunasse. — Осенью журавли улетают на юг.;Аист по-эстонски — toonekurg;;
 A2;word;Животные и птицы;tihane;синица;tit (bird);Talvel tuleb tihane aknale. — Зимой синица прилетает к окну.;;;
 A2;word;Животные и птицы;varblane;воробей;sparrow;Varblased söövad leivapuru. — Воробьи едят хлебные крошки.;;;
 A2;word;Животные и птицы;pääsuke;ласточка;swallow;Pääsuke lendab madalalt. — Ласточка летает низко.;;;
@@ -2228,12 +2228,12 @@ A2;word;Учёба;tõlkima;переводить;to translate;Ma tõlgin teksti.
 A2;word;Учёба;joonistama;рисовать;to draw;Laps joonistab maja. — Ребёнок рисует дом.;ma joonistan — я рисую;;
 A2;word;Учёба;analüüs;анализ;analysis;Arst tegi vereanalüüsi. — Врач сделал анализ крови.;;;
 A2;word;Учёба;analüüsima;анализировать;to analyse;Me analüüsime tulemusi. — Мы анализируем результаты.;ma analüüsin — я анализирую;;
-A2;word;Общество и политика;president;президент;president;Eesti president elab Kadriorus. — Президент Эстонии живёт в Кадриорге.;;;
+A2;word;Общество и политика;president;президент;president;Eesti president töötab Kadriorus. — Президент Эстонии работает в Кадриорге.;;;
 A2;word;Общество и политика;peaminister;премьер-министр;prime minister;Peaminister esines kõnega. — Премьер-министр выступил с речью.;Состоит из: pea (главный) + minister (министр);;
 A2;word;Общество и политика;minister;министр;minister;Haridusminister külastas kooli. — Министр образования посетил школу.;;;
 A2;word;Общество и политика;ministeerium;министерство;ministry;Ta töötab ministeeriumis. — Он работает в министерстве.;;;
 A2;word;Общество и политика;parlament;парламент;parliament;Parlament võttis seaduse vastu. — Парламент принял закон.;;;
-A2;word;Общество и политика;riigikogu;Рийгикогу (парламент Эстонии);Riigikogu (Estonian parliament);Riigikogus on 101 liiget. — В Рийгикогу 101 член.;Состоит из: riik (государство) + kogu (собрание);;
+A2;word;Общество и политика;Riigikogu;Рийгикогу (парламент Эстонии);Riigikogu (Estonian parliament);Riigikogus on 101 liiget. — В Рийгикогу 101 член.;Имя собственное. Состоит из: riik (государство) + kogu (собрание);;
 A2;word;Общество и политика;partei;партия (политическая);political party;Ta kuulub parteisse. — Он состоит в партии.;;;
 A2;word;Общество и политика;partii;партия (в игре / товара);game / batch;Mängime veel ühe partii malet. — Сыграем ещё одну партию в шахматы.;;;
 A2;word;Общество и политика;poliitik;политик;politician;Ta on tuntud poliitik. — Он известный политик.;;;
@@ -2340,7 +2340,7 @@ A2;word;Свободное время;selts;общество (кружок);soci
 A2;word;Свободное время;seltskond;компания (люди);company, group of people;Meil oli tore seltskond. — У нас была отличная компания.;;;
 A2;word;Праздники и традиции;traditsioon;традиция;tradition;See on vana traditsioon. — Это старая традиция.;;;
 A2;word;Праздники и традиции;traditsiooniline;традиционный;traditional;Traditsiooniline Eesti toit. — Традиционная эстонская еда.;;;
-A2;word;Праздники и традиции;vana-aasta;старый год (канун Нового года);New Year's Eve (the old year);Vana-aasta õhtul on ilutulestik. — В новогоднюю ночь фейерверк.;Состоит из: vana (старый) + aasta (год);;a2-holidays
+A2;word;Праздники и традиции;vana-aasta;старый год (канун Нового года);New Year's Eve (the old year);Vana-aastaõhtul on ilutulestik. — В новогоднюю ночь фейерверк.;Состоит из: vana (старый) + aasta (год);;a2-holidays
 A2;word;Праздники и традиции;pidulik;праздничный, торжественный;festive, solemn;Täna on pidulik päev. — Сегодня торжественный день.;;;
 A2;word;Праздники и традиции;paraad;парад;parade;Iseseisvuspäeval on paraad. — В День независимости парад.;;;
 A2;word;Праздники и традиции;tervitama;приветствовать;to greet;Ta tervitas külalisi. — Он поприветствовал гостей.;ma tervitan — я приветствую;;
@@ -2397,10 +2397,10 @@ A2;word;Числа;üheksateistkümnes;девятнадцатый;nineteenth;Üh
 A2;word;Числа;kahekümnes;двадцатый;twentieth;Täna on kahekümnes mai. — Сегодня двадцатое мая.;;;
 A2;word;Числа;kolmekümnes;тридцатый;thirtieth;Täna on kolmekümnes juuni. — Сегодня тридцатое июня.;;;
 A2;word;Числа;neljakümnes;сороковой;fortieth;Isa tähistab oma neljakümnendat sünnipäeva. — Папа празднует свой сороковой день рождения.;;;
-A2;word;Числа;viiekümnes;пятидесятый;fiftieth;Ema viiekümnes juubel. — Мамин пятидесятый юбилей.;;;
+A2;word;Числа;viiekümnes;пятидесятый;fiftieth;Ema viiekümnes sünnipäev. — Мамин пятидесятый день рождения.;;;
 A2;word;Числа;kuuekümnes;шестидесятый;sixtieth;Firma kuuekümnes aastapäev. — Шестидесятая годовщина фирмы.;;;
 A2;word;Числа;seitsmekümnes;семидесятый;seventieth;Vanaema seitsmekümnes sünnipäev. — Бабушкин семидесятый день рождения.;;;
-A2;word;Числа;kaheksakümnes;восьмидесятый;eightieth;Vanaisa kaheksakümnes juubel. — Дедушкин восьмидесятый юбилей.;;;
+A2;word;Числа;kaheksakümnes;восьмидесятый;eightieth;Vanaisa kaheksakümnes sünnipäev. — Дедушкин восьмидесятый день рождения.;;;
 A2;word;Числа;üheksakümnes;девяностый;ninetieth;Üheksakümnendad aastad. — Девяностые годы.;;;
 A2;word;Числа;paarkümmend;около двадцати;about twenty;Peol oli paarkümmend inimest. — На вечеринке было человек двадцать.;Состоит из: paar (пара) + kümmend (десятки);;a2-large-numbers-fractions
 A2;word;Числа;kolmandik;треть;third (fraction);Kolmandik õpilastest on haiged. — Треть учеников болеет.;;;a2-large-numbers-fractions
@@ -2617,7 +2617,7 @@ A2;word;Абстрактные понятия;tegija;делатель, маст�
 A2;word;Абстрактные понятия;liikumine;движение;movement;Liikumine on tervisele kasulik. — Движение полезно для здоровья.;;;a2-word-formation
 A2;word;Абстрактные понятия;käik;ход, поход;move, course / trip;See oli hea käik. — Это был хороший ход.;;;
 A2;word;Абстрактные понятия;samm;шаг;step;Tee samm edasi. — Сделай шаг вперёд.;;;
-A2;word;Абстрактные понятия;siht;цель, направление;aim, destination;Mis on reisi siht? — Какова цель поездки?;;;
+A2;word;Абстрактные понятия;siht;цель, направление, пункт назначения;aim, destination;Mis on reisi siht? — Куда вы едете (какой пункт назначения)?;;;
 A2;word;Абстрактные понятия;ring;круг;circle;Lapsed seisavad ringis. — Дети стоят в кругу.;;;
 A2;word;Абстрактные понятия;joon;линия, черта;line;Tõmba joon. — Проведи линию.;;;
 A2;word;Абстрактные понятия;liin;линия, маршрут;line, route;Mis liini buss läheb kesklinna? — Какой маршрут автобуса идёт в центр?;;;
@@ -2691,7 +2691,7 @@ A2;word;Люди;kriitik;критик;critic;Kriitik kiitis filmi. — Крит�
 A2;word;Люди;kriitika;критика;criticism;Ta ei talu kriitikat. — Он не выносит критики.;;;
 A2;word;Животные и птицы;skorpion;скорпион;scorpion;Skorpion elab kõrbes. — Скорпион живёт в пустыне.;;;
 A2;word;Культура и СМИ;maal;картина (живопись);painting;Seinal ripub vana maal. — На стене висит старая картина.;;;
-A2;word;Покупки и одежда;rubla;рубль;rouble;Kui palju on rubla kurss? — Какой курс рубля?;;;
+A2;word;Покупки и одежда;rubla;рубль;rouble;Mis on rubla kurss? — Какой курс рубля?;;;
 A2;word;Покупки и одежда;valuuta;валюта;currency;Kus saab valuutat vahetada? — Где можно обменять валюту?;;;
 A2;word;Характер и чувства;hirm;страх;fear;Mul on hirm pimeduse ees. — Я боюсь темноты.;;;
 A2;word;Характер и чувства;nälg;голод;hunger;Mul on nälg. — Я голоден.;;;
@@ -2812,7 +2812,7 @@ B2;word;Мышление и общение;mõiste;понятие;concept;See on
 B2;word;Мышление и общение;seisukoht;точка зрения;standpoint;Mis on sinu seisukoht? — Какова твоя точка зрения?;Состоит из: seis (положение) + koht (место);;b2-discussion
 B2;word;Мышление и общение;hoiak;отношение, позиция;attitude;Tal on positiivne hoiak. — У него позитивное отношение.;;;b2-discussion
 B2;word;Мышление и общение;uskumus;убеждение, поверье;belief;See on vana uskumus. — Это старое поверье.;;;b2-discussion
-B2;word;Мышление и общение;kahtlus;сомнение, подозрение;doubt, suspicion;Mul on kahtlus. — У меня есть сомнение.;;;b2-discussion
+B2;word;Мышление и общение;kahtlus;сомнение, подозрение;doubt, suspicion;Mul on kahtlus. — У меня есть подозрение.;;;b2-discussion
 B2;word;Мышление и общение;kindlus;уверенность / крепость;certainty / fortress;Mul pole selles kindlust. — Я в этом не уверен.;;;b2-discussion
 B2;word;Мышление и общение;teadvus;сознание;consciousness;Ta kaotas teadvuse. — Он потерял сознание.;;;b2-discussion
 B2;word;Мышление и общение;filosoofia;философия;philosophy;Ta õpib filosoofiat. — Он изучает философию.;;;b2-discussion
@@ -2827,7 +2827,7 @@ B2;word;Чувства и качества;ebaaus;нечестный;dishonest;S
 B2;word;Чувства и качества;karm;суровый;harsh;Talv oli karm. — Зима была суровой.;;;b2-emotions
 B2;word;Чувства и качества;range;строгий;strict;Õpetaja on range. — Учитель строгий.;;;b2-emotions
 B2;word;Чувства и качества;õrn;нежный;gentle, tender;Ta on väga õrn. — Она очень нежная.;;;b2-emotions
-B2;word;Чувства и качества;nüri;тупой (не острый);blunt;Nuga on nüri. — Нож тупой.;;;b2-emotions
+B2;word;Чувства и качества;nüri;тупой (не острый);blunt;Nuga on nüri. — Нож тупой.;;;
 B2;word;Чувства и качества;omadus;свойство, черта;quality, trait;Kannatlikkus on hea omadus. — Терпение — хорошая черта.;;;b2-emotions
 B2;word;Чувства и качества;anne;талант;talent;Tal on muusikaline anne. — У неё музыкальный талант.;;;b2-emotions
 B2;word;Чувства и качества;kannatama;страдать / терпеть;to suffer / to endure;Ta kannatab peavalude käes. — Он страдает от головных болей.;;;b2-emotions
@@ -2863,7 +2863,7 @@ B2;word;Общество и право;määrama;назначать, опред�
 B2;word;Общество и право;liituma;присоединяться;to join;Liitu meie klubiga! — Присоединяйся к нашему клубу!;;;b2-government
 B2;word;Общество и право;komme;обычай;custom;See on vana Eesti komme. — Это старый эстонский обычай.;;;b2-administration
 B2;word;Экономика и производство;tööpuudus;безработица;unemployment;Tööpuudus on kasvanud. — Безработица выросла.;Состоит из: töö (работа) + puudus (нехватка);;b2-news
-B2;word;Экономика и производство;töötus;безработность (состояние);unemployment (state);Töötus on raske aeg. — Безработица — тяжёлое время.;;;b2-news
+B2;word;Экономика и производство;töötus;безработица (состояние человека);unemployment (state);Töötus on raske aeg. — Безработица — тяжёлое время.;;;b2-news
 B2;word;Экономика и производство;sissetulek;доход (заработок);income;Tema sissetulek on väike. — Его доход маленький.;Состоит из: sisse (внутрь) + tulek (приход);;b2-news
 B2;word;Экономика и производство;investeering;инвестиция;investment;See on hea investeering. — Это хорошая инвестиция.;;;b2-news
 B2;word;Экономика и производство;kaubandus;торговля;trade, commerce;Kaubandus Soomega kasvab. — Торговля с Финляндией растёт.;;;b2-news
@@ -2879,7 +2879,7 @@ B2;word;Экономика и производство;puhtus;чистота;cle
 B2;word;Экономика и производство;väärtus;ценность, стоимость;value;Maja väärtus tõusis. — Стоимость дома выросла.;;;b2-news
 B2;word;Экономика и производство;tähtsus;важность;importance;See on suure tähtsusega. — Это имеет большое значение.;;;b2-news
 B2;word;Экономика и производство;tagajärg;последствие;consequence;Igal teol on tagajärjed. — У каждого поступка есть последствия.;Состоит из: taga (позади) + järg (продолжение);;b2-news
-B2;word;Экономика и производство;ebaedu;неудача;failure;Ebaedu ei tohi heidutada. — Неудача не должна пугать.;Состоит из: eba- (не-) + edu (успех);;b2-news
+B2;word;Экономика и производство;ebaedu;неудача;failure;Ebaedu ei tohi sind heidutada. — Неудача не должна тебя обескураживать.;Состоит из: eba- (не-) + edu (успех);;b2-news
 B2;word;Экономика и производство;ebaõnnestuma;не удаваться, проваливаться;to fail;Plaan ebaõnnestus. — План провалился.;Состоит из: eba- (не-) + õnnestuma (удаваться);;b2-news
 B2;word;Экономика и производство;katsetama;испытывать, экспериментировать;to test, to experiment;Me katsetame uut retsepti. — Мы пробуем новый рецепт.;;;b2-news
 B2;word;Экономика и производство;võistlema;соревноваться;to compete;Nad võistlevad esikoha pärast. — Они соревнуются за первое место.;;;b2-news
@@ -2904,7 +2904,7 @@ B2;word;Действия;vähendama;уменьшать, сокращать;to re
 B2;word;Действия;suurendama;увеличивать;to increase;Firma suurendas palku. — Фирма повысила зарплаты.;;;b2-change
 B2;word;Действия;langetama;снижать, опускать;to lower;Pood langetas hindu. — Магазин снизил цены.;;;b2-change
 B2;word;Действия;levima;распространяться;to spread;Uudis levis kiiresti. — Новость быстро распространилась.;;;b2-change
-B2;word;Действия;kordumine;повторение;repetition;Kordumine on tarkuse ema. — Повторение — мать учения.;Не путать с kordamine (повторение материала): Kordamine on tarkuse ema. — Повторение — мать учения.;;b2-change
+B2;word;Действия;kordumine;повторение;repetition;Me peame vältima vigade kordumist. — Мы должны избегать повторения ошибок.;Не путать с kordamine (повторение материала): Kordamine on tarkuse ema. — Повторение — мать учения.;;b2-change
 B2;word;Описание;terviklik;целостный;integral, holistic;See on terviklik lahendus. — Это комплексное решение.;;;b2-word-formation
 B2;word;Описание;sügavus;глубина;depth;Järve sügavus on kümme meetrit. — Глубина озера десять метров.;;;b2-word-formation
 B2;word;Описание;looduskeskkond;природная среда;natural environment;Peame kaitsma looduskeskkonda. — Мы должны защищать природную среду.;Состоит из: loodus (природа) + keskkond (среда);;b2-word-formation
@@ -2925,13 +2925,13 @@ B2;word;Описание;määrav;решающий;decisive;See oli määrav het
 B2;word;Описание;teisejärguline;второстепенный;secondary;See on teisejärguline küsimus. — Это второстепенный вопрос.;Состоит из: teine (второй) + järk (разряд, ступень);;b2-word-formation
 B2;word;Описание;abstraktne;абстрактный;abstract;See on liiga abstraktne. — Это слишком абстрактно.;;;b2-word-formation
 B2;word;Время и бытие;olevik;настоящее (время);the present;Ela olevikus! — Живи настоящим!;;;b2-tenses
-B2;word;Время и бытие;ajastu;эпоха;era;See oli uus ajastu. — Это была новая эпоха.;;;b2-tenses
-B2;word;Время и бытие;aastakümme;десятилетие;decade;Viimasel aastakümnel on palju muutunud. — За последнее десятилетие многое изменилось.;Состоит из: aasta (год) + kümme (десять);;b2-tenses
-B2;word;Время и бытие;saatus;судьба;fate;Selline on saatus. — Такова судьба.;;;b2-tenses
-B2;word;Время и бытие;juhus;случай, совпадение;chance, coincidence;See oli puhas juhus. — Это было чистое совпадение.;;;b2-tenses
-B2;word;Время и бытие;tegelikkus;действительность;reality;Tegelikkus on teistsugune. — Действительность иная.;;;b2-tenses
-B2;word;Время и бытие;olemus;сущность;essence;Mis on probleemi olemus? — В чём суть проблемы?;;;b2-tenses
-B2;word;Время и бытие;nähtus;явление;phenomenon;Virmalised on haruldane nähtus. — Северное сияние — редкое явление.;;;b2-tenses
+B2;word;Время и бытие;ajastu;эпоха;era;See oli uus ajastu. — Это была новая эпоха.;;;
+B2;word;Время и бытие;aastakümme;десятилетие;decade;Viimasel aastakümnel on palju muutunud. — За последнее десятилетие многое изменилось.;Состоит из: aasta (год) + kümme (десять);;
+B2;word;Время и бытие;saatus;судьба;fate;Selline on saatus. — Такова судьба.;;;
+B2;word;Время и бытие;juhus;случай, совпадение;chance, coincidence;See oli puhas juhus. — Это было чистое совпадение.;;;
+B2;word;Время и бытие;tegelikkus;действительность;reality;Tegelikkus on teistsugune. — Действительность иная.;;;
+B2;word;Время и бытие;olemus;сущность;essence;Mis on probleemi olemus? — В чём суть проблемы?;;;
+B2;word;Время и бытие;nähtus;явление;phenomenon;Virmalised on haruldane nähtus. — Северное сияние — редкое явление.;;;
 A1;word;Досуг;tants;танец;dance;Kas sa tuled tantsule? — Пойдёшь танцевать?;;;
 A1;word;Работа и учёба;isikutunnistus;удостоверение личности;ID card;Näidake oma isikutunnistust. — Покажите своё удостоверение личности.;В разговоре: ID-kaart. Состоит из: isik (личность) + tunnistus (удостоверение);;
 A2;word;Техника и связь;tekstisõnum;текстовое сообщение, СМС;text message, SMS;Saatsin sulle tekstisõnumi. — Я отправил тебе СМС.;В разговоре: SMS. Состоит из: tekst (текст) + sõnum (сообщение);;
@@ -3131,7 +3131,7 @@ A2;word;Здоровье;vereproov;анализ крови;blood test;Hommikul a
 A2;word;Здоровье;apteeker;фармацевт;pharmacist;Apteeker soovitas ravimit. — Фармацевт посоветовал лекарство.;;;
 A2;word;Здоровье;köhima;кашлять;to cough;Laps köhib öösel. — Ребёнок кашляет ночью.;ma köhin — я кашляю;;
 A2;word;Здоровье;aevastama;чихать;to sneeze;Ta aevastab kogu aeg. — Он всё время чихает.;ma aevastan — я чихаю;;
-A2;word;Здоровье;oksendama;рвать (о рвоте), тошнить;to vomit;Lapsel on paha olla ja ta oksendab. — Ребёнку плохо, его тошнит.;ma oksendan — меня рвёт;;
+A2;word;Здоровье;oksendama;рвать (о рвоте);to vomit;Lapsel on paha olla ja ta oksendab. — Ребёнку плохо, его рвёт.;ma oksendan — меня рвёт;;
 A2;word;Здоровье;kraadima;измерять температуру;to take temperature;Kraadi last. — Измерь ребёнку температуру.;ma kraadin — я меряю температуру;;
 A2;word;Профессии;ettekandja;официантка;waitress;Ettekandja tõi menüü. — Официантка принесла меню.;От ette kandma — подавать (блюда): ette (вперёд) + kandma (нести);;
 A2;word;Профессии;advokaat;адвокат;lawyer, attorney;Mul on vaja advokaati. — Мне нужен адвокат.;;;
@@ -3331,7 +3331,7 @@ A2;phrase;Время;eelmisel kuul;в прошлом месяце;last month;Eel
 A2;phrase;Время;paar päeva;пару дней;a couple of days;Jään paariks päevaks Tartusse. — Я останусь на пару дней в Тарту.;;;a2-time-expressions
 A2;phrase;Связки;ühelt poolt;с одной стороны;on the one hand;Ühelt poolt on see kallis. — С одной стороны, это дорого.;;;a2-reasons-opinions
 A2;phrase;Связки;teiselt poolt;с другой стороны;on the other hand;Teiselt poolt on see väga mugav. — С другой стороны, это очень удобно.;;;a2-reasons-opinions
-A2;phrase;Связки;minu arvates;по-моему;in my opinion;Minu arvates on see hea mõte. — По-моему, это хорошая мысль.;;;b1-opinion
+A2;phrase;Связки;minu arvates;по-моему;in my opinion;Minu arvates on see hea mõte. — По-моему, это хорошая мысль.;;;a2-reasons-opinions
 A2;phrase;Связки;see tähendab;то есть, это значит;that is, it means;Kell kaks, see tähendab pärast lõunat. — В два, то есть после обеда.;;;a2-reasons-opinions
 A2;phrase;Связки;kui ... siis;если ... то;if ... then;Kui sajab, siis jääme koju. — Если пойдёт дождь, то останемся дома.;;;a2-conjunctions
 A2;phrase;Связки;mitte ainult;не только;not only;Ta räägib mitte ainult eesti, vaid ka soome keelt. — Он говорит не только по-эстонски, но и по-фински.;;;a2-conjunctions
@@ -3566,7 +3566,7 @@ A2;sentence;Услуги;Millal mu auto valmis on?;Когда будет гот�
 A2;sentence;Услуги;Mu telefon on katki, kas te saate seda parandada?;Мой телефон сломан, вы можете его починить?;My phone is broken, can you repair it?;;;;a1-kas
 A2;sentence;Услуги;Kui palju parandus maksab?;Сколько стоит ремонт?;How much does the repair cost?;;;;a1-question-words
 A2;sentence;Услуги;Kas ma saan selle tagastada?;Можно это вернуть?;Can I return this?;;;;a2-modality
-A2;sentence;Услуги;Ma tahaksin kaevata.;Я хочу пожаловаться.;I'd like to make a complaint.;;;;a2-conditional
+A2;sentence;Услуги;Ma tahaksin kaevata.;Я хочу пожаловаться.;I'd like to make a complaint.;;kaevata — da-форма глагола kaebama (жаловаться). Официальнее: Ma tahaksin esitada kaebuse.;;a2-conditional
 A2;sentence;Услуги;Kas teil on tšekk alles?;У вас сохранился чек?;Do you still have the receipt?;;;;a1-mul-on
 A2;sentence;В ресторане;Ma tahaksin broneerida laua neljale.;Я бы хотел забронировать столик на четверых.;I'd like to book a table for four.;;;;a2-conditional
 A2;sentence;В ресторане;Kas see laud on vaba?;Этот столик свободен?;Is this table free?;;;;a1-kas
@@ -3590,7 +3590,7 @@ A2;sentence;Планы и встречи;Ma kutsun sind oma sünnipäevale.;Я �
 A2;sentence;Планы и встречи;Aitäh kutse eest, ma tulen hea meelega.;Спасибо за приглашение, я с радостью приду.;Thanks for the invitation, I'll gladly come.;;;;a2-postpositions
 A2;sentence;Планы и встречи;Kahjuks ma ei saa tulla.;К сожалению, я не смогу прийти.;Unfortunately, I can't come.;;;;a1-negation
 A2;sentence;Планы и встречи;Suvel tahame sõita Itaaliasse.;Летом мы хотим поехать в Италию.;In summer we want to go to Italy.;;;;a1-days-months
-A2;sentence;Мнения и чувства;Minu arvates on see hea idee.;По-моему, это хорошая идея.;In my opinion it's a good idea.;;;;b1-opinion
+A2;sentence;Мнения и чувства;Minu arvates on see hea idee.;По-моему, это хорошая идея.;In my opinion it's a good idea.;;;;a2-reasons-opinions
 A2;sentence;Мнения и чувства;Ma olen sinuga nõus.;Я с тобой согласен.;I agree with you.;;;;a1-comitative
 A2;sentence;Мнения и чувства;Ma ei ole sellega nõus.;Я с этим не согласен.;I don't agree with that.;;;;a1-comitative
 A2;sentence;Мнения и чувства;Mulle see väga meeldib.;Мне это очень нравится.;I like it very much.;;;;a1-adessive-allative
@@ -3606,7 +3606,7 @@ A2;sentence;Экстренные ситуации;Palun aidake mind!;Пожал�
 A2;sentence;Экстренные ситуации;Helistage numbril 112!;Позвоните по номеру 112!;Call 112!;;;;a1-imperative
 A2;sentence;Экстренные ситуации;Juhtus õnnetus.;Произошёл несчастный случай.;There's been an accident.;;;;
 A2;sentence;Экстренные ситуации;Kutsuge politsei!;Вызовите полицию!;Call the police!;;;;a1-imperative
-A2;sentence;Экстренные ситуации;Mu rahakott on varastatud.;У меня украли кошелёк.;My wallet has been stolen.;;;;a1-pronouns
+A2;sentence;Экстренные ситуации;Mu rahakott on varastatud.;У меня украли кошелёк.;My wallet has been stolen.;;;;a2-impersonal
 A2;sentence;Экстренные ситуации;Ma kaotasin oma passi.;Я потерял паспорт.;I've lost my passport.;;;;a1-past
 A2;sentence;Экстренные ситуации;Kas kõik on korras?;Всё в порядке?;Is everything OK?;;;;a1-kas
 A2;sentence;Экстренные ситуации;Majas on tulekahju!;В доме пожар!;There's a fire in the building!;;;;
@@ -3676,7 +3676,7 @@ A2;word;Машина и дорога;käigukast;коробка передач;ge
 A2;word;Машина и дорога;turvavöö;ремень безопасности;seat belt;Pane turvavöö kinni. — Пристегни ремень безопасности.;Состоит из: turva (безопасность) + vöö (пояс);;
 A2;word;Машина и дорога;esiklaas;лобовое стекло;windscreen;Esiklaas on katki. — Лобовое стекло треснуло.;Состоит из: esi- (передний) + klaas (стекло);;
 A2;word;Машина и дорога;klaasipuhasti;стеклоочиститель, дворник;windscreen wiper;Lülita klaasipuhastid sisse. — Включи дворники.;Состоит из: klaas (стекло) + puhasti (очиститель);;
-A2;word;Машина и дорога;suunatuli;поворотник;turn signal;Näita suunatulega. — Включи поворотник.;Состоит из: suund (направление) + tuli (огонь);;
+A2;word;Машина и дорога;suunatuli;поворотник;turn signal;Lülita suunatuli sisse. — Включи поворотник.;Состоит из: suund (направление) + tuli (свет, огонь);;
 A2;word;Машина и дорога;velg;колёсный диск;wheel rim;Velg on kõver. — Диск погнулся.;;;
 A2;word;Машина и дорога;kiiver;шлем;helmet;Pane kiiver pähe. — Надень шлем.;;;
 A2;word;Машина и дорога;helkur;светоотражатель;reflector;Pimedas tuleb kanda helkurit. — В темноте нужно носить светоотражатель.;;;
@@ -3693,9 +3693,9 @@ A2;word;Техника и связь;kuvar;монитор;monitor;Mul on kaks ku
 A2;word;Техника и связь;arvutihiir;компьютерная мышь;computer mouse;Arvutihiir ei tööta. — Компьютерная мышь не работает.;Состоит из: arvuti (компьютер) + hiir (мышь);;
 A2;word;Техника и связь;koduleht;главная страница сайта, сайт;home page, website;Vaata infot meie kodulehelt. — Смотрите информацию на нашем сайте.;Состоит из: kodu (дом) + leht (страница);;
 A2;word;Техника и связь;otsing;поиск;search;Kasuta otsingut. — Воспользуйся поиском.;;;
-A2;word;Техника и связь;salasõna;пароль (синоним);password;Ära ütle oma salasõna kellelegi. — Никому не говори свой пароль.;Состоит из: sala- (тайный) + sõna (слово);;
+A2;word;Техника и связь;salasõna;пароль;password;Ära ütle oma salasõna kellelegi. — Никому не говори свой пароль.;Синоним: parool. Состоит из: sala- (тайный) + sõna (слово);;
 A2;word;Техника и связь;kasutajanimi;имя пользователя;username;Sisesta kasutajanimi. — Введи имя пользователя.;Состоит из: kasutaja (пользователь) + nimi (имя);;
-A2;word;Техника и связь;kaust;папка (на компьютере);folder;Fail on kaustas «Dokumendid». — Файл в папке «Документы».;;;
+A2;word;Техника и связь;kaust;папка (на компьютере);folder;Fail on kaustas „Dokumendid“. — Файл в папке «Документы».;;;
 A2;word;Техника и связь;veebilehitseja;браузер;web browser;Ava link veebilehitsejas. — Открой ссылку в браузере.;Состоит из: veeb (интернет) + lehitseja (тот, кто листает);;
 A2;word;Техника и связь;võrk;сеть;network;Telefon ei leia võrku. — Телефон не находит сеть.;;;
 A2;word;Техника и связь;manus;вложение к письму;attachment;Manuses on arve. — Во вложении счёт.;;;
@@ -3877,7 +3877,7 @@ B1;word;Жильё и бытовые проблемы;arvesti;счётчик (р
 B1;word;Жильё и бытовые проблемы;majahoidja;дворник, смотритель дома;caretaker;Majahoidja koristab trepikoda. — Дворник убирает подъезд.;Состоит из: maja (дом) + hoidja (смотритель);;
 B1;word;Здоровье и образ жизни;taastumine;восстановление, выздоровление;recovery;Taastumine võtab aega. — Восстановление требует времени.;;;
 B1;word;Здоровье и образ жизни;tervisekontroll;медосмотр;health check;Kord aastas käin tervisekontrollis. — Раз в год я прохожу медосмотр.;Состоит из: tervis (здоровье) + kontroll (проверка);;
-B1;word;Здоровье и образ жизни;haigestuma;заболевать;to fall ill;Ta haigestus gripi. — Он заболел гриппом.;;;
+B1;word;Здоровье и образ жизни;haigestuma;заболевать;to fall ill;Ta haigestus grippi. — Он заболел гриппом.;;;
 B1;word;Здоровье и образ жизни;nakkus;инфекция;infection;Pese käsi, et vältida nakkust. — Мой руки, чтобы избежать инфекции.;;;
 B1;word;Здоровье и образ жизни;ravikindlustus;медицинское страхование;health insurance;Kas teil on ravikindlustus? — У вас есть медицинская страховка?;Состоит из: ravi (лечение) + kindlustus (страховка);;
 B1;word;Здоровье и образ жизни;pereõde;медсестра семейного врача;family nurse;Pereõde mõõtis vererõhku. — Медсестра измерила давление.;Состоит из: pere (семья) + õde (медсестра);;
@@ -3891,7 +3891,7 @@ B1;word;Образование и обучение;õppetöö;учебный п�
 B1;word;Образование и обучение;õppetulemus;результат обучения;learning outcome;Õppetulemused paranesid. — Результаты обучения улучшились.;Состоит из: õpe (учёба) + tulemus (результат);;
 B1;word;Образование и обучение;hindamine;оценивание;assessment;Hindamine on õiglane. — Оценивание справедливое.;;;
 B1;word;Образование и обучение;koolikaaslane;товарищ по школе;schoolmate;Kohtasin vana koolikaaslast. — Я встретил старого школьного товарища.;Состоит из: kool (школа) + kaaslane (товарищ);;
-B1;word;Образование и обучение;edasijõudmine;успеваемость, прогресс в учёбе;academic progress;Õpetaja kiitis tema edasijõudmist. — Учитель похвалил его успехи.;Состоит из: edasi (вперёд) + jõudmine (продвижение);;
+B1;word;Образование и обучение;edasijõudmine;успеваемость, прогресс в учёбе;academic progress;Õpetaja kiitis tema edasijõudmist. — Учитель похвалил его успехи.;Состоит из: edasi (вперёд) + jõudmine (достижение, от jõudma — добираться);;
 B1;word;Путешествия и услуги;sõidusuund;направление движения;direction of travel;Rong vahetas sõidusuunda. — Поезд сменил направление.;Состоит из: sõit (езда) + suund (направление);;
 B1;word;Путешествия и услуги;väljumisaeg;время отправления;departure time;Kontrolli väljumisaega. — Проверь время отправления.;;;
 B1;word;Путешествия и услуги;saabumisaeg;время прибытия;arrival time;Saabumisaeg on kell 18.30. — Время прибытия — 18:30.;;;
@@ -4004,7 +4004,7 @@ B2;word;Окружающая среда;keskkonnamõju;воздействие н
 B2;word;Окружающая среда;heide;выброс (веществ);emission;Autode heide saastab õhku. — Выбросы машин загрязняют воздух.;;;b2-news
 B2;word;Окружающая среда;taaskasutama;использовать повторно;to reuse;Me taaskasutame klaaspudeleid. — Мы повторно используем стеклянные бутылки.;Состоит из: taas (снова) + kasutama (использовать);;b2-news
 B2;word;Технологии и данные;andmekaitse;защита данных;data protection;Andmekaitse on seadusega reguleeritud. — Защита данных регулируется законом.;Состоит из: andmed (данные) + kaitse (защита);;b2-news
-B2;word;Технологии и данные;ligipääs;доступ (синоним);access;Ligipääs andmetele on piiratud. — Доступ к данным ограничен.;Состоит из: ligi (близко) + pääs (проход, доступ);;b2-news
+B2;word;Технологии и данные;ligipääs;доступ;access;Ligipääs andmetele on piiratud. — Доступ к данным ограничен.;Состоит из: ligi (близко) + pääs (проход, доступ);;b2-news
 B2;word;Технологии и данные;nutiseade;умное устройство;smart device;Kodus on palju nutiseadmeid. — Дома много умных устройств.;Состоит из: nuti- (умный) + seade (устройство);;b2-news
 B2;word;Технологии и данные;tõrge;сбой, неполадка;malfunction, error;Süsteemis on tõrge. — В системе сбой.;;;b2-news
 B2;word;Технологии и данные;tarkvara;программное обеспечение;software;Uuenda tarkvara. — Обнови программное обеспечение.;Состоит из: tark (умный) + vara (имущество);;b2-news
@@ -4013,11 +4013,11 @@ B2;word;Технологии и данные;andmebaas;база данных;dat
 B2;word;Технологии и данные;juurutama;внедрять;to implement, to roll out;Firma juurutab uut süsteemi. — Фирма внедряет новую систему.;;;b2-news
 B2;word;Технологии и данные;seadistama;настраивать (устройство или программу);to configure;Seadista printer. — Настрой принтер.;;;b2-news
 B2;word;Технологии и данные;andmeleke;утечка данных;data leak;Ettevõttes toimus andmeleke. — В компании произошла утечка данных.;Состоит из: andmed (данные) + leke (утечка);;b2-news
-B2;word;Культура и образование;kultuuripärand;культурное наследие;cultural heritage;Vanalinn on UNESCO kultuuripärand. — Старый город — культурное наследие ЮНЕСКО.;Состоит из: kultuur (культура) + pärand (наследие);;b2-culture
+B2;word;Культура и образование;kultuuripärand;культурное наследие;cultural heritage;Tallinna vanalinn on UNESCO maailma kultuuripärandi nimekirjas. — Старый город Таллина внесён в список Всемирного наследия ЮНЕСКО.;Состоит из: kultuur (культура) + pärand (наследие);;b2-culture
 B2;word;Культура и образование;kunstiteos;произведение искусства;work of art;Muuseumis on palju kunstiteoseid. — В музее много произведений искусства.;Состоит из: kunst (искусство) + teos (произведение);;b2-culture
 B2;word;Культура и образование;vaatajaskond;аудитория, зрители;audience;Saatel on suur vaatajaskond. — У передачи большая аудитория.;;;b2-culture
 B2;word;Культура и образование;õppekava;учебная программа;curriculum;Kooli õppekava muutus. — Школьная программа изменилась.;Состоит из: õpe (учёба) + kava (план);;b2-culture
-B2;word;Культура и образование;õppejõud;преподаватель вуза;university lecturer;Õppejõud peab loengut. — Преподаватель читает лекцию.;Состоит из: õpe (учёба) + jõud (сила);;b2-culture
+B2;word;Культура и образование;õppejõud;преподаватель вуза;university lecturer;Õppejõud peab loengut. — Преподаватель читает лекцию.;"Состоит из: õpe (учёба) + jõud (сила; здесь — работники, ср. tööjõud)";;b2-culture
 B2;word;Культура и образование;pädevus;компетентность, компетенция;competence;See ei ole minu pädevuses. — Это не в моей компетенции.;;;b2-culture
 B2;word;Культура и образование;enesetäiendamine;самообразование, повышение квалификации;self-development, further training;Enesetäiendamine on oluline. — Самообразование важно.;Состоит из: enese (себя) + täiendamine (дополнение);;b2-culture
 B2;word;Культура и образование;erialavalik;выбор специальности;choice of specialisation;Erialavalik on raske otsus. — Выбор специальности — трудное решение.;Состоит из: eriala (специальность) + valik (выбор);;b2-culture
@@ -4026,7 +4026,7 @@ B2;word;Культура и образование;kultuurilugu;история �
 B2;word;Чувства и благополучие;enesekindlus;уверенность в себе;self-confidence;Tal puudub enesekindlus. — Ему не хватает уверенности в себе.;Состоит из: enese (себя) + kindlus (уверенность);;b2-emotions
 B2;word;Чувства и благополучие;läbipõlemine;эмоциональное выгорание;burnout;Läbipõlemine on tänapäeval sage. — Выгорание сегодня встречается часто.;Состоит из: läbi (насквозь) + põlemine (горение);;b2-emotions
 B2;word;Чувства и благополучие;rahulolematus;недовольство;dissatisfaction;Töötajate rahulolematus kasvab. — Недовольство работников растёт.;;;b2-emotions
-B2;word;Чувства и благополучие;ebakindlus;неуверенность, неопределённость;uncertainty, insecurity;Tuleviku ees on ebakindlus. — Будущее вызывает неуверенность.;Состоит из: eba- (не-) + kindlus (уверенность);;b2-emotions
+B2;word;Чувства и благополучие;ebakindlus;неуверенность, неопределённость;uncertainty, insecurity;Tuleviku suhtes on palju ebakindlust. — В отношении будущего много неопределённости.;Состоит из: eba- (не-) + kindlus (уверенность);;b2-emotions
 B2;word;Чувства и благополучие;kõhklus;сомнение, колебание;hesitation;Ta vastas ilma kõhkluseta. — Он ответил без колебаний.;;;b2-emotions
 B1;phrase;Работа и карьера;töökohale kandideerima;претендовать на вакансию;to apply for a job;Ma kandideerin sellele töökohale. — Я подаю заявку на эту вакансию.;;;
 B1;phrase;Работа и карьера;töötasus kokku leppima;договариваться об оплате;to agree on pay;Me leppisime töötasus kokku. — Мы договорились об оплате.;;;b1-particles
@@ -4071,7 +4071,7 @@ B1;phrase;Культура и досуг;näitusel käima;посещать вы�
 B1;phrase;Общение и мнения;oma seisukohta selgitama;объяснять свою позицию;to explain one's position;Palun selgitage oma seisukohta. — Пожалуйста, объясните свою позицию.;;;
 B1;phrase;Общение и мнения;selgelt väljendama;ясно выражать;to express clearly;Ta oskab oma mõtteid selgelt väljendada. — Он(а) умеет ясно выражать свои мысли.;;;a2-adverbs
 B1;phrase;Общение и мнения;kirjalikult vastama;отвечать письменно;to reply in writing;Palun vastake kirjalikult. — Пожалуйста, ответьте письменно.;;;
-B2;phrase;Аргументация и дискуссия;sellest hoolimata;несмотря на это;nevertheless;;;;b1-cause-purpose
+B2;phrase;Аргументация и дискуссия;sellest hoolimata;несмотря на это;nevertheless;;;;b2-concession
 B2;phrase;Аргументация и дискуссия;seda arvesse võttes;учитывая это;taking this into account;;;;b2-cohesion
 B2;phrase;Аргументация и дискуссия;võrreldes eelmise aastaga;по сравнению с прошлым годом;compared with last year;;;;b2-cohesion
 B2;phrase;Аргументация и дискуссия;pikemas perspektiivis;в долгосрочной перспективе;in the longer term;;;;b2-cohesion
@@ -4880,13 +4880,13 @@ B1;word;Жильё и бытовые проблемы;niiskus;влажность
 B1;word;Жильё и бытовые проблемы;hallitus;плесень;mould;Vannitoas on hallitus. — В ванной плесень.;;;
 B1;word;Жильё и бытовые проблемы;kolimine;переезд;moving (house);Kolimine on alati väsitav. — Переезд — это всегда утомительно.;От kolima: -mine;;
 B1;word;Жильё и бытовые проблемы;müra;шум;noise;Tänavalt kostab müra. — С улицы доносится шум.;;;
-B1;word;Путешествия и услуги;sihtkoht;пункт назначения;destination;Mis on teie reisi sihtkoht? — Куда вы едете (каков пункт назначения)?;;;
+B1;word;Путешествия и услуги;sihtkoht;пункт назначения;destination;Mis on teie reisi sihtkoht? — Каков пункт назначения вашей поездки?;;;
 B1;word;Путешествия и услуги;reisibüroo;турагентство;travel agency;Ostsime reisi reisibüroost. — Мы купили путёвку в турагентстве.;;;
 B1;word;Путешествия и услуги;broneering;бронирование, бронь;booking;Mul on broneering kahele. — У меня бронь на двоих.;;;
 B1;word;Путешествия и услуги;ööbimine;ночёвка, ночлег;overnight stay;Hinnas sisaldub ööbimine ja hommikusöök. — В цену входит ночлег и завтрак.;;;
 B1;word;Путешествия и услуги;väljasõit;выезд, поездка;trip, outing;Laupäeval on klassi väljasõit. — В субботу класс едет на экскурсию.;;;
 B1;word;Путешествия и услуги;sõidukaart;проездная карта;travel card;Laadi sõidukaardile raha. — Пополни проездную карту.;;;
-B1;word;Путешествия и услуги;kiiruspiirang;ограничение скорости;speed limit;Siin on kiiruspiirang 50. — Здесь ограничение скорости 50.;;;
+B1;word;Путешествия и услуги;kiiruspiirang;ограничение скорости;speed limit;Siin on kiiruspiirang 50. — Здесь ограничение скорости 50.;Пишут также kiirusepiirang.;;
 B1;word;Окружающая среда;pakend;упаковка;packaging;Pakendid pane kollasesse konteinerisse. — Упаковку клади в жёлтый контейнер.;;;
 B1;word;Окружающая среда;pandipakend;тара с залогом;deposit bottle or can;Viin pandipakendid poodi tagasi. — Я сдаю тару с залогом обратно в магазин.;Бутылки и банки, за которые возвращают деньги;;
 B1;word;Окружающая среда;keskkonnasõbralik;экологичный;eco-friendly;Jalgratas on keskkonnasõbralik. — Велосипед — экологичный транспорт.;;;
@@ -5548,7 +5548,7 @@ B2;phrase;Рабочее общение;tagasisidet andma;давать обра�
 B2;phrase;Рабочее общение;kokkuleppest kinni pidama;соблюдать договорённость;to keep to an agreement;;;;b2-work
 B2;sentence;Рабочее общение;Mis seisus see ülesanne on?;На какой стадии эта задача?;How is that task coming along?;;;;b2-work
 B2;sentence;Рабочее общение;Võtan selle enda peale.;Я возьму это на себя.;I'll take care of it.;;;;b2-work
-B2;sentence;Рабочее общение;Ma ei jõua seda tähtajaks valmis.;Я не успею закончить это к сроку.;I won't be able to finish it by the deadline.;;;;b2-work
+B2;sentence;Рабочее общение;Ma ei jõua seda tähtajaks valmis teha.;Я не успею закончить это к сроку.;I won't be able to finish it by the deadline.;;;Ma ei jõua seda tähtajaks valmis.;b2-work
 B2;word;Финансы и обязательства;püsikorraldus;постоянное платёжное поручение;standing order;Seadistasin üüri maksmiseks püsikorralduse. — Я настроил постоянное платёжное поручение для оплаты аренды.;;;b2-finance
 B2;word;Финансы и обязательства;otsekorraldus;прямое списание средств;direct debit;Varem maksin arveid otsekorraldusega. — Раньше я оплачивал счета прямым списанием.;Также встречается в более старых банковских материалах.;;b2-finance
 B2;word;Финансы и обязательства;maksetähtaeg;срок оплаты;payment deadline, due date;Arve maksetähtaeg on reedel. — Срок оплаты счёта — пятница.;;;b2-finance
@@ -5712,7 +5712,7 @@ B2;sentence;Культура и образ жизни;Hirmul on suured silmad.;�
 B2;sentence;Культура и образ жизни;Käbi ei kuku kännust kaugele.;Яблоко от яблони недалеко падает.;The apple doesn't fall far from the tree.;;;;b2-culture
 B2;sentence;Культура и образ жизни;Targem annab järele.;Кто умнее, тот уступит.;The wiser person gives way.;;;;b2-culture
 B2;sentence;Культура и образ жизни;Õnnetus ei hüüa tulles.;Беда приходит без предупреждения.;Misfortune comes without warning.;;;;b2-culture
-B2;sentence;Культура и образ жизни;Põrsast kotis ei osteta.;Не покупают кота в мешке.;Don't buy a pig in a poke.;;;;b2-culture
+B2;sentence;Культура и образ жизни;Põrsast kotis ei osteta.;Кота в мешке не покупают.;Don't buy a pig in a poke.;;;;b2-culture
 B2;word;Общество и государство;eelnõu;законопроект, проект нормативного акта;bill, draft legislation;Eelnõu on alles arutlusel. — Законопроект пока находится на обсуждении.;;;b2-news
 B2;word;Общество и государство;rahvastik;население;population;Piirkonna rahvastik väheneb. — Население региона сокращается.;;;b2-news
 B2;phrase;Общество и государство;jõustunud seadus;вступивший в силу закон;law that has entered into force;;;;b2-news
@@ -5797,107 +5797,107 @@ A2;word;Страны и языки;Elevandiluurannik;Кот-д’Ивуар, Б�
 A2;word;Страны и языки;Keenia;Кения;Kenya;Ta sõidab Keeniasse. — Она едет в Кению.;Имя собственное. Где? Keenias. Куда? Keeniasse. Откуда? Keeniast.;;a1-where
 A2;word;Страны и языки;Jeemen;Йемен;Yemen;Ta on pärit Jeemenist. — Он родом из Йемена.;Имя собственное. Где? Jeemenis. Куда? Jeemenisse. Откуда? Jeemenist.;;a1-where
 A2;word;Страны и языки;Birma;Мьянма, Бирма;Myanmar, Burma;Ta on pärit Birmast. — Она родом из Мьянмы.;Имя собственное. Где? Birmas. Куда? Birmasse. Откуда? Birmast.;;a1-where
-A1;phrase;Числа и количество;kakskümmend üks;21;21;Bussis on kakskümmend üks inimest. — В автобусе 21 человек.;Количественное числительное: 21.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend üks;21;21;Mu poeg saab homme kakskümmend üks. — Моему сыну завтра исполнится 21.;Количественное числительное: 21.;;a1-numbers
 A1;phrase;Числа и количество;kakskümmend kaks;22;22;Õues on kakskümmend kaks kraadi sooja. — На улице 22 градуса тепла.;Количественное числительное: 22.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend kolm;23;23;Klassis on kakskümmend kolm tooli. — В классе 23 стула.;Количественное числительное: 23.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend neli;24;24;Raamat maksab kakskümmend neli eurot. — Книга стоит 24 евро.;Количественное числительное: 24.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend viis;25;25;Pilet maksab kakskümmend viis eurot. — Билет стоит 25 евро.;Количественное числительное: 25.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend kuus;26;26;Mul on kakskümmend kuus eurot. — У меня 26 евро.;Количественное числительное: 26.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend seitse;27;27;Sõit kestab kakskümmend seitse minutit. — Поездка длится 27 минут.;Количественное числительное: 27.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend kaheksa;28;28;Koolis töötab kakskümmend kaheksa õpetajat. — В школе работает 28 учителей.;Количественное числительное: 28.;;a1-numbers
-A1;phrase;Числа и количество;kakskümmend üheksa;29;29;Mul on kakskümmend üheksa minutit aega. — У меня есть 29 минут.;Количественное числительное: 29.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend üks;31;31;Meil on kolmkümmend üks fotot. — У нас 31 фотография.;Количественное числительное: 31.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend kaks;32;32;Kohvikus on kolmkümmend kaks kohta. — В кафе 32 места.;Количественное числительное: 32.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend kolm;33;33;Karbis on kolmkümmend kolm pliiatsit. — В коробке 33 карандаша.;Количественное числительное: 33.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend neli;34;34;Pilet maksab kolmkümmend neli eurot. — Билет стоит 34 евро.;Количественное числительное: 34.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend viis;35;35;Klassis on kolmkümmend viis tooli. — В классе 35 стульев.;Количественное числительное: 35.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend kuus;36;36;Raamat maksab kolmkümmend kuus eurot. — Книга стоит 36 евро.;Количественное числительное: 36.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend seitse;37;37;Saalis on kolmkümmend seitse kohta. — В зале 37 мест.;Количественное числительное: 37.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend kaheksa;38;38;Mul on kolmkümmend kaheksa minutit aega. — У меня есть 38 минут.;Количественное числительное: 38.;;a1-numbers
-A1;phrase;Числа и количество;kolmkümmend üheksa;39;39;Sõit kestab kolmkümmend üheksa minutit. — Поездка длится 39 минут.;Количественное числительное: 39.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend üks;41;41;Koolis töötab nelikümmend üks õpetajat. — В школе работает 41 учитель.;Количественное числительное: 41.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend kaks;42;42;Poes müüdi nelikümmend kaks piletit. — В магазине продали 42 билета.;Количественное числительное: 42.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend kolm;43;43;Pilet maksab nelikümmend kolm eurot. — Билет стоит 43 евро.;Количественное числительное: 43.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend neli;44;44;Kohvikus on nelikümmend neli kohta. — В кафе 44 места.;Количественное числительное: 44.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend viis;45;45;Karbis on nelikümmend viis pliiatsit. — В коробке 45 карандашей.;Количественное числительное: 45.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend kuus;46;46;Meil on nelikümmend kuus fotot. — У нас 46 фотографий.;Количественное числительное: 46.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend seitse;47;47;Mul on nelikümmend seitse minutit aega. — У меня есть 47 минут.;Количественное числительное: 47.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend kaheksa;48;48;Raamat maksab nelikümmend kaheksa eurot. — Книга стоит 48 евро.;Количественное числительное: 48.;;a1-numbers
-A1;phrase;Числа и количество;nelikümmend üheksa;49;49;Saalis on nelikümmend üheksa kohta. — В зале 49 мест.;Количественное числительное: 49.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend üks;51;51;Mul on viiskümmend üks eurot. — У меня 51 евро.;Количественное числительное: 51.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend kaks;52;52;Pilet maksab viiskümmend kaks eurot. — Билет стоит 52 евро.;Количественное числительное: 52.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend kolm;53;53;Koolis töötab viiskümmend kolm õpetajat. — В школе работает 53 учителя.;Количественное числительное: 53.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend neli;54;54;Poes müüdi viiskümmend neli piletit. — В магазине продали 54 билета.;Количественное числительное: 54.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend viis;55;55;Meil on viiskümmend viis fotot. — У нас 55 фотографий.;Количественное числительное: 55.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend kuus;56;56;Mul on viiskümmend kuus minutit aega. — У меня есть 56 минут.;Количественное числительное: 56.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend seitse;57;57;Karbis on viiskümmend seitse pliiatsit. — В коробке 57 карандашей.;Количественное числительное: 57.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend kaheksa;58;58;Meil on viiskümmend kaheksa fotot. — У нас 58 фотографий.;Количественное числительное: 58.;;a1-numbers
-A1;phrase;Числа и количество;viiskümmend üheksa;59;59;Klassis on viiskümmend üheksa tooli. — В классе 59 стульев.;Количественное числительное: 59.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend üks;61;61;Pilet maksab kuuskümmend üks eurot. — Билет стоит 61 евро.;Количественное числительное: 61.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend kaks;62;62;Saalis on kuuskümmend kaks kohta. — В зале 62 места.;Количественное числительное: 62.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend kolm;63;63;Mul on kuuskümmend kolm eurot. — У меня 63 евро.;Количественное числительное: 63.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend neli;64;64;Sõit kestab kuuskümmend neli minutit. — Поездка длится 64 минуты.;Количественное числительное: 64.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend viis;65;65;Mul on kuuskümmend viis minutit aega. — У меня есть 65 минут.;Количественное числительное: 65.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend kuus;66;66;Poes müüdi kuuskümmend kuus piletit. — В магазине продали 66 билетов.;Количественное числительное: 66.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend seitse;67;67;Meil on kuuskümmend seitse fotot. — У нас 67 фотографий.;Количественное числительное: 67.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend kaheksa;68;68;Kohvikus on kuuskümmend kaheksa kohta. — В кафе 68 мест.;Количественное числительное: 68.;;a1-numbers
-A1;phrase;Числа и количество;kuuskümmend üheksa;69;69;Bussis on kuuskümmend üheksa inimest. — В автобусе 69 человек.;Количественное числительное: 69.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend üks;71;71;Meil on seitsekümmend üks fotot. — У нас 71 фотография.;Количественное числительное: 71.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend kaks;72;72;Klassis on seitsekümmend kaks tooli. — В классе 72 стула.;Количественное числительное: 72.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend kolm;73;73;Raamat maksab seitsekümmend kolm eurot. — Книга стоит 73 евро.;Количественное числительное: 73.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend neli;74;74;Mul on seitsekümmend neli minutit aega. — У меня есть 74 минуты.;Количественное числительное: 74.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend viis;75;75;Mul on seitsekümmend viis eurot. — У меня 75 евро.;Количественное числительное: 75.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend kuus;76;76;Sõit kestab seitsekümmend kuus minutit. — Поездка длится 76 минут.;Количественное числительное: 76.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend seitse;77;77;Koolis töötab seitsekümmend seitse õpetajat. — В школе работает 77 учителей.;Количественное числительное: 77.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend kaheksa;78;78;Bussis on seitsekümmend kaheksa inimest. — В автобусе 78 человек.;Количественное числительное: 78.;;a1-numbers
-A1;phrase;Числа и количество;seitsekümmend üheksa;79;79;Meil on seitsekümmend üheksa fotot. — У нас 79 фотографий.;Количественное числительное: 79.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend üks;81;81;Kohvikus on kaheksakümmend üks kohta. — В кафе 81 место.;Количественное числительное: 81.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend kaks;82;82;Karbis on kaheksakümmend kaks pliiatsit. — В коробке 82 карандаша.;Количественное числительное: 82.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend kolm;83;83;Mul on kaheksakümmend kolm minutit aega. — У меня есть 83 минуты.;Количественное числительное: 83.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend neli;84;84;Klassis on kaheksakümmend neli tooli. — В классе 84 стула.;Количественное числительное: 84.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend viis;85;85;Raamat maksab kaheksakümmend viis eurot. — Книга стоит 85 евро.;Количественное числительное: 85.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend kuus;86;86;Saalis on kaheksakümmend kuus kohta. — В зале 86 мест.;Количественное числительное: 86.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend seitse;87;87;Bussis on kaheksakümmend seitse inimest. — В автобусе 87 человек.;Количественное числительное: 87.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend kaheksa;88;88;Sõit kestab kaheksakümmend kaheksa minutit. — Поездка длится 88 минут.;Количественное числительное: 88.;;a1-numbers
-A1;phrase;Числа и количество;kaheksakümmend üheksa;89;89;Koolis töötab kaheksakümmend üheksa õpetajat. — В школе работает 89 учителей.;Количественное числительное: 89.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend üks;91;91;Poes müüdi üheksakümmend üks piletit. — В магазине продали 91 билет.;Количественное числительное: 91.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend kaks;92;92;Mul on üheksakümmend kaks minutit aega. — У меня есть 92 минуты.;Количественное числительное: 92.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend kolm;93;93;Kohvikus on üheksakümmend kolm kohta. — В кафе 93 места.;Количественное числительное: 93.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend neli;94;94;Karbis on üheksakümmend neli pliiatsit. — В коробке 94 карандаша.;Количественное числительное: 94.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend viis;95;95;Meil on üheksakümmend viis fotot. — У нас 95 фотографий.;Количественное числительное: 95.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend kuus;96;96;Bussis on üheksakümmend kuus inimest. — В автобусе 96 человек.;Количественное числительное: 96.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend seitse;97;97;Raamat maksab üheksakümmend seitse eurot. — Книга стоит 97 евро.;Количественное числительное: 97.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend kaheksa;98;98;Saalis on üheksakümmend kaheksa kohta. — В зале 98 мест.;Количественное числительное: 98.;;a1-numbers
-A1;phrase;Числа и количество;üheksakümmend üheksa;99;99;Mul on üheksakümmend üheksa eurot. — У меня 99 евро.;Количественное числительное: 99.;;a1-numbers
-A1;phrase;Числа и количество;sada üks;101;101;Tee on sada üks meetrit pikk. — Длина дороги — 101 метр.;Количественное числительное: 101.;;a1-numbers
-A1;phrase;Числа и количество;sada viis;105;105;Raamatukogus on sada viis uut raamatut. — В библиотеке 105 новых книг.;Количественное числительное: 105.;;a1-numbers
-A1;phrase;Числа и количество;sada kümme;110;110;Parkla mahutab sada kümme autot. — На парковке помещается 110 автомобилей.;Количественное числительное: 110.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend kolm;23;23;Buss number kakskümmend kolm sõidab kesklinna. — Автобус номер 23 едет в центр.;Количественное числительное: 23.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend neli;24;24;Ööpäevas on kakskümmend neli tundi. — В сутках 24 часа.;Количественное числительное: 24.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend viis;25;25;Kontserdipilet maksab kakskümmend viis eurot. — Билет на концерт стоит 25 евро.;Количественное числительное: 25.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend kuus;26;26;Ma elan korteris number kakskümmend kuus. — Я живу в квартире номер 26.;Количественное числительное: 26.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend seitse;27;27;Vend on kakskümmend seitse aastat vana. — Брату 27 лет.;Количественное числительное: 27.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend kaheksa;28;28;Veebruaris on tavaliselt kakskümmend kaheksa päeva. — В феврале обычно 28 дней.;Количественное числительное: 28.;;a1-numbers
+A1;phrase;Числа и количество;kakskümmend üheksa;29;29;Need kingad maksavad kakskümmend üheksa eurot. — Эти туфли стоят 29 евро.;Количественное числительное: 29.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend üks;31;31;Jaanuaris on kolmkümmend üks päeva. — В январе 31 день.;Количественное числительное: 31.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend kaks;32;32;Avage õpik leheküljelt kolmkümmend kaks. — Откройте учебник на странице 32.;Количественное числительное: 32.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend kolm;33;33;Ta sai eile kolmkümmend kolm. — Вчера ему исполнилось 33.;Количественное числительное: 33.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend neli;34;34;Meie klassis on kolmkümmend neli õpilast. — В нашем классе 34 ученика.;Количественное числительное: 34.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend viis;35;35;Sõit tööle võtab kolmkümmend viis minutit. — Дорога на работу занимает 35 минут.;Количественное числительное: 35.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend kuus;36;36;Karbis on kolmkümmend kuus värvipliiatsit. — В коробке 36 цветных карандашей.;Количественное числительное: 36.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend seitse;37;37;Ma ootan bussi number kolmkümmend seitse. — Я жду автобус номер 37.;Количественное числительное: 37.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend kaheksa;38;38;Lapsel on palavik, kolmkümmend kaheksa kraadi. — У ребёнка температура 38 градусов.;Количественное числительное: 38.;;a1-numbers
+A1;phrase;Числа и количество;kolmkümmend üheksa;39;39;Meie maja number on kolmkümmend üheksa. — Номер нашего дома — 39.;Количественное числительное: 39.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend üks;41;41;Ema on nelikümmend üks aastat vana. — Маме 41 год.;Количественное числительное: 41.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend kaks;42;42;Raamatus on nelikümmend kaks peatükki. — В книге 42 главы.;Количественное числительное: 42.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend kolm;43;43;Arve on nelikümmend kolm eurot. — Счёт — 43 евро.;Количественное числительное: 43.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend neli;44;44;Isa jalanumber on nelikümmend neli. — У папы 44-й размер обуви.;Количественное числительное: 44.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend viis;45;45;Tund kestab nelikümmend viis minutit. — Урок длится 45 минут.;Количественное числительное: 45.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend kuus;46;46;Saalis on nelikümmend kuus tooli. — В зале 46 стульев.;Количественное числительное: 46.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend seitse;47;47;Rongis on nelikümmend seitse reisijat. — В поезде 47 пассажиров.;Количественное числительное: 47.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend kaheksa;48;48;Ma ootasin arsti juures nelikümmend kaheksa minutit. — Я ждал у врача 48 минут.;Количественное числительное: 48.;;a1-numbers
+A1;phrase;Числа и количество;nelikümmend üheksa;49;49;Jope maksab allahindlusega nelikümmend üheksa eurot. — Куртка со скидкой стоит 49 евро.;Количественное числительное: 49.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend üks;51;51;Isa sai täna viiskümmend üks. — Папе сегодня исполнился 51 год.;Количественное числительное: 51.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend kaks;52;52;Aastas on viiskümmend kaks nädalat. — В году 52 недели.;Количественное числительное: 52.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend kolm;53;53;Kontoris töötab viiskümmend kolm inimest. — В офисе работают 53 человека.;Количественное числительное: 53.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend neli;54;54;Ostud maksid kokku viiskümmend neli eurot. — Покупки стоили всего 54 евро.;Количественное числительное: 54.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend viis;55;55;Korter on viiskümmend viis ruutmeetrit. — Квартира — 55 квадратных метров.;Количественное числительное: 55.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend kuus;56;56;Vanaisa elas selles majas viiskümmend kuus aastat. — Дедушка прожил в этом доме 56 лет.;Количественное числительное: 56.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend seitse;57;57;Bussipeatuseni on viiskümmend seitse sammu. — До остановки 57 шагов.;Количественное числительное: 57.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend kaheksa;58;58;Ta kaalub viiskümmend kaheksa kilo. — Она весит 58 килограммов.;Количественное числительное: 58.;;a1-numbers
+A1;phrase;Числа и количество;viiskümmend üheksa;59;59;Telefoni aku on viiskümmend üheksa protsenti täis. — Телефон заряжен на 59 процентов.;Количественное числительное: 59.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend üks;61;61;Vanaema on kuuskümmend üks aastat vana. — Бабушке 61 год.;Количественное числительное: 61.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend kaks;62;62;Lennuk väljub väravast kuuskümmend kaks. — Самолёт вылетает от выхода 62.;Количественное числительное: 62.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend kolm;63;63;Raamatukogus on kuuskümmend kolm uut raamatut. — В библиотеке 63 новые книги.;Количественное числительное: 63.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend neli;64;64;Malelaual on kuuskümmend neli ruutu. — На шахматной доске 64 клетки.;Количественное числительное: 64.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend viis;65;65;Kontserdil oli kuuskümmend viis inimest. — На концерте было 65 человек.;Количественное числительное: 65.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend kuus;66;66;Hotellis on kuuskümmend kuus tuba. — В гостинице 66 номеров.;Количественное числительное: 66.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend seitse;67;67;Ma lugesin täna kuuskümmend seitse lehekülge. — Сегодня я прочитал 67 страниц.;Количественное числительное: 67.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend kaheksa;68;68;Pargis on kuuskümmend kaheksa pinki. — В парке 68 скамеек.;Количественное числительное: 68.;;a1-numbers
+A1;phrase;Числа и количество;kuuskümmend üheksa;69;69;Täna sain kuuskümmend üheksa e-kirja. — Сегодня я получил 69 электронных писем.;Количественное числительное: 69.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend üks;71;71;Raamatus on seitsekümmend üks pilti. — В книге 71 картинка.;Количественное числительное: 71.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend kaks;72;72;Pakis on seitsekümmend kaks küpsist. — В пачке 72 печенья.;Количественное числительное: 72.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend kolm;73;73;Vanaisa sai seitsekümmend kolm. — Дедушке исполнилось 73.;Количественное числительное: 73.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend neli;74;74;Kassas maksin seitsekümmend neli eurot. — На кассе я заплатил 74 евро.;Количественное числительное: 74.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend viis;75;75;Täna sõitsin rattaga seitsekümmend viis kilomeetrit. — Сегодня я проехал на велосипеде 75 километров.;Количественное числительное: 75.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend kuus;76;76;Korter number seitsekümmend kuus on üheksandal korrusel. — Квартира номер 76 на девятом этаже.;Количественное числительное: 76.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend seitse;77;77;Ajalehes oli seitsekümmend seitse kuulutust. — В газете было 77 объявлений.;Количественное числительное: 77.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend kaheksa;78;78;Kooris laulab seitsekümmend kaheksa inimest. — В хоре поют 78 человек.;Количественное числительное: 78.;;a1-numbers
+A1;phrase;Числа и количество;seitsekümmend üheksa;79;79;Kampsun maksab seitsekümmend üheksa eurot. — Свитер стоит 79 евро.;Количественное числительное: 79.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend üks;81;81;Vanaema sai sel aastal kaheksakümmend üks. — Бабушке в этом году исполнился 81 год.;Количественное числительное: 81.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend kaks;82;82;Tänaval on kaheksakümmend kaks maja. — На улице 82 дома.;Количественное числительное: 82.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend kolm;83;83;Lennukis on kaheksakümmend kolm reisijat. — В самолёте 83 пассажира.;Количественное числительное: 83.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend neli;84;84;Mul on telefonis kaheksakümmend neli kontakti. — У меня в телефоне 84 контакта.;Количественное числительное: 84.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend viis;85;85;Vanaisa on kaheksakümmend viis aastat vana. — Дедушке 85 лет.;Количественное числительное: 85.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend kuus;86;86;Selles külas elab kaheksakümmend kuus inimest. — В этой деревне живут 86 человек.;Количественное числительное: 86.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend seitse;87;87;Remont kestis kaheksakümmend seitse päeva. — Ремонт длился 87 дней.;Количественное числительное: 87.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend kaheksa;88;88;Klaveril on kaheksakümmend kaheksa klahvi. — У пианино 88 клавиш.;Количественное числительное: 88.;;a1-numbers
+A1;phrase;Числа и количество;kaheksakümmend üheksa;89;89;Uus mikrolaineahi maksab kaheksakümmend üheksa eurot. — Новая микроволновка стоит 89 евро.;Количественное числительное: 89.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend üks;91;91;Vanavanaema sai üheksakümmend üks. — Прабабушке исполнился 91 год.;Количественное числительное: 91.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend kaks;92;92;Konverentsil osales üheksakümmend kaks inimest. — В конференции участвовали 92 человека.;Количественное числительное: 92.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend kolm;93;93;Raamatus on üheksakümmend kolm lehekülge. — В книге 93 страницы.;Количественное числительное: 93.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend neli;94;94;Täna käis jõusaalis üheksakümmend neli inimest. — Сегодня в тренажёрном зале побывали 94 человека.;Количественное числительное: 94.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend viis;95;95;Ta sai eksamil üheksakümmend viis punkti. — Он получил на экзамене 95 баллов.;Количественное числительное: 95.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend kuus;96;96;Koosolekule tuli üheksakümmend kuus inimest. — На собрание пришли 96 человек.;Количественное числительное: 96.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend seitse;97;97;Selles toas on üheksakümmend seitse raamatut. — В этой комнате 97 книг.;Количественное числительное: 97.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend kaheksa;98;98;Õpilane sai testis üheksakümmend kaheksa protsenti. — Ученик набрал в тесте 98 процентов.;Количественное числительное: 98.;;a1-numbers
+A1;phrase;Числа и количество;üheksakümmend üheksa;99;99;Kohv maksab üheksakümmend üheksa senti. — Кофе стоит 99 центов.;Количественное числительное: 99.;;a1-numbers
+A1;phrase;Числа и количество;sada üks;101;101;Riigikogus on sada üks liiget. — В Рийгикогу 101 депутат.;Количественное числительное: 101.;;a1-numbers
+A1;phrase;Числа и количество;sada viis;105;105;Hotellis on sada viis tuba. — В гостинице 105 номеров.;Количественное числительное: 105.;;a1-numbers
+A1;phrase;Числа и количество;sada kümme;110;110;Selles koolis õpib sada kümme last. — В этой школе учатся 110 детей.;Количественное числительное: 110.;;a1-numbers
 A1;phrase;Числа и количество;sada viisteist;115;115;Ratas maksab sada viisteist eurot. — Велосипед стоит 115 евро.;Количественное числительное: 115.;;a1-numbers
-A1;phrase;Числа и количество;sada kakskümmend;120;120;Raamatus on sada kakskümmend lehekülge. — В книге 120 страниц.;Количественное числительное: 120.;;a1-numbers
+A1;phrase;Числа и количество;sada kakskümmend;120;120;Laps on sada kakskümmend sentimeetrit pikk. — Рост ребёнка — 120 сантиметров.;Количественное числительное: 120.;;a1-numbers
 A1;phrase;Числа и количество;sada kakskümmend viis;125;125;Saali mahub sada kakskümmend viis inimest. — В зале помещается 125 человек.;Количественное числительное: 125.;;a1-numbers
-A1;phrase;Числа и количество;sada viiskümmend;150;150;Koolis õpib sada viiskümmend õpilast. — В школе учится 150 учеников.;Количественное числительное: 150.;;a1-numbers
-A1;phrase;Числа и количество;sada seitsekümmend viis;175;175;Raamatukogus on sada seitsekümmend viis uut raamatut. — В библиотеке 175 новых книг.;Количественное числительное: 175.;;a1-numbers
+A1;phrase;Числа и количество;sada viiskümmend;150;150;Pakk kaalub sada viiskümmend grammi. — Пачка весит 150 граммов.;Количественное числительное: 150.;;a1-numbers
+A1;phrase;Числа и количество;sada seitsekümmend viis;175;175;Minu pikkus on sada seitsekümmend viis sentimeetrit. — Мой рост — 175 сантиметров.;Количественное числительное: 175.;;a1-numbers
 A1;phrase;Числа и количество;sada üheksakümmend üheksa;199;199;Kott maksab sada üheksakümmend üheksa eurot. — Сумка стоит 199 евро.;Количественное числительное: 199.;;a1-numbers
-A1;phrase;Числа и количество;kakssada üks;201;201;Ratas maksab kakssada üks eurot. — Велосипед стоит 201 евро.;Количественное числительное: 201.;;a1-numbers
+A1;phrase;Числа и количество;kakssada üks;201;201;Meie toa number on kakssada üks. — Номер нашей комнаты — 201.;Количественное числительное: 201.;;a1-numbers
 A1;phrase;Числа и количество;kakssada kaks;202;202;Vahemaa on kakssada kaks meetrit. — Расстояние составляет 202 метра.;Количественное числительное: 202.;;a1-numbers
-A1;phrase;Числа и количество;kakssada kümme;210;210;Saali mahub kakssada kümme inimest. — В зале помещается 210 человек.;Количественное числительное: 210.;;a1-numbers
-A1;phrase;Числа и количество;kakssada kakskümmend viis;225;225;Raamatus on kakssada kakskümmend viis lehekülge. — В книге 225 страниц.;Количественное числительное: 225.;;a1-numbers
-A1;phrase;Числа и количество;kakssada viiskümmend;250;250;Raamatukogus on kakssada viiskümmend uut raamatut. — В библиотеке 250 новых книг.;Количественное числительное: 250.;;a1-numbers
+A1;phrase;Числа и количество;kakssada kümme;210;210;Reisil sõitsime kakssada kümme kilomeetrit. — В поездке мы проехали 210 километров.;Количественное числительное: 210.;;a1-numbers
+A1;phrase;Числа и количество;kakssada kakskümmend viis;225;225;Purgis on kakssada kakskümmend viis grammi kohvi. — В банке 225 граммов кофе.;Количественное числительное: 225.;;a1-numbers
+A1;phrase;Числа и количество;kakssada viiskümmend;250;250;Retsepti jaoks on vaja kakssada viiskümmend grammi jahu. — Для рецепта нужно 250 граммов муки.;Количественное числительное: 250.;;a1-numbers
 A1;phrase;Числа и количество;kakssada seitsekümmend viis;275;275;Parkla mahutab kakssada seitsekümmend viis autot. — На парковке помещается 275 автомобилей.;Количественное числительное: 275.;;a1-numbers
-A1;phrase;Числа и количество;kakssada üheksakümmend üheksa;299;299;Ratas maksab kakssada üheksakümmend üheksa eurot. — Велосипед стоит 299 евро.;Количественное числительное: 299.;;a1-numbers
+A1;phrase;Числа и количество;kakssada üheksakümmend üheksa;299;299;Telefon maksab kakssada üheksakümmend üheksa eurot. — Телефон стоит 299 евро.;Количественное числительное: 299.;;a1-numbers
 A1;phrase;Числа и количество;kolmsada viis;305;305;Tee on kolmsada viis meetrit pikk. — Длина дороги — 305 метров.;Количественное числительное: 305.;;a1-numbers
-A1;phrase;Числа и количество;kolmsada kakskümmend;320;320;Saali mahub kolmsada kakskümmend inimest. — В зале помещается 320 человек.;Количественное числительное: 320.;;a1-numbers
+A1;phrase;Числа и количество;kolmsada kakskümmend;320;320;Üür on kolmsada kakskümmend eurot kuus. — Аренда — 320 евро в месяц.;Количественное числительное: 320.;;a1-numbers
 A1;phrase;Числа и количество;kolmsada kolmkümmend kolm;333;333;Koolis õpib kolmsada kolmkümmend kolm õpilast. — В школе учится 333 ученика.;Количественное числительное: 333.;;a1-numbers
-A1;phrase;Числа и количество;kolmsada viiskümmend;350;350;Raamatukogus on kolmsada viiskümmend uut raamatut. — В библиотеке 350 новых книг.;Количественное числительное: 350.;;a1-numbers
+A1;phrase;Числа и количество;kolmsada viiskümmend;350;350;Küpsisepakk kaalub kolmsada viiskümmend grammi. — Пачка печенья весит 350 граммов.;Количественное числительное: 350.;;a1-numbers
 A1;phrase;Числа и количество;nelisada kümme;410;410;Tee on nelisada kümme meetrit pikk. — Длина дороги — 410 метров.;Количественное числительное: 410.;;a1-numbers
-A1;phrase;Числа и количество;nelisada viiskümmend;450;450;Ratas maksab nelisada viiskümmend eurot. — Велосипед стоит 450 евро.;Количественное числительное: 450.;;a1-numbers
-A1;phrase;Числа и количество;nelisada üheksakümmend üheksa;499;499;Vahemaa on nelisada üheksakümmend üheksa meetrit. — Расстояние составляет 499 метров.;Количественное числительное: 499.;;a1-numbers
+A1;phrase;Числа и количество;nelisada viiskümmend;450;450;Uus külmkapp maksab nelisada viiskümmend eurot. — Новый холодильник стоит 450 евро.;Количественное числительное: 450.;;a1-numbers
+A1;phrase;Числа и количество;nelisada üheksakümmend üheksa;499;499;Sülearvuti maksab nelisada üheksakümmend üheksa eurot. — Ноутбук стоит 499 евро.;Количественное числительное: 499.;;a1-numbers
 A1;phrase;Числа и количество;viissada üks;501;501;Saali mahub viissada üks inimest. — В зале помещается 501 человек.;Количественное числительное: 501.;;a1-numbers
-A1;phrase;Числа и количество;viissada kakskümmend viis;525;525;Raamatus on viissada kakskümmend viis lehekülge. — В книге 525 страниц.;Количественное числительное: 525.;;a1-numbers
-A1;phrase;Числа и количество;viissada viiskümmend;550;550;Raamatukogus on viissada viiskümmend uut raamatut. — В библиотеке 550 новых книг.;Количественное числительное: 550.;;a1-numbers
+A1;phrase;Числа и количество;viissada kakskümmend viis;525;525;Toidule kulub kuus umbes viissada kakskümmend viis eurot. — На еду уходит около 525 евро в месяц.;Количественное числительное: 525.;;a1-numbers
+A1;phrase;Числа и количество;viissada viiskümmend;550;550;Ühel päeval külastas muuseumi viissada viiskümmend inimest. — За один день музей посетили 550 человек.;Количественное числительное: 550.;;a1-numbers
 A1;phrase;Числа и количество;viissada seitsekümmend viis;575;575;Parkla mahutab viissada seitsekümmend viis autot. — На парковке помещается 575 автомобилей.;Количественное числительное: 575.;;a1-numbers
 A1;phrase;Числа и количество;kuussada viiskümmend;650;650;Ratas maksab kuussada viiskümmend eurot. — Велосипед стоит 650 евро.;Количественное числительное: 650.;;a1-numbers
-A1;phrase;Числа и количество;seitsesada viiskümmend;750;750;Raamatus on seitsesada viiskümmend lehekülge. — В книге 750 страниц.;Количественное числительное: 750.;;a1-numbers
+A1;phrase;Числа и количество;seitsesada viiskümmend;750;750;Veinipudelis on seitsesada viiskümmend milliliitrit. — В бутылке вина 750 миллилитров.;Количественное числительное: 750.;;a1-numbers
 A1;phrase;Числа и количество;kaheksasada viis;805;805;Saali mahub kaheksasada viis inimest. — В зале помещается 805 человек.;Количественное числительное: 805.;;a1-numbers
 A1;phrase;Числа и количество;kaheksasada viiskümmend;850;850;Koolis õpib kaheksasada viiskümmend õpilast. — В школе учится 850 учеников.;Количественное числительное: 850.;;a1-numbers
 A1;phrase;Числа и количество;üheksasada viiskümmend;950;950;Raamatukogus on üheksasada viiskümmend uut raamatut. — В библиотеке 950 новых книг.;Количественное числительное: 950.;;a1-numbers

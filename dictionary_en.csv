@@ -748,7 +748,7 @@ A2;word;Appearance;Внешность;tume;dark;Tal on tumedad silmad. — He ha
 A2;word;Appearance;Внешность;blond;blond;Tüdruk on blond. — The girl is blonde.;;;
 A2;word;Sport;Спорт;pall;ball;Viska pall! — Throw the ball!;;;
 A2;word;Sport;Спорт;jõusaal;gym (weights);Ma käin jõusaalis. — I go to the gym.;Word parts: jõud (strength, force) + saal (hall);;
-A2;word;Sport;Спорт;treening;training, workout;Treening kestab tund. — The workout lasts an hour.;;;
+A2;word;Sport;Спорт;treening;training, workout;Treening kestab tund aega. — The workout lasts an hour.;;;
 A2;word;Sport;Спорт;võistlus;competition;Ta võitis võistluse. — She won the competition.;;;
 A2;word;Sport;Спорт;meeskond;team;Meie meeskond on tugev. — Our team is strong.;;;
 A2;word;Sport;Спорт;suusad;skis;Kus on mu suusad? — Where are my skis?;Plural of suusk.;;a1-plural
@@ -838,7 +838,7 @@ B1;word;Work and money;Работа и деньги;tööandja;employer;Tööand
 B1;word;Work and money;Работа и деньги;töötaja;employee;Firmas on sada töötajat. — The company has a hundred employees.;;;
 B1;word;Work and money;Работа и деньги;töötu;unemployed;Ta on praegu töötu. — He's unemployed at the moment.;;;a2-word-formation
 B1;word;Work and money;Работа и деньги;kogemus;experience;Mul on töökogemus. — I have work experience.;;;b1-noun-suffixes
-B1;word;Work and money;Работа и деньги;oskus;skill;Keeleoskus on tähtis oskus. — Speaking a language is an important skill.;;;
+B1;word;Work and money;Работа и деньги;oskus;skill;Keeleoskus on tähtis oskus. — Language proficiency is an important skill.;;;
 B1;word;Work and money;Работа и деньги;haridus;education;Haridus on tasuta. — Education is free.;;;
 B1;word;Work and money;Работа и деньги;eelarve;budget;Pere eelarve on väike. — The family budget is small.;Word parts: eel- (pre-) + arve (bill, calculation);;
 B1;word;Work and money;Работа и деньги;kulu;expense, cost;Kulud on suured. — The expenses are large.;;;
@@ -847,7 +847,7 @@ B1;word;Work and money;Работа и деньги;kasum;profit;Firma teenis ka
 B1;word;Work and money;Работа и деньги;laen;loan;Võtsime pangast laenu. — We took out a loan from the bank.;;;
 B1;word;Work and money;Работа и деньги;kindlustus;insurance;Autol on kindlustus. — The car is insured.;;;
 B1;word;Work and money;Работа и деньги;projekt;project;Projekt on valmis. — The project is finished.;;;
-B1;word;Work and money;Работа и деньги;tähtaeg;deadline;Tähtaeg on reedel. — The deadline is on Friday.;Word parts: täht (star, important) + aeg (time);;
+B1;word;Work and money;Работа и деньги;tähtaeg;deadline;Tähtaeg on reedel. — The deadline is on Friday.;"Word parts: täht (mark; cf. tähtis — important) + aeg (time)";;
 B1;word;Work and money;Работа и деньги;ülesanne;task;See on raske ülesanne. — This is a difficult task.;From üles andma (to assign): üles (up) + andma (to give);;
 B1;word;Work and money;Работа и деньги;eesmärk;goal, aim;Minu eesmärk on õppida eesti keelt. — My goal is to learn Estonian.;Word parts: ees (in front) + märk (mark, target);;
 B1;word;Work and money;Работа и деньги;tulemus;result;Tulemus on hea. — The result is good.;;;b1-noun-suffixes
@@ -1065,9 +1065,9 @@ A2;phrase;Time;Время;kahe päeva pärast;in two days;Kahe päeva pärast on
 A2;phrase;Time;Время;mõne aja pärast;after a while;Helistan mõne aja pärast tagasi. — I'll call you back in a while.;;;a2-time-expressions
 A2;phrase;Time;Время;õigel ajal;on time;Rong saabus õigel ajal. — The train arrived on time.;;;a2-time-expressions
 A2;phrase;Time;Время;liiga hilja;too late;Nüüd on juba liiga hilja. — Now it's already too late.;;;a2-time-expressions
-A2;phrase;Time;Время;pool kolm;half past two;Kohtume pool kolm. — Let's meet at half past two.;Estonian counts towards the next hour: pool kolm means 2:30.;;a1-time
+A2;phrase;Time;Время;pool kolm;half past two;Kohtume kell pool kolm. — Let's meet at half past two.;Estonian counts towards the next hour: pool kolm means 2:30.;;a1-time
 A2;phrase;Time;Время;veerand neli;quarter past three;Kell on veerand neli. — It's quarter past three.;;;a1-time
-A2;phrase;Time;Время;kolmveerand viis;quarter to five;Buss tuleb kolmveerand viis. — The bus comes at quarter to five.;;;a1-time
+A2;phrase;Time;Время;kolmveerand viis;quarter to five;Buss tuleb kell kolmveerand viis. — The bus comes at quarter to five.;;;a1-time
 A2;phrase;Connectors;Связки;nii et;so (that);Sadas vihma, nii et jäime koju. — It was raining, so we stayed at home.;;;a2-conjunctions
 A2;phrase;Connectors;Связки;sellepärast et;because;Ma ei tulnud, sellepärast et olin haige. — I didn't come because I was ill.;;;a2-conjunctions
 A2;phrase;Connectors;Связки;igal juhul;in any case;Igal juhul helistan sulle. — I'll call you in any case.;;;
@@ -1153,10 +1153,10 @@ B1;word;Feelings and character;Чувства и характер;isekas;selfish
 B1;word;Feelings and character;Чувства и характер;heatahtlik;benevolent, kind;Naabrid on heatahtlikud. — The neighbours are kind.;Word parts: hea (kind, good) + tahe (will);;
 B1;word;Feelings and character;Чувства и характер;töökas;hard-working;Ta on töökas inimene. — He's a hard-working person.;;;
 B1;word;Feelings and character;Чувства и характер;hajameelne;absent-minded;Ma olen täna väga hajameelne. — I'm very absent-minded today.;Word parts: haja- (scattered) + meel (mind);;
-B1;word;Feelings and character;Чувства и характер;kohusetundlik;conscientious;Ta on kohusetundlik töötaja. — She's a conscientious employee.;Word parts: kohus (debt) + tunne (feeling);;
+B1;word;Feelings and character;Чувства и характер;kohusetundlik;conscientious;Ta on kohusetundlik töötaja. — She's a conscientious employee.;Word parts: kohus (duty) + tundlik (sensitive);;
 B1;word;Feelings and character;Чувства и характер;häbelik;shy;Laps on uute inimestega häbelik. — The child is shy with new people.;;;
 B1;word;Feelings and character;Чувства и характер;seltskondlik;sociable;Ta on väga seltskondlik. — He's very sociable.;;;
-B1;word;Feelings and character;Чувства и характер;uudishimulik;curious;Lapsed on uudishimulikud. — Children are curious.;Word parts: uudis ((piece of) news) + himu (desire, craving);;
+B1;word;Feelings and character;Чувства и характер;uudishimulik;curious;Lapsed on uudishimulikud. — Children are curious.;Word parts: uudis (news) + himu (desire, craving);;
 B1;word;Feelings and character;Чувства и характер;muretu;carefree;Lapsepõlv oli muretu. — My childhood was carefree.;;;b1-adjective-suffixes
 B1;word;Feelings and character;Чувства и характер;tujukas;moody;Väsinud laps on tujukas. — A tired child is moody.;;;b1-adjective-suffixes
 B1;word;Feelings and character;Чувства и характер;kangekaelne;stubborn;Ta on kangekaelne nagu eesel. — He's as stubborn as a mule.;Word parts: kange (strong, stiff) + kael (neck);;
@@ -1187,7 +1187,7 @@ B1;word;Safety and law;Безопасность и право;õnnetusjuhtum;acc
 B1;word;Safety and law;Безопасность и право;päästja;rescuer;Päästjad tulid kiiresti. — The rescuers arrived quickly.;;;
 B1;word;Safety and law;Безопасность и право;tulekustuti;fire extinguisher;Autos peab olema tulekustuti. — A car must have a fire extinguisher.;Word parts: tuli (fire) + kustuti (extinguisher);;
 B1;word;Money and shopping;Деньги и покупки;säästud;savings;Kulutasin kõik oma säästud. — I spent all my savings.;Plural.;;
-B1;word;Money and shopping;Деньги и покупки;hoiuarve;savings account;Panin raha hoiuarvele. — I put the money into a savings account.;Word parts: hoius (deposit) + arve (bill);;
+B1;word;Money and shopping;Деньги и покупки;hoiuarve;savings account;Panin raha hoiuarvele. — I put the money into a savings account.;"Word parts: hoid (keeping, saving; hoiu-) + arve (account)";;
 B1;word;Money and shopping;Деньги и покупки;intress;interest (rate);Laenu intress on kõrge. — The interest on the loan is high.;;;
 B1;word;Money and shopping;Деньги и покупки;võlg;debt;Mul on sulle võlg. — I owe you money.;;;
 B1;word;Money and shopping;Деньги и покупки;soodustus;discount, benefit;Pensionäridele on soodustus. — There's a discount for pensioners.;;;
@@ -1198,8 +1198,8 @@ B1;word;Money and shopping;Деньги и покупки;tarbija;consumer;Tarbi
 B1;word;Money and shopping;Деньги и покупки;reklamatsioon;complaint (about goods);Esitasin poele reklamatsiooni. — I made a complaint to the shop.;;;
 B1;word;Money and shopping;Деньги и покупки;tagastama;to return;Kaupa saab tagastada 14 päeva jooksul. — Goods can be returned within 14 days.;ma tagastan — I return.;;
 B1;word;Transport and the city;Транспорт и город;ümberistumine;transfer, change;Ümberistumine on Tartus. — You change in Tartu.;"Word parts: ümber (over, change) + istumine (sitting); changing from one vehicle to another.";;
-B1;word;Transport and the city;Транспорт и город;liiklusmärk;road sign;Jälgi liiklusmärke. — Watch the road signs.;Word parts: liiklus (movement) + märk (sign, mark);;
-B1;word;Transport and the city;Транспорт и город;liiklusõnnetus;road accident;Ristmikul juhtus liiklusõnnetus. — There was a road accident at the junction.;Word parts: liiklus (movement) + õnnetus (accident);;
+B1;word;Transport and the city;Транспорт и город;liiklusmärk;road sign;Jälgi liiklusmärke. — Watch the road signs.;Word parts: liiklus (traffic) + märk (sign, mark);;
+B1;word;Transport and the city;Транспорт и город;liiklusõnnetus;road accident;Ristmikul juhtus liiklusõnnetus. — There was a road accident at the junction.;Word parts: liiklus (traffic) + õnnetus (accident);;
 B1;word;Transport and the city;Транспорт и город;tehnoülevaatus;vehicle inspection;Autol on vaja tehnoülevaatust. — The car needs a vehicle inspection.;Word parts: tehno- (technical) + ülevaatus (inspection);;
 B1;word;Transport and the city;Транспорт и город;rendiauto;rental car;Me võtsime lennujaamast rendiauto. — We hired a car at the airport.;Word parts: rent (rent, lease) + auto (car, machine);;
 B1;word;Media and technology;Медиа и технологии;pealkiri;headline, title;Artikli pealkiri on huvitav. — The headline of the article is interesting.;Word parts: peal (on top, from above) + kiri (inscription);;
@@ -1207,7 +1207,7 @@ B1;word;Media and technology;Медиа и технологии;sotsiaalmeedia;s
 B1;word;Media and technology;Медиа и технологии;postitus;post;Ta tegi Facebooki uue postituse. — He made a new post on Facebook.;;;
 B1;word;Media and technology;Медиа и технологии;jälgija;follower;Tal on tuhat jälgijat. — She has a thousand followers.;;;
 B1;word;Media and technology;Медиа и технологии;taskuhääling;podcast;Ma kuulan autos taskuhäälingut. — I listen to podcasts in the car.;Word parts: tasku (pocket) + hääling (broadcasting);;
-B1;word;Media and technology;Медиа и технологии;voogedastus;streaming;Filme vaatame voogedastusest. — We watch films on streaming services.;;;
+B1;word;Media and technology;Медиа и технологии;voogedastus;streaming;Filme vaatame voogedastuse kaudu. — We watch films on streaming services.;;;
 B1;word;Media and technology;Медиа и технологии;saatejuht;TV/radio host;Saatejuht esitas küsimuse. — The host asked a question.;Word parts: saade (programme, show) + juht (host, leader);;
 B1;word;Nature;Природа;metsaraie;logging;Metsaraie on vaieldav teema. — Logging is a controversial topic.;Word parts: mets (forest) + raie (felling);;
 B1;word;Nature;Природа;ohustatud;endangered;See liik on ohustatud. — This species is endangered.;;;b1-participles
@@ -1220,7 +1220,7 @@ B1;word;Work and career;Работа и карьера;motivatsioonikiri;cover l
 B1;word;Work and career;Работа и карьера;kandideerima;to apply (for a job), to run;Ma kandideerin juhi kohale. — I'm applying for the manager's position.;ma kandideerin — I apply for a position.;;
 B1;word;Work and career;Работа и карьера;ametikõrgendus;promotion;Ta sai ametikõrgenduse. — She got a promotion.;Word parts: amet (position, post) + kõrgendus (promotion, increase);;
 B1;word;Education and learning;Образование и обучение;diplom;diploma;Sain ülikooli diplomi. — I got my university diploma.;;;
-B1;word;Education and learning;Образование и обучение;tunnistus;certificate, school report;Kooli lõpus saab tunnistuse. — At the end of the school year you get a report.;;;
+B1;word;Education and learning;Образование и обучение;tunnistus;certificate, school report;Kooli lõpus saab tunnistuse. — When you finish school, you get a certificate.;;;
 B1;word;Education and learning;Образование и обучение;stipendium;scholarship;Ta saab stipendiumi. — She gets a scholarship.;;;
 B1;word;Education and learning;Образование и обучение;õppemaks;tuition fee;Õppemaks on kõrge. — The tuition fee is high.;Word parts: õpe (study, instruction) + maks (fee, payment);;
 B1;word;Education and learning;Образование и обучение;sisseastumine;admission;Sisseastumine ülikooli algab juunis. — University admissions start in June.;;;
@@ -1359,7 +1359,7 @@ B2;word;Linking words;Слова-связки;kuna;since, as;Kuna sajab, jääme
 B2;word;Linking words;Слова-связки;vaatamata;despite;Vaatamata vihmale läksime välja. — Despite the rain, we went out.;Preposition: vaatamata + -le.;;b1-postpositions
 B2;word;Linking words;Слова-связки;olenemata;regardless of;Olenemata vanusest võib igaüks osaleda. — Anyone can take part, regardless of age.;Preposition: olenemata + -st.;;b2-concession
 B2;phrase;Connectors;Связки;juhul kui;"if; in the event that";Juhul kui sajab, jääb üritus ära. — If it rains, the event will be cancelled.;;;b1-cause-purpose
-B2;phrase;Connectors;Связки;selleks et;in order to;Õpin eesti keelt, selleks et töö leida. — I'm learning Estonian in order to find a job.;;;b1-cause-purpose
+B2;phrase;Connectors;Связки;selleks et;in order to;Õpin eesti keelt, selleks et tööd leida. — I'm learning Estonian in order to find a job.;;;b1-cause-purpose
 B2;phrase;Connectors;Связки;mitte et;not that;Mitte et ma ei tahaks, aga mul pole aega. — Not that I don't want to, but I don't have time.;;;a2-conjunctions
 B2;phrase;Connectors;Связки;seda enam;all the more;Seda enam peaksid tulema. — All the more reason for you to come.;;;b2-cohesion
 B2;phrase;Connectors;Связки;teisisõnu;in other words;Teisisõnu, me ei jõua õigeks ajaks. — In other words, we won't make it in time.;;;b2-cohesion
@@ -1538,7 +1538,7 @@ A1;word;Prepositions and adverbs;Предлоги и наречия;edasi;forwar
 A1;word;Prepositions and adverbs;Предлоги и наречия;tagasi;back (return);Ma tulen kohe tagasi. — I'll be right back.;;;
 A1;word;Prepositions and adverbs;Предлоги и наречия;kaasa;with you, along (to take with you);Võta vihmavari kaasa. — Take an umbrella with you.;;;
 A1;word;Prepositions and adverbs;Предлоги и наречия;ära;away, off (often used with a verb);Ta läks ära. — He left.;;;
-A1;word;Prepositions and adverbs;Предлоги и наречия;kinni;"closed, shut; tightly";Pood on kinni. — The shop is closed.;;;
+A1;word;Prepositions and adverbs;Предлоги и наречия;kinni;"closed, shut; tightly";Pood on kinni. — The shop is closed.;Also means tightly: Hoia kinni! — Hold on tight!;;
 A1;word;Prepositions and adverbs;Предлоги и наречия;lahti;open;Kas apteek on lahti? — Is the pharmacy open?;;;
 A1;word;Prepositions and adverbs;Предлоги и наречия;kokku;"together; in total";Kokku maksab see kümme eurot. — The total is ten euros.;;;
 A1;word;Prepositions and adverbs;Предлоги и наречия;kõrvale;to the side, next to;Istu minu kõrvale. — Sit next to me.;;;a1-postpositions
@@ -1714,7 +1714,7 @@ A2;word;Family and relationships;Семья и отношения;sünniaasta;ye
 A2;word;Family and relationships;Семья и отношения;eluaasta;year of life;Esimesel eluaastal kasvab laps kiiresti. — A child grows fast in the first year of life.;Word parts: elu (life) + aasta (year);;
 A2;word;Family and relationships;Семья и отношения;aastane;one year old / …-year-old (in compounds);Laps on aastane. — The child is one year old.;Often written as one word: viieaastane (five years old).;;
 A2;word;Family and relationships;Семья и отношения;nelja-aastane;four-year-old;Mul on nelja-aastane poeg. — I have a four-year-old son.;Word parts: neli (four) + aasta (year);;
-A2;word;Family and relationships;Семья и отношения;juubel;jubilee, milestone birthday;Isa tähistab 50. juubelit. — Dad is celebrating his 50th birthday.;;;
+A2;word;Family and relationships;Семья и отношения;juubel;jubilee, milestone birthday;Isal on 50 aasta juubel. — It's Dad's 50th birthday.;;;
 A2;word;Family and relationships;Семья и отношения;aastapäev;anniversary;Täna on meie pulma-aastapäev. — Today is our wedding anniversary.;Word parts: aasta (year) + päev (day);;
 A2;word;Family and relationships;Семья и отношения;lemmik;favourite;Mis on sinu lemmikfilm? — What's your favourite film?;;;
 A2;word;Countries and languages;Страны и языки;ameeriklane;American;Ta on ameeriklane. — He's American.;;;
@@ -1814,7 +1814,7 @@ A2;word;Health;Здоровье;alkohol;alcohol;Ma ei joo alkoholi. — I don't 
 A2;word;Home and household;Дом и быт;katus;roof;Maja katus on punane. — The roof of the house is red.;;;
 A2;word;Home and household;Дом и быт;kelder;cellar, basement;Kartulid on keldris. — The potatoes are in the cellar.;;;
 A2;word;Home and household;Дом и быт;riiul;shelf;Raamatud on riiulis. — The books are on the shelf.;;;
-A2;word;Home and household;Дом и быт;kirjutuslaud;desk;Arvuti on kirjutuslaual. — The computer is on the desk.;Word parts: kirjutus (letter) + laud (table);;
+A2;word;Home and household;Дом и быт;kirjutuslaud;desk;Arvuti on kirjutuslaual. — The computer is on the desk.;Word parts: kirjutus (writing) + laud (table);;
 A2;word;Home and household;Дом и быт;tugitool;armchair;Vanaisa istub tugitoolis. — Grandpa is sitting in the armchair.;Word parts: tugi (support) + tool (chair);;
 A2;word;Home and household;Дом и быт;toalill;houseplant;Aknal on toalilled. — There are houseplants on the windowsill.;Word parts: tuba (room) + lill (flower);;
 A2;word;Home and household;Дом и быт;külmik;fridge;Piim on külmikus. — The milk is in the fridge.;Synonym: külmkapp.;;
@@ -2073,7 +2073,7 @@ A2;word;Animals and birds;Животные и птицы;part;duck;Pargis ujuvad
 A2;word;Animals and birds;Животные и птицы;kalkun;turkey;Jõuludeks praeme kalkunit. — We roast a turkey for Christmas.;;;
 A2;word;Animals and birds;Животные и птицы;luik;swan;Valge luik ujub järvel. — A white swan is swimming on the lake.;;;
 A2;word;Animals and birds;Животные и птицы;kajakas;seagull;Kajakad lendavad mere kohal. — Seagulls are flying over the sea.;;;
-A2;word;Animals and birds;Животные и птицы;kurg;stork;Kurg tegi katusele pesa. — A stork has built a nest on the roof.;;;
+A2;word;Animals and birds;Животные и птицы;kurg;crane (bird);Sügisel lendavad kured lõunasse. — In autumn cranes fly south.;A stork is toonekurg.;;
 A2;word;Animals and birds;Животные и птицы;tihane;tit (bird);Talvel tuleb tihane aknale. — In winter a tit comes to the window.;;;
 A2;word;Animals and birds;Животные и птицы;varblane;sparrow;Varblased söövad leivapuru. — The sparrows are eating breadcrumbs.;;;
 A2;word;Animals and birds;Животные и птицы;pääsuke;swallow;Pääsuke lendab madalalt. — The swallow is flying low.;;;
@@ -2233,7 +2233,7 @@ A2;word;Society and politics;Общество и политика;peaminister;pr
 A2;word;Society and politics;Общество и политика;minister;minister;Haridusminister külastas kooli. — The minister of education visited the school.;;;
 A2;word;Society and politics;Общество и политика;ministeerium;ministry;Ta töötab ministeeriumis. — She works at a ministry.;;;
 A2;word;Society and politics;Общество и политика;parlament;parliament;Parlament võttis seaduse vastu. — Parliament passed the law.;;;
-A2;word;Society and politics;Общество и политика;riigikogu;Riigikogu (Estonian parliament);Riigikogus on 101 liiget. — The Riigikogu has 101 members.;Word parts: riik (state) + kogu (collection, assembly);;
+A2;word;Society and politics;Общество и политика;Riigikogu;Riigikogu (Estonian parliament);Riigikogus on 101 liiget. — The Riigikogu has 101 members.;Proper noun. Word parts: riik (state) + kogu (collection, assembly);;
 A2;word;Society and politics;Общество и политика;partei;political party;Ta kuulub parteisse. — He belongs to a party.;;;
 A2;word;Society and politics;Общество и политика;partii;game (of chess, cards) / batch;Mängime veel ühe partii malet. — Let's play another game of chess.;;;
 A2;word;Society and politics;Общество и политика;poliitik;politician;Ta on tuntud poliitik. — She's a well-known politician.;;;
@@ -2340,7 +2340,7 @@ A2;word;Free time;Свободное время;selts;society, club;Ta on seltsi
 A2;word;Free time;Свободное время;seltskond;company, group of people;Meil oli tore seltskond. — We were a lovely group.;;;
 A2;word;Holidays and traditions;Праздники и традиции;traditsioon;tradition;See on vana traditsioon. — It's an old tradition.;;;
 A2;word;Holidays and traditions;Праздники и традиции;traditsiooniline;traditional;Traditsiooniline Eesti toit. — Traditional Estonian food.;;;
-A2;word;Holidays and traditions;Праздники и традиции;vana-aasta;New Year's Eve (31 December);Vana-aasta õhtul on ilutulestik. — There are fireworks on New Year's Eve.;Word parts: vana (old) + aasta (year);;a2-holidays
+A2;word;Holidays and traditions;Праздники и традиции;vana-aasta;New Year's Eve (31 December);Vana-aastaõhtul on ilutulestik. — There are fireworks on New Year's Eve.;Word parts: vana (old) + aasta (year);;a2-holidays
 A2;word;Holidays and traditions;Праздники и традиции;pidulik;festive, solemn;Täna on pidulik päev. — Today is a festive day.;;;
 A2;word;Holidays and traditions;Праздники и традиции;paraad;parade;Iseseisvuspäeval on paraad. — There's a parade on Independence Day.;;;
 A2;word;Holidays and traditions;Праздники и традиции;tervitama;to greet;Ta tervitas külalisi. — She greeted the guests.;ma tervitan — I greet.;;
@@ -2397,10 +2397,10 @@ A2;word;Numbers;Числа;üheksateistkümnes;nineteenth;Üheksateistkümnes sa
 A2;word;Numbers;Числа;kahekümnes;twentieth;Täna on kahekümnes mai. — Today is the twentieth of May.;;;
 A2;word;Numbers;Числа;kolmekümnes;thirtieth;Täna on kolmekümnes juuni. — Today is the thirtieth of June.;;;
 A2;word;Numbers;Числа;neljakümnes;fortieth;Isa tähistab oma neljakümnendat sünnipäeva. — Dad is celebrating his fortieth birthday.;;;
-A2;word;Numbers;Числа;viiekümnes;fiftieth;Ema viiekümnes juubel. — Mum's fiftieth birthday.;;;
+A2;word;Numbers;Числа;viiekümnes;fiftieth;Ema viiekümnes sünnipäev. — Mum's fiftieth birthday.;;;
 A2;word;Numbers;Числа;kuuekümnes;sixtieth;Firma kuuekümnes aastapäev. — The company's sixtieth anniversary.;;;
 A2;word;Numbers;Числа;seitsmekümnes;seventieth;Vanaema seitsmekümnes sünnipäev. — Grandma's seventieth birthday.;;;
-A2;word;Numbers;Числа;kaheksakümnes;eightieth;Vanaisa kaheksakümnes juubel. — Grandpa's eightieth birthday.;;;
+A2;word;Numbers;Числа;kaheksakümnes;eightieth;Vanaisa kaheksakümnes sünnipäev. — Grandpa's eightieth birthday.;;;
 A2;word;Numbers;Числа;üheksakümnes;ninetieth;Üheksakümnendad aastad. — The nineties.;;;
 A2;word;Numbers;Числа;paarkümmend;about twenty;Peol oli paarkümmend inimest. — There were about twenty people at the party.;Word parts: paar (pair) + kümmend (tens);;a2-large-numbers-fractions
 A2;word;Numbers;Числа;kolmandik;third (fraction);Kolmandik õpilastest on haiged. — A third of the pupils are ill.;;;a2-large-numbers-fractions
@@ -2799,7 +2799,7 @@ B2;word;Thinking and communication;Мышление и общение;mõttekäi
 B2;word;Thinking and communication;Мышление и общение;järeldus;conclusion;Mis järeldusele sa jõudsid? — What conclusion did you come to?;;;b2-discussion
 B2;word;Thinking and communication;Мышление и общение;põhjendus;justification;Tal oli hea põhjendus. — He had a good reason.;;;b2-discussion
 B2;word;Thinking and communication;Мышление и общение;tõlgendus;interpretation;See on vaid üks tõlgendus. — That's just one interpretation.;;;b2-discussion
-B2;word;Thinking and communication;Мышление и общение;eksitus;error, delusion;See oli eksitus. — It was a mistake.;;;b2-discussion
+B2;word;Thinking and communication;Мышление и общение;eksitus;error, misconception;See oli eksitus. — It was a mistake.;;;b2-discussion
 B2;word;Thinking and communication;Мышление и общение;täpsustus;clarification;Mul on üks täpsustus. — I'd like to clarify one thing.;;;b2-discussion
 B2;word;Thinking and communication;Мышление и общение;ülevaade;overview;Anna mulle lühike ülevaade. — Give me a short overview.;Word parts: üle (over) + vaade (view);;b2-discussion
 B2;word;Thinking and communication;Мышление и общение;kokkuvõte;summary;Kirjuta lühike kokkuvõte. — Write a short summary.;From kokku võtma (to summarise): kokku (together) + võtma (to take);;b2-discussion
@@ -2827,7 +2827,7 @@ B2;word;Feelings and qualities;Чувства и качества;ebaaus;dishone
 B2;word;Feelings and qualities;Чувства и качества;karm;harsh;Talv oli karm. — The winter was harsh.;;;b2-emotions
 B2;word;Feelings and qualities;Чувства и качества;range;strict;Õpetaja on range. — The teacher is strict.;;;b2-emotions
 B2;word;Feelings and qualities;Чувства и качества;õrn;gentle, tender;Ta on väga õrn. — She's very gentle.;;;b2-emotions
-B2;word;Feelings and qualities;Чувства и качества;nüri;blunt;Nuga on nüri. — The knife is blunt.;;;b2-emotions
+B2;word;Feelings and qualities;Чувства и качества;nüri;blunt;Nuga on nüri. — The knife is blunt.;;;
 B2;word;Feelings and qualities;Чувства и качества;omadus;quality, trait;Kannatlikkus on hea omadus. — Patience is a good quality.;;;b2-emotions
 B2;word;Feelings and qualities;Чувства и качества;anne;talent;Tal on muusikaline anne. — She has a talent for music.;;;b2-emotions
 B2;word;Feelings and qualities;Чувства и качества;kannatama;to suffer / to endure;Ta kannatab peavalude käes. — He suffers from headaches.;;;b2-emotions
@@ -2879,7 +2879,7 @@ B2;word;Economy and industry;Экономика и производство;puht
 B2;word;Economy and industry;Экономика и производство;väärtus;value;Maja väärtus tõusis. — The value of the house has gone up.;;;b2-news
 B2;word;Economy and industry;Экономика и производство;tähtsus;importance;See on suure tähtsusega. — It's of great importance.;;;b2-news
 B2;word;Economy and industry;Экономика и производство;tagajärg;consequence;Igal teol on tagajärjed. — Every action has consequences.;Word parts: taga (behind) + järg (continuation);;b2-news
-B2;word;Economy and industry;Экономика и производство;ebaedu;failure;Ebaedu ei tohi heidutada. — Don't let failure discourage you.;Word parts: eba- (un-, non-) + edu (success);;b2-news
+B2;word;Economy and industry;Экономика и производство;ebaedu;failure;Ebaedu ei tohi sind heidutada. — Don't let failure discourage you.;Word parts: eba- (un-, non-) + edu (success);;b2-news
 B2;word;Economy and industry;Экономика и производство;ebaõnnestuma;to fail;Plaan ebaõnnestus. — The plan failed.;Word parts: eba- (un-, non-) + õnnestuma (to succeed);;b2-news
 B2;word;Economy and industry;Экономика и производство;katsetama;to test, to experiment;Me katsetame uut retsepti. — We're testing a new recipe.;;;b2-news
 B2;word;Economy and industry;Экономика и производство;võistlema;to compete;Nad võistlevad esikoha pärast. — They're competing for first place.;;;b2-news
@@ -2925,13 +2925,13 @@ B2;word;Descriptions;Описание;määrav;decisive;See oli määrav hetk. �
 B2;word;Descriptions;Описание;teisejärguline;secondary;See on teisejärguline küsimus. — It's a secondary issue.;Word parts: teine (second) + järk (rank, stage);;b2-word-formation
 B2;word;Descriptions;Описание;abstraktne;abstract;See on liiga abstraktne. — It's too abstract.;;;b2-word-formation
 B2;word;Time and existence;Время и бытие;olevik;the present;Ela olevikus! — Live in the present!;;;b2-tenses
-B2;word;Time and existence;Время и бытие;ajastu;era;See oli uus ajastu. — It was a new era.;;;b2-tenses
-B2;word;Time and existence;Время и бытие;aastakümme;decade;Viimasel aastakümnel on palju muutunud. — A lot has changed in the last decade.;Word parts: aasta (year) + kümme (ten);;b2-tenses
-B2;word;Time and existence;Время и бытие;saatus;fate;Selline on saatus. — That's fate.;;;b2-tenses
-B2;word;Time and existence;Время и бытие;juhus;chance, coincidence;See oli puhas juhus. — It was pure chance.;;;b2-tenses
-B2;word;Time and existence;Время и бытие;tegelikkus;reality;Tegelikkus on teistsugune. — Reality is different.;;;b2-tenses
-B2;word;Time and existence;Время и бытие;olemus;essence;Mis on probleemi olemus? — What's the essence of the problem?;;;b2-tenses
-B2;word;Time and existence;Время и бытие;nähtus;phenomenon;Virmalised on haruldane nähtus. — The northern lights are a rare phenomenon.;;;b2-tenses
+B2;word;Time and existence;Время и бытие;ajastu;era;See oli uus ajastu. — It was a new era.;;;
+B2;word;Time and existence;Время и бытие;aastakümme;decade;Viimasel aastakümnel on palju muutunud. — A lot has changed in the last decade.;Word parts: aasta (year) + kümme (ten);;
+B2;word;Time and existence;Время и бытие;saatus;fate;Selline on saatus. — That's fate.;;;
+B2;word;Time and existence;Время и бытие;juhus;chance, coincidence;See oli puhas juhus. — It was pure chance.;;;
+B2;word;Time and existence;Время и бытие;tegelikkus;reality;Tegelikkus on teistsugune. — Reality is different.;;;
+B2;word;Time and existence;Время и бытие;olemus;essence;Mis on probleemi olemus? — What's the essence of the problem?;;;
+B2;word;Time and existence;Время и бытие;nähtus;phenomenon;Virmalised on haruldane nähtus. — The northern lights are a rare phenomenon.;;;
 A1;word;Leisure and hobbies;Досуг;tants;dance;Kas sa tuled tantsule? — Are you coming to the dance?;;;
 A1;word;Work and study;Работа и учёба;isikutunnistus;ID card, identity card;Näidake oma isikutunnistust. — Please show your ID card.;Usually called ID-kaart in everyday speech. Compound: isik (person, identity) + tunnistus (certificate, document).;;
 A2;word;Devices and communication;Техника и связь;tekstisõnum;text message, SMS;Saatsin sulle tekstisõnumi. — I sent you a text message.;In everyday speech: SMS. Word parts: tekst (text) + sõnum (message, text message);;
@@ -3331,7 +3331,7 @@ A2;phrase;Time;Время;eelmisel kuul;last month;Eelmisel kuul kolisime. — W
 A2;phrase;Time;Время;paar päeva;a couple of days;Jään paariks päevaks Tartusse. — I'm staying in Tartu for a couple of days.;;;a2-time-expressions
 A2;phrase;Connectors;Связки;ühelt poolt;on the one hand;Ühelt poolt on see kallis. — On the one hand, it's expensive.;;;a2-reasons-opinions
 A2;phrase;Connectors;Связки;teiselt poolt;on the other hand;Teiselt poolt on see väga mugav. — On the other hand, it's very convenient.;;;a2-reasons-opinions
-A2;phrase;Connectors;Связки;minu arvates;in my opinion;Minu arvates on see hea mõte. — In my opinion, it's a good idea.;;;b1-opinion
+A2;phrase;Connectors;Связки;minu arvates;in my opinion;Minu arvates on see hea mõte. — In my opinion, it's a good idea.;;;a2-reasons-opinions
 A2;phrase;Connectors;Связки;see tähendab;that is, it means;Kell kaks, see tähendab pärast lõunat. — At two, that is, after lunch.;;;a2-reasons-opinions
 A2;phrase;Connectors;Связки;kui ... siis;if ... then;Kui sajab, siis jääme koju. — If it rains, we'll stay at home.;;;a2-conjunctions
 A2;phrase;Connectors;Связки;mitte ainult;not only;Ta räägib mitte ainult eesti, vaid ka soome keelt. — She speaks not only Estonian but also Finnish.;;;a2-conjunctions
@@ -3590,7 +3590,7 @@ A2;sentence;Plans and meetings;Планы и встречи;Ma kutsun sind oma s
 A2;sentence;Plans and meetings;Планы и встречи;Aitäh kutse eest, ma tulen hea meelega.;Thanks for the invitation, I'll gladly come.;;;;a2-postpositions
 A2;sentence;Plans and meetings;Планы и встречи;Kahjuks ma ei saa tulla.;Unfortunately, I can't come.;;;;a1-negation
 A2;sentence;Plans and meetings;Планы и встречи;Suvel tahame sõita Itaaliasse.;In summer we want to go to Italy.;;;;a1-days-months
-A2;sentence;Opinions and feelings;Мнения и чувства;Minu arvates on see hea idee.;In my opinion it's a good idea.;;;;b1-opinion
+A2;sentence;Opinions and feelings;Мнения и чувства;Minu arvates on see hea idee.;In my opinion it's a good idea.;;;;a2-reasons-opinions
 A2;sentence;Opinions and feelings;Мнения и чувства;Ma olen sinuga nõus.;I agree with you.;;;;a1-comitative
 A2;sentence;Opinions and feelings;Мнения и чувства;Ma ei ole sellega nõus.;I don't agree with that.;;;;a1-comitative
 A2;sentence;Opinions and feelings;Мнения и чувства;Mulle see väga meeldib.;I like it very much.;;;;a1-adessive-allative
@@ -3606,7 +3606,7 @@ A2;sentence;Emergencies;Экстренные ситуации;Palun aidake mind!
 A2;sentence;Emergencies;Экстренные ситуации;Helistage numbril 112!;Call 112!;;;;a1-imperative
 A2;sentence;Emergencies;Экстренные ситуации;Juhtus õnnetus.;There's been an accident.;;;;
 A2;sentence;Emergencies;Экстренные ситуации;Kutsuge politsei!;Call the police!;;;;a1-imperative
-A2;sentence;Emergencies;Экстренные ситуации;Mu rahakott on varastatud.;My wallet has been stolen.;;;;a1-pronouns
+A2;sentence;Emergencies;Экстренные ситуации;Mu rahakott on varastatud.;My wallet has been stolen.;;;;a2-impersonal
 A2;sentence;Emergencies;Экстренные ситуации;Ma kaotasin oma passi.;I've lost my passport.;;;;a1-past
 A2;sentence;Emergencies;Экстренные ситуации;Kas kõik on korras?;Is everything OK?;;;;a1-kas
 A2;sentence;Emergencies;Экстренные ситуации;Majas on tulekahju!;There's a fire in the building!;;;;
@@ -3676,7 +3676,7 @@ A2;word;Car and road;Машина и дорога;käigukast;gearbox;Autol on au
 A2;word;Car and road;Машина и дорога;turvavöö;seat belt;Pane turvavöö kinni. — Fasten your seat belt.;Word parts: turva (safety, security) + vöö (belt);;
 A2;word;Car and road;Машина и дорога;esiklaas;windscreen;Esiklaas on katki. — The windscreen is broken.;Word parts: esi- (front) + klaas (glass);;
 A2;word;Car and road;Машина и дорога;klaasipuhasti;windscreen wiper;Lülita klaasipuhastid sisse. — Switch on the windscreen wipers.;Word parts: klaas (glass) + puhasti (cleaner, purifier);;
-A2;word;Car and road;Машина и дорога;suunatuli;indicator, turn signal;Näita suunatulega. — Use your indicator.;Word parts: suund (direction) + tuli (fire);;
+A2;word;Car and road;Машина и дорога;suunatuli;indicator, turn signal;Lülita suunatuli sisse. — Switch on your indicator.;Word parts: suund (direction) + tuli (light);;
 A2;word;Car and road;Машина и дорога;velg;wheel rim;Velg on kõver. — The wheel rim is bent.;;;
 A2;word;Car and road;Машина и дорога;kiiver;helmet;Pane kiiver pähe. — Put your helmet on.;;;
 A2;word;Car and road;Машина и дорога;helkur;reflector;Pimedas tuleb kanda helkurit. — You must wear a reflector in the dark.;;;
@@ -3891,7 +3891,7 @@ B1;word;Education and learning;Образование и обучение;õppet
 B1;word;Education and learning;Образование и обучение;õppetulemus;learning outcome;Õppetulemused paranesid. — The learning outcomes improved.;Word parts: õpe (study, instruction) + tulemus (result);;
 B1;word;Education and learning;Образование и обучение;hindamine;assessment;Hindamine on õiglane. — The assessment is fair.;;;
 B1;word;Education and learning;Образование и обучение;koolikaaslane;schoolmate;Kohtasin vana koolikaaslast. — I met an old schoolmate.;Word parts: kool (school) + kaaslane (companion);;
-B1;word;Education and learning;Образование и обучение;edasijõudmine;academic progress;Õpetaja kiitis tema edasijõudmist. — The teacher praised her progress.;Word parts: edasi (forward) + jõudmine (progress);;
+B1;word;Education and learning;Образование и обучение;edasijõudmine;academic progress;Õpetaja kiitis tema edasijõudmist. — The teacher praised her progress.;Word parts: edasi (forward) + jõudmine (reaching, from jõudma — to reach);;
 B1;word;Travel and services;Путешествия и услуги;sõidusuund;direction of travel;Rong vahetas sõidusuunda. — The train changed direction.;Word parts: sõit (ride, driving) + suund (direction);;
 B1;word;Travel and services;Путешествия и услуги;väljumisaeg;departure time;Kontrolli väljumisaega. — Check the departure time.;;;
 B1;word;Travel and services;Путешествия и услуги;saabumisaeg;arrival time;Saabumisaeg on kell 18.30. — The arrival time is 18:30.;;;
@@ -3899,7 +3899,7 @@ B1;word;Travel and services;Путешествия и услуги;reisikindlust
 B1;word;Travel and services;Путешествия и услуги;hilinemine;delay, lateness;Vabandan hilinemise eest. — I apologise for the delay.;;;
 B1;word;Travel and services;Путешествия и услуги;tühistamine;cancellation;Broneeringu tühistamine on tasuta. — Cancelling a booking is free.;;;
 B1;word;Travel and services;Путешествия и услуги;vaatamisväärsus;tourist attraction;Tallinnas on palju vaatamisväärsusi. — Tallinn has lots of sights.;"Word parts: vaatamine (looking) + väärsus (worth); something worth seeing.";;
-B1;word;Travel and services;Путешествия и услуги;liiklusummik;traffic jam;Jäime liiklusummikusse. — We got stuck in a traffic jam.;Word parts: liiklus (movement) + ummik (jam, blockage);;
+B1;word;Travel and services;Путешествия и услуги;liiklusummik;traffic jam;Jäime liiklusummikusse. — We got stuck in a traffic jam.;Word parts: liiklus (traffic) + ummik (jam, blockage);;
 B1;word;Travel and services;Путешествия и услуги;sõidugraafik;timetable;Vaata rongi sõidugraafikut. — Check the train timetable.;Word parts: sõit (trip, journey) + graafik (chart, schedule);;
 B1;word;Relationships and communication;Отношения и общение;suhtlemine;communication;Suhtlemine kolleegidega on tähtis. — Communicating with colleagues is important.;;;
 B1;word;Relationships and communication;Отношения и общение;lahkarvamus;disagreement;Meil tekkis lahkarvamus. — We had a disagreement.;Word parts: lahk- (apart, separate) + arvamus (opinion);;
@@ -3911,12 +3911,12 @@ B1;word;Relationships and communication;Отношения и общение;kok
 B1;word;Relationships and communication;Отношения и общение;leppimine;reconciliation;Pärast tüli tuli leppimine. — After the quarrel they made up.;;;
 B1;word;Relationships and communication;Отношения и общение;lähedane;close person, close;Ta on mulle väga lähedane inimene. — She's a very close person to me.;;;
 B1;word;Relationships and communication;Отношения и общение;solvumine;feeling offended;Solvumine ei aita. — Taking offence doesn't help.;;;
-B1;word;Environment;Окружающая среда;looduskaitse;nature conservation;Looduskaitse on kõigi asi. — Nature conservation is everyone's business.;Word parts: loodus (nature) + kaitse (defence);;
+B1;word;Environment;Окружающая среда;looduskaitse;nature conservation;Looduskaitse on kõigi asi. — Nature conservation is everyone's business.;Word parts: loodus (nature) + kaitse (protection);;
 B1;word;Environment;Окружающая среда;prügivedu;waste collection;Prügivedu on kolmapäeval. — The rubbish is collected on Wednesdays.;Word parts: prügi (rubbish) + vedu (transport);;
 B1;word;Environment;Окружающая среда;üleujutus;flood;Pärnus oli üleujutus. — There was a flood in Pärnu.;Word parts: üle (across, over) + ujutus (flooding);;
 B1;word;Environment;Окружающая среда;kuivus;drought, dryness;Suvine kuivus kahjustas saaki. — The summer drought damaged the harvest.;;;
 B1;word;Environment;Окружающая среда;kuumus;heat;Kuumus kestis terve nädala. — The heat lasted a whole week.;;;
-B1;word;Environment;Окружающая среда;metsatulekahju;forest fire;Metsatulekahju kustutati kiiresti. — The forest fire was put out quickly.;Word parts: mets (forest) + tulekahju (fire (accident));;
+B1;word;Environment;Окружающая среда;metsatulekahju;forest fire;Metsatulekahju kustutati kiiresti. — The forest fire was put out quickly.;Word parts: mets (forest) + tulekahju (fire, blaze);;
 B1;word;Environment;Окружающая среда;sortima;to sort;Sordi pakendid eraldi. — Sort the packaging separately.;;;
 B1;word;Environment;Окружающая среда;loodusvara;natural resource;Mets on tähtis loodusvara. — The forest is an important natural resource.;Word parts: loodus (nature) + vara (property, wealth);;
 B1;word;Culture and leisure;Культура и досуг;rahvakultuur;folk culture;Eesti rahvakultuur on rikas. — Estonian folk culture is rich.;Word parts: rahvas (people, nation) + kultuur (culture);;
@@ -3929,7 +3929,7 @@ B1;word;Culture and leisure;Культура и досуг;vaataja;viewer, spect
 B1;word;Culture and leisure;Культура и досуг;osavõtt;participation;Osavõtt on tasuta. — Participation is free.;;;
 B1;word;Culture and leisure;Культура и досуг;piletihind;ticket price;Piletihind on kümme eurot. — The ticket price is ten euros.;Word parts: pilet (ticket) + hind (price);;
 B1;word;Society and services;Общество и услуги;teenindaja;service worker;Teenindaja oli väga viisakas. — The member of staff was very polite.;;;
-B1;word;Society and services;Общество и услуги;asjaajamine;administrative business;Asjaajamine käib internetis. — The paperwork is done online.;Word parts: asi (matter, thing) + ajamine (management, keeping);;
+B1;word;Society and services;Общество и услуги;asjaajamine;administrative business;Asjaajamine käib internetis. — The paperwork is done online.;Word parts: asi (matter, thing) + ajamine (handling, conducting);;
 B1;phrase;Society and services;Общество и услуги;avalik teenus;public service;Paljud avalikud teenused on internetis. — Many public services are online.;;;
 B1;word;Society and services;Общество и услуги;ametiasutus;public authority;Pöörduge ametiasutusse. — Contact the relevant authority.;Word parts: amet (authority, agency) + asutus (institution);;
 B1;word;Society and services;Общество и услуги;taotlemine;application process;Elamisloa taotlemine võtab aega. — Applying for a residence permit takes time.;;;
@@ -3982,7 +3982,7 @@ B2;word;Media and information;Медиа и информация;valeinfo;misinf
 B2;word;Media and information;Медиа и информация;eksitav;misleading;Pealkiri on eksitav. — The headline is misleading.;;;b2-news
 B2;word;Media and information;Медиа и информация;tõenduspõhine;evidence-based;See on tõenduspõhine meetod. — It's an evidence-based method.;Word parts: tõendus (proof, evidence) + põhine (based on);;b2-news
 B2;word;Media and information;Медиа и информация;sõnavabadus;freedom of speech;Sõnavabadus on demokraatia alus. — Freedom of speech is the foundation of democracy.;Word parts: sõna (word) + vabadus (freedom);;b2-news
-B2;word;Media and information;Медиа и информация;uudisvoog;news feed;Ma vaatan uudisvoogu hommikul. — I check my news feed in the morning.;Word parts: uudis ((piece of) news) + voog (flow);;b2-news
+B2;word;Media and information;Медиа и информация;uudisvoog;news feed;Ma vaatan uudisvoogu hommikul. — I check my news feed in the morning.;Word parts: uudis (news) + voog (flow);;b2-news
 B2;word;Media and information;Медиа и информация;levitama;to spread, to distribute;Ära levita kuulujutte. — Don't spread rumours.;;;b2-news
 B2;word;Media and information;Медиа и информация;kajastama;to cover, to report on;Ajalehed kajastasid sündmust. — The newspapers covered the event.;;;b2-news
 B2;word;Media and information;Медиа и информация;teabeallikas;source of information;Internet on peamine teabeallikas. — The internet is the main source of information.;Word parts: teave (information) + allikas (source);;b2-news
@@ -4003,7 +4003,7 @@ B2;word;Environment;Окружающая среда;kliimamuutus;climate change;
 B2;word;Environment;Окружающая среда;keskkonnamõju;environmental impact;Projekti keskkonnamõju hinnatakse. — The project's environmental impact is being assessed.;Word parts: keskkond (environment) + mõju (influence, effect);;b2-news
 B2;word;Environment;Окружающая среда;heide;emission;Autode heide saastab õhku. — Car emissions pollute the air.;;;b2-news
 B2;word;Environment;Окружающая среда;taaskasutama;to reuse;Me taaskasutame klaaspudeleid. — We reuse glass bottles.;Word parts: taas (again) + kasutama (to use);;b2-news
-B2;word;Technology and data;Технологии и данные;andmekaitse;data protection;Andmekaitse on seadusega reguleeritud. — Data protection is regulated by law.;Word parts: andmed (data) + kaitse (defence);;b2-news
+B2;word;Technology and data;Технологии и данные;andmekaitse;data protection;Andmekaitse on seadusega reguleeritud. — Data protection is regulated by law.;Word parts: andmed (data) + kaitse (protection);;b2-news
 B2;word;Technology and data;Технологии и данные;ligipääs;access;Ligipääs andmetele on piiratud. — Access to the data is restricted.;Word parts: ligi (close) + pääs (access);;b2-news
 B2;word;Technology and data;Технологии и данные;nutiseade;smart device;Kodus on palju nutiseadmeid. — There are lots of smart devices at home.;Word parts: nuti- (clever, wise) + seade (device);;b2-news
 B2;word;Technology and data;Технологии и данные;tõrge;malfunction, error;Süsteemis on tõrge. — There's a fault in the system.;;;b2-news
@@ -4013,11 +4013,11 @@ B2;word;Technology and data;Технологии и данные;andmebaas;datab
 B2;word;Technology and data;Технологии и данные;juurutama;to implement, to roll out;Firma juurutab uut süsteemi. — The company is rolling out a new system.;;;b2-news
 B2;word;Technology and data;Технологии и данные;seadistama;to configure;Seadista printer. — Set up the printer.;;;b2-news
 B2;word;Technology and data;Технологии и данные;andmeleke;data leak;Ettevõttes toimus andmeleke. — There was a data leak at the company.;Word parts: andmed (data) + leke (leak);;b2-news
-B2;word;Culture and education;Культура и образование;kultuuripärand;cultural heritage;Vanalinn on UNESCO kultuuripärand. — The Old Town is a UNESCO World Heritage Site.;Word parts: kultuur (culture) + pärand (heritage);;b2-culture
+B2;word;Culture and education;Культура и образование;kultuuripärand;cultural heritage;Tallinna vanalinn on UNESCO maailma kultuuripärandi nimekirjas. — Tallinn Old Town is on the UNESCO World Heritage List.;Word parts: kultuur (culture) + pärand (heritage);;b2-culture
 B2;word;Culture and education;Культура и образование;kunstiteos;work of art;Muuseumis on palju kunstiteoseid. — There are lots of works of art in the museum.;Word parts: kunst (art) + teos (work (of art));;b2-culture
 B2;word;Culture and education;Культура и образование;vaatajaskond;audience;Saatel on suur vaatajaskond. — The programme has a large audience.;;;b2-culture
 B2;word;Culture and education;Культура и образование;õppekava;curriculum;Kooli õppekava muutus. — The school curriculum has changed.;Word parts: õpe (study, instruction) + kava (plan);;b2-culture
-B2;word;Culture and education;Культура и образование;õppejõud;university lecturer;Õppejõud peab loengut. — The lecturer is giving a lecture.;Word parts: õpe (study, instruction) + jõud (strength, force);;b2-culture
+B2;word;Culture and education;Культура и образование;õppejõud;university lecturer;Õppejõud peab loengut. — The lecturer is giving a lecture.;"Word parts: õpe (study, instruction) + jõud (force; here staff, cf. tööjõud)";;b2-culture
 B2;word;Culture and education;Культура и образование;pädevus;competence;See ei ole minu pädevuses. — That's not within my competence.;;;b2-culture
 B2;word;Culture and education;Культура и образование;enesetäiendamine;self-development, further training;Enesetäiendamine on oluline. — Self-development is important.;Word parts: enese (oneself) + täiendamine (supplementing);;b2-culture
 B2;word;Culture and education;Культура и образование;erialavalik;choice of specialisation;Erialavalik on raske otsus. — Choosing a specialisation is a difficult decision.;Word parts: eriala (speciality, major) + valik (choice);;b2-culture
@@ -4026,7 +4026,7 @@ B2;word;Culture and education;Культура и образование;kultuur
 B2;word;Feelings and well-being;Чувства и благополучие;enesekindlus;self-confidence;Tal puudub enesekindlus. — She lacks self-confidence.;Word parts: enese (oneself) + kindlus (confidence, certainty);;b2-emotions
 B2;word;Feelings and well-being;Чувства и благополучие;läbipõlemine;burnout;Läbipõlemine on tänapäeval sage. — Burnout is common nowadays.;Word parts: läbi (through) + põlemine (burning);;b2-emotions
 B2;word;Feelings and well-being;Чувства и благополучие;rahulolematus;dissatisfaction;Töötajate rahulolematus kasvab. — Employee dissatisfaction is growing.;;;b2-emotions
-B2;word;Feelings and well-being;Чувства и благополучие;ebakindlus;uncertainty, insecurity;Tuleviku ees on ebakindlus. — The future feels uncertain.;Word parts: eba- (un-, non-) + kindlus (confidence, certainty);;b2-emotions
+B2;word;Feelings and well-being;Чувства и благополучие;ebakindlus;uncertainty, insecurity;Tuleviku suhtes on palju ebakindlust. — There is a lot of uncertainty about the future.;Word parts: eba- (un-, non-) + kindlus (confidence, certainty);;b2-emotions
 B2;word;Feelings and well-being;Чувства и благополучие;kõhklus;hesitation;Ta vastas ilma kõhkluseta. — He answered without hesitation.;;;b2-emotions
 B1;phrase;Work and career;Работа и карьера;töökohale kandideerima;to apply for a job;Ma kandideerin sellele töökohale. — I'm applying for this job.;;;
 B1;phrase;Work and career;Работа и карьера;töötasus kokku leppima;to agree on pay;Me leppisime töötasus kokku. — We agreed on the pay.;;;b1-particles
@@ -4071,7 +4071,7 @@ B1;phrase;Culture and leisure;Культура и досуг;näitusel käima;to
 B1;phrase;Communication and opinions;Общение и мнения;oma seisukohta selgitama;to explain one's position;Palun selgitage oma seisukohta. — Please explain your position.;;;
 B1;phrase;Communication and opinions;Общение и мнения;selgelt väljendama;to express clearly;Ta oskab oma mõtteid selgelt väljendada. — She can express her thoughts clearly.;;;a2-adverbs
 B1;phrase;Communication and opinions;Общение и мнения;kirjalikult vastama;to reply in writing;Palun vastake kirjalikult. — Please reply in writing.;;;
-B2;phrase;Argument and discussion;Аргументация и дискуссия;sellest hoolimata;nevertheless;;;;b1-cause-purpose
+B2;phrase;Argument and discussion;Аргументация и дискуссия;sellest hoolimata;nevertheless;;;;b2-concession
 B2;phrase;Argument and discussion;Аргументация и дискуссия;seda arvesse võttes;taking this into account;;;;b2-cohesion
 B2;phrase;Argument and discussion;Аргументация и дискуссия;võrreldes eelmise aastaga;compared with last year;;;;b2-cohesion
 B2;phrase;Argument and discussion;Аргументация и дискуссия;pikemas perspektiivis;in the longer term;;;;b2-cohesion
@@ -5548,7 +5548,7 @@ B2;phrase;Workplace communication;Рабочее общение;tagasisidet andm
 B2;phrase;Workplace communication;Рабочее общение;kokkuleppest kinni pidama;to keep to an agreement;;;;b2-work
 B2;sentence;Workplace communication;Рабочее общение;Mis seisus see ülesanne on?;How is that task coming along?;;;;b2-work
 B2;sentence;Workplace communication;Рабочее общение;Võtan selle enda peale.;I'll take care of it.;;;;b2-work
-B2;sentence;Workplace communication;Рабочее общение;Ma ei jõua seda tähtajaks valmis.;I won't be able to finish it by the deadline.;;;;b2-work
+B2;sentence;Workplace communication;Рабочее общение;Ma ei jõua seda tähtajaks valmis teha.;I won't be able to finish it by the deadline.;;;Ma ei jõua seda tähtajaks valmis.;b2-work
 B2;word;Finance and obligations;Финансы и обязательства;püsikorraldus;standing order;Seadistasin üüri maksmiseks püsikorralduse. — I set up a standing order to pay the rent.;;;b2-finance
 B2;word;Finance and obligations;Финансы и обязательства;otsekorraldus;direct debit;Varem maksin arveid otsekorraldusega. — I used to pay my bills by direct debit.;Also found in older banking materials.;;b2-finance
 B2;word;Finance and obligations;Финансы и обязательства;maksetähtaeg;payment deadline, due date;Arve maksetähtaeg on reedel. — The bill is due on Friday.;;;b2-finance
@@ -5797,171 +5797,171 @@ A2;word;Countries and languages;Страны и языки;Elevandiluurannik;Cô
 A2;word;Countries and languages;Страны и языки;Keenia;Kenya;Ta sõidab Keeniasse. — She is travelling to Kenya.;Proper noun. Where? Keenias. Where to? Keeniasse. Where from? Keeniast.;;a1-where
 A2;word;Countries and languages;Страны и языки;Jeemen;Yemen;Ta on pärit Jeemenist. — He is from Yemen.;Proper noun. Where? Jeemenis. Where to? Jeemenisse. Where from? Jeemenist.;;a1-where
 A2;word;Countries and languages;Страны и языки;Birma;Myanmar, Burma;Ta on pärit Birmast. — She is from Myanmar.;Proper noun. Where? Birmas. Where to? Birmasse. Where from? Birmast.;;a1-where
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend üks;21;Bussis on kakskümmend üks inimest. — There are 21 people on the bus.;Cardinal number: 21.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend üks;21;Mu poeg saab homme kakskümmend üks. — My son turns 21 tomorrow.;Cardinal number: 21.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kaks;22;Õues on kakskümmend kaks kraadi sooja. — It is 22 degrees above zero outside.;Cardinal number: 22.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kolm;23;Klassis on kakskümmend kolm tooli. — There are 23 chairs in the classroom.;Cardinal number: 23.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend neli;24;Raamat maksab kakskümmend neli eurot. — The book costs 24 euros.;Cardinal number: 24.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend viis;25;Pilet maksab kakskümmend viis eurot. — The ticket costs 25 euros.;Cardinal number: 25.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kuus;26;Mul on kakskümmend kuus eurot. — I have 26 euros.;Cardinal number: 26.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend seitse;27;Sõit kestab kakskümmend seitse minutit. — The journey takes 27 minutes.;Cardinal number: 27.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kaheksa;28;Koolis töötab kakskümmend kaheksa õpetajat. — There are 28 teachers working at the school.;Cardinal number: 28.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakskümmend üheksa;29;Mul on kakskümmend üheksa minutit aega. — I have 29 minutes.;Cardinal number: 29.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend üks;31;Meil on kolmkümmend üks fotot. — We have 31 photos.;Cardinal number: 31.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kaks;32;Kohvikus on kolmkümmend kaks kohta. — There are 32 seats in the café.;Cardinal number: 32.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kolm;33;Karbis on kolmkümmend kolm pliiatsit. — There are 33 pencils in the box.;Cardinal number: 33.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend neli;34;Pilet maksab kolmkümmend neli eurot. — The ticket costs 34 euros.;Cardinal number: 34.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend viis;35;Klassis on kolmkümmend viis tooli. — There are 35 chairs in the classroom.;Cardinal number: 35.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kuus;36;Raamat maksab kolmkümmend kuus eurot. — The book costs 36 euros.;Cardinal number: 36.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend seitse;37;Saalis on kolmkümmend seitse kohta. — There are 37 seats in the hall.;Cardinal number: 37.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kaheksa;38;Mul on kolmkümmend kaheksa minutit aega. — I have 38 minutes.;Cardinal number: 38.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend üheksa;39;Sõit kestab kolmkümmend üheksa minutit. — The journey takes 39 minutes.;Cardinal number: 39.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend üks;41;Koolis töötab nelikümmend üks õpetajat. — There are 41 teachers working at the school.;Cardinal number: 41.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kaks;42;Poes müüdi nelikümmend kaks piletit. — The shop sold 42 tickets.;Cardinal number: 42.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kolm;43;Pilet maksab nelikümmend kolm eurot. — The ticket costs 43 euros.;Cardinal number: 43.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend neli;44;Kohvikus on nelikümmend neli kohta. — There are 44 seats in the café.;Cardinal number: 44.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend viis;45;Karbis on nelikümmend viis pliiatsit. — There are 45 pencils in the box.;Cardinal number: 45.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kuus;46;Meil on nelikümmend kuus fotot. — We have 46 photos.;Cardinal number: 46.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend seitse;47;Mul on nelikümmend seitse minutit aega. — I have 47 minutes.;Cardinal number: 47.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kaheksa;48;Raamat maksab nelikümmend kaheksa eurot. — The book costs 48 euros.;Cardinal number: 48.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelikümmend üheksa;49;Saalis on nelikümmend üheksa kohta. — There are 49 seats in the hall.;Cardinal number: 49.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend üks;51;Mul on viiskümmend üks eurot. — I have 51 euros.;Cardinal number: 51.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kaks;52;Pilet maksab viiskümmend kaks eurot. — The ticket costs 52 euros.;Cardinal number: 52.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kolm;53;Koolis töötab viiskümmend kolm õpetajat. — There are 53 teachers working at the school.;Cardinal number: 53.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend neli;54;Poes müüdi viiskümmend neli piletit. — The shop sold 54 tickets.;Cardinal number: 54.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend viis;55;Meil on viiskümmend viis fotot. — We have 55 photos.;Cardinal number: 55.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kuus;56;Mul on viiskümmend kuus minutit aega. — I have 56 minutes.;Cardinal number: 56.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend seitse;57;Karbis on viiskümmend seitse pliiatsit. — There are 57 pencils in the box.;Cardinal number: 57.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kaheksa;58;Meil on viiskümmend kaheksa fotot. — We have 58 photos.;Cardinal number: 58.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viiskümmend üheksa;59;Klassis on viiskümmend üheksa tooli. — There are 59 chairs in the classroom.;Cardinal number: 59.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend üks;61;Pilet maksab kuuskümmend üks eurot. — The ticket costs 61 euros.;Cardinal number: 61.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kaks;62;Saalis on kuuskümmend kaks kohta. — There are 62 seats in the hall.;Cardinal number: 62.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kolm;63;Mul on kuuskümmend kolm eurot. — I have 63 euros.;Cardinal number: 63.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend neli;64;Sõit kestab kuuskümmend neli minutit. — The journey takes 64 minutes.;Cardinal number: 64.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend viis;65;Mul on kuuskümmend viis minutit aega. — I have 65 minutes.;Cardinal number: 65.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kuus;66;Poes müüdi kuuskümmend kuus piletit. — The shop sold 66 tickets.;Cardinal number: 66.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend seitse;67;Meil on kuuskümmend seitse fotot. — We have 67 photos.;Cardinal number: 67.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kaheksa;68;Kohvikus on kuuskümmend kaheksa kohta. — There are 68 seats in the café.;Cardinal number: 68.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend üheksa;69;Bussis on kuuskümmend üheksa inimest. — There are 69 people on the bus.;Cardinal number: 69.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend üks;71;Meil on seitsekümmend üks fotot. — We have 71 photos.;Cardinal number: 71.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kaks;72;Klassis on seitsekümmend kaks tooli. — There are 72 chairs in the classroom.;Cardinal number: 72.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kolm;73;Raamat maksab seitsekümmend kolm eurot. — The book costs 73 euros.;Cardinal number: 73.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend neli;74;Mul on seitsekümmend neli minutit aega. — I have 74 minutes.;Cardinal number: 74.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend viis;75;Mul on seitsekümmend viis eurot. — I have 75 euros.;Cardinal number: 75.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kuus;76;Sõit kestab seitsekümmend kuus minutit. — The journey takes 76 minutes.;Cardinal number: 76.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend seitse;77;Koolis töötab seitsekümmend seitse õpetajat. — There are 77 teachers working at the school.;Cardinal number: 77.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kaheksa;78;Bussis on seitsekümmend kaheksa inimest. — There are 78 people on the bus.;Cardinal number: 78.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend üheksa;79;Meil on seitsekümmend üheksa fotot. — We have 79 photos.;Cardinal number: 79.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend üks;81;Kohvikus on kaheksakümmend üks kohta. — There are 81 seats in the café.;Cardinal number: 81.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kaks;82;Karbis on kaheksakümmend kaks pliiatsit. — There are 82 pencils in the box.;Cardinal number: 82.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kolm;83;Mul on kaheksakümmend kolm minutit aega. — I have 83 minutes.;Cardinal number: 83.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend neli;84;Klassis on kaheksakümmend neli tooli. — There are 84 chairs in the classroom.;Cardinal number: 84.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend viis;85;Raamat maksab kaheksakümmend viis eurot. — The book costs 85 euros.;Cardinal number: 85.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kuus;86;Saalis on kaheksakümmend kuus kohta. — There are 86 seats in the hall.;Cardinal number: 86.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend seitse;87;Bussis on kaheksakümmend seitse inimest. — There are 87 people on the bus.;Cardinal number: 87.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kaheksa;88;Sõit kestab kaheksakümmend kaheksa minutit. — The journey takes 88 minutes.;Cardinal number: 88.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend üheksa;89;Koolis töötab kaheksakümmend üheksa õpetajat. — There are 89 teachers working at the school.;Cardinal number: 89.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend üks;91;Poes müüdi üheksakümmend üks piletit. — The shop sold 91 tickets.;Cardinal number: 91.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kaks;92;Mul on üheksakümmend kaks minutit aega. — I have 92 minutes.;Cardinal number: 92.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kolm;93;Kohvikus on üheksakümmend kolm kohta. — There are 93 seats in the café.;Cardinal number: 93.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend neli;94;Karbis on üheksakümmend neli pliiatsit. — There are 94 pencils in the box.;Cardinal number: 94.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend viis;95;Meil on üheksakümmend viis fotot. — We have 95 photos.;Cardinal number: 95.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kuus;96;Bussis on üheksakümmend kuus inimest. — There are 96 people on the bus.;Cardinal number: 96.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend seitse;97;Raamat maksab üheksakümmend seitse eurot. — The book costs 97 euros.;Cardinal number: 97.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kaheksa;98;Saalis on üheksakümmend kaheksa kohta. — There are 98 seats in the hall.;Cardinal number: 98.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend üheksa;99;Mul on üheksakümmend üheksa eurot. — I have 99 euros.;Cardinal number: 99.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada üks;101;Tee on sada üks meetrit pikk. — The road is 101 metres long.;Cardinal number: 101.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada viis;105;Raamatukogus on sada viis uut raamatut. — The library has 105 new books.;Cardinal number: 105.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada kümme;110;Parkla mahutab sada kümme autot. — The car park holds 110 cars.;Cardinal number: 110.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kolm;23;Buss number kakskümmend kolm sõidab kesklinna. — Bus number 23 goes to the city centre.;Cardinal number: 23.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend neli;24;Ööpäevas on kakskümmend neli tundi. — There are 24 hours in a day.;Cardinal number: 24.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend viis;25;Kontserdipilet maksab kakskümmend viis eurot. — A concert ticket costs 25 euros.;Cardinal number: 25.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kuus;26;Ma elan korteris number kakskümmend kuus. — I live in flat number 26.;Cardinal number: 26.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend seitse;27;Vend on kakskümmend seitse aastat vana. — My brother is 27 years old.;Cardinal number: 27.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend kaheksa;28;Veebruaris on tavaliselt kakskümmend kaheksa päeva. — February usually has 28 days.;Cardinal number: 28.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakskümmend üheksa;29;Need kingad maksavad kakskümmend üheksa eurot. — These shoes cost 29 euros.;Cardinal number: 29.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend üks;31;Jaanuaris on kolmkümmend üks päeva. — January has 31 days.;Cardinal number: 31.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kaks;32;Avage õpik leheküljelt kolmkümmend kaks. — Open your textbook at page 32.;Cardinal number: 32.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kolm;33;Ta sai eile kolmkümmend kolm. — He turned 33 yesterday.;Cardinal number: 33.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend neli;34;Meie klassis on kolmkümmend neli õpilast. — There are 34 pupils in our class.;Cardinal number: 34.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend viis;35;Sõit tööle võtab kolmkümmend viis minutit. — The journey to work takes 35 minutes.;Cardinal number: 35.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kuus;36;Karbis on kolmkümmend kuus värvipliiatsit. — There are 36 coloured pencils in the box.;Cardinal number: 36.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend seitse;37;Ma ootan bussi number kolmkümmend seitse. — I'm waiting for bus number 37.;Cardinal number: 37.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend kaheksa;38;Lapsel on palavik, kolmkümmend kaheksa kraadi. — The child has a temperature of 38 degrees.;Cardinal number: 38.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmkümmend üheksa;39;Meie maja number on kolmkümmend üheksa. — Our house number is 39.;Cardinal number: 39.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend üks;41;Ema on nelikümmend üks aastat vana. — Mum is 41 years old.;Cardinal number: 41.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kaks;42;Raamatus on nelikümmend kaks peatükki. — The book has 42 chapters.;Cardinal number: 42.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kolm;43;Arve on nelikümmend kolm eurot. — The bill is 43 euros.;Cardinal number: 43.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend neli;44;Isa jalanumber on nelikümmend neli. — Dad's shoe size is 44.;Cardinal number: 44.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend viis;45;Tund kestab nelikümmend viis minutit. — The lesson lasts 45 minutes.;Cardinal number: 45.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kuus;46;Saalis on nelikümmend kuus tooli. — There are 46 chairs in the hall.;Cardinal number: 46.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend seitse;47;Rongis on nelikümmend seitse reisijat. — There are 47 passengers on the train.;Cardinal number: 47.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend kaheksa;48;Ma ootasin arsti juures nelikümmend kaheksa minutit. — I waited 48 minutes at the doctor's.;Cardinal number: 48.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelikümmend üheksa;49;Jope maksab allahindlusega nelikümmend üheksa eurot. — With the discount, the jacket costs 49 euros.;Cardinal number: 49.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend üks;51;Isa sai täna viiskümmend üks. — Dad turned 51 today.;Cardinal number: 51.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kaks;52;Aastas on viiskümmend kaks nädalat. — There are 52 weeks in a year.;Cardinal number: 52.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kolm;53;Kontoris töötab viiskümmend kolm inimest. — 53 people work in the office.;Cardinal number: 53.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend neli;54;Ostud maksid kokku viiskümmend neli eurot. — The shopping came to 54 euros in total.;Cardinal number: 54.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend viis;55;Korter on viiskümmend viis ruutmeetrit. — The flat is 55 square metres.;Cardinal number: 55.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kuus;56;Vanaisa elas selles majas viiskümmend kuus aastat. — Grandpa lived in this house for 56 years.;Cardinal number: 56.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend seitse;57;Bussipeatuseni on viiskümmend seitse sammu. — It's 57 steps to the bus stop.;Cardinal number: 57.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend kaheksa;58;Ta kaalub viiskümmend kaheksa kilo. — She weighs 58 kilos.;Cardinal number: 58.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viiskümmend üheksa;59;Telefoni aku on viiskümmend üheksa protsenti täis. — The phone battery is 59 per cent full.;Cardinal number: 59.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend üks;61;Vanaema on kuuskümmend üks aastat vana. — Grandma is 61 years old.;Cardinal number: 61.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kaks;62;Lennuk väljub väravast kuuskümmend kaks. — The plane departs from gate 62.;Cardinal number: 62.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kolm;63;Raamatukogus on kuuskümmend kolm uut raamatut. — The library has 63 new books.;Cardinal number: 63.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend neli;64;Malelaual on kuuskümmend neli ruutu. — A chessboard has 64 squares.;Cardinal number: 64.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend viis;65;Kontserdil oli kuuskümmend viis inimest. — There were 65 people at the concert.;Cardinal number: 65.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kuus;66;Hotellis on kuuskümmend kuus tuba. — The hotel has 66 rooms.;Cardinal number: 66.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend seitse;67;Ma lugesin täna kuuskümmend seitse lehekülge. — I read 67 pages today.;Cardinal number: 67.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend kaheksa;68;Pargis on kuuskümmend kaheksa pinki. — There are 68 benches in the park.;Cardinal number: 68.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kuuskümmend üheksa;69;Täna sain kuuskümmend üheksa e-kirja. — I got 69 emails today.;Cardinal number: 69.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend üks;71;Raamatus on seitsekümmend üks pilti. — The book has 71 pictures.;Cardinal number: 71.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kaks;72;Pakis on seitsekümmend kaks küpsist. — There are 72 biscuits in the packet.;Cardinal number: 72.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kolm;73;Vanaisa sai seitsekümmend kolm. — Grandpa turned 73.;Cardinal number: 73.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend neli;74;Kassas maksin seitsekümmend neli eurot. — I paid 74 euros at the checkout.;Cardinal number: 74.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend viis;75;Täna sõitsin rattaga seitsekümmend viis kilomeetrit. — I cycled 75 kilometres today.;Cardinal number: 75.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kuus;76;Korter number seitsekümmend kuus on üheksandal korrusel. — Flat number 76 is on the ninth floor.;Cardinal number: 76.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend seitse;77;Ajalehes oli seitsekümmend seitse kuulutust. — There were 77 adverts in the newspaper.;Cardinal number: 77.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend kaheksa;78;Kooris laulab seitsekümmend kaheksa inimest. — 78 people sing in the choir.;Cardinal number: 78.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsekümmend üheksa;79;Kampsun maksab seitsekümmend üheksa eurot. — The jumper costs 79 euros.;Cardinal number: 79.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend üks;81;Vanaema sai sel aastal kaheksakümmend üks. — Grandma turned 81 this year.;Cardinal number: 81.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kaks;82;Tänaval on kaheksakümmend kaks maja. — There are 82 houses on the street.;Cardinal number: 82.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kolm;83;Lennukis on kaheksakümmend kolm reisijat. — There are 83 passengers on the plane.;Cardinal number: 83.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend neli;84;Mul on telefonis kaheksakümmend neli kontakti. — I have 84 contacts on my phone.;Cardinal number: 84.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend viis;85;Vanaisa on kaheksakümmend viis aastat vana. — Grandpa is 85 years old.;Cardinal number: 85.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kuus;86;Selles külas elab kaheksakümmend kuus inimest. — 86 people live in this village.;Cardinal number: 86.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend seitse;87;Remont kestis kaheksakümmend seitse päeva. — The renovation lasted 87 days.;Cardinal number: 87.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend kaheksa;88;Klaveril on kaheksakümmend kaheksa klahvi. — A piano has 88 keys.;Cardinal number: 88.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kaheksakümmend üheksa;89;Uus mikrolaineahi maksab kaheksakümmend üheksa eurot. — The new microwave costs 89 euros.;Cardinal number: 89.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend üks;91;Vanavanaema sai üheksakümmend üks. — My great-grandmother turned 91.;Cardinal number: 91.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kaks;92;Konverentsil osales üheksakümmend kaks inimest. — 92 people took part in the conference.;Cardinal number: 92.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kolm;93;Raamatus on üheksakümmend kolm lehekülge. — The book has 93 pages.;Cardinal number: 93.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend neli;94;Täna käis jõusaalis üheksakümmend neli inimest. — 94 people went to the gym today.;Cardinal number: 94.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend viis;95;Ta sai eksamil üheksakümmend viis punkti. — He got 95 points in the exam.;Cardinal number: 95.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kuus;96;Koosolekule tuli üheksakümmend kuus inimest. — 96 people came to the meeting.;Cardinal number: 96.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend seitse;97;Selles toas on üheksakümmend seitse raamatut. — There are 97 books in this room.;Cardinal number: 97.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend kaheksa;98;Õpilane sai testis üheksakümmend kaheksa protsenti. — The pupil scored 98 per cent in the test.;Cardinal number: 98.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;üheksakümmend üheksa;99;Kohv maksab üheksakümmend üheksa senti. — The coffee costs 99 cents.;Cardinal number: 99.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada üks;101;Riigikogus on sada üks liiget. — The Riigikogu has 101 members.;Cardinal number: 101.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada viis;105;Hotellis on sada viis tuba. — The hotel has 105 rooms.;Cardinal number: 105.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada kümme;110;Selles koolis õpib sada kümme last. — 110 children go to this school.;Cardinal number: 110.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;sada viisteist;115;Ratas maksab sada viisteist eurot. — The bicycle costs 115 euros.;Cardinal number: 115.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada kakskümmend;120;Raamatus on sada kakskümmend lehekülge. — The book has 120 pages.;Cardinal number: 120.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada kakskümmend;120;Laps on sada kakskümmend sentimeetrit pikk. — The child is 120 centimetres tall.;Cardinal number: 120.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;sada kakskümmend viis;125;Saali mahub sada kakskümmend viis inimest. — The hall holds 125 people.;Cardinal number: 125.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada viiskümmend;150;Koolis õpib sada viiskümmend õpilast. — There are 150 pupils at the school.;Cardinal number: 150.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;sada seitsekümmend viis;175;Raamatukogus on sada seitsekümmend viis uut raamatut. — The library has 175 new books.;Cardinal number: 175.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada viiskümmend;150;Pakk kaalub sada viiskümmend grammi. — The packet weighs 150 grams.;Cardinal number: 150.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;sada seitsekümmend viis;175;Minu pikkus on sada seitsekümmend viis sentimeetrit. — I'm 175 centimetres tall.;Cardinal number: 175.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;sada üheksakümmend üheksa;199;Kott maksab sada üheksakümmend üheksa eurot. — The bag costs 199 euros.;Cardinal number: 199.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakssada üks;201;Ratas maksab kakssada üks eurot. — The bicycle costs 201 euros.;Cardinal number: 201.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakssada üks;201;Meie toa number on kakssada üks. — Our room number is 201.;Cardinal number: 201.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kakssada kaks;202;Vahemaa on kakssada kaks meetrit. — The distance is 202 metres.;Cardinal number: 202.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakssada kümme;210;Saali mahub kakssada kümme inimest. — The hall holds 210 people.;Cardinal number: 210.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakssada kakskümmend viis;225;Raamatus on kakssada kakskümmend viis lehekülge. — The book has 225 pages.;Cardinal number: 225.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakssada viiskümmend;250;Raamatukogus on kakssada viiskümmend uut raamatut. — The library has 250 new books.;Cardinal number: 250.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakssada kümme;210;Reisil sõitsime kakssada kümme kilomeetrit. — We drove 210 kilometres on the trip.;Cardinal number: 210.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakssada kakskümmend viis;225;Purgis on kakssada kakskümmend viis grammi kohvi. — The jar contains 225 grams of coffee.;Cardinal number: 225.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakssada viiskümmend;250;Retsepti jaoks on vaja kakssada viiskümmend grammi jahu. — The recipe needs 250 grams of flour.;Cardinal number: 250.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kakssada seitsekümmend viis;275;Parkla mahutab kakssada seitsekümmend viis autot. — The car park holds 275 cars.;Cardinal number: 275.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kakssada üheksakümmend üheksa;299;Ratas maksab kakssada üheksakümmend üheksa eurot. — The bicycle costs 299 euros.;Cardinal number: 299.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kakssada üheksakümmend üheksa;299;Telefon maksab kakssada üheksakümmend üheksa eurot. — The phone costs 299 euros.;Cardinal number: 299.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kolmsada viis;305;Tee on kolmsada viis meetrit pikk. — The road is 305 metres long.;Cardinal number: 305.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmsada kakskümmend;320;Saali mahub kolmsada kakskümmend inimest. — The hall holds 320 people.;Cardinal number: 320.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmsada kakskümmend;320;Üür on kolmsada kakskümmend eurot kuus. — The rent is 320 euros a month.;Cardinal number: 320.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kolmsada kolmkümmend kolm;333;Koolis õpib kolmsada kolmkümmend kolm õpilast. — There are 333 pupils at the school.;Cardinal number: 333.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;kolmsada viiskümmend;350;Raamatukogus on kolmsada viiskümmend uut raamatut. — The library has 350 new books.;Cardinal number: 350.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;kolmsada viiskümmend;350;Küpsisepakk kaalub kolmsada viiskümmend grammi. — The packet of biscuits weighs 350 grams.;Cardinal number: 350.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;nelisada kümme;410;Tee on nelisada kümme meetrit pikk. — The road is 410 metres long.;Cardinal number: 410.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelisada viiskümmend;450;Ratas maksab nelisada viiskümmend eurot. — The bicycle costs 450 euros.;Cardinal number: 450.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;nelisada üheksakümmend üheksa;499;Vahemaa on nelisada üheksakümmend üheksa meetrit. — The distance is 499 metres.;Cardinal number: 499.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelisada viiskümmend;450;Uus külmkapp maksab nelisada viiskümmend eurot. — The new fridge costs 450 euros.;Cardinal number: 450.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;nelisada üheksakümmend üheksa;499;Sülearvuti maksab nelisada üheksakümmend üheksa eurot. — The laptop costs 499 euros.;Cardinal number: 499.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;viissada üks;501;Saali mahub viissada üks inimest. — The hall holds 501 people.;Cardinal number: 501.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viissada kakskümmend viis;525;Raamatus on viissada kakskümmend viis lehekülge. — The book has 525 pages.;Cardinal number: 525.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;viissada viiskümmend;550;Raamatukogus on viissada viiskümmend uut raamatut. — The library has 550 new books.;Cardinal number: 550.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viissada kakskümmend viis;525;Toidule kulub kuus umbes viissada kakskümmend viis eurot. — We spend about 525 euros a month on food.;Cardinal number: 525.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;viissada viiskümmend;550;Ühel päeval külastas muuseumi viissada viiskümmend inimest. — 550 people visited the museum in one day.;Cardinal number: 550.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;viissada seitsekümmend viis;575;Parkla mahutab viissada seitsekümmend viis autot. — The car park holds 575 cars.;Cardinal number: 575.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kuussada viiskümmend;650;Ratas maksab kuussada viiskümmend eurot. — The bicycle costs 650 euros.;Cardinal number: 650.;;a1-numbers
-A1;phrase;Numbers and quantity;Числа и количество;seitsesada viiskümmend;750;Raamatus on seitsesada viiskümmend lehekülge. — The book has 750 pages.;Cardinal number: 750.;;a1-numbers
+A1;phrase;Numbers and quantity;Числа и количество;seitsesada viiskümmend;750;Veinipudelis on seitsesada viiskümmend milliliitrit. — A wine bottle holds 750 millilitres.;Cardinal number: 750.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kaheksasada viis;805;Saali mahub kaheksasada viis inimest. — The hall holds 805 people.;Cardinal number: 805.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;kaheksasada viiskümmend;850;Koolis õpib kaheksasada viiskümmend õpilast. — There are 850 pupils at the school.;Cardinal number: 850.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;üheksasada viiskümmend;950;Raamatukogus on üheksasada viiskümmend uut raamatut. — The library has 950 new books.;Cardinal number: 950.;;a1-numbers
 A1;phrase;Numbers and quantity;Числа и количество;üheksasada üheksakümmend üheksa;999;Raamatus on üheksasada üheksakümmend üheksa lehekülge. — The book has 999 pages.;Cardinal number: 999.;;a1-numbers
 A2;phrase;Numbers and quantity;Числа и количество;tuhat üks;1,001;Auto maksab tuhat üks eurot. — The car costs 1,001 euros.;Cardinal number: 1,001.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat viis;1,005;Näitusel käis tuhat viis inimest. — The exhibition attracted 1 005 visitors.;Cardinal number: 1,005.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat kümme;1,010;Projekt maksab tuhat kümme eurot. — The project costs 1 010 euros.;Cardinal number: 1,010.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat viisteist;1,015;Kontserdi tulu oli tuhat viisteist eurot. — The concert revenue was 1 015 euros.;Cardinal number: 1,015.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat viis;1,005;Näitusel käis tuhat viis inimest. — The exhibition attracted 1,005 visitors.;Cardinal number: 1,005.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat kümme;1,010;Projekt maksab tuhat kümme eurot. — The project costs 1,010 euros.;Cardinal number: 1,010.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat viisteist;1,015;Kontserdi tulu oli tuhat viisteist eurot. — The concert revenue was 1,015 euros.;Cardinal number: 1,015.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;tuhat kakskümmend;1,020;Remont maksab tuhat kakskümmend eurot. — The repairs cost 1,020 euros.;Cardinal number: 1,020.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat viiskümmend;1,050;Kampaania kogus tuhat viiskümmend eurot. — The campaign raised 1 050 euros.;Cardinal number: 1,050.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat sada;1,100;Muuseumi külastas tuhat sada inimest. — The museum had 1 100 visitors.;Cardinal number: 1,100.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat sada kümme;1,110;Ettevõtte käive oli tuhat sada kümme eurot. — The company’s turnover was 1 110 euros.;Cardinal number: 1,110.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat viiskümmend;1,050;Kampaania kogus tuhat viiskümmend eurot. — The campaign raised 1,050 euros.;Cardinal number: 1,050.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat sada;1,100;Muuseumi külastas tuhat sada inimest. — The museum had 1,100 visitors.;Cardinal number: 1,100.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat sada kümme;1,110;Ettevõtte käive oli tuhat sada kümme eurot. — The company’s turnover was 1,110 euros.;Cardinal number: 1,110.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;tuhat kakssada;1,200;Remont maksab tuhat kakssada eurot. — The repairs cost 1,200 euros.;Cardinal number: 1,200.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat kakssada kolmkümmend neli;1,234;Näitusel käis tuhat kakssada kolmkümmend neli inimest. — The exhibition attracted 1 234 visitors.;Cardinal number: 1,234.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat kakssada viiskümmend;1,250;Projekt maksab tuhat kakssada viiskümmend eurot. — The project costs 1 250 euros.;Cardinal number: 1,250.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat viissada;1,500;Kontserdi tulu oli tuhat viissada eurot. — The concert revenue was 1 500 euros.;Cardinal number: 1,500.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat kakssada kolmkümmend neli;1,234;Näitusel käis tuhat kakssada kolmkümmend neli inimest. — The exhibition attracted 1,234 visitors.;Cardinal number: 1,234.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat kakssada viiskümmend;1,250;Projekt maksab tuhat kakssada viiskümmend eurot. — The project costs 1,250 euros.;Cardinal number: 1,250.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat viissada;1,500;Kontserdi tulu oli tuhat viissada eurot. — The concert revenue was 1,500 euros.;Cardinal number: 1,500.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;tuhat seitsesada viiskümmend;1,750;Kontserdil oli tuhat seitsesada viiskümmend inimest. — There were 1,750 people at the concert.;Cardinal number: 1,750.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;tuhat üheksasada üheksakümmend üheksa;1,999;Kampaania kogus tuhat üheksasada üheksakümmend üheksa eurot. — The campaign raised 1 999 euros.;Cardinal number: 1,999.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat;2,000;Muuseumi külastas kaks tuhat inimest. — The museum had 2 000 visitors.;Cardinal number: 2,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat üks;2,001;Ettevõtte käive oli kaks tuhat üks eurot. — The company’s turnover was 2 001 euros.;Cardinal number: 2,001.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;tuhat üheksasada üheksakümmend üheksa;1,999;Kampaania kogus tuhat üheksasada üheksakümmend üheksa eurot. — The campaign raised 1,999 euros.;Cardinal number: 1,999.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat;2,000;Muuseumi külastas kaks tuhat inimest. — The museum had 2,000 visitors.;Cardinal number: 2,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat üks;2,001;Ettevõtte käive oli kaks tuhat üks eurot. — The company’s turnover was 2,001 euros.;Cardinal number: 2,001.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat kakskümmend neli;2,024;Auto maksab kaks tuhat kakskümmend neli eurot. — The car costs 2,024 euros.;Cardinal number: 2,024.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat kakskümmend kuus;2,026;Näitusel käis kaks tuhat kakskümmend kuus inimest. — The exhibition attracted 2 026 visitors.;Cardinal number: 2,026.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat viissada;2,500;Projekt maksab kaks tuhat viissada eurot. — The project costs 2 500 euros.;Cardinal number: 2,500.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kolm tuhat;3,000;Kontserdi tulu oli kolm tuhat eurot. — The concert revenue was 3 000 euros.;Cardinal number: 3,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat kakskümmend kuus;2,026;Näitusel käis kaks tuhat kakskümmend kuus inimest. — The exhibition attracted 2,026 visitors.;Cardinal number: 2,026.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaks tuhat viissada;2,500;Projekt maksab kaks tuhat viissada eurot. — The project costs 2,500 euros.;Cardinal number: 2,500.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kolm tuhat;3,000;Kontserdi tulu oli kolm tuhat eurot. — The concert revenue was 3,000 euros.;Cardinal number: 3,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kolm tuhat nelisada viiskümmend kuus;3,456;Remont maksab kolm tuhat nelisada viiskümmend kuus eurot. — The repairs cost 3,456 euros.;Cardinal number: 3,456.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;neli tuhat;4,000;Kampaania kogus neli tuhat eurot. — The campaign raised 4 000 euros.;Cardinal number: 4,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;neli tuhat viissada;4,500;Muuseumi külastas neli tuhat viissada inimest. — The museum had 4 500 visitors.;Cardinal number: 4,500.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;viis tuhat;5,000;Ettevõtte käive oli viis tuhat eurot. — The company’s turnover was 5 000 euros.;Cardinal number: 5,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;neli tuhat;4,000;Kampaania kogus neli tuhat eurot. — The campaign raised 4,000 euros.;Cardinal number: 4,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;neli tuhat viissada;4,500;Muuseumi külastas neli tuhat viissada inimest. — The museum had 4,500 visitors.;Cardinal number: 4,500.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;viis tuhat;5,000;Ettevõtte käive oli viis tuhat eurot. — The company’s turnover was 5,000 euros.;Cardinal number: 5,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;viis tuhat viissada viiskümmend viis;5,555;Auto maksab viis tuhat viissada viiskümmend viis eurot. — The car costs 5,555 euros.;Cardinal number: 5,555.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kuus tuhat;6,000;Näitusel käis kuus tuhat inimest. — The exhibition attracted 6 000 visitors.;Cardinal number: 6,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kuus tuhat seitsesada nelikümmend kaks;6,742;Projekt maksab kuus tuhat seitsesada nelikümmend kaks eurot. — The project costs 6 742 euros.;Cardinal number: 6,742.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;seitse tuhat;7,000;Kontserdi tulu oli seitse tuhat eurot. — The concert revenue was 7 000 euros.;Cardinal number: 7,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kuus tuhat;6,000;Näitusel käis kuus tuhat inimest. — The exhibition attracted 6,000 visitors.;Cardinal number: 6,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kuus tuhat seitsesada nelikümmend kaks;6,742;Projekt maksab kuus tuhat seitsesada nelikümmend kaks eurot. — The project costs 6,742 euros.;Cardinal number: 6,742.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;seitse tuhat;7,000;Kontserdi tulu oli seitse tuhat eurot. — The concert revenue was 7,000 euros.;Cardinal number: 7,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;seitse tuhat viissada;7,500;Remont maksab seitse tuhat viissada eurot. — The repairs cost 7,500 euros.;Cardinal number: 7,500.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaheksa tuhat;8,000;Kampaania kogus kaheksa tuhat eurot. — The campaign raised 8 000 euros.;Cardinal number: 8,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üheksa tuhat;9,000;Muuseumi külastas üheksa tuhat inimest. — The museum had 9 000 visitors.;Cardinal number: 9,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üheksa tuhat üheksasada üheksakümmend üheksa;9,999;Ettevõtte käive oli üheksa tuhat üheksasada üheksakümmend üheksa eurot. — The company’s turnover was 9 999 euros.;Cardinal number: 9,999.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaheksa tuhat;8,000;Kampaania kogus kaheksa tuhat eurot. — The campaign raised 8,000 euros.;Cardinal number: 8,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üheksa tuhat;9,000;Muuseumi külastas üheksa tuhat inimest. — The museum had 9,000 visitors.;Cardinal number: 9,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üheksa tuhat üheksasada üheksakümmend üheksa;9,999;Ettevõtte käive oli üheksa tuhat üheksasada üheksakümmend üheksa eurot. — The company’s turnover was 9,999 euros.;Cardinal number: 9,999.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kümme tuhat;10,000;Linnas elab kümme tuhat inimest. — The city has 10,000 residents.;Cardinal number: 10,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kümme tuhat üks;10,001;Näitusel käis kümme tuhat üks inimest. — The exhibition attracted 10 001 visitors.;Cardinal number: 10,001.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kümme tuhat viissada;10,500;Projekt maksab kümme tuhat viissada eurot. — The project costs 10 500 euros.;Cardinal number: 10,500.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üksteist tuhat;11,000;Kontserdi tulu oli üksteist tuhat eurot. — The concert revenue was 11 000 euros.;Cardinal number: 11,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kümme tuhat üks;10,001;Näitusel käis kümme tuhat üks inimest. — The exhibition attracted 10,001 visitors.;Cardinal number: 10,001.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kümme tuhat viissada;10,500;Projekt maksab kümme tuhat viissada eurot. — The project costs 10,500 euros.;Cardinal number: 10,500.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üksteist tuhat;11,000;Kontserdi tulu oli üksteist tuhat eurot. — The concert revenue was 11,000 euros.;Cardinal number: 11,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kaksteist tuhat;12,000;Korter maksab kaksteist tuhat eurot. — The flat costs 12,000 euros.;Cardinal number: 12,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaksteist tuhat kolmsada nelikümmend viis;12,345;Kampaania kogus kaksteist tuhat kolmsada nelikümmend viis eurot. — The campaign raised 12 345 euros.;Cardinal number: 12,345.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;viisteist tuhat;15,000;Muuseumi külastas viisteist tuhat inimest. — The museum had 15 000 visitors.;Cardinal number: 15,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üheksateist tuhat;19,000;Ettevõtte käive oli üheksateist tuhat eurot. — The company’s turnover was 19 000 euros.;Cardinal number: 19,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaksteist tuhat kolmsada nelikümmend viis;12,345;Kampaania kogus kaksteist tuhat kolmsada nelikümmend viis eurot. — The campaign raised 12,345 euros.;Cardinal number: 12,345.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;viisteist tuhat;15,000;Muuseumi külastas viisteist tuhat inimest. — The museum had 15,000 visitors.;Cardinal number: 15,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üheksateist tuhat;19,000;Ettevõtte käive oli üheksateist tuhat eurot. — The company’s turnover was 19,000 euros.;Cardinal number: 19,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kakskümmend tuhat;20,000;Eelarve on kakskümmend tuhat eurot. — The budget is 20,000 euros.;Cardinal number: 20,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kakskümmend tuhat kakssada viiskümmend;20,250;Näitusel käis kakskümmend tuhat kakssada viiskümmend inimest. — The exhibition attracted 20 250 visitors.;Cardinal number: 20,250.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kakskümmend viis tuhat;25,000;Projekt maksab kakskümmend viis tuhat eurot. — The project costs 25 000 euros.;Cardinal number: 25,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kolmkümmend tuhat;30,000;Kontserdi tulu oli kolmkümmend tuhat eurot. — The concert revenue was 30 000 euros.;Cardinal number: 30,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kakskümmend tuhat kakssada viiskümmend;20,250;Näitusel käis kakskümmend tuhat kakssada viiskümmend inimest. — The exhibition attracted 20,250 visitors.;Cardinal number: 20,250.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kakskümmend viis tuhat;25,000;Projekt maksab kakskümmend viis tuhat eurot. — The project costs 25,000 euros.;Cardinal number: 25,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kolmkümmend tuhat;30,000;Kontserdi tulu oli kolmkümmend tuhat eurot. — The concert revenue was 30,000 euros.;Cardinal number: 30,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;nelikümmend tuhat;40,000;Linnas elab nelikümmend tuhat inimest. — The city has 40,000 residents.;Cardinal number: 40,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;viiskümmend tuhat;50,000;Kampaania kogus viiskümmend tuhat eurot. — The campaign raised 50 000 euros.;Cardinal number: 50,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;viiskümmend viis tuhat;55,000;Muuseumi külastas viiskümmend viis tuhat inimest. — The museum had 55 000 visitors.;Cardinal number: 55,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kuuskümmend tuhat;60,000;Ettevõtte käive oli kuuskümmend tuhat eurot. — The company’s turnover was 60 000 euros.;Cardinal number: 60,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;viiskümmend tuhat;50,000;Kampaania kogus viiskümmend tuhat eurot. — The campaign raised 50,000 euros.;Cardinal number: 50,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;viiskümmend viis tuhat;55,000;Muuseumi külastas viiskümmend viis tuhat inimest. — The museum had 55,000 visitors.;Cardinal number: 55,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kuuskümmend tuhat;60,000;Ettevõtte käive oli kuuskümmend tuhat eurot. — The company’s turnover was 60,000 euros.;Cardinal number: 60,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kuuskümmend seitse tuhat nelisada kakskümmend;67,420;Linnas elab kuuskümmend seitse tuhat nelisada kakskümmend inimest. — The city has 67,420 residents.;Cardinal number: 67,420.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;seitsekümmend tuhat;70,000;Näitusel käis seitsekümmend tuhat inimest. — The exhibition attracted 70 000 visitors.;Cardinal number: 70,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaheksakümmend tuhat;80,000;Projekt maksab kaheksakümmend tuhat eurot. — The project costs 80 000 euros.;Cardinal number: 80,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üheksakümmend tuhat;90,000;Kontserdi tulu oli üheksakümmend tuhat eurot. — The concert revenue was 90 000 euros.;Cardinal number: 90,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;seitsekümmend tuhat;70,000;Näitusel käis seitsekümmend tuhat inimest. — The exhibition attracted 70,000 visitors.;Cardinal number: 70,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaheksakümmend tuhat;80,000;Projekt maksab kaheksakümmend tuhat eurot. — The project costs 80,000 euros.;Cardinal number: 80,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üheksakümmend tuhat;90,000;Kontserdi tulu oli üheksakümmend tuhat eurot. — The concert revenue was 90,000 euros.;Cardinal number: 90,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa;99,999;Korter maksab üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa eurot. — The flat costs 99,999 euros.;Cardinal number: 99,999.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;sada tuhat;100,000;Kampaania kogus sada tuhat eurot. — The campaign raised 100 000 euros.;Cardinal number: 100,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;sada kakskümmend viis tuhat;125,000;Muuseumi külastas sada kakskümmend viis tuhat inimest. — The museum had 125 000 visitors.;Cardinal number: 125,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kakssada viiskümmend tuhat;250,000;Ettevõtte käive oli kakssada viiskümmend tuhat eurot. — The company’s turnover was 250 000 euros.;Cardinal number: 250,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;sada tuhat;100,000;Kampaania kogus sada tuhat eurot. — The campaign raised 100,000 euros.;Cardinal number: 100,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;sada kakskümmend viis tuhat;125,000;Muuseumi külastas sada kakskümmend viis tuhat inimest. — The museum had 125,000 visitors.;Cardinal number: 125,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kakssada viiskümmend tuhat;250,000;Ettevõtte käive oli kakssada viiskümmend tuhat eurot. — The company’s turnover was 250,000 euros.;Cardinal number: 250,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;viissada tuhat;500,000;Eelarve on viissada tuhat eurot. — The budget is 500,000 euros.;Cardinal number: 500,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;seitsesada viiskümmend tuhat;750,000;Näitusel käis seitsesada viiskümmend tuhat inimest. — The exhibition attracted 750 000 visitors.;Cardinal number: 750,000.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;üheksasada üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa;999,999;Projekt maksab üheksasada üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa eurot. — The project costs 999 999 euros.;Cardinal number: 999,999.;;a2-large-numbers-fractions
-A2;phrase;Numbers and quantity;Числа и количество;kaks miljonit;2,000,000;Kontserdi tulu oli kaks miljonit eurot. — The concert revenue was 2 000 000 euros.;Cardinal number: 2,000,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;seitsesada viiskümmend tuhat;750,000;Näitusel käis seitsesada viiskümmend tuhat inimest. — The exhibition attracted 750,000 visitors.;Cardinal number: 750,000.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;üheksasada üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa;999,999;Projekt maksab üheksasada üheksakümmend üheksa tuhat üheksasada üheksakümmend üheksa eurot. — The project costs 999,999 euros.;Cardinal number: 999,999.;;a2-large-numbers-fractions
+A2;phrase;Numbers and quantity;Числа и количество;kaks miljonit;2,000,000;Kontserdi tulu oli kaks miljonit eurot. — The concert revenue was 2,000,000 euros.;Cardinal number: 2,000,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;kaks miljonit viissada tuhat;2,500,000;Linnas elab kaks miljonit viissada tuhat inimest. — The city has 2,500,000 residents.;Cardinal number: 2,500,000.;;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;null koma üks;0.1;Viga on null koma üks millimeetrit. — The error is 0.1 millimetres.;"Decimal number. Digits after the decimal comma can be read individually; keep any zeros.";;a2-large-numbers-fractions
 A2;phrase;Numbers and quantity;Числа и количество;null koma kaks;0.2;Lisasin null koma kaks liitrit piima. — I added 0.2 litres of milk.;"Decimal number. Digits after the decimal comma can be read individually; keep any zeros.";;a2-large-numbers-fractions
